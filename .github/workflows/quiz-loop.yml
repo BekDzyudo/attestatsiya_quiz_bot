@@ -34,7 +34,8 @@ jobs:
           while [ $(date +%s) -lt $end ]; do
             git pull -q --rebase || true
             python3 send.py || echo "yuborishda xato"
-            git add state.json
+            python3 stats.py > /dev/null || echo "statistikada xato"
+            git add state.json stats
             if ! git diff --cached --quiet; then
               git commit -q -m "quiz yuborildi"
               for i in 1 2 3; do git pull -q --rebase && git push -q && break; sleep 5; done
