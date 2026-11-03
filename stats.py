@@ -55,6 +55,24 @@ for key, opt in db["answers"].items():
     r = rows.setdefault(uid, [0, 0])
     r[0 if opt == poll["correct"] else 1] += 1
 
+# Guruh a'zolari: Bot API barcha a'zolar ro'yxatini bermaydi, faqat soni va adminlarni
+CHAT = os.environ.get("TELEGRAM_CHAT_ID", "-1003982072134")
+members = None
+silent = []
+try:
+    members = api("getChatMemberCount", chat_id=CHAT)["result"]
+    for m in api("getChatAdministrators", chat_id=CHAT)["result"]:
+        u = m["user"]
+        if u.get("is_bot"):
+            continue
+        uid = str(u["id"])
+        db["users"].setdefault(uid, {"name": " ".join(x for x in [u.get("first_name"), u.get("last_name")] if x),
+                                     "username": u.get("username", "")})
+        if uid not in rows:
+            silent.append(uid)
+except Exception as e:
+    print("a'zolarni olishda xato:", e)
+
 table = sorted(rows.items(), key=lambda kv: (-kv[1][0], kv[1][1]))
 now = datetime.datetime.now(datetime.timezone(datetime.timedelta(hours=5))).strftime("%Y-%m-%d %H:%M")
 lines = [f"# Quiz statistikasi ({now}, Toshkent)", "",
@@ -67,6 +85,12 @@ for i, (uid, (ok, bad)) in enumerate(table, 1):
         nm += f" (@{u['username']})"
     tot = ok + bad
     lines.append(f"| {i} | {nm} | {ok} | {bad} | {tot} | {round(100 * ok / tot)}% |")
+if members is not None:
+    lines += ["", f"Guruh a'zolari (bot bilan): {members}. Javob bergan: {len(table)}. "
+              f"Javob bermagan: taxminan {max(members - 1 - len(table), 0)}."]
+    if silent:
+        lines.append("Javob bermagan adminlar: " + ", ".join(
+            (db["users"][u]["name"] + (f" (@{db['users'][u]['username']})" if db["users"][u].get("username") else "")) for u in silent))
 open("stats/STATS.md", "w", encoding="utf-8").write("\n".join(lines) + "\n")
 json.dump(db, open(DB, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
 print("\n".join(lines))
