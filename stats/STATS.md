@@ -1,4 +1,4 @@
-# Quiz statistikasi (2026-11-03 15:53, Toshkent)
+# Quiz statistikasi (2026-11-03 15:56, Toshkent)
 
 Hisobga olingan quizlar: 23, ishtirokchilar: 10
 
@@ -14,3 +14,5 @@ Hisobga olingan quizlar: 23, ishtirokchilar: 10
 | 8 | Doniyor Abdujalilov (@doniyorjonabdujalilov) | 3 | 7 | 10 | 30% |
 | 9 | Şoxbozbek Tuxtasinov (@shohboz3dx) | 2 | 1 | 3 | 67% |
 | 10 | С.Илхом (@saydiganiyev_ilhom) | 0 | 2 | 2 | 0% |
+
+Guruh a'zolari (bot bilan): 13. Javob bergan: 10. Javob bermagan: taxminan 2.
