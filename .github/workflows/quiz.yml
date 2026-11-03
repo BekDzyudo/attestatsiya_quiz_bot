@@ -2,8 +2,9 @@ name: Attestatsiya quiz
 
 on:
   schedule:
-    # Toshkent vaqti 09:00–23:30, har 30 daqiqada, :07 va :37 da — GitHub :00 dagi navbatda kechiktiradi (GitHub UTC bo'yicha ishlaydi: UTC+5)
-    - cron: "7,37 4-18 * * *"
+    # Toshkent vaqti 09:03–23:53, har 10 daqiqada (:03, :13, ... :53).
+    # GitHub UTC bo'yicha ishlaydi (Toshkent = UTC+5); :00 dagi navbatdan qochish uchun :03 dan boshlanadi.
+    - cron: "3-59/10 4-18 * * *"
   workflow_dispatch:
     inputs:
       force:
@@ -34,4 +35,6 @@ jobs:
           git config user.name "quiz-bot"
           git config user.email "quiz-bot@users.noreply.github.com"
           git add state.json
-          git diff --cached --quiet || (git commit -m "quiz yuborildi" && git push)
+          git diff --cached --quiet && exit 0
+          git commit -m "quiz yuborildi"
+          for i in 1 2 3; do git pull --rebase -q && git push -q && break; sleep 5; done

@@ -11,31 +11,54 @@ if now.hour < 9 and not os.environ.get("FORCE"):
 
 bank = json.load(open("quizzes.json", encoding="utf-8"))
 state = json.load(open("state.json", encoding="utf-8"))
-idx = state["next"] % len(bank)
-q = bank[idx]
 
-data = {
-    "chat_id": CHAT,
-    "question": q["question"],
-    "options": json.dumps([{"text": o} for o in q["options"]], ensure_ascii=False),
-    "type": "quiz",
-    "is_anonymous": "false",
-    "correct_option_id": q["correct_option_id"],
-    "explanation": q["explanation"],
-}
-req = urllib.request.Request(
-    f"https://api.telegram.org/bot{TOKEN}/sendPoll",
-    data=urllib.parse.urlencode(data).encode(),
-)
+# GitHub jadvali ba'zan kechikadi yoki o'tkazib yuboradi: oxirgi yuborilganidan
+# 20 daqiqadan ko'p o'tgan bo'lsa (o'sha kunning o'zida), 2 ta savol yuboriladi.
+count = 1
 try:
-    res = json.load(urllib.request.urlopen(req, timeout=30))
-except urllib.error.HTTPError as e:
-    res = json.load(e)
+    last = datetime.datetime.fromisoformat(state["last_sent"])
+    gap = (now - last).total_seconds() / 60
+    if last.date() == now.date() and gap > 20:
+        count = 2
+except (KeyError, ValueError):
+    pass
 
-print(f"#{idx + 1}/{len(bank)}:", res.get("ok"), res.get("description") or "")
-if not res.get("ok"):
+
+def send_one(idx):
+    q = bank[idx]
+
+    data = {
+        "chat_id": CHAT,
+        "question": q["question"],
+        "options": json.dumps([{"text": o} for o in q["options"]], ensure_ascii=False),
+        "type": "quiz",
+        "is_anonymous": "false",
+        "correct_option_id": q["correct_option_id"],
+        "explanation": q["explanation"],
+    }
+    req = urllib.request.Request(
+        f"https://api.telegram.org/bot{TOKEN}/sendPoll",
+        data=urllib.parse.urlencode(data).encode(),
+    )
+    try:
+        res = json.load(urllib.request.urlopen(req, timeout=30))
+    except urllib.error.HTTPError as e:
+        res = json.load(e)
+
+    print(f"#{idx + 1}/{len(bank)}:", res.get("ok"), res.get("description") or "")
+    return res.get("ok")
+
+
+sent = 0
+for _ in range(count):
+    idx = state["next"] % len(bank)
+    if not send_one(idx):
+        break
+    state["next"] = idx + 1
+    sent += 1
+
+if sent:
+    state["last_sent"] = now.isoformat(timespec="minutes")
+    json.dump(state, open("state.json", "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+if sent < count and sent == 0:
     sys.exit(1)
-
-state["next"] = idx + 1
-state["last_sent"] = now.isoformat(timespec="minutes")
-json.dump(state, open("state.json", "w", encoding="utf-8"), ensure_ascii=False, indent=1)

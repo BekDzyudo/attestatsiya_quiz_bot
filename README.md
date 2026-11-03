@@ -1,6 +1,6 @@
 # Attestatsiya quiz bot
 
-Har kuni 09:00–23:30 (Toshkent) oralig'ida har 30 daqiqada `quizzes.json` dagi navbatdagi savolni Telegram guruhiga quiz qilib yuboradi.
+Har kuni 09:00–23:30 (Toshkent) oralig'ida har 10 daqiqada `quizzes.json` dagi navbatdagi savolni Telegram guruhiga quiz qilib yuboradi.
 
 - `quizzes.json` — savollar banki (savol, 4 variant, to'g'ri javob raqami, izoh)
 - `state.json` — keyingi yuboriladigan savol raqami (`next`, 0 dan boshlanadi)
