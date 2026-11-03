@@ -2,8 +2,8 @@ name: Attestatsiya quiz
 
 on:
   schedule:
-    # Toshkent vaqti 09:00–23:30, har 30 daqiqada (GitHub UTC bo'yicha ishlaydi: UTC+5)
-    - cron: "0,30 4-18 * * *"
+    # Toshkent vaqti 09:00–23:30, har 30 daqiqada, :07 va :37 da — GitHub :00 dagi navbatda kechiktiradi (GitHub UTC bo'yicha ishlaydi: UTC+5)
+    - cron: "7,37 4-18 * * *"
   workflow_dispatch:
     inputs:
       force:
