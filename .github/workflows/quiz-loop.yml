@@ -1,0 +1,49 @@
+name: Attestatsiya quiz (uzluksiz)
+
+# GitHub "schedule" ishonchsiz ishlagani uchun bitta job ~5,5 soat davomida
+# o'zi har 10 daqiqada quiz yuboradi, oxirida o'zini qayta ishga tushiradi.
+# Toshkent vaqti 09:00–23:59 oralig'ida yuboradi, tunda kutadi.
+on:
+  workflow_dispatch:
+  schedule:
+    # Zaxira: zanjir uzilib qolsa, kuniga bir necha marta qayta tiklanadi
+    - cron: "17 3,9,15 * * *"
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: quiz-loop
+  cancel-in-progress: false
+
+jobs:
+  loop:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - uses: actions/checkout@v4
+      - name: Har 10 daqiqada yuborish
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: "-1003982072134"
+        run: |
+          git config user.name "quiz-bot"
+          git config user.email "quiz-bot@users.noreply.github.com"
+          end=$(( $(date +%s) + 330*60 ))
+          while [ $(date +%s) -lt $end ]; do
+            git pull -q --rebase || true
+            python3 send.py || echo "yuborishda xato"
+            git add state.json
+            if ! git diff --cached --quiet; then
+              git commit -q -m "quiz yuborildi"
+              for i in 1 2 3; do git pull -q --rebase && git push -q && break; sleep 5; done
+            fi
+            # keyingi 10 daqiqalik nuqtagacha kutish
+            now=$(date +%s); sleep $(( 600 - now % 600 + 5 ))
+          done
+      - name: Zanjirni davom ettirish
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run quiz-loop.yml --ref main -R ${{ github.repository }}
