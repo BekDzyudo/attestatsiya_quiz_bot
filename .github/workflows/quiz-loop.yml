@@ -1,7 +1,7 @@
 name: Attestatsiya quiz (uzluksiz)
 
 # GitHub "schedule" ishonchsiz ishlagani uchun bitta job ~5,5 soat davomida
-# o'zi har 15 daqiqada quiz yuboradi, oxirida o'zini qayta ishga tushiradi.
+# o'zi har 5 daqiqada quiz yuboradi, oxirida o'zini qayta ishga tushiradi.
 # Toshkent vaqti 09:00–23:59 oralig'ida yuboradi, tunda kutadi.
 on:
   workflow_dispatch:
@@ -40,8 +40,8 @@ jobs:
               git commit -q -m "quiz yuborildi"
               for i in 1 2 3; do git pull -q --rebase && git push -q && break; sleep 5; done
             fi
-            # keyingi 15 daqiqalik nuqtagacha kutish
-            now=$(date +%s); sleep $(( 900 - now % 900 + 5 ))
+            # keyingi 5 daqiqalik nuqtagacha kutish
+            now=$(date +%s); sleep $(( 300 - now % 300 + 5 ))
           done
       - name: Zanjirni davom ettirish
         if: always()

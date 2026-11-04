@@ -13,12 +13,12 @@ bank = json.load(open("quizzes.json", encoding="utf-8"))
 state = json.load(open("state.json", encoding="utf-8"))
 
 # GitHub jadvali ba'zan kechikadi yoki o'tkazib yuboradi: oxirgi yuborilganidan
-# 25 daqiqadan ko'p o'tgan bo'lsa (o'sha kunning o'zida), 2 ta savol yuboriladi.
+# 12 daqiqadan ko'p o'tgan bo'lsa (o'sha kunning o'zida), 2 ta savol yuboriladi.
 count = 1
 try:
     last = datetime.datetime.fromisoformat(state["last_sent"])
     gap = (now - last).total_seconds() / 60
-    if last.date() == now.date() and gap > 25:
+    if last.date() == now.date() and gap > 12:
         count = 2
 except (KeyError, ValueError):
     pass
