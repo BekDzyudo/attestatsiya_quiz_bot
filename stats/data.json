@@ -1,5 +1,5 @@
 {
- "offset": 33103408,
+ "offset": 33103420,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -256,6 +256,10 @@
   "5427293655033454259": {
    "q": "Vazirlar Mahkamasining 466-son qarori bilan tasdiqlangan Nizomga koʻra, oʻquv mashgʻulotlari uchun ikki akademik oʻquv s",
    "correct": 2
+  },
+  "5427293655033454264": {
+   "q": "PQ-316-sonli Qarorga koʻra, kasbiy taʼlim dasturlari xalqaro standartlari asosida yangidan ishlab chiqiladigan tartib qa",
+   "correct": 1
   }
  },
  "answers": {
@@ -663,7 +667,13 @@
   "5427293655033454256:1250674189": 0,
   "5427293655033454258:1250674189": 0,
   "5427293655033454259:1250674189": 2,
-  "5427293655033454259:1045607258": 1
+  "5427293655033454259:1045607258": 1,
+  "5427293655033454258:6009117194": 0,
+  "5427293655033454259:6009117194": 2,
+  "5427293655033454264:1007925524": 1,
+  "5427293655033454264:6009117194": 1,
+  "5427293655033453909:289268182": 2,
+  "5427293655033453915:289268182": 0
  },
  "users": {
   "1007925524": {
