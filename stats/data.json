@@ -1,5 +1,5 @@
 {
- "offset": 33105086,
+ "offset": 33105106,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -600,6 +600,26 @@
   "5429545454847137898": {
    "q": "PF-190-sonli Farmonga koʻra, infratuzilmani rivojlantirish yoʻnalishida Agentlik qanday asosiy vazifalarni bajaradi?",
    "correct": 2
+  },
+  "5429545454847137900": {
+   "q": "PQ-316-sonli Qarorga koʻra, ilgʻor kasbiy mahorat texnikumlari boshqa texnikumlar uchun nima vazifasini bajaradi?",
+   "correct": 1
+  },
+  "5429545454847137904": {
+   "q": "VMsining 106-son qarori bilan tasdiqlangan Nizomga koʻra, tinglovchilar belgilangan modullar boʻyicha qancha foizdan yuq",
+   "correct": 0
+  },
+  "5429545454847137907": {
+   "q": "PF-190-son Farmonga koʻra, Migratsiya agentligi buyurtmalari qaysi jamgʻarma hisobidan moliyalashtiriladi?",
+   "correct": 3
+  },
+  "5429545454847137913": {
+   "q": "VMsining 106-son qarori bilan tasdiqlangan Nizomga koʻra, mashgʻulotlar oraligʻidagi tanaffus kamida necha daqiqani tash",
+   "correct": 2
+  },
+  "5429545454847137916": {
+   "q": "Yakuniy davlat attestatsiyasida oʻrta va oʻrta maxsus kasbiy taʼlim boʻyicha davlat imtihoni qaysi fanlardan test shakli",
+   "correct": 0
   }
  },
  "answers": {
@@ -1832,7 +1852,17 @@
   "5429545454847137657:629284457": 3,
   "5429545454847137658:629284457": 2,
   "5429545454847137660:629284457": 2,
-  "5429545454847137662:629284457": 0
+  "5429545454847137662:629284457": 0,
+  "5429545454847137900:6956735341": 1,
+  "5429545454847137904:6956735341": 0,
+  "5429545454847137907:6956735341": 3,
+  "5429545454847137913:6956735341": 2,
+  "5429545454847137916:6956735341": 0,
+  "5429545454847137913:1007925524": 2,
+  "5429545454847137907:1007925524": 1,
+  "5429545454847137904:1007925524": 0,
+  "5429545454847137900:1007925524": 3,
+  "5429545454847137888:1250674189": 1
  },
  "users": {
   "1007925524": {
