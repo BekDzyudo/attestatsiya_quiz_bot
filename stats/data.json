@@ -1,5 +1,5 @@
 {
- "offset": 33104242,
+ "offset": 33104254,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -431,6 +431,26 @@
   },
   "5429545454847137698": {
    "q": "PQ-316-sonli Qarorga koʻra, 2026/2027 oʻquv yilidan boshlab texnikum direktoriga menejerlik sertifikati asosida lavozim ",
+   "correct": 3
+  },
+  "5429545454847137697": {
+   "q": "PF-190-sonli Farmonga koʻra, Kasbiy taʼlimni rivojlantirish jamgʻarmasi mablagʻlari asosan nimaga sarflanadi?",
+   "correct": 2
+  },
+  "5429545454847137709": {
+   "q": "PQ-316-sonli Qarorga koʻra, xorijda malaka oshirish va stajirovka oʻtash dasturlarida ishtirok etgan pedagoglar sonini n",
+   "correct": 0
+  },
+  "5429545454847137712": {
+   "q": "PQ-316-sonli Qarorga koʻra, Kasbiy taʼlim agentligi tizimida nechta ilgʻor kasbiy mahorat texnikumi tashkil etiladi?",
+   "correct": 0
+  },
+  "5429545454847137717": {
+   "q": "PF-190-sonli Farmonga koʻra, xalqaro hamkorlikni mustahkamlash yoʻnalishida Agentlikning birinchi asosiy vazifasi nimada",
+   "correct": 2
+  },
+  "5429545454847137718": {
+   "q": "Vazirlar Mahkamasining 466-son qarori bilan tasdiqlangan Nizomga koʻra, «kasbiy kompetensiya» atamasi nimani anglatadi?",
    "correct": 3
   }
  },
@@ -1251,7 +1271,13 @@
   "5429545454847137679:1007925524": 3,
   "5429545454847137625:409412968": 0,
   "5429545454847137688:1007925524": 2,
-  "5429545454847137698:1250674189": 3
+  "5429545454847137698:1250674189": 3,
+  "5429545454847137697:1007925524": 2,
+  "5429545454847137698:1007925524": 3,
+  "5429545454847137709:1007925524": 0,
+  "5429545454847137712:1007925524": 1,
+  "5429545454847137717:1007925524": 2,
+  "5429545454847137718:1007925524": 3
  },
  "users": {
   "1007925524": {
