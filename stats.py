@@ -47,6 +47,13 @@ while True:
 
 # Statistika
 rows = {}
+# Statistikadan chiqarilgan foydalanuvchilar (javoblari saqlanmaydi va hisoblanmaydi)
+EXCLUDE = {"7149515601"}  # Дилчехра — 2026-11-04 da egasining so'rovi bilan chiqarildi
+for k in [k for k in db["answers"] if k.split(":")[1] in EXCLUDE]:
+    del db["answers"][k]
+for uid in EXCLUDE:
+    db["users"].pop(uid, None)
+
 for key, opt in db["answers"].items():
     pid, uid = key.split(":")
     poll = db["polls"].get(pid)
@@ -66,6 +73,8 @@ try:
         if u.get("is_bot"):
             continue
         uid = str(u["id"])
+        if uid in EXCLUDE:
+            continue
         db["users"].setdefault(uid, {"name": " ".join(x for x in [u.get("first_name"), u.get("last_name")] if x),
                                      "username": u.get("username", "")})
         if uid not in rows:
@@ -87,7 +96,7 @@ for i, (uid, (ok, bad)) in enumerate(table, 1):
     lines.append(f"| {i} | {nm} | {ok} | {bad} | {tot} | {round(100 * ok / tot)}% |")
 if members is not None:
     lines += ["", f"Guruh a'zolari (bot bilan): {members}. Javob bergan: {len(table)}. "
-              f"Javob bermagan: taxminan {max(members - 1 - len(table), 0)}."]
+              f"Javob bermagan: taxminan {max(members - 1 - len(EXCLUDE) - len(table), 0)}."]
     if silent:
         lines.append("Javob bermagan adminlar: " + ", ".join(
             (db["users"][u]["name"] + (f" (@{db['users'][u]['username']})" if db["users"][u].get("username") else "")) for u in silent))
