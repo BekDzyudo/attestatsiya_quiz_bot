@@ -1,5 +1,5 @@
 {
- "offset": 33103478,
+ "offset": 33103486,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -276,6 +276,10 @@
   "5427293655033454313": {
    "q": "Yakuniy davlat attestatsiyasi komissiyasining asosiy vazifalari nimadan iborat?",
    "correct": 3
+  },
+  "5429545454847137403": {
+   "q": "Yakuniy davlat attestatsiyasining asosiy maqsadi nimadan iborat?",
+   "correct": 2
   }
  },
  "answers": {
@@ -718,7 +722,11 @@
   "5427293655033454313:1805166872": 3,
   "5427293655033454259:289268182": 2,
   "5427293655033454258:289268182": 3,
-  "5427293655033454256:289268182": 1
+  "5427293655033454256:289268182": 1,
+  "5429545454847137403:1007925524": 2,
+  "5429545454847137403:672629750": 2,
+  "5429545454847137403:289268182": 2,
+  "5429545454847137403:1805166872": 2
  },
  "users": {
   "1007925524": {
