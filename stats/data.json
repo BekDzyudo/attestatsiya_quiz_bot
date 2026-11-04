@@ -1,5 +1,5 @@
 {
- "offset": 33105015,
+ "offset": 33105027,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -588,6 +588,10 @@
   "5429545454847137888": {
    "q": "PF-190-sonli Farmonda nechta ilova bor?",
    "correct": 1
+  },
+  "5429545454847137893": {
+   "q": "PQ-316-sonli Qarorga koʻra, texnikum umumtaʼlim fani oʻqituvchilari ish haqi fondiga nisbatan necha foiz miqdorida ragʻb",
+   "correct": 0
   }
  },
  "answers": {
@@ -1785,7 +1789,13 @@
   "5429545454847137873:125126380": 3,
   "5429545454847137875:125126380": 3,
   "5429545454847137879:125126380": 2,
-  "5429545454847137888:125126380": 1
+  "5429545454847137888:125126380": 1,
+  "5429545454847137631:409412968": 0,
+  "5429545454847137893:125126380": 0,
+  "5429545454847137893:672629750": 0,
+  "5429545454847137636:409412968": 1,
+  "5429545454847137643:409412968": 0,
+  "5429545454847137649:409412968": 1
  },
  "users": {
   "1007925524": {
