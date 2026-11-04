@@ -1,5 +1,5 @@
 {
- "offset": 33104254,
+ "offset": 33104272,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -452,6 +452,10 @@
   "5429545454847137718": {
    "q": "Vazirlar Mahkamasining 466-son qarori bilan tasdiqlangan Nizomga koʻra, «kasbiy kompetensiya» atamasi nimani anglatadi?",
    "correct": 3
+  },
+  "5429545454847137720": {
+   "q": "PQ-316-sonli Qarorga koʻra, 5 yoshdan boshlab bolalarda kasblar haqida tasavvurlar shakllantiriladigan dastur nomi?",
+   "correct": 2
   }
  },
  "answers": {
@@ -1277,7 +1281,16 @@
   "5429545454847137709:1007925524": 0,
   "5429545454847137712:1007925524": 1,
   "5429545454847137717:1007925524": 2,
-  "5429545454847137718:1007925524": 3
+  "5429545454847137718:1007925524": 3,
+  "5429545454847137720:1007925524": 2,
+  "5429545454847137669:672629750": 3,
+  "5429545454847137649:1805166872": 3,
+  "5429545454847137657:1805166872": 1,
+  "5429545454847137679:672629750": 3,
+  "5429545454847137658:1805166872": 1,
+  "5429545454847137660:1805166872": 3,
+  "5429545454847137662:1805166872": 1,
+  "5429545454847137669:1805166872": 0
  },
  "users": {
   "1007925524": {
