@@ -23,13 +23,14 @@ jobs:
     timeout-minutes: 350
     steps:
       - uses: actions/checkout@v4
-      - name: Har 10 daqiqada yuborish
+      - name: Har 5 daqiqada yuborish va buyruqlarga javob berish
         env:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           TELEGRAM_CHAT_ID: "-1003982072134"
         run: |
           git config user.name "quiz-bot"
           git config user.email "quiz-bot@users.noreply.github.com"
+          python3 stats.py --setup || true
           end=$(( $(date +%s) + 330*60 ))
           while [ $(date +%s) -lt $end ]; do
             git pull -q --rebase || true
@@ -40,8 +41,9 @@ jobs:
               git commit -q -m "quiz yuborildi"
               for i in 1 2 3; do git pull -q --rebase && git push -q && break; sleep 5; done
             fi
-            # keyingi 5 daqiqalik nuqtagacha kutish
-            now=$(date +%s); sleep $(( 300 - now % 300 + 5 ))
+            # keyingi 5 daqiqalik nuqtagacha /stat, /men buyruqlarini kutib, darhol javob beradi
+            now=$(date +%s); wait=$(( 300 - now % 300 + 5 ))
+            python3 stats.py --listen $wait || sleep $wait
           done
       - name: Zanjirni davom ettirish
         if: always()
