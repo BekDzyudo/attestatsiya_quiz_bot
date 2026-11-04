@@ -1,5 +1,5 @@
 {
- "offset": 33105031,
+ "offset": 33105048,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -592,6 +592,14 @@
   "5429545454847137893": {
    "q": "PQ-316-sonli Qarorga koʻra, texnikum umumtaʼlim fani oʻqituvchilari ish haqi fondiga nisbatan necha foiz miqdorida ragʻb",
    "correct": 0
+  },
+  "5429545454847137895": {
+   "q": "PQ-316-sonli Qarorga koʻra, 2030 yilga qadar kasbiy sertifikatga ega ishlab chiqarish taʼlimi ustalari ulushi qancha foi",
+   "correct": 0
+  },
+  "5429545454847137898": {
+   "q": "PF-190-sonli Farmonga koʻra, infratuzilmani rivojlantirish yoʻnalishida Agentlik qanday asosiy vazifalarni bajaradi?",
+   "correct": 2
   }
  },
  "answers": {
@@ -1797,7 +1805,15 @@
   "5429545454847137643:409412968": 0,
   "5429545454847137649:409412968": 1,
   "5429545454847137879:289268182": 0,
-  "5429545454847137888:289268182": 1
+  "5429545454847137888:289268182": 1,
+  "5429545454847137893:1007925524": 2,
+  "5429545454847137895:1007925524": 3,
+  "5429545454847137893:6956735341": 0,
+  "5429545454847137895:6956735341": 2,
+  "5429545454847137898:1007925524": 3,
+  "5429545454847137898:6956735341": 2,
+  "5429545454847137895:672629750": 0,
+  "5429545454847137898:672629750": 2
  },
  "users": {
   "1007925524": {
