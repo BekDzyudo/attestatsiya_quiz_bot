@@ -1,5 +1,5 @@
 {
- "offset": 33107425,
+ "offset": 33107443,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -1127,6 +1127,22 @@
   },
   "5431372903302044058": {
    "q": "PQ-316-sonli Qarorga koʻra, xorijga pedagoglarni yuborish xarajatlari qaysi jamgʻarma hisobidan qoplanadi?",
+   "correct": 0
+  },
+  "5431372903302044069": {
+   "q": "VMsining 106-son qarori bilan tasdiqlangan Nizomga koʻra, «muqobil malaka oshirish» qanday taʼriflangan?",
+   "correct": 3
+  },
+  "5431372903302044071": {
+   "q": "PQ-316-sonli Qarorga koʻra, imtiyozli kreditning imtiyozli davri qancha yil?",
+   "correct": 2
+  },
+  "5431372903302044075": {
+   "q": "PQ-316-sonli Qarorga koʻra, ilgʻor kasbiy mahorat texnikumlari faoliyatini moliyalashtirish va xodimlar ish haqi shartla",
+   "correct": 2
+  },
+  "5431372903302044077": {
+   "q": "Vazirlar Mahkamasining 466-son qarori bilan tasdiqlangan Nizomga koʻra, professional taʼlim muassasalarida taʼlim sifati",
    "correct": 0
   }
  },
@@ -3498,7 +3514,16 @@
   "5431372903302043836:289268182": 1,
   "5431372903302044058:672629750": 0,
   "5431372903302044060:672629750": 2,
-  "5431372903302044067:672629750": 1
+  "5431372903302044067:672629750": 1,
+  "5431372903302044069:672629750": 1,
+  "5431372903302043963:289268182": 0,
+  "5431372903302044071:672629750": 2,
+  "5431372903302043965:289268182": 2,
+  "5431372903302043967:289268182": 0,
+  "5431372903302044072:672629750": 1,
+  "5431372903302044075:672629750": 1,
+  "5431372903302044077:672629750": 3,
+  "5431372903302043970:289268182": 1
  },
  "users": {
   "1007925524": {
