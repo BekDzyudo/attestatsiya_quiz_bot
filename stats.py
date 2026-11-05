@@ -168,6 +168,26 @@ def write_report():
     return lines
 
 
+def update_live():
+    """Guruhdagi qadalgan jonli reyting xabarini yangilaydi (yo'q bo'lsa yuborib, qadaydi)."""
+    text = stat_text().replace("📊 <b>Quiz reytingi</b>", "📌 <b>Jonli reyting</b> (har 5 daqiqada yangilanadi)\n🕒", 1)
+    mid = db.get("live_msg")
+    if mid:
+        r = api("editMessageText", chat_id=CHAT, message_id=mid, text=text, parse_mode="HTML")
+        if r.get("ok") or "not modified" in (r.get("description") or ""):
+            return
+        print("jonli reytingni tahrirlab bo'lmadi:", r.get("description"))
+    r = api("sendMessage", chat_id=CHAT, text=text, parse_mode="HTML", disable_notification="true")
+    if not r.get("ok"):
+        print("jonli reyting yuborilmadi:", r.get("description"))
+        return
+    db["live_msg"] = r["result"]["message_id"]
+    p = api("pinChatMessage", chat_id=CHAT, message_id=db["live_msg"], disable_notification="true")
+    if not p.get("ok"):
+        print("qadab bo'lmadi:", p.get("description"))
+    json.dump(db, open(DB, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+
+
 if __name__ == "__main__":
     if len(sys.argv) > 1 and sys.argv[1] == "--setup":
         cmds = [{"command": "stat", "description": "Guruh reytingi: to'g'ri va xato javoblar"},
@@ -186,3 +206,8 @@ if __name__ == "__main__":
         while fetch(0):
             pass
         print("\n".join(write_report()))
+        if os.environ.get("LIVE_RATING", "1") == "1":
+            try:
+                update_live()
+            except Exception as e:
+                print("jonli reytingda xato:", e)
