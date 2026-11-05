@@ -1,5 +1,5 @@
 {
- "offset": 33107575,
+ "offset": 33107593,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -1184,6 +1184,22 @@
   "5431372903302044099": {
    "q": "PQ-316-sonli Qarorga koʻra, kasbiy taʼlim tizimidagi dual taʼlimning amaldagi ulushi necha foizga teng?",
    "correct": 0
+  },
+  "5431372903302044103": {
+   "q": "Taʼlim toʻgʻrisidagi Qonunga koʻra, mustaqil izlanuvchilik shakli tayanch doktorantura va doktoranturadan qaysi xususiya",
+   "correct": 1
+  },
+  "5431372903302044104": {
+   "q": "PQ-316-sonli Qarorga koʻra, 2030 yilga qadar xalqaro va qoʻshma taʼlim dasturlari joriy etilgan texnikumlar sonini necht",
+   "correct": 3
+  },
+  "5431372903302044106": {
+   "q": "PQ-316-sonli Qarorga koʻra, milliy reytingda eng yuqori oʻrinni egallagan nechta texnikum ragʻbatlantiriladi?",
+   "correct": 1
+  },
+  "5431372903302044110": {
+   "q": "PF-190-son Farmonga koʻra, 2027 yil 1 yanvardan boshlab Namangan, Samarqand va Toshkent shaharlarida qaysi sohalar kasbl",
+   "correct": 1
   }
  },
  "answers": {
@@ -3629,7 +3645,16 @@
   "5431372903302044095:1250674189": 2,
   "5431372903302044097:1250674189": 1,
   "5431372903302044098:1250674189": 2,
-  "5431372903302044099:1250674189": 0
+  "5431372903302044099:1250674189": 0,
+  "5431372903302044103:1250674189": 1,
+  "5431372903302044104:1250674189": 1,
+  "5431372903302044106:1250674189": 0,
+  "5431372903302044110:1250674189": 0,
+  "5431372903302044050:289268182": 2,
+  "5431372903302044051:289268182": 3,
+  "5431372903302044055:289268182": 2,
+  "5431372903302044056:289268182": 0,
+  "5431372903302044103:672629750": 1
  },
  "users": {
   "1007925524": {
