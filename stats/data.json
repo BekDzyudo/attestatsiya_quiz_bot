@@ -1,5 +1,5 @@
 {
- "offset": 33106060,
+ "offset": 33106064,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -788,6 +788,10 @@
   "5431372903302043831": {
    "q": "Yakuniy davlat attestatsiyasini oʻtkazish jadvali attestatsiya boshlanishidan kamida necha kun oldin tasdiqlanadi?",
    "correct": 1
+  },
+  "5431372903302043832": {
+   "q": "VMsining 106-son qarori bilan tasdiqlangan Nizomga koʻra, malaka oshirish uchun belgilangan muddatlarda sertifikatga ega",
+   "correct": 2
   }
  },
  "answers": {
@@ -2486,7 +2490,9 @@
   "5431372903302043830:1805166872": 3,
   "5431372903302043826:1250674189": 1,
   "5431372903302043830:1007925524": 3,
-  "5431372903302043831:1007925524": 1
+  "5431372903302043831:1007925524": 1,
+  "5431372903302043832:1007925524": 2,
+  "5431372903302043827:409412968": 2
  },
  "users": {
   "1007925524": {
