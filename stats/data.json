@@ -1,5 +1,5 @@
 {
- "offset": 33106364,
+ "offset": 33106370,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -872,6 +872,10 @@
   "5431372903302043906": {
    "q": "Yakuniy davlat attestatsiyasida Oʻzbekiston tarixi fanidan davlat imtihoni qaysi guruhlarda oʻtkaziladi?",
    "correct": 1
+  },
+  "5431372903302043908": {
+   "q": "PF-190-son Farmonga koʻra, Xorijiy ish beruvchilar ehtiyojidan kelib chiqib kasb va xorijiy tillarga oʻqitish boʻyicha b",
+   "correct": 0
   }
  },
  "answers": {
@@ -2721,7 +2725,10 @@
   "5429545454847138004:289268182": 0,
   "5431372903302043906:6009117194": 0,
   "5429545454847138015:289268182": 3,
-  "5431372903302043742:289268182": 3
+  "5431372903302043742:289268182": 3,
+  "5431372903302043895:1045607258": 0,
+  "5431372903302043908:1045607258": 2,
+  "5431372903302043743:289268182": 2
  },
  "users": {
   "1007925524": {
