@@ -1,5 +1,5 @@
 {
- "offset": 33107781,
+ "offset": 33107787,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -1252,6 +1252,10 @@
   "5431372903302044137": {
    "q": "PF-190-sonli Farmonga koʻra, xalqaro hamkorlikni mustahkamlash yoʻnalishida Agentlikning birinchi asosiy vazifasi nimada",
    "correct": 1
+  },
+  "5431372903302044139": {
+   "q": "Vazirlar Mahkamasining 466-son qarori bilan tasdiqlangan Nizomga koʻra, «kasbiy kompetensiya» atamasi nimani anglatadi?",
+   "correct": 0
   }
  },
  "answers": {
@@ -3800,7 +3804,10 @@
   "5431372903302044037:409412968": 0,
   "5431372903302044129:289268182": 2,
   "5431372903302044130:289268182": 3,
-  "5431372903302044134:289268182": 2
+  "5431372903302044134:289268182": 2,
+  "5431372903302044137:289268182": 3,
+  "5431372903302044139:1250674189": 0,
+  "5431372903302044139:289268182": 0
  },
  "users": {
   "1007925524": {
