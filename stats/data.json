@@ -1,5 +1,5 @@
 {
- "offset": 33106340,
+ "offset": 33106348,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -855,6 +855,10 @@
   },
   "5431372903302043890": {
    "q": "125-son (roʻyxat raqami 2431-3) buyruq bilan 45-bandning yangi tahririda keltirilgan Vazirlar Mahkamasining 466-son qaro",
+   "correct": 2
+  },
+  "5431372903302043895": {
+   "q": "PQ-316-sonli Qarorga koʻra, 7-sinfdan boshlab oʻquvchilarning kasbiy qiziqishi kimlar bilan birgalikda aniqlanadi?",
    "correct": 2
   }
  },
@@ -2693,7 +2697,11 @@
   "5429545454847137981:289268182": 0,
   "5431372903302043890:672629750": 2,
   "5429545454847137984:289268182": 1,
-  "5429545454847137986:289268182": 2
+  "5429545454847137986:289268182": 2,
+  "5429545454847137990:289268182": 3,
+  "5431372903302043895:6009117194": 3,
+  "5429545454847137893:289268182": 2,
+  "5429545454847137895:289268182": 0
  },
  "users": {
   "1007925524": {
