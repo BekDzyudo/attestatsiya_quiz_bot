@@ -123,6 +123,10 @@ def process(u):
 ALLOWED = json.dumps(["poll", "poll_answer", "message"])
 
 
+LIVE = os.environ.get("LIVE_RATING", "1") == "1"
+last_live = 0.0
+
+
 def fetch(long_poll=0):
     params = dict(offset=db["offset"], limit=100, allowed_updates=ALLOWED)
     url = f"https://api.telegram.org/bot{TOKEN}/getUpdates"
@@ -137,6 +141,16 @@ def fetch(long_poll=0):
     ups = res.get("result", [])
     for u in ups:
         process(u)
+    if LIVE and any("poll_answer" in u for u in ups):
+        global last_live
+        # Telegram cheklovlari uchun: tahrirlar orasida kamida 3 soniya
+        if time.time() - last_live < 3:
+            time.sleep(3 - (time.time() - last_live))
+        try:
+            update_live()
+        except Exception as e:
+            print("jonli reytingda xato:", e)
+        last_live = time.time()
     return len(ups)
 
 
@@ -170,7 +184,7 @@ def write_report():
 
 def update_live():
     """Guruhdagi qadalgan jonli reyting xabarini yangilaydi (yo'q bo'lsa yuborib, qadaydi)."""
-    text = stat_text().replace("📊 <b>Quiz reytingi</b>", "📌 <b>Jonli reyting</b> (har 5 daqiqada yangilanadi)\n🕒", 1)
+    text = stat_text().replace("📊 <b>Quiz reytingi</b>", "📌 <b>Jonli reyting</b> (har javobda yangilanadi)\n🕒", 1)
     mid = db.get("live_msg")
     if mid:
         r = api("editMessageText", chat_id=CHAT, message_id=mid, text=text, parse_mode="HTML")
