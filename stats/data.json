@@ -1,5 +1,5 @@
 {
- "offset": 33106677,
+ "offset": 33106681,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -927,6 +927,10 @@
   },
   "5431372903302043940": {
    "q": "PF-190-son Farmonga nechta ilova mavjud?",
+   "correct": 2
+  },
+  "5431372903302043941": {
+   "q": "Yakuniy davlat attestatsiyasida koʻrgazmali-amaliy imtihon natijalari boʻyicha komissiya tomonidan qanday hujjat rasmiyl",
    "correct": 2
   }
  },
@@ -2932,7 +2936,9 @@
   "5431372903302043937:1007925524": 1,
   "5431372903302043940:1007925524": 2,
   "5431372903302043940:1250674189": 2,
-  "5424918052787461914:1250674189": 2
+  "5424918052787461914:1250674189": 2,
+  "5431372903302043941:1007925524": 2,
+  "5431372903302043941:672629750": 2
  },
  "users": {
   "1007925524": {
