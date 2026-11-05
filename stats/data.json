@@ -1,5 +1,5 @@
 {
- "offset": 33107669,
+ "offset": 33107689,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -1203,6 +1203,14 @@
   },
   "5431372903302044113": {
    "q": "PQ-316-sonli Qarorga koʻra, 5—6-sinf oʻquvchilarining kasbiy faoliyatga qiziqishlari rivojlantiriladigan dastur nomi?",
+   "correct": 1
+  },
+  "5431372903302044119": {
+   "q": "Yakuniy davlat attestatsiyasida test topshiriqlari bajarilgandan soʻng javoblarni javoblar varaqasiga koʻchirish uchun n",
+   "correct": 2
+  },
+  "5431372903302044118": {
+   "q": "VMsining 106-son qarori bilan tasdiqlangan Nizomga koʻra, kredit-modul tizimida 1 kredit necha soatlik oʻquv yuklamasiga",
    "correct": 1
   }
  },
@@ -3696,7 +3704,17 @@
   "5431372903302044099:1805166872": 0,
   "5431372903302044103:1805166872": 1,
   "5431372903302044104:1805166872": 1,
-  "5431372903302044106:1805166872": 1
+  "5431372903302044106:1805166872": 1,
+  "5431372903302044110:1805166872": 0,
+  "5431372903302044119:1250674189": 2,
+  "5431372903302044118:1250674189": 3,
+  "5431372903302044113:1805166872": 3,
+  "5431372903302044118:1805166872": 1,
+  "5431372903302044119:1805166872": 1,
+  "5431372903302044085:289268182": 1,
+  "5431372903302044086:289268182": 3,
+  "5431372903302044088:289268182": 1,
+  "5431372903302044091:289268182": 1
  },
  "users": {
   "1007925524": {
