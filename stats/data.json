@@ -1,5 +1,5 @@
 {
- "offset": 33106394,
+ "offset": 33106404,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -875,6 +875,18 @@
   },
   "5431372903302043908": {
    "q": "PF-190-son Farmonga koʻra, Xorijiy ish beruvchilar ehtiyojidan kelib chiqib kasb va xorijiy tillarga oʻqitish boʻyicha b",
+   "correct": 0
+  },
+  "5431372903302043912": {
+   "q": "PQ-316-sonli Qarorga koʻra, ragʻbatlantirish toʻlovining necha foizi moddiy-texnika bazasini mustahkamlashga yoʻnaltiril",
+   "correct": 0
+  },
+  "5431372903302043913": {
+   "q": "Taʼlim toʻgʻrisidagi Qonunga koʻra, Oilada taʼlim olish qanday huquqiy asosda amalga oshiriladi?",
+   "correct": 0
+  },
+  "5431372903302043914": {
+   "q": "Yakuniy davlat attestatsiyasi boʻyicha har yili 1 yanvarga qadar kasbiy taʼlim tashkiloti tomonidan qanday hujjat imzola",
    "correct": 0
   }
  },
@@ -2740,7 +2752,12 @@
   "5431372903302043751:125126380": 2,
   "5431372903302043757:125126380": 0,
   "5431372903302043765:125126380": 2,
-  "5431372903302043771:125126380": 1
+  "5431372903302043771:125126380": 1,
+  "5431372903302043912:1045607258": 1,
+  "5431372903302043913:1045607258": 2,
+  "5431372903302043914:1045607258": 1,
+  "5431372903302043895:1007925524": 3,
+  "5431372903302043898:1007925524": 2
  },
  "users": {
   "1007925524": {
