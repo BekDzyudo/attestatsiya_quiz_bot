@@ -1,5 +1,5 @@
 """Navbatdagi quizni Telegram guruhiga yuboradi va state.json dagi hisoblagichni oshiradi."""
-import datetime, json, os, sys, urllib.error, urllib.parse, urllib.request
+import datetime, json, os, random, sys, urllib.error, urllib.parse, urllib.request
 
 TOKEN = os.environ["TELEGRAM_TOKEN"]
 CHAT = os.environ["TELEGRAM_CHAT_ID"]
@@ -24,16 +24,39 @@ except (KeyError, ValueError):
     pass
 
 
-def send_one(idx):
+def make_options(q, n):
+    """Variantlarni har safar yangidan tuzadi: asosan yangi (to'g'riga yaqin) chalg'ituvchilar,
+    toq aylanishlarda bittasi eskisidan; to'g'ri javob eng uzun variant bo'lib qolmasligi va
+    o'rni har safar tasodifiy bo'lishi ta'minlanadi."""
+    if "options" in q:  # eski format
+        return q["options"], q["correct_option_id"]
+    rnd = random.Random(n * 7919 + 17)
+    cycle = n // len(bank)
+    wrong = list(q["wrong"])
+    extra = [w for w in q.get("wrong_old", []) if w not in wrong and w != q["answer"]]
+    if cycle % 2 == 1 and extra:
+        wrong[rnd.randrange(3)] = rnd.choice(extra)
+    ans = q["answer"]
+    if max(len(w) for w in wrong) < 0.9 * len(ans):
+        pool = sorted((set(q["wrong"]) | set(q.get("wrong_old", []))) - {ans}, key=len, reverse=True)
+        if pool and pool[0] not in wrong:
+            wrong[min(range(3), key=lambda k: len(wrong[k]))] = pool[0]
+    opts = wrong + [ans]
+    rnd.shuffle(opts)
+    return opts, opts.index(ans)
+
+
+def send_one(idx, n):
     q = bank[idx]
+    options, correct = make_options(q, n)
 
     data = {
         "chat_id": CHAT,
         "question": q["question"],
-        "options": json.dumps([{"text": o} for o in q["options"]], ensure_ascii=False),
+        "options": json.dumps([{"text": o} for o in options], ensure_ascii=False),
         "type": "quiz",
         "is_anonymous": "false",
-        "correct_option_id": q["correct_option_id"],
+        "correct_option_id": correct,
         "explanation": q["explanation"],
     }
     req = urllib.request.Request(
@@ -52,7 +75,7 @@ def send_one(idx):
 sent = 0
 for _ in range(count):
     idx = state["next"] % len(bank)
-    if not send_one(idx):
+    if not send_one(idx, state["next"]):
         break
     state["next"] = idx + 1
     sent += 1
