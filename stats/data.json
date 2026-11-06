@@ -1,5 +1,5 @@
 {
- "offset": 33109236,
+ "offset": 33109254,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -1884,6 +1884,38 @@
   "5436090645703825721": {
    "q": "Yakuniy davlat attestatsiyasidan imtiyozli diplom olish uchun oʻquvchining yakuniy baholarining kamida necha foizi «5» (",
    "correct": 1
+  },
+  "5436090645703825758": {
+   "q": "PQ-316-sonli Qarorga koʻra, 5—6-sinf oʻquvchilarining kasbiy faoliyatga qiziqishlari rivojlantiriladigan dastur nomi?",
+   "correct": 1
+  },
+  "5436090645703825756": {
+   "q": "PF-190-son Farmonga koʻra, 2027 yil 1 yanvardan boshlab Namangan, Samarqand va Toshkent shaharlarida qaysi sohalar kasbl",
+   "correct": 1
+  },
+  "5436090645703825755": {
+   "q": "PQ-316-sonli Qarorga koʻra, milliy reytingda eng yuqori oʻrinni egallagan nechta texnikum ragʻbatlantiriladi?",
+   "correct": 1
+  },
+  "5436090645703825751": {
+   "q": "PQ-316-sonli Qarorga koʻra, 2030 yilga qadar xalqaro va qoʻshma taʼlim dasturlari joriy etilgan texnikumlar sonini necht",
+   "correct": 3
+  },
+  "5436090645703825747": {
+   "q": "Taʼlim toʻgʻrisidagi Qonunga koʻra, mustaqil izlanuvchilik shakli tayanch doktorantura va doktoranturadan qaysi xususiya",
+   "correct": 1
+  },
+  "5436090645703825745": {
+   "q": "PQ-316-sonli Qarorga koʻra, kasbiy taʼlim tizimidagi dual taʼlimning amaldagi ulushi necha foizga teng?",
+   "correct": 0
+  },
+  "5436090645703825743": {
+   "q": "PF-190-sonli Farmonga koʻra, Agentlik markaziy apparatining cheklangan shtatlar soni nechta?",
+   "correct": 2
+  },
+  "5436090645703825742": {
+   "q": "VMsining 106-son qarori bilan tasdiqlangan Nizomga koʻra, malaka oshirishning qanday shakllari mavjud?",
+   "correct": 3
   }
  },
  "answers": {
@@ -5148,7 +5180,16 @@
   "5436090645703825719:1007925524": 2,
   "5436090645703825719:6009117194": 2,
   "5436090645703825713:6009117194": 1,
-  "5436090645703825721:6009117194": 0
+  "5436090645703825721:6009117194": 0,
+  "5436090645703825758:1007925524": 1,
+  "5436090645703825756:1007925524": 1,
+  "5436090645703825755:1007925524": 1,
+  "5436090645703825751:1007925524": 3,
+  "5436090645703825747:1007925524": 1,
+  "5436090645703825745:1007925524": 0,
+  "5436090645703825743:1007925524": 2,
+  "5436090645703825742:1007925524": 3,
+  "5436090645703825741:1007925524": 1
  },
  "users": {
   "1007925524": {
