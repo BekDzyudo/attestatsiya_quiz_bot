@@ -1,5 +1,5 @@
 {
- "offset": 33109167,
+ "offset": 33109189,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -1835,6 +1835,34 @@
   },
   "5436090645703825696": {
    "q": "Yakuniy davlat attestatsiyasi komissiyasining tarkibi kamida necha nafardan iborat boʻladi?",
+   "correct": 2
+  },
+  "5436090645703825686": {
+   "q": "Taʼlim toʻgʻrisidagi Qonunga koʻra, Quyidagilardan qaysi biri «Taʼlim sohasidagi asosiy prinsiplar» jumlasiga kirmaydi?",
+   "correct": 2
+  },
+  "5436090645703825687": {
+   "q": "PQ-316-sonli Qarorga koʻra, Oliy taʼlim, fan va innovatsiyalar vazirligi qaror ijrosini har yili qaysi sanaga qadar moni",
+   "correct": 3
+  },
+  "5436090645703825700": {
+   "q": "PQ-316-sonli Qarorga koʻra, xorijga pedagoglarni yuborish xarajatlari qaysi jamgʻarma hisobidan qoplanadi?",
+   "correct": 0
+  },
+  "5436090645703825701": {
+   "q": "PF-190-son Farmonga koʻra, Davlat texnikumlari direktorlari va direktor oʻrinbosarlarini qanday asosda lavozimga tayinla",
+   "correct": 2
+  },
+  "5436090645703825702": {
+   "q": "PF-190-son Farmonga koʻra, Kambagʻallikni qisqartirish va bandlik vazirligi hamda Migratsiya agentligi buyurtmalari boʻy",
+   "correct": 1
+  },
+  "5436090645703825703": {
+   "q": "VMsining 106-son qarori bilan tasdiqlangan Nizomga koʻra, «muqobil malaka oshirish» qanday taʼriflangan?",
+   "correct": 3
+  },
+  "5436090645703825707": {
+   "q": "PQ-316-sonli Qarorga koʻra, imtiyozli kreditning imtiyozli davri qancha yil?",
    "correct": 2
   }
  },
@@ -5066,7 +5094,18 @@
   "5436090645703825678:1007925524": 3,
   "5436090645703825689:289268182": 2,
   "5436090645703825696:289268182": 0,
-  "5436090645703825680:1007925524": 3
+  "5436090645703825680:1007925524": 3,
+  "5436090645703825686:1007925524": 2,
+  "5436090645703825687:1007925524": 3,
+  "5436090645703825689:1007925524": 2,
+  "5436090645703825696:1007925524": 2,
+  "5436090645703825700:1007925524": 2,
+  "5436090645703825701:1007925524": 2,
+  "5436090645703825702:1007925524": 1,
+  "5436090645703825703:1007925524": 1,
+  "5436090645703825707:1007925524": 2,
+  "5436090645703825639:289268182": 3,
+  "5436090645703825640:289268182": 3
  },
  "users": {
   "1007925524": {
