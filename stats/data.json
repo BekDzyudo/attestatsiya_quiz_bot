@@ -1,5 +1,5 @@
 {
- "offset": 33109221,
+ "offset": 33109233,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -1863,6 +1863,22 @@
   },
   "5436090645703825707": {
    "q": "PQ-316-sonli Qarorga koʻra, imtiyozli kreditning imtiyozli davri qancha yil?",
+   "correct": 2
+  },
+  "5436090645703825710": {
+   "q": "PQ-316-sonli Qarorga koʻra, dual taʼlim oʻquvchilariga har oylik stipendiya qanday miqdorda toʻlanadi?",
+   "correct": 3
+  },
+  "5436090645703825713": {
+   "q": "PQ-316-sonli Qarorga koʻra, ilgʻor kasbiy mahorat texnikumlari faoliyatini moliyalashtirish va xodimlar ish haqi shartla",
+   "correct": 2
+  },
+  "5436090645703825716": {
+   "q": "Vazirlar Mahkamasining 466-son qarori bilan tasdiqlangan Nizomga koʻra, professional taʼlim muassasalarida taʼlim sifati",
+   "correct": 0
+  },
+  "5436090645703825719": {
+   "q": "PF-190-sonli Farmon yoshlarda qanday xususiyatlarni shakllantirishni maqsad qiladi?",
    "correct": 2
   }
  },
@@ -5121,7 +5137,13 @@
   "5436090645703825671:289268182": 1,
   "5436090645703825673:289268182": 2,
   "5436090645703825678:289268182": 3,
-  "5436090645703825680:289268182": 3
+  "5436090645703825680:289268182": 3,
+  "5436090645703825710:1007925524": 3,
+  "5436090645703825713:1007925524": 0,
+  "5436090645703825716:1007925524": 1,
+  "5436090645703825719:1007925524": 2,
+  "5436090645703825719:6009117194": 2,
+  "5436090645703825713:6009117194": 1
  },
  "users": {
   "1007925524": {
