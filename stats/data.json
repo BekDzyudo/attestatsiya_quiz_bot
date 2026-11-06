@@ -1,5 +1,5 @@
 {
- "offset": 33108994,
+ "offset": 33109030,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -1760,6 +1760,46 @@
   "5436090645703825627": {
    "q": "Taʼlim toʻgʻrisidagi Qonunga muvofiq Xorijiy davlatda olingan taʼlim toʻgʻrisidagi hujjat qaysi sanadan keyin olingan bo",
    "correct": 0
+  },
+  "5436090645703825653": {
+   "q": "PQ-316-sonli Qarorga koʻra, texnikum direktori oʻrinbosariga lavozim maoshining necha foizi miqdorida har oylik ustama b",
+   "correct": 2
+  },
+  "5436090645703825657": {
+   "q": "PQ-316-sonli Qarorga koʻra, kasbiy taʼlim dasturlari xalqaro standartlari asosida yangidan ishlab chiqiladigan tartib qa",
+   "correct": 0
+  },
+  "5436090645703825655": {
+   "q": "Vazirlar Mahkamasining 466-son qarori bilan tasdiqlangan Nizomga koʻra, oʻquv mashgʻulotlari uchun ikki akademik oʻquv s",
+   "correct": 0
+  },
+  "5436090645703825654": {
+   "q": "Taʼlim toʻgʻrisidagi Qonunga koʻra, Bakalavriat va magistratura bosqichlari uchun qonunda belgilangan minimal oʻqish dav",
+   "correct": 3
+  },
+  "5436090645703825652": {
+   "q": "PF-190-son Farmonga koʻra, 2027 yil 1 yanvardan boshlab Mashgʻulotlar milliy klassifikatoridagi malaka darajasiga mos di",
+   "correct": 0
+  },
+  "5436090645703825651": {
+   "q": "Taʼlim toʻgʻrisidagi Qonunga muvofiq Taʼlim tashkilotlari oʻz faoliyati tashqi baholashdan oʻtkazilishidan qancha vaqt o",
+   "correct": 0
+  },
+  "5436090645703825648": {
+   "q": "PQ-316-sonli Qarorga koʻra, imtiyozli kredit har bir milliard soʻm mablagʻ uchun kamida necha nafar oʻquvchini jalb etis",
+   "correct": 0
+  },
+  "5436090645703825647": {
+   "q": "VMsining 106-son qarori bilan tasdiqlangan Nizomga koʻra, malaka oshirish faoliyati kamida qancha hajmdagi oʻquv dasturl",
+   "correct": 3
+  },
+  "5436090645703825642": {
+   "q": "PQ-316-sonli Qarorga koʻra, 9-sinfni tamomlagan bitiruvchilar orasidan qabul qilingan oʻquvchilar qaysi manba hisobidan ",
+   "correct": 2
+  },
+  "5436090645703825640": {
+   "q": "VMsining 106-son qarori bilan tasdiqlangan Nizomga koʻra, attestatsiya komissiyasi necha kishidan iborat tarkibda tuzila",
+   "correct": 3
   }
  },
  "answers": {
@@ -4905,7 +4945,25 @@
   "5433624703115730331:672629750": 0,
   "5433624703115730332:672629750": 3,
   "5433624703115730334:672629750": 1,
-  "5433624703115730335:672629750": 2
+  "5433624703115730335:672629750": 2,
+  "5436090645703825653:1007925524": 2,
+  "5436090645703825657:1007925524": 0,
+  "5436090645703825655:1007925524": 0,
+  "5436090645703825654:1007925524": 3,
+  "5436090645703825652:1007925524": 0,
+  "5436090645703825651:1007925524": 0,
+  "5436090645703825648:1007925524": 0,
+  "5436090645703825647:1007925524": 2,
+  "5436090645703825642:1007925524": 2,
+  "5436090645703825640:1007925524": 3,
+  "5436090645703825639:1007925524": 3,
+  "5436090645703825638:1007925524": 0,
+  "5436090645703825637:1007925524": 1,
+  "5436090645703825635:1007925524": 0,
+  "5436090645703825634:1007925524": 1,
+  "5436090645703825629:1007925524": 1,
+  "5436090645703825627:1007925524": 0,
+  "5436090645703825625:1007925524": 0
  },
  "users": {
   "1007925524": {
