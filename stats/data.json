@@ -1,5 +1,5 @@
 {
- "offset": 33108454,
+ "offset": 33108462,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -1423,6 +1423,22 @@
   },
   "5433624703115730224": {
    "q": "PQ-316 sonli Qarorga koʻra, texnikumlar umumtaʼlim fanlari oʻqituvchilarining malakasi qayerda oshiriladi?",
+   "correct": 0
+  },
+  "5433624703115730228": {
+   "q": "PF-190-sonli Farmonga koʻra, diplom (malaka sertifikati)ga ega xodimlarni ishga qabul qilish tizimi qaysi klassifikator ",
+   "correct": 3
+  },
+  "5433624703115730232": {
+   "q": "PF-190-sonli Farmon qaysi sohaga oid?",
+   "correct": 0
+  },
+  "5433624703115730235": {
+   "q": "Yakuniy davlat attestatsiyasining komissiya raisligiga bitta shaxs ketma-ket bir kasbiy taʼlim tashkilotida tegishli kas",
+   "correct": 0
+  },
+  "5433624703115730239": {
+   "q": "PQ-316-sonli Qarorga koʻra, 9-sinf bitiruvchilarining kasbiy taʼlim bilan qamrovini necha foizga etkazish maqsad qilinga",
    "correct": 0
   }
  },
@@ -4300,7 +4316,11 @@
   "5433624703115730224:672629750": 0,
   "5433624703115730195:1250674189": 0,
   "5433624703115730197:1250674189": 0,
-  "5433624703115730198:1250674189": 1
+  "5433624703115730198:1250674189": 1,
+  "5433624703115730228:1007925524": 3,
+  "5433624703115730232:1007925524": 0,
+  "5433624703115730235:1007925524": 0,
+  "5433624703115730239:1007925524": 0
  },
  "users": {
   "1007925524": {
