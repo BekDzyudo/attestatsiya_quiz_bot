@@ -1,4 +1,4 @@
-# Quiz statistikasi (2026-11-06 11:30, Toshkent)
+# Quiz statistikasi (2026-11-06 11:35, Toshkent)
 
 Hisobga olingan quizlar: 373, ishtirokchilar: 12
 
@@ -6,7 +6,7 @@ Hisobga olingan quizlar: 373, ishtirokchilar: 12
 |---|---|---|---|---|---|
 | 1 | O'ktambek Umbarov (@uktambek_umbarov) | 273 | 96 | 369 | 74% |
 | 2 | Shohbek Jalilov (@bekdzyudo) | 267 | 102 | 369 | 72% |
-| 3 | Şoxbozbek Tuxtasinov (@shohboz3dx) | 219 | 83 | 302 | 73% |
+| 3 | Şoxbozbek Tuxtasinov (@shohboz3dx) | 221 | 86 | 307 | 72% |
 | 4 | Bobirbek (@siddiqovbobirbek) | 212 | 132 | 344 | 62% |
 | 5 | Doniyor Abdujalilov (@doniyorjonabdujalilov) | 180 | 148 | 328 | 55% |
 | 6 | Defcomp (@Defcomputec) | 167 | 117 | 284 | 59% |
@@ -15,6 +15,6 @@ Hisobga olingan quizlar: 373, ishtirokchilar: 12
 | 9 | Dilmurodov Karamat (@Karamat_1992) | 100 | 84 | 184 | 54% |
 | 10 | Elyor Dusnazarov (@elyordusnazarov) | 55 | 74 | 129 | 43% |
 | 11 | С.Илхом (@saydiganiyev_ilhom) | 14 | 47 | 61 | 23% |
-| 12 | Samariddin (@Samar_0208) | 10 | 12 | 22 | 45% |
+| 12 | Samariddin (@Samar_0208) | 13 | 15 | 28 | 46% |
 
 Guruh a'zolari (bot bilan): 13. Javob bergan: 12. Javob bermagan: taxminan 0.
