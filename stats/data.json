@@ -1,5 +1,5 @@
 {
- "offset": 33109348,
+ "offset": 33109390,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -1935,6 +1935,22 @@
   },
   "5436090645703825769": {
    "q": "PQ-316-sonli Qarorga koʻra, oʻquvchining umumiy mehnat stajini hisoblashda qanday davr inobatga olinadi?",
+   "correct": 1
+  },
+  "5436090645703825778": {
+   "q": "Taʼlim toʻgʻrisidagi Qonunga koʻra, umumiy oʻrta taʼlimning qaysi bosqichida va qaysi sinfdan soʻng professional tashxis",
+   "correct": 2
+  },
+  "5436090645703825776": {
+   "q": "PQ-316-sonli Qarorga koʻra, 2026/2027 oʻquv yilidan boshlab texnikum direktoriga menejerlik sertifikati asosida lavozim ",
+   "correct": 1
+  },
+  "5436090645703825774": {
+   "q": "PF-190-sonli Farmonga koʻra, Kasbiy taʼlimni rivojlantirish jamgʻarmasi mablagʻlari asosan nimaga sarflanadi?",
+   "correct": 1
+  },
+  "5436090645703825773": {
+   "q": "PQ-316 Qaroriga koʻra, «Atrofimizdagi kasblar» dasturi qaysi yoshdan boshlab bolalarda kasblar haqida ilk tasavvurlar sh",
    "correct": 1
   }
  },
@@ -5256,7 +5272,28 @@
   "5436090645703825732:289268182": 1,
   "5433624703115730389:672629750": 2,
   "5436090645703825738:289268182": 1,
-  "5433624703115730393:672629750": 1
+  "5433624703115730393:672629750": 1,
+  "5436090645703825778:1250674189": 2,
+  "5436090645703825776:1250674189": 1,
+  "5436090645703825740:289268182": 0,
+  "5436090645703825774:1250674189": 1,
+  "5436090645703825773:1250674189": 1,
+  "5433624703115730396:672629750": 0,
+  "5436090645703825769:1250674189": 1,
+  "5436090645703825767:1250674189": 0,
+  "5433624703115730397:672629750": 2,
+  "5436090645703825765:1250674189": 2,
+  "5436090645703825762:1250674189": 2,
+  "5436090645703825761:1250674189": 1,
+  "5436090645703825758:1250674189": 1,
+  "5433624703115730400:672629750": 3,
+  "5436090645703825756:1250674189": 0,
+  "5436090645703825741:289268182": 0,
+  "5433624703115730401:672629750": 1,
+  "5433624703115730402:672629750": 1,
+  "5433624703115730404:672629750": 1,
+  "5436090645703825742:289268182": 3,
+  "5433624703115730407:672629750": 3
  },
  "users": {
   "1007925524": {
