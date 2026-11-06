@@ -1,5 +1,5 @@
 {
- "offset": 33108926,
+ "offset": 33108934,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -1708,6 +1708,22 @@
   "5436090645703825597": {
    "q": "PQ-316-sonli Qarorga koʻra, texnikumlarda bir nafar ishlab chiqarish taʼlimi ustasiga toʻgʻri keladigan oʻquvchilar soni",
    "correct": 1
+  },
+  "5436090645703825603": {
+   "q": "VMsining 106-son qarori bilan tasdiqlangan Nizomga koʻra, qayta tayyorlashda auditoriya mashgʻulotlarining eng koʻp hajm",
+   "correct": 1
+  },
+  "5436090645703825604": {
+   "q": "VMsining 106-son qarori bilan tasdiqlangan Nizomga koʻra, qayta tayyorlash oʻquv guruhlari qoidaga koʻra necha nafargach",
+   "correct": 2
+  },
+  "5436090645703825607": {
+   "q": "PQ-316-sonli Qarorga koʻra, 2026 yildan boshlab qaysi sana «Kasb va mehnat kuni» sifatida keng nishonlanadi?",
+   "correct": 2
+  },
+  "5436090645703825609": {
+   "q": "PQ-316-sonli Qarorga koʻra, «Kasbiy mahorat milliy tanlovi» oʻtkaziladigan kasblar soni nechta?",
+   "correct": 0
   }
  },
  "answers": {
@@ -4819,7 +4835,11 @@
   "5436090645703825591:289268182": 3,
   "5436090645703825594:289268182": 1,
   "5436090645703825596:289268182": 3,
-  "5436090645703825597:289268182": 1
+  "5436090645703825597:289268182": 1,
+  "5436090645703825603:289268182": 1,
+  "5436090645703825604:289268182": 2,
+  "5436090645703825607:289268182": 2,
+  "5436090645703825609:289268182": 0
  },
  "users": {
   "1007925524": {
