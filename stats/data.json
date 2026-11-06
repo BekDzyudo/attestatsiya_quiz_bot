@@ -1,5 +1,5 @@
 {
- "offset": 33108683,
+ "offset": 33108709,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -1523,6 +1523,22 @@
   },
   "5433624703115730302": {
    "q": "VMsining 106-son qarori bilan tasdiqlangan Nizomga koʻra, qayta tayyorlashda oʻquv yuklamasining eng koʻp hajmi har haft",
+   "correct": 1
+  },
+  "5433624703115730305": {
+   "q": "PF-190-sonli Farmonda belgilangan asosiy maqsad nima?",
+   "correct": 3
+  },
+  "5433624703115730306": {
+   "q": "Yakuniy davlat attestatsiyasidagi apellyatsiya komissiyasi bitiruvchining shikoyatini necha ish kuni ichida koʻrib chiqa",
+   "correct": 3
+  },
+  "5433624703115730310": {
+   "q": "Vazirlar Mahkamasining 466-son qarori bilan tasdiqlangan Nizomga koʻra, «texnikum» qanday taʼlim muassasasi sifatida taʼ",
+   "correct": 1
+  },
+  "5433624703115730312": {
+   "q": "Kasbiy taʼlim tashkilotining oʻquv dasturlarini toʻliq tugatgan, lekin attestatsiyada qatnashmagan bitiruvchilar komissi",
    "correct": 1
   }
  },
@@ -4514,7 +4530,20 @@
   "5433624703115730295:672629750": 2,
   "5433624703115730297:672629750": 0,
   "5433624703115730298:672629750": 0,
-  "5433624703115730302:672629750": 0
+  "5433624703115730302:672629750": 0,
+  "5433624703115730305:672629750": 3,
+  "5433624703115730306:672629750": 3,
+  "5433624703115730310:672629750": 1,
+  "5433624703115730312:672629750": 3,
+  "5433624703115730305:289268182": 3,
+  "5433624703115730312:1007925524": 3,
+  "5433624703115730306:1007925524": 3,
+  "5433624703115730305:1007925524": 2,
+  "5433624703115730302:1007925524": 0,
+  "5433624703115730298:1007925524": 2,
+  "5433624703115730297:1007925524": 0,
+  "5433624703115730306:289268182": 3,
+  "5433624703115730295:1007925524": 2
  },
  "users": {
   "1007925524": {
