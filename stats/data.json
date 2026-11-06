@@ -1,5 +1,5 @@
 {
- "offset": 33108876,
+ "offset": 33108908,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -1656,6 +1656,46 @@
   "5433624703115730397": {
    "q": "Yakuniy davlat attestatsiyasida bitiruvchi «2» (qoniqarsiz) baho olgan taqdirda, u shu oʻquv yilida tegishli imtihonni n",
    "correct": 3
+  },
+  "5435876502929414186": {
+   "q": "PF-190-son Farmonga nechta ilova mavjud?",
+   "correct": 1
+  },
+  "5436090645703825591": {
+   "q": "PQ-316-sonli Qarorga koʻra, menejerlik oʻquv kursining oʻquv rejasi va dasturlari A. Avloniy nomidagi Pedagogik mahorat ",
+   "correct": 3
+  },
+  "5435876502929414223": {
+   "q": "PQ-316-sonli Qarorga koʻra, ilgʻor kasbiy mahorat texnikumlaridagi malaka oshirish kurslarini qaysi tashkilot tashkil et",
+   "correct": 3
+  },
+  "5435876502929414216": {
+   "q": "PQ-316-sonli Qarorga koʻra, 2026 yil 1 yanvardan boshlab ishlab chiqarish taʼlimi ustasining bazaviy tarif stavkasi kimn",
+   "correct": 1
+  },
+  "5435876502929414212": {
+   "q": "Kasbiy taʼlim tashkilotlaridagi yakuniy davlat attestatsiyasida boshlangʻich kasbiy taʼlim boʻyicha davlat imtihoni qays",
+   "correct": 0
+  },
+  "5435876502929414207": {
+   "q": "Taʼlim toʻgʻrisidagi Qonunga muvofiq Quyidagilardan qaysi biri taʼlim oluvchilarning majburiyatlari jumlasiga KIRMAYDI?",
+   "correct": 1
+  },
+  "5435876502929414205": {
+   "q": "PQ-316-sonli Qarorga koʻra, Hisob palatasi har yili qaysi sanaga qadar Prezident Administratsiyasiga axborot kiritib bor",
+   "correct": 0
+  },
+  "5435876502929414191": {
+   "q": "Yakuniy davlat attestatsiyasida koʻrgazmali-amaliy imtihon natijalari boʻyicha komissiya tomonidan qanday hujjat rasmiyl",
+   "correct": 0
+  },
+  "5435876502929414203": {
+   "q": "PF-190-son Farmonga koʻra, «Vaucher» tizimi bilan qamrab olinmagan shaxslarni kasbga oʻqitish boʻyicha buyurtmalarni kim",
+   "correct": 3
+  },
+  "5435876502929414200": {
+   "q": "PQ-316-sonli Qarorga koʻra, ragʻbatlantirish toʻlovining necha foizi rahbar va xodimlarni moddiy ragʻbatlantirishga yoʻn",
+   "correct": 0
   }
  },
  "answers": {
@@ -4742,7 +4782,23 @@
   "5433624703115730426:289268182": 0,
   "5435876502929414167:289268182": 0,
   "5435876502929414161:289268182": 0,
-  "5435876502929414175:289268182": 0
+  "5435876502929414175:289268182": 0,
+  "5435876502929414183:289268182": 0,
+  "5435876502929414185:289268182": 1,
+  "5433624703115730187:125126380": 1,
+  "5435876502929414186:289268182": 1,
+  "5436090645703825591:125126380": 3,
+  "5435876502929414223:125126380": 3,
+  "5435876502929414216:125126380": 3,
+  "5435876502929414212:125126380": 2,
+  "5435876502929414207:125126380": 0,
+  "5435876502929414205:125126380": 0,
+  "5435876502929414191:289268182": 0,
+  "5435876502929414203:125126380": 2,
+  "5435876502929414200:289268182": 0,
+  "5435876502929414200:125126380": 1,
+  "5435876502929414191:125126380": 3,
+  "5435876502929414203:289268182": 1
  },
  "users": {
   "1007925524": {
