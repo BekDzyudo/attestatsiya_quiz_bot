@@ -1,5 +1,5 @@
 {
- "offset": 33109148,
+ "offset": 33109155,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -1812,6 +1812,14 @@
   "5436090645703825667": {
    "q": "PF-190-sonli Farmonga koʻra, kasbiy taʼlimda «hayot davomida oʻqish» tamoyili qaysi yoʻnalish doirasida tatbiq etiladi?",
    "correct": 3
+  },
+  "5436090645703825671": {
+   "q": "Yakuniy davlat attestatsiyasi komissiyasining asosiy vazifalari nimadan iborat?",
+   "correct": 1
+  },
+  "5436090645703825673": {
+   "q": "Yakuniy davlat attestatsiyasining asosiy maqsadi nimadan iborat?",
+   "correct": 2
   }
  },
  "answers": {
@@ -5034,7 +5042,10 @@
   "5435876502929414212:1007925524": 0,
   "5435876502929414216:1007925524": 1,
   "5436090645703825660:1007925524": 1,
-  "5436090645703825662:1007925524": 0
+  "5436090645703825662:1007925524": 0,
+  "5436090645703825667:1007925524": 3,
+  "5436090645703825671:1007925524": 1,
+  "5436090645703825673:1007925524": 2
  },
  "users": {
   "1007925524": {
