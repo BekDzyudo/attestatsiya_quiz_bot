@@ -1,5 +1,5 @@
 {
- "offset": 33108807,
+ "offset": 33108830,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -1608,6 +1608,42 @@
   "5433624703115730372": {
    "q": "Yakuniy davlat attestatsiyasi (YaDA) qayerlarda oʻtkazilishi mumkin?",
    "correct": 3
+  },
+  "5433624703115730371": {
+   "q": "Taʼlim toʻgʻrisidagi Qonunga koʻra, davlat taʼlim muassasalarining operativ boshqaruvida boʻlgan binolar, inshootlar, oʻ",
+   "correct": 0
+  },
+  "5433624703115730373": {
+   "q": "PQ-316-sonli Qarorga koʻra, qaysi yilga qadar texnikumlar faoliyatini tugatish, ularga tegishli yer uchastkalari hamda b",
+   "correct": 2
+  },
+  "5433624703115730375": {
+   "q": "Yakuniy davlat attestatsiyasida Oʻzbekiston tarixi fanidan davlat imtihonini qaysi oʻqituvchilar oʻtkaza oladi?",
+   "correct": 2
+  },
+  "5433624703115730378": {
+   "q": "VMsining 106-son qarori bilan tasdiqlangan Nizomga koʻra, malaka oshirish kurslaridagi oʻquv jarayoni tinglovchilar soni",
+   "correct": 2
+  },
+  "5433624703115730379": {
+   "q": "PQ-316-sonli Qarorga koʻra, 2028 yildan boshlab kasbiy taʼlim dasturlari sifatini qaysi organ tanlov asosida oʻrganadi?",
+   "correct": 1
+  },
+  "5433624703115730382": {
+   "q": "Taʼlim toʻgʻrisidagi Qonunga koʻra, Oʻrta maxsus professional taʼlim qayerda amalga oshiriladi va uning minimal davomiyl",
+   "correct": 2
+  },
+  "5433624703115730385": {
+   "q": "Yakuniy davlat attestatsiyasida test topshiriqlari toʻgʻri bajarilganligining necha foizidan past koʻrsatkichi uchun «2»",
+   "correct": 0
+  },
+  "5433624703115730387": {
+   "q": "PF-190-sonli Farmonga koʻra, bitiruvchilar bandligini taʼminlash, texnikumlar ixtisoslashuvi va dasturlar mazmunini tako",
+   "correct": 1
+  },
+  "5433624703115730389": {
+   "q": "125-son (roʻyxat raqami 2431-3) buyruq bilan 45-bandning yangi tahririda keltirilgan Vazirlar Mahkamasining 466-son qaro",
+   "correct": 2
   }
  },
  "answers": {
@@ -4660,7 +4696,18 @@
   "5433624703115730352:1007925524": 2,
   "5433624703115730354:1007925524": 1,
   "5433624703115730364:1007925524": 0,
-  "5433624703115730368:1007925524": 3
+  "5433624703115730368:1007925524": 3,
+  "5433624703115730369:1007925524": 1,
+  "5433624703115730371:1007925524": 0,
+  "5433624703115730372:1007925524": 3,
+  "5433624703115730373:1007925524": 2,
+  "5433624703115730375:1007925524": 2,
+  "5433624703115730378:1007925524": 2,
+  "5433624703115730379:1007925524": 1,
+  "5433624703115730382:1007925524": 2,
+  "5433624703115730385:1007925524": 1,
+  "5433624703115730387:1007925524": 3,
+  "5433624703115730389:1007925524": 2
  },
  "users": {
   "1007925524": {
