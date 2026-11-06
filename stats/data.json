@@ -1,5 +1,5 @@
 {
- "offset": 33108350,
+ "offset": 33108358,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -1379,6 +1379,10 @@
   },
   "5433624703115730179": {
    "q": "Yakuniy davlat attestatsiyasida test topshiriqlarini kim tomonidan ishlab chiqiladi?",
+   "correct": 2
+  },
+  "5433624703115730181": {
+   "q": "PQ-316-sonli Qarorga koʻra, «yoʻl xaritasi» qaysi yillar uchun ishlab chiqilgan?",
    "correct": 2
   }
  },
@@ -4204,7 +4208,11 @@
   "5433624703115729844:6009117194": 3,
   "5433624703115729846:6009117194": 3,
   "5433624703115730179:1045607258": 0,
-  "5433624703115729852:6009117194": 1
+  "5433624703115729852:6009117194": 1,
+  "5433624703115729853:6009117194": 3,
+  "5433624703115729858:6009117194": 1,
+  "5433624703115729865:6009117194": 2,
+  "5433624703115730181:672629750": 2
  },
  "users": {
   "1007925524": {
