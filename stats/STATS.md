@@ -1,4 +1,4 @@
-# Quiz statistikasi (2026-11-06 08:45, Toshkent)
+# Quiz statistikasi (2026-11-06 08:50, Toshkent)
 
 Hisobga olingan quizlar: 343, ishtirokchilar: 12
 
@@ -6,7 +6,7 @@ Hisobga olingan quizlar: 343, ishtirokchilar: 12
 |---|---|---|---|---|---|
 | 1 | O'ktambek Umbarov (@uktambek_umbarov) | 248 | 92 | 340 | 73% |
 | 2 | Shohbek Jalilov (@bekdzyudo) | 244 | 95 | 339 | 72% |
-| 3 | Şoxbozbek Tuxtasinov (@shohboz3dx) | 212 | 79 | 291 | 73% |
+| 3 | Şoxbozbek Tuxtasinov (@shohboz3dx) | 212 | 80 | 292 | 73% |
 | 4 | Bobirbek (@siddiqovbobirbek) | 208 | 126 | 334 | 62% |
 | 5 | Defcomp (@Defcomputec) | 167 | 117 | 284 | 59% |
 | 6 | MK | 162 | 161 | 323 | 50% |
