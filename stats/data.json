@@ -1,5 +1,5 @@
 {
- "offset": 33108940,
+ "offset": 33108976,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -1736,6 +1736,30 @@
   "5436090645703825625": {
    "q": "PQ-316 sonli Qarorga koʻra, texnikumlar maxsus fan oʻqituvchilarining malakasi qayerda oshiriladi?",
    "correct": 2
+  },
+  "5436090645703825637": {
+   "q": "PQ-316-sonli Qarorga koʻra, texnikumlarda bir nafar ishlab chiqarish taʼlimi ustasiga eng koʻpi bilan necha nafar oʻquvc",
+   "correct": 1
+  },
+  "5436090645703825638": {
+   "q": "Vazirlar Mahkamasining 466-son qarori bilan tasdiqlangan Nizomga koʻra, guruhdagi oʻquvchilar soni necha nafar va undan ",
+   "correct": 0
+  },
+  "5436090645703825635": {
+   "q": "Vazirlar Mahkamasining 466-son qarori bilan tasdiqlangan Nizomga koʻra, «oʻqitishning dual tizimi» atamasi nimani anglat",
+   "correct": 0
+  },
+  "5436090645703825634": {
+   "q": "PQ-316-sonli Qarorga koʻra, davlat organlariga texnikumlarni qaysi tadbirlarga jalb qilish taqiqlangan?",
+   "correct": 1
+  },
+  "5436090645703825629": {
+   "q": "Vazirlar Mahkamasining 466-son qarori bilan tasdiqlangan Nizomga koʻra, professional taʼlim muassasalarida qoʻshimcha oʻ",
+   "correct": 1
+  },
+  "5436090645703825627": {
+   "q": "Taʼlim toʻgʻrisidagi Qonunga muvofiq Xorijiy davlatda olingan taʼlim toʻgʻrisidagi hujjat qaysi sanadan keyin olingan bo",
+   "correct": 0
   }
  },
  "answers": {
@@ -4854,7 +4878,25 @@
   "5436090645703825609:289268182": 0,
   "5436090645703825616:289268182": 1,
   "5436090645703825623:289268182": 1,
-  "5436090645703825625:289268182": 2
+  "5436090645703825625:289268182": 2,
+  "5436090645703825637:125126380": 1,
+  "5436090645703825638:125126380": 1,
+  "5436090645703825635:125126380": 3,
+  "5436090645703825634:125126380": 2,
+  "5436090645703825629:125126380": 1,
+  "5436090645703825627:125126380": 0,
+  "5436090645703825627:289268182": 0,
+  "5436090645703825625:125126380": 2,
+  "5436090645703825623:125126380": 1,
+  "5436090645703825616:125126380": 1,
+  "5436090645703825609:125126380": 0,
+  "5436090645703825607:125126380": 2,
+  "5436090645703825604:125126380": 2,
+  "5436090645703825603:125126380": 1,
+  "5436090645703825629:289268182": 1,
+  "5436090645703825597:125126380": 1,
+  "5436090645703825596:125126380": 0,
+  "5436090645703825594:125126380": 1
  },
  "users": {
   "1007925524": {
