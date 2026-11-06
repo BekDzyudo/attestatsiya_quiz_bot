@@ -1,5 +1,5 @@
 {
- "offset": 33108440,
+ "offset": 33108448,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -1420,6 +1420,10 @@
   "5433624703115730202": {
    "q": "Yakuniy davlat attestatsiyasida oʻrta va oʻrta maxsus kasbiy taʼlim boʻyicha davlat imtihoni qaysi fanlardan test shakli",
    "correct": 1
+  },
+  "5433624703115730224": {
+   "q": "PQ-316 sonli Qarorga koʻra, texnikumlar umumtaʼlim fanlari oʻqituvchilarining malakasi qayerda oshiriladi?",
+   "correct": 0
   }
  },
  "answers": {
@@ -4289,7 +4293,11 @@
   "5433624703115730198:672629750": 2,
   "5433624703115730199:672629750": 3,
   "5433624703115730202:672629750": 2,
-  "5433624703115730199:1007925524": 3
+  "5433624703115730199:1007925524": 3,
+  "5433624703115730202:1007925524": 1,
+  "5433624703115730198:1007925524": 2,
+  "5433624703115730224:1007925524": 0,
+  "5433624703115730224:672629750": 0
  },
  "users": {
   "1007925524": {
