@@ -1,5 +1,5 @@
 {
- "offset": 33108541,
+ "offset": 33108577,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -1476,6 +1476,22 @@
   "5433624703115730264": {
    "q": "PF-190-son Farmonga koʻra, Davlat texnikumlari mutaxassislarni qanday asosda jalb qiladi?",
    "correct": 0
+  },
+  "5433624703115730265": {
+   "q": "PF-190-sonli Farmonga koʻra, davlat organlari va tashkilotlari kasbga oʻqitish buyurtmalarini qayerga joylashtirish huqu",
+   "correct": 1
+  },
+  "5433624703115730268": {
+   "q": "Taʼlim toʻgʻrisidagi Qonunga koʻra, Taʼlim tashkilotini boshqarishni quyidagilardan qaysilari amalga oshiradi?",
+   "correct": 3
+  },
+  "5433624703115730271": {
+   "q": "Taʼlim toʻgʻrisidagi Qonunga muvofiq Oʻzbekiston Respublikasida taʼlim turlari soni va roʻyxatdagi birinchi taʼlim turi ",
+   "correct": 0
+  },
+  "5433624703115730275": {
+   "q": "PQ-316-sonli Qarorga koʻra, kasbiy taʼlim tizimini isloh qilishning asosiy maqsadli koʻrsatkichlari qaysi yilga qadar be",
+   "correct": 1
   }
  },
  "answers": {
@@ -4395,7 +4411,25 @@
   "5433624703115730264:672629750": 0,
   "5424918052787461978:262746859": 0,
   "5424918052787461980:262746859": 0,
-  "5424918052787461989:262746859": 3
+  "5424918052787461989:262746859": 3,
+  "5433624703115730189:289268182": 0,
+  "5433624703115730265:672629750": 1,
+  "5433624703115730190:289268182": 0,
+  "5424918052787461995:262746859": 3,
+  "5433624703115730265:1007925524": 2,
+  "5424918052787461997:262746859": 3,
+  "5433624703115730268:1007925524": 3,
+  "5433624703115730191:289268182": 0,
+  "5433624703115730271:1007925524": 0,
+  "5433624703115730268:672629750": 1,
+  "5433624703115730275:1007925524": 1,
+  "5433624703115730195:289268182": 3,
+  "5424918052787462041:262746859": 0,
+  "5433624703115730271:672629750": 0,
+  "5433624703115730197:289268182": 0,
+  "5433624703115730275:672629750": 1,
+  "5424918052787462051:262746859": 0,
+  "5433624703115730198:289268182": 2
  },
  "users": {
   "1007925524": {
