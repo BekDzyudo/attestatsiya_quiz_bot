@@ -1,5 +1,5 @@
 {
- "offset": 33108761,
+ "offset": 33108767,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -1591,6 +1591,18 @@
   },
   "5433624703115730351": {
    "q": "VMsining 106-son qarori bilan tasdiqlangan Nizomga koʻra, malaka oshirish kurslari tinglovchilari 3 yilda kamida qancha ",
+   "correct": 3
+  },
+  "5433624703115730352": {
+   "q": "PQ-316-sonli Qarorga koʻra, 2030 yilga qadar kasbiy taʼlim tizimini isloh qilish boʻyicha nechta asosiy maqsadli koʻrsat",
+   "correct": 2
+  },
+  "5433624703115730354": {
+   "q": "PQ-316-sonli Qarorga koʻra, maxsus fan oʻqituvchilarining malaka oshirish rejasini kim tasdiqlaydi?",
+   "correct": 2
+  },
+  "5433624703115730368": {
+   "q": "PF-190-son Farmonga koʻra, Davlat texnikumlari taʼlim xizmatlari narxini nimaga asoslanib belgilaydi?",
    "correct": 3
   }
  },
@@ -4621,7 +4633,10 @@
   "5433624703115730339:289268182": 1,
   "5433624703115730342:289268182": 1,
   "5433624703115730347:289268182": 0,
-  "5433624703115730351:289268182": 3
+  "5433624703115730351:289268182": 3,
+  "5433624703115730352:289268182": 2,
+  "5433624703115730354:289268182": 2,
+  "5433624703115730368:289268182": 0
  },
  "users": {
   "1007925524": {
