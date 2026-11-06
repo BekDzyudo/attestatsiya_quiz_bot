@@ -1,6 +1,6 @@
-# Quiz statistikasi (2026-11-06 13:10, Toshkent)
+# Quiz statistikasi (2026-11-06 13:15, Toshkent)
 
-Hisobga olingan quizlar: 390, ishtirokchilar: 12
+Hisobga olingan quizlar: 391, ishtirokchilar: 12
 
 | # | Ishtirokchi | To'g'ri | Noto'g'ri | Jami | Natija |
 |---|---|---|---|---|---|
@@ -15,6 +15,6 @@ Hisobga olingan quizlar: 390, ishtirokchilar: 12
 | 9 | Dilmurodov Karamat (@Karamat_1992) | 100 | 84 | 184 | 54% |
 | 10 | Elyor Dusnazarov (@elyordusnazarov) | 55 | 74 | 129 | 43% |
 | 11 | Samariddin (@Samar_0208) | 15 | 21 | 36 | 42% |
-| 12 | С.Илхом (@saydiganiyev_ilhom) | 14 | 47 | 61 | 23% |
+| 12 | С.Илхом (@saydiganiyev_ilhom) | 14 | 49 | 63 | 22% |
 
 Guruh a'zolari (bot bilan): 13. Javob bergan: 12. Javob bermagan: taxminan 0.
