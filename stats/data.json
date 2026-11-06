@@ -1,5 +1,5 @@
 {
- "offset": 33109268,
+ "offset": 33109270,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -1923,6 +1923,10 @@
   },
   "5436090645703825762": {
    "q": "Yakuniy davlat attestatsiyasida test topshiriqlari bajarilgandan soʻng javoblarni javoblar varaqasiga koʻchirish uchun n",
+   "correct": 2
+  },
+  "5436090645703825765": {
+   "q": "Yakuniy davlat attestatsiyasi jarayonlari ota-onalar va kuzatuvchilar uchun qanday tartibda tashkil etiladi?",
    "correct": 2
   }
  },
@@ -5204,7 +5208,8 @@
   "5436090645703825721:1007925524": 1,
   "5436090645703825727:1007925524": 2,
   "5436090645703825761:1007925524": 1,
-  "5436090645703825762:1007925524": 2
+  "5436090645703825762:1007925524": 2,
+  "5436090645703825765:1007925524": 2
  },
  "users": {
   "1007925524": {
