@@ -1,5 +1,5 @@
 {
- "offset": 33109888,
+ "offset": 33109898,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -2024,6 +2024,26 @@
   "5438342445517510862": {
    "q": "Taʼlim toʻgʻrisidagi Qonunga muvofiq Taʼlim oluvchilarning huquqlari jumlasiga KIRMAYDIGAN variant:",
    "correct": 1
+  },
+  "5438342445517510870": {
+   "q": "PF-190-sonli Farmonga koʻra, hududiy tadbirkorlar kengashi tarkibiga kimlar kiritiladi?",
+   "correct": 1
+  },
+  "5438342445517510873": {
+   "q": "Taʼlim toʻgʻrisidagi Qonunga koʻra, falsafa doktori (PhD) ilmiy darajasiga daʼvogar izlanuvchilar uchun ishlab chiqarish",
+   "correct": 0
+  },
+  "5438342445517510874": {
+   "q": "Vazirlar Mahkamasining 466-son qarori bilan tasdiqlangan Nizomga koʻra, oʻrta professional taʼlimda oʻquvchilarning umum",
+   "correct": 2
+  },
+  "5438342445517510875": {
+   "q": "Taʼlim toʻgʻrisidagi Qonunga koʻra, professional taʼlim egallanadigan kasb va mutaxassislik boʻyicha qanday darajalarni ",
+   "correct": 1
+  },
+  "5438342445517510876": {
+   "q": "PF-190-sonli Farmonga koʻra, 2026 yildan boshlab har yili Kasbiy taʼlimni rivojlantirish jamgʻarmasiga respublika byudje",
+   "correct": 2
   }
  },
  "answers": {
@@ -5614,7 +5634,12 @@
   "5438342445517510860:1007925524": 0,
   "5438342445517510862:672629750": 1,
   "5438342445517510867:672629750": 2,
-  "5438342445517510868:672629750": 0
+  "5438342445517510868:672629750": 0,
+  "5438342445517510870:672629750": 1,
+  "5438342445517510873:672629750": 0,
+  "5438342445517510874:672629750": 2,
+  "5438342445517510875:672629750": 1,
+  "5438342445517510876:672629750": 2
  },
  "users": {
   "1007925524": {
