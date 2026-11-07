@@ -1,4 +1,4 @@
-# Quiz statistikasi (2026-11-07 19:30, Toshkent)
+# Quiz statistikasi (2026-11-07 20:00, Toshkent)
 
 Hisobga olingan quizlar: 568, ishtirokchilar: 12
 
@@ -14,7 +14,7 @@ Hisobga olingan quizlar: 568, ishtirokchilar: 12
 | 8 | D.B. Tojiyev (@dextor_07) | 101 | 91 | 192 | 53% |
 | 9 | Dilmurodov Karamat (@Karamat_1992) | 100 | 84 | 184 | 54% |
 | 10 | Elyor Dusnazarov (@elyordusnazarov) | 55 | 75 | 130 | 42% |
-| 11 | Samariddin (@Samar_0208) | 43 | 47 | 90 | 48% |
+| 11 | Samariddin (@Samar_0208) | 47 | 53 | 100 | 47% |
 | 12 | С.Илхом (@saydiganiyev_ilhom) | 18 | 64 | 82 | 22% |
 
 Guruh a'zolari (bot bilan): 13. Javob bergan: 12. Javob bermagan: taxminan 0.
