@@ -1,5 +1,5 @@
 {
- "offset": 33109856,
+ "offset": 33109860,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -1991,6 +1991,14 @@
   },
   "5436090645703825793": {
    "q": "PF-190-sonli Farmonga koʻra, buyurtma boʻyicha toʻlangan mablagʻlar davlat texnikumlarining qaysi hisob raqamiga oʻtkazi",
+   "correct": 3
+  },
+  "5438342445517510851": {
+   "q": "VMsining 106-son qarori bilan tasdiqlangan Nizomga koʻra, qayta tayyorlashning davomiyligi kamida qancha etib belgilanga",
+   "correct": 1
+  },
+  "5438342445517510853": {
+   "q": "Yakuniy davlat attestatsiyasida test topshiriqlari jami necha savoldan iborat boʻladi hamda ularni bajarish uchun necha ",
    "correct": 3
   }
  },
@@ -5566,7 +5574,9 @@
   "5436090645703825793:289268182": 3,
   "5436090645703825784:125126380": 0,
   "5436090645703825785:125126380": 0,
-  "5436090645703825787:125126380": 2
+  "5436090645703825787:125126380": 2,
+  "5438342445517510851:1007925524": 1,
+  "5438342445517510853:1007925524": 3
  },
  "users": {
   "1007925524": {
