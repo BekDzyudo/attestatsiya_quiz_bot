@@ -1,5 +1,5 @@
 {
- "offset": 33110166,
+ "offset": 33110188,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -2208,6 +2208,38 @@
   "5438342445517510984": {
    "q": "VMsining 106-son qarori bilan tasdiqlangan Nizomga koʻra, «masofaviy qayta tayyorlash va malaka oshirish» atamasi nimani",
    "correct": 2
+  },
+  "5438342445517511013": {
+   "q": "PQ-316-sonli Qarorga koʻra, qaror ijrosini nazorat qilish boʻyicha Hisob palatasi qaysi organ bilan birgalikda ish olib ",
+   "correct": 2
+  },
+  "5438342445517511011": {
+   "q": "Vazirlar Mahkamasining 466-son qarori bilan tasdiqlangan Nizomga koʻra, professional taʼlim muassasasida oʻquvchilar gur",
+   "correct": 3
+  },
+  "5438342445517511010": {
+   "q": "PQ-316-sonli Qarorga koʻra, dual taʼlim rejasidagi oʻquvchining kasbiy koʻnikmalar hamda intizomi qoniqarsiz baholangand",
+   "correct": 3
+  },
+  "5438342445517511006": {
+   "q": "PQ-316-sonli Qarorga koʻra, dual taʼlim dasturlarini tashkil etgan ish beruvchilarga beriladigan imtiyozli kreditning en",
+   "correct": 0
+  },
+  "5438342445517511003": {
+   "q": "Vazirlar Mahkamasining 466-son qarori bilan tasdiqlangan Nizomga koʻra, oʻrta maxsus professional taʼlim dasturlarida oʻ",
+   "correct": 2
+  },
+  "5438342445517510999": {
+   "q": "PF-190-sonli Farmonga koʻra, norasmiy, informal taʼlim hamda amaliy tajriba asosida egallangan koʻnikmalar qanday usulda",
+   "correct": 1
+  },
+  "5438342445517510997": {
+   "q": "PQ-316-sonli Qarorga koʻra, 1—4-sinf oʻquvchilariga turli kasblar ahamiyati haqida tushunchalar beriladigan dastur nomi?",
+   "correct": 3
+  },
+  "5438342445517510996": {
+   "q": "VMsining 106-son qarori bilan tasdiqlangan Nizomga koʻra, malaka oshirishning bir haftalik auditoriya oʻquv yuklamasinin",
+   "correct": 0
   }
  },
  "answers": {
@@ -5937,7 +5969,18 @@
   "5427293655033454248:262746859": 0,
   "5427293655033454253:262746859": 3,
   "5427293655033454256:262746859": 3,
-  "5427293655033454258:262746859": 0
+  "5427293655033454258:262746859": 0,
+  "5427293655033454259:262746859": 2,
+  "5438342445517511013:125126380": 2,
+  "5427293655033454264:262746859": 3,
+  "5438342445517511011:125126380": 0,
+  "5438342445517511010:125126380": 3,
+  "5438342445517511006:125126380": 2,
+  "5438342445517511003:125126380": 0,
+  "5438342445517510999:125126380": 3,
+  "5438342445517510997:125126380": 3,
+  "5438342445517510996:125126380": 0,
+  "5438342445517510993:125126380": 1
  },
  "users": {
   "1007925524": {
