@@ -1,5 +1,5 @@
 {
- "offset": 33110064,
+ "offset": 33110090,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -2160,6 +2160,34 @@
   "5438342445517510934": {
    "q": "PQ-316-sonli Qarorga koʻra, texnikumlarni saqlash xarajatlari qachondan boshlab Davlat byudjeti va toʻlov-kontrakt hisob",
    "correct": 2
+  },
+  "5438342445517510978": {
+   "q": "Taʼlim toʻgʻrisidagi Qonunga muvofiq Taʼlim tashkilotining rasmiy veb-saytidagi axborotning ishonchliligi uchun kim shax",
+   "correct": 0
+  },
+  "5438342445517510974": {
+   "q": "PQ-316-sonli Qarorga koʻra, ilgʻor kasbiy mahorat texnikumlari binolarini qurish, rekonstruksiya qilish va taʼmirlash is",
+   "correct": 2
+  },
+  "5438342445517510970": {
+   "q": "Taʼlim toʻgʻrisidagi Qonunga koʻra, masofaviy taʼlimni tashkil etish tartibini qaysi organ belgilaydi?",
+   "correct": 1
+  },
+  "5438342445517510967": {
+   "q": "Taʼlim toʻgʻrisidagi Qonunga koʻra, Oʻzbekiston Respublikasi Vazirlar Mahkamasi taʼlim sohasida quyidagi vakolatlardan q",
+   "correct": 3
+  },
+  "5438342445517510966": {
+   "q": "VMsining 106-son qarori bilan tasdiqlangan Nizomga koʻra, malaka oshirishda tinglovchi oʻquv mashgʻulotlarini uzrli saba",
+   "correct": 1
+  },
+  "5438342445517510962": {
+   "q": "PQ-316-sonli Qarorga koʻra, 1:20 normativi 2026/2027 oʻquv yilida nechta texnikumda joriy etiladi?",
+   "correct": 3
+  },
+  "5438342445517510953": {
+   "q": "PQ-316-sonli Qarorga koʻra, kasbiy taʼlim tizimini isloh qilishning asosiy maqsadli koʻrsatkichlari qaysi yilga qadar be",
+   "correct": 1
   }
  },
  "answers": {
@@ -5838,7 +5866,20 @@
   "5438342445517510931:672629750": 0,
   "5438342445517510932:672629750": 1,
   "5438342445517510933:672629750": 3,
-  "5438342445517510934:672629750": 2
+  "5438342445517510934:672629750": 2,
+  "5438342445517510978:1007925524": 0,
+  "5436090645703825783:1250674189": 1,
+  "5438342445517510974:1007925524": 2,
+  "5436090645703825784:1250674189": 0,
+  "5436090645703825785:1250674189": 0,
+  "5436090645703825787:1250674189": 3,
+  "5436090645703825789:1250674189": 2,
+  "5438342445517510970:1007925524": 1,
+  "5436090645703825790:1250674189": 3,
+  "5438342445517510967:1007925524": 0,
+  "5438342445517510966:1007925524": 2,
+  "5438342445517510962:1007925524": 3,
+  "5438342445517510953:1007925524": 1
  },
  "users": {
   "1007925524": {
