@@ -1,5 +1,5 @@
 {
- "offset": 33110034,
+ "offset": 33110056,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -2124,6 +2124,26 @@
   "5438342445517510912": {
    "q": "PF-190-son Farmonga koʻra, Migratsiya agentligi buyurtmalari qaysi jamgʻarma hisobidan moliyalashtiriladi?",
    "correct": 2
+  },
+  "5438342445517510916": {
+   "q": "PQ-316 sonli Qarorga koʻra, texnikumlar umumtaʼlim fanlari oʻqituvchilarining malakasi qayerda oshiriladi?",
+   "correct": 0
+  },
+  "5438342445517510918": {
+   "q": "PF-190-sonli Farmonga koʻra, diplom (malaka sertifikati)ga ega xodimlarni ishga qabul qilish tizimi qaysi klassifikator ",
+   "correct": 3
+  },
+  "5438342445517510920": {
+   "q": "PF-190-sonli Farmon qaysi sohaga oid?",
+   "correct": 0
+  },
+  "5438342445517510923": {
+   "q": "Yakuniy davlat attestatsiyasining komissiya raisligiga bitta shaxs ketma-ket bir kasbiy taʼlim tashkilotida tegishli kas",
+   "correct": 0
+  },
+  "5438342445517510925": {
+   "q": "PQ-316-sonli Qarorga koʻra, 9-sinf bitiruvchilarining kasbiy taʼlim bilan qamrovini necha foizga etkazish maqsad qilinga",
+   "correct": 0
   }
  },
  "answers": {
@@ -5787,7 +5807,18 @@
   "5438342445517510902:672629750": 2,
   "5438342445517510903:672629750": 0,
   "5438342445517510906:672629750": 1,
-  "5438342445517510907:672629750": 3
+  "5438342445517510907:672629750": 3,
+  "5438342445517510908:672629750": 3,
+  "5438342445517510909:672629750": 3,
+  "5438342445517510910:672629750": 3,
+  "5438342445517510912:672629750": 2,
+  "5438342445517510914:672629750": 3,
+  "5438342445517510915:672629750": 2,
+  "5438342445517510916:672629750": 0,
+  "5438342445517510918:672629750": 0,
+  "5438342445517510920:672629750": 0,
+  "5438342445517510923:672629750": 0,
+  "5438342445517510925:672629750": 0
  },
  "users": {
   "1007925524": {
