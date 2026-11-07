@@ -1,5 +1,5 @@
 {
- "offset": 33110250,
+ "offset": 33110268,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -2252,6 +2252,26 @@
   "5438342445517511022": {
    "q": "VMsining 106-son qarori bilan tasdiqlangan Nizomga koʻra, malaka oshirish uchun belgilangan muddatlarda sertifikatga ega",
    "correct": 0
+  },
+  "5438342445517511023": {
+   "q": "VMsining 106-son qarori bilan tasdiqlangan Nizomga koʻra, malaka oshirish kurslari tinglovchilari 3 yilda kamida qancha ",
+   "correct": 3
+  },
+  "5438342445517511025": {
+   "q": "PQ-316-sonli Qarorga koʻra, 2030 yilga qadar kasbiy taʼlim tizimini isloh qilish boʻyicha nechta asosiy maqsadli koʻrsat",
+   "correct": 2
+  },
+  "5438342445517511027": {
+   "q": "PQ-316-sonli Qarorga koʻra, maxsus fan oʻqituvchilarining malaka oshirish rejasini kim tasdiqlaydi?",
+   "correct": 2
+  },
+  "5438342445517511032": {
+   "q": "Vazirlar Mahkamasining 466-son qarori bilan tasdiqlangan Nizomga koʻra, professional taʼlim muassasalarida qoʻshimcha kv",
+   "correct": 0
+  },
+  "5438342445517511033": {
+   "q": "PF-190-son Farmonga koʻra, Davlat texnikumlari taʼlim xizmatlari narxini nimaga asoslanib belgilaydi?",
+   "correct": 3
   }
  },
  "answers": {
@@ -6016,7 +6036,15 @@
   "5429545454847137511:262746859": 0,
   "5429545454847137518:262746859": 2,
   "5429545454847137526:262746859": 1,
-  "5429545454847137534:262746859": 1
+  "5429545454847137534:262746859": 1,
+  "5429545454847137552:262746859": 2,
+  "5438342445517510950:672629750": 0,
+  "5429545454847137563:262746859": 3,
+  "5438342445517511023:125126380": 1,
+  "5438342445517511025:125126380": 1,
+  "5438342445517511027:125126380": 2,
+  "5438342445517511032:125126380": 0,
+  "5438342445517511033:125126380": 2
  },
  "users": {
   "1007925524": {
