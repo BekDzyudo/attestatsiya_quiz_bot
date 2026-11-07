@@ -5,6 +5,14 @@ TOKEN = os.environ["TELEGRAM_TOKEN"]
 CHAT = os.environ["TELEGRAM_CHAT_ID"]
 
 now = datetime.datetime.now(datetime.timezone(datetime.timedelta(hours=5)))
+# Vaqtinchalik to'xtatish: state.json dagi "pause_until" vaqtigacha savol yuborilmaydi
+try:
+    _pause = json.load(open("state.json", encoding="utf-8")).get("pause_until")
+    if _pause and now < datetime.datetime.fromisoformat(_pause) and not os.environ.get("FORCE"):
+        print("to'xtatilgan:", _pause)
+        sys.exit(0)
+except (OSError, ValueError):
+    pass
 if now.hour < 9 and not os.environ.get("FORCE"):
     print("Tungi vaqt (Toshkent", now.strftime("%H:%M"), ") — yuborilmadi")
     sys.exit(0)
