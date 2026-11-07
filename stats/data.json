@@ -1,5 +1,5 @@
 {
- "offset": 33109964,
+ "offset": 33109976,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -2084,6 +2084,30 @@
   "5438342445517510892": {
    "q": "PQ-316-sonli Qarorga koʻra, maktabning qaysi sinf oʻquvchilariga oʻqishini texnikumlarga koʻchirishga ruxsat beriladi?",
    "correct": 1
+  },
+  "5438342445517510894": {
+   "q": "Yakuniy davlat attestatsiyasida dual taʼlim shaklida taʼlim olgan bitiruvchilarning koʻrgazmali-amaliy imtihon jarayonla",
+   "correct": 3
+  },
+  "5438342445517510896": {
+   "q": "Yakuniy davlat attestatsiyasida test topshiriqlarini kim tomonidan ishlab chiqiladi?",
+   "correct": 2
+  },
+  "5438342445517510902": {
+   "q": "PQ-316-sonli Qarorga koʻra, «yoʻl xaritasi» qaysi yillar uchun ishlab chiqilgan?",
+   "correct": 2
+  },
+  "5438342445517510903": {
+   "q": "PF-190-sonli Farmonda nechta ilova bor?",
+   "correct": 0
+  },
+  "5438342445517510906": {
+   "q": "PQ-316-sonli Qarorga koʻra, texnikum umumtaʼlim fani oʻqituvchilari ish haqi fondiga nisbatan necha foiz miqdorida ragʻb",
+   "correct": 1
+  },
+  "5438342445517510907": {
+   "q": "PQ-316-sonli Qarorga koʻra, 2030 yilga qadar kasbiy sertifikatga ega ishlab chiqarish taʼlimi ustalari ulushi qancha foi",
+   "correct": 0
   }
  },
  "answers": {
@@ -5712,7 +5736,13 @@
   "5438342445517510886:289268182": 3,
   "5438342445517510888:289268182": 2,
   "5438342445517510891:289268182": 3,
-  "5438342445517510892:289268182": 1
+  "5438342445517510892:289268182": 1,
+  "5438342445517510894:289268182": 0,
+  "5438342445517510896:289268182": 2,
+  "5438342445517510902:289268182": 2,
+  "5438342445517510903:289268182": 0,
+  "5438342445517510906:289268182": 3,
+  "5438342445517510907:289268182": 0
  },
  "users": {
   "1007925524": {
