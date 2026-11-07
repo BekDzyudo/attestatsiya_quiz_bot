@@ -1,5 +1,5 @@
 {
- "offset": 33110190,
+ "offset": 33110222,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -2239,6 +2239,18 @@
   },
   "5438342445517510996": {
    "q": "VMsining 106-son qarori bilan tasdiqlangan Nizomga koʻra, malaka oshirishning bir haftalik auditoriya oʻquv yuklamasinin",
+   "correct": 0
+  },
+  "5438342445517511017": {
+   "q": "PQ-316-sonli Qarorga koʻra, xorijda malaka oshirish va stajirovka dasturlarida ishtirok etgan pedagoglarning amaldagi so",
+   "correct": 1
+  },
+  "5438342445517511020": {
+   "q": "Yakuniy davlat attestatsiyasini oʻtkazish jadvali attestatsiya boshlanishidan kamida necha kun oldin tasdiqlanadi?",
+   "correct": 1
+  },
+  "5438342445517511022": {
+   "q": "VMsining 106-son qarori bilan tasdiqlangan Nizomga koʻra, malaka oshirish uchun belgilangan muddatlarda sertifikatga ega",
    "correct": 0
   }
  },
@@ -5981,7 +5993,16 @@
   "5438342445517510997:125126380": 3,
   "5438342445517510996:125126380": 0,
   "5438342445517510993:125126380": 1,
-  "5438342445517510992:125126380": 0
+  "5438342445517510992:125126380": 0,
+  "5438342445517510939:672629750": 1,
+  "5438342445517510942:672629750": 2,
+  "5438342445517510943:672629750": 0,
+  "5438342445517510945:672629750": 1,
+  "5438342445517510946:672629750": 3,
+  "5438342445517511017:125126380": 0,
+  "5438342445517511020:125126380": 1,
+  "5438342445517511022:125126380": 2,
+  "5429545454847137409:262746859": 0
  },
  "users": {
   "1007925524": {
