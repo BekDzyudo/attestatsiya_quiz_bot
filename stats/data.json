@@ -1,5 +1,5 @@
 {
- "offset": 33110008,
+ "offset": 33110012,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -2111,6 +2111,10 @@
   },
   "5438342445517510908": {
    "q": "PF-190-sonli Farmonga koʻra, infratuzilmani rivojlantirish yoʻnalishida Agentlik qanday asosiy vazifalarni bajaradi?",
+   "correct": 3
+  },
+  "5438342445517510909": {
+   "q": "PQ-316-sonli Qarorga koʻra, ilgʻor kasbiy mahorat texnikumlari boshqa texnikumlar uchun nima vazifasini bajaradi?",
    "correct": 3
   }
  },
@@ -5762,7 +5766,9 @@
   "5438342445517510894:1045607258": 2,
   "5438342445517510892:1045607258": 2,
   "5438342445517510891:1045607258": 3,
-  "5438342445517510888:1045607258": 2
+  "5438342445517510888:1045607258": 2,
+  "5438342445517510908:289268182": 3,
+  "5438342445517510909:289268182": 3
  },
  "users": {
   "1007925524": {
