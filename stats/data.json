@@ -1,5 +1,5 @@
 {
- "offset": 33111736,
+ "offset": 33111780,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -2364,6 +2364,10 @@
   "5440870871289832952": {
    "q": "PQ-316-sonli Qarorga koʻra, ilgʻor kasbiy mahorat texnikumida amaliy mashgʻulot oʻtaydigan boshqa texnikum oʻquvchilarin",
    "correct": 0
+  },
+  "5440870871289832970": {
+   "q": "PF-190-son Farmonga nechta ilova mavjud?",
+   "correct": 1
   }
  },
  "answers": {
@@ -6832,7 +6836,8 @@
   "5438342445517510894:262746859": 3,
   "5438342445517510896:262746859": 2,
   "5438342445517510902:262746859": 2,
-  "5438342445517510903:262746859": 0
+  "5438342445517510903:262746859": 0,
+  "5440870871289832970:672629750": 1
  },
  "users": {
   "1007925524": {
