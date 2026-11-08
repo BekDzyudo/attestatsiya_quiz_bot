@@ -1,5 +1,5 @@
 {
- "offset": 33111085,
+ "offset": 33111111,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -2315,6 +2315,14 @@
   },
   "5440870871289832831": {
    "q": "PF-190-son Farmonga koʻra, «Vaucher» tizimi va buyurtma asosida fuqarolarni oʻqitish xarajatlari qaysi jamgʻarma hisobid",
+   "correct": 0
+  },
+  "5440870871289832843": {
+   "q": "Yakuniy davlat attestatsiyasida bitiruvchi «2» (qoniqarsiz) baho olgan taqdirda, u shu oʻquv yilida tegishli imtihonni n",
+   "correct": 3
+  },
+  "5440870871289832849": {
+   "q": "Yakuniy davlat attestatsiyasida Oʻzbekiston tarixi fanidan davlat imtihoni qaysi guruhlarda oʻtkaziladi?",
    "correct": 0
   }
  },
@@ -6466,7 +6474,19 @@
   "5431372903302044058:262746859": 2,
   "5431372903302044060:262746859": 2,
   "5440870871289832828:1045607258": 1,
-  "5440870871289832831:1805166872": 2
+  "5440870871289832831:1805166872": 2,
+  "5440870871289832822:672629750": 2,
+  "5440870871289832828:672629750": 1,
+  "5440870871289832831:672629750": 0,
+  "5440870871289832822:289268182": 2,
+  "5440870871289832843:672629750": 1,
+  "5440870871289832849:672629750": 0,
+  "5440870871289832828:289268182": 1,
+  "5440870871289832831:289268182": 0,
+  "5440870871289832843:289268182": 2,
+  "5440870871289832849:289268182": 3,
+  "5440870871289832843:1805166872": 2,
+  "5440870871289832849:1805166872": 1
  },
  "users": {
   "1007925524": {
