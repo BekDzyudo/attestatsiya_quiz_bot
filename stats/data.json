@@ -1,5 +1,5 @@
 {
- "offset": 33113606,
+ "offset": 33113624,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -2632,6 +2632,10 @@
   "5447632292275034609": {
    "q": "PQ-316-sonli Qarorga koʻra, kasbiy taʼlim tizimidagi dual taʼlimning amaldagi ulushi necha foizga teng?",
    "correct": 0
+  },
+  "5447632292275034612": {
+   "q": "Taʼlim toʻgʻrisidagi Qonunga koʻra, mustaqil izlanuvchilik shakli tayanch doktorantura va doktoranturadan qaysi xususiya",
+   "correct": 1
   }
  },
  "answers": {
@@ -7943,7 +7947,16 @@
   "5447632292275034588:125126380": 0,
   "5447632292275034609:125126380": 0,
   "5447632292275034577:289268182": 1,
-  "5447632292275034582:289268182": 1
+  "5447632292275034582:289268182": 1,
+  "5447632292275034585:289268182": 0,
+  "5447632292275034588:289268182": 1,
+  "5447632292275034597:289268182": 3,
+  "5447632292275034602:289268182": 2,
+  "5447632292275034609:289268182": 0,
+  "5447632292275034612:289268182": 1,
+  "5447632292275034602:1007925524": 2,
+  "5447632292275034609:1007925524": 0,
+  "5447632292275034612:1007925524": 1
  },
  "users": {
   "1007925524": {
