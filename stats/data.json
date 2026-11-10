@@ -1,5 +1,5 @@
 {
- "offset": 33113381,
+ "offset": 33113404,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -2544,6 +2544,14 @@
   "5445380492461350041": {
    "q": "Taʼlim toʻgʻrisidagi Qonunga muvofiq Attestatsiya va kompleks davlat akkreditatsiyasi necha bosqichda va qanday nomlar b",
    "correct": 0
+  },
+  "5445380492461350042": {
+   "q": "PQ-316-sonli Qarorga koʻra, imtiyozli kreditning muddati qancha yil?",
+   "correct": 3
+  },
+  "5445380492461350050": {
+   "q": "Taʼlim toʻgʻrisidagi Qonunga koʻra, Quyidagilardan qaysi biri «Taʼlim sohasidagi asosiy prinsiplar» jumlasiga kirmaydi?",
+   "correct": 2
   }
  },
  "answers": {
@@ -7749,7 +7757,15 @@
   "5445380492461350009:672629750": 3,
   "5445380492461350041:262746859": 1,
   "5445380492461350041:125126380": 0,
-  "5445380492461350041:1805166872": 0
+  "5445380492461350041:1805166872": 0,
+  "5445380492461350009:6009117194": 3,
+  "5445380492461349995:1045607258": 0,
+  "5445380492461350002:1045607258": 2,
+  "5445380492461350041:6009117194": 3,
+  "5445380492461350042:6009117194": 3,
+  "5445380492461350050:6009117194": 2,
+  "5445380492461350050:1007925524": 2,
+  "5445380492461350050:289268182": 2
  },
  "users": {
   "1007925524": {
