@@ -1,5 +1,5 @@
 {
- "offset": 33113526,
+ "offset": 33113554,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -2596,6 +2596,14 @@
   "5447632292275034562": {
    "q": "PF-190-sonli Farmon yoshlarda qanday xususiyatlarni shakllantirishni maqsad qiladi?",
    "correct": 2
+  },
+  "5447632292275034560": {
+   "q": "Vazirlar Mahkamasining 466-son qarori bilan tasdiqlangan Nizomga koʻra, professional taʼlim muassasalarida taʼlim sifati",
+   "correct": 0
+  },
+  "5447632292275034563": {
+   "q": "Yakuniy davlat attestatsiyasidan imtiyozli diplom olish uchun oʻquvchining yakuniy baholarining kamida necha foizi «5» (",
+   "correct": 1
   }
  },
  "answers": {
@@ -7867,7 +7875,21 @@
   "5447632292275034554:1007925524": 3,
   "5447632292275034558:1007925524": 1,
   "5447632292275034558:1805166872": 1,
-  "5447632292275034562:672629750": 2
+  "5447632292275034562:672629750": 2,
+  "5447632292275034560:1007925524": 0,
+  "5447632292275034562:1007925524": 2,
+  "5447632292275034563:1007925524": 1,
+  "5447632292275034560:1805166872": 2,
+  "5447632292275034562:1805166872": 2,
+  "5447632292275034563:1805166872": 1,
+  "5445380492461350066:289268182": 2,
+  "5447632292275034546:289268182": 3,
+  "5447632292275034551:289268182": 2,
+  "5447632292275034554:289268182": 3,
+  "5447632292275034558:289268182": 2,
+  "5447632292275034560:289268182": 3,
+  "5447632292275034563:289268182": 1,
+  "5447632292275034562:289268182": 2
  },
  "users": {
   "1007925524": {
