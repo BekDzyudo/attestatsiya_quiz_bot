@@ -1,5 +1,5 @@
 {
- "offset": 33113958,
+ "offset": 33113964,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -2688,6 +2688,10 @@
   "5452065875345544829": {
    "q": "PQ-316-sonli Qarorga koʻra, Kasbiy taʼlim agentligi tizimida nechta ilgʻor kasbiy mahorat texnikumi tashkil etiladi?",
    "correct": 2
+  },
+  "5452065875345544837": {
+   "q": "PF-190-sonli Farmonga koʻra, xalqaro hamkorlikni mustahkamlash yoʻnalishida Agentlikning birinchi asosiy vazifasi nimada",
+   "correct": 1
   }
  },
  "answers": {
@@ -8167,7 +8171,10 @@
   "5449814075531860075:1805166872": 3,
   "5449814075531860096:1805166872": 0,
   "5449814075531860106:1805166872": 2,
-  "5452065875345544829:1805166872": 1
+  "5452065875345544829:1805166872": 1,
+  "5452065875345544837:1007925524": 1,
+  "5452065875345544829:125126380": 2,
+  "5452065875345544837:125126380": 1
  },
  "users": {
   "1007925524": {
