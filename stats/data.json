@@ -1,5 +1,5 @@
 {
- "offset": 33114521,
+ "offset": 33114531,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -2792,6 +2792,14 @@
   "5454317675159230176": {
    "q": "PQ-316-sonli Qarorga koʻra, 2026 yildan boshlab har yili texnikumlar oʻquvchilari oʻrtasida qanday tanlov oʻtkaziladi?",
    "correct": 2
+  },
+  "5454317675159230190": {
+   "q": "PQ-316-sonli Qarorga koʻra, texnikumga yoʻnaltirish 9-sinf yakuni boʻyicha imtihon natijasiga koʻra qaysi yildan boshlab",
+   "correct": 1
+  },
+  "5454317675159230212": {
+   "q": "PQ-316-sonli Qarorga koʻra, maktabning qaysi sinf oʻquvchilariga oʻqishini texnikumlarga koʻchirishga ruxsat beriladi?",
+   "correct": 1
   }
  },
  "answers": {
@@ -8517,7 +8525,12 @@
   "5454317675159230176:6009117194": 0,
   "5454317675159230146:1007925524": 1,
   "5454317675159230158:1007925524": 3,
-  "5454317675159230176:1007925524": 2
+  "5454317675159230176:1007925524": 2,
+  "5454317675159230190:262746859": 2,
+  "5454317675159230212:262746859": 1,
+  "5454317675159230176:1805166872": 0,
+  "5454317675159230190:1805166872": 3,
+  "5454317675159230212:1805166872": 1
  },
  "users": {
   "1007925524": {
