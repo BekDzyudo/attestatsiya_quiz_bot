@@ -1,5 +1,5 @@
 {
- "offset": 33115132,
+ "offset": 33115134,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -2980,6 +2980,10 @@
   "5454157528713665293": {
    "q": "PowerPoint dasturida yangi slayd qoʻshish uchun qaysi tugmani bosish kerak?",
    "correct": 0
+  },
+  "5454157528713665302": {
+   "q": "Qaysi koʻrsatkichlar protsessorning asosiy koʻrsatkichlari hisoblanadi?",
+   "correct": 3
   }
  },
  "answers": {
@@ -8991,7 +8995,8 @@
   "5454157528713665293:125126380": 3,
   "5454157528713665255:672629750": 0,
   "5454157528713665261:672629750": 1,
-  "5454157528713665293:672629750": 3
+  "5454157528713665293:672629750": 3,
+  "5454157528713665302:125126380": 3
  },
  "users": {
   "1007925524": {
