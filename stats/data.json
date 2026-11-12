@@ -1,5 +1,5 @@
 {
- "offset": 33115096,
+ "offset": 33115116,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -2967,6 +2967,14 @@
   },
   "5454157528713665253": {
    "q": "PF-190-sonli Farmonga koʻra, diplom (malaka sertifikati)ga ega xodimlarni ishga qabul qilish tizimi qaysi klassifikator ",
+   "correct": 1
+  },
+  "5454157528713665255": {
+   "q": "PF-190-son Farmonga koʻra, Davlat texnikumlari taʼlim xizmatlari narxini nimaga asoslanib belgilaydi?",
+   "correct": 0
+  },
+  "5454157528713665261": {
+   "q": "ISO standart tashkilotining OSI modelida nechta sath mavjud?",
    "correct": 1
   }
  },
@@ -8962,7 +8970,17 @@
   "5454157528713665242:672629750": 3,
   "5454157528713665251:672629750": 1,
   "5454157528713665253:672629750": 3,
-  "5454157528713665253:125126380": 0
+  "5454157528713665253:125126380": 0,
+  "5454157528713665219:262746859": 2,
+  "5454157528713665227:262746859": 3,
+  "5454157528713665230:262746859": 2,
+  "5454157528713665234:262746859": 1,
+  "5454157528713665236:262746859": 3,
+  "5454157528713665242:262746859": 3,
+  "5454157528713665251:262746859": 3,
+  "5454157528713665253:262746859": 3,
+  "5454157528713665255:262746859": 0,
+  "5454157528713665261:262746859": 1
  },
  "users": {
   "1007925524": {
