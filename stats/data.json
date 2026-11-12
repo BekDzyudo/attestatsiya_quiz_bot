@@ -1,5 +1,5 @@
 {
- "offset": 33115162,
+ "offset": 33115176,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -3000,6 +3000,18 @@
   "5454157528713665420": {
    "q": "PQ-316-sonli Qarorga koʻra, 1:20 normativi 2026/2027 oʻquv yilida nechta texnikumda joriy etiladi?",
    "correct": 3
+  },
+  "5454157528713665447": {
+   "q": "Optik tolali kabelning axborot uzatish tezligi qanchani tashkil etadi?",
+   "correct": 3
+  },
+  "5454157528713665474": {
+   "q": "Chop etish qurilmalariga nimalar kiradi?",
+   "correct": 2
+  },
+  "5454157528713665522": {
+   "q": "Zoom qanday dastur hisoblanadi?",
+   "correct": 1
   }
  },
  "answers": {
@@ -9026,7 +9038,14 @@
   "5454317675159230385:1007925524": 2,
   "5454317675159230396:1007925524": 0,
   "5454317675159230401:1007925524": 2,
-  "5454317675159230404:1007925524": 2
+  "5454317675159230404:1007925524": 2,
+  "5454317675159230408:1007925524": 3,
+  "5454157528713665176:1007925524": 1,
+  "5454157528713665391:125126380": 0,
+  "5454157528713665420:125126380": 2,
+  "5454157528713665447:125126380": 2,
+  "5454157528713665474:125126380": 2,
+  "5454157528713665522:125126380": 1
  },
  "users": {
   "1007925524": {
