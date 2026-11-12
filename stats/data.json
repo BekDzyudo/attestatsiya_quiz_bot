@@ -1,5 +1,5 @@
 {
- "offset": 33114928,
+ "offset": 33114936,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -2892,6 +2892,10 @@
   "5454317675159230378": {
    "q": "Taʼlim toʻgʻrisidagi Qonunga koʻra, Oʻrta maxsus professional taʼlim qayerda amalga oshiriladi va uning minimal davomiyl",
    "correct": 0
+  },
+  "5454317675159230380": {
+   "q": "NGN qanday tarmoq hisoblanadi?",
+   "correct": 1
   }
  },
  "answers": {
@@ -8808,7 +8812,11 @@
   "5454317675159230374:125126380": 2,
   "5454317675159230378:125126380": 3,
   "5454317675159230378:262746859": 0,
-  "5454317675159230378:409412968": 0
+  "5454317675159230378:409412968": 0,
+  "5454317675159230380:262746859": 1,
+  "5454317675159230378:1007925524": 0,
+  "5454317675159230380:1007925524": 1,
+  "5454317675159230380:125126380": 1
  },
  "users": {
   "1007925524": {
