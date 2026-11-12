@@ -1,5 +1,5 @@
 {
- "offset": 33115146,
+ "offset": 33115148,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -2996,6 +2996,10 @@
   "5454157528713665391": {
    "q": "HTML ning ikkinchi boʻlimi qanday nomlanadi?",
    "correct": 0
+  },
+  "5454157528713665420": {
+   "q": "PQ-316-sonli Qarorga koʻra, 1:20 normativi 2026/2027 oʻquv yilida nechta texnikumda joriy etiladi?",
+   "correct": 3
   }
  },
  "answers": {
@@ -9014,7 +9018,8 @@
   "5454157528713665319:262746859": 1,
   "5454157528713665351:125126380": 1,
   "5454157528713665351:262746859": 1,
-  "5454157528713665391:262746859": 1
+  "5454157528713665391:262746859": 1,
+  "5454157528713665420:262746859": 2
  },
  "users": {
   "1007925524": {
