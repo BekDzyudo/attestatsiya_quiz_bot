@@ -1,5 +1,5 @@
 {
- "offset": 33115243,
+ "offset": 33115247,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -3032,6 +3032,14 @@
   "5454157528713665589": {
    "q": "Ingichka koaksial kabel turi signalni necha metr masofaga buzilmasdan uzatadi?",
    "correct": 2
+  },
+  "5454157528713665598": {
+   "q": "Maʼlumotlar aloqa kanallari orqali necha xil usulda uzatiladi?",
+   "correct": 0
+  },
+  "5454157528713665621": {
+   "q": "Yakuniy davlat attestatsiyasining komissiya raisligiga bitta shaxs ketma-ket bir kasbiy taʼlim tashkilotida tegishli kas",
+   "correct": 3
   }
  },
  "answers": {
@@ -9098,7 +9106,9 @@
   "5454157528713665569:1805166872": 0,
   "5454157528713665570:1805166872": 3,
   "5454157528713665580:1805166872": 2,
-  "5454157528713665589:1805166872": 3
+  "5454157528713665589:1805166872": 3,
+  "5454157528713665598:1805166872": 3,
+  "5454157528713665621:1805166872": 3
  },
  "users": {
   "1007925524": {
