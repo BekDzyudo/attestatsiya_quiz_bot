@@ -2853,6 +2853,17 @@
   "explanation": "Protsessor (CPU) arifmetik-mantiqiy amallarni bajaradi va kompyuter qurilmalari ishini boshqaradi."
  },
  {
+  "question": "Raqamli klaviaturada ikki marta koʻrinmaydigan tugma nomi qaysi qatorda berilgan?",
+  "answer": "Num Lock",
+  "wrong": [
+   "Enter",
+   "Delete (Del)",
+   "Insert (Ins)"
+  ],
+  "wrong_old": [],
+  "explanation": "Raqamli blokdagi Num Lock asosiy klaviaturada takrorlanmaydi; Enter, Del, Ins, raqamlar ikki joyda bor."
+ },
+ {
   "question": "PF-190-sonli Farmon qaysi sohaga oid?",
   "answer": "Kasbiy taʼlim tizimini boshqarish",
   "wrong": [
@@ -3023,6 +3034,17 @@
   "explanation": "Plotter — chizma va grafiklarni katta formatda chiqarish qurilmasi."
  },
  {
+  "question": "UTP mis ekranlanmagan kabeli elektr va mexanik xususiyatlarga qarab necha toifaga boʻlinadi?",
+  "answer": "5 toifaga (Category 1 – Category 5)",
+  "wrong": [
+   "3 toifaga (Category 1 – Category 3)",
+   "8 toifaga (Category 1 – Category 8)",
+   "10 toifaga (Category 1 – Category 10)"
+  ],
+  "wrong_old": [],
+  "explanation": "Klassik tasnif (Olifer): UTP kabellari elektr va mexanik xususiyatlariga koʻra 5 toifaga boʻlinadi."
+ },
+ {
   "question": "MS Excel 2010 ning standart varagʻi harflar orqali belgilanuvchi nechta ustundan iborat?",
   "answer": "16 384 ta",
   "wrong": [
@@ -3106,6 +3128,17 @@
   ],
   "wrong_old": [],
   "explanation": "MB maʼlumotlarni tizimli saqlash va boshqarish uchun xizmat qiladi."
+ },
+ {
+  "question": "Standart protokollar yana qanday nom bilan ataladi?",
+  "answer": "Ochiq (open) protokollar",
+  "wrong": [
+   "Xususiy (proprietary) protokollar",
+   "Yopiq (closed) protokollar",
+   "Lokal (local) protokollar"
+  ],
+  "wrong_old": [],
+  "explanation": "Standart protokollar hamma uchun ochiq boʻlgani sababli ochiq protokollar deb ataladi; ularga xususiy protokollar qarshi qoʻyiladi."
  },
  {
   "question": "Yakuniy davlat attestatsiyasida Oʻzbekiston tarixi fanidan davlat imtihonini qaysi oʻqituvchilar oʻtkaza oladi?",
@@ -3339,6 +3372,17 @@
   "explanation": "Google Talk — Google kompaniyasining matnli va ovozli muloqot uchun messenjeri (keyinchalik Hangouts bilan almashtirilgan)."
  },
  {
+  "question": "Klaviatura harflar joylashishiga qarab necha turli boʻladi?",
+  "answer": "Asosan 3 turi: QWERTY, QWERTZ va AZERTY",
+  "wrong": [
+   "Asosan 2 turi: QWERTY va Dvorak",
+   "Asosan 4 turi: QWERTY, JCUKEN, Dvorak, Colemak",
+   "Faqat 1 turi: QWERTY"
+  ],
+  "wrong_old": [],
+  "explanation": "Lotin harfli klaviaturalarning asosiy turlari: QWERTY, QWERTZ (nemis), AZERTY (fransuz)."
+ },
+ {
   "question": "Tarmoqlararo maʼlumotlar trafigini boshqaradigan, turli tarmoqlarni oʻzaro bogʻlaydigan va paketlar uchun eng maqbul yoʻlni aniqlaydigan eng asosiy tarmoq qurilmasi qaysi?",
   "answer": "Marshrutizator (router)",
   "wrong": [
@@ -3551,6 +3595,17 @@
   "explanation": "Hisoblash tizimi apparat va dasturiy qismlardan iborat, birgalikda ishlaydigan kompleks."
  },
  {
+  "question": "Jahon global tarmogʻi internet nechta tarkibiy qismdan tashkil topgan",
+  "answer": "3 ta: texnik, dasturiy va axborot qismlari",
+  "wrong": [
+   "2 ta: apparat va dasturiy qismlar",
+   "4 ta: server, mijoz, provayder va foydalanuvchi",
+   "5 ta: kabel, modem, router, server va brauzer"
+  ],
+  "wrong_old": [],
+  "explanation": "Internet texnik (apparat), dasturiy va axborot taʼminotidan tashkil topgan."
+ },
+ {
   "question": "......- bu ikki yoki undan ortiq qurilmalarni bogʻlanishidan hosil boʻladigan aloqadir.",
   "answer": "Kompyuter tarmogʻi",
   "wrong": [
@@ -3701,6 +3756,17 @@
    "2027/2028 oʻquv yilidan"
   ],
   "explanation": "7-band «a»: 2026/2027 oʻquv yilidan dual oʻquvchilarga maxsus platforma orqali stipendiya toʻlanadi."
+ },
+ {
+  "question": "Kompyuter tizimi tarkibidagi apparat taʼminotni boshqaruvchi vosita qanday nomlanadi?",
+  "answer": "Operatsion tizim",
+  "wrong": [
+   "Utilita (xizmatchi dastur)",
+   "Amaliy dastur",
+   "Arxivator dasturi"
+  ],
+  "wrong_old": [],
+  "explanation": "Operatsion tizim kompyuterning apparat taʼminotini boshqaradi va dasturlar ishini tashkil etadi."
  },
  {
   "question": "Web portal tushunchasiga berilgan taʼrif qaysi qatorda keltirilgan?",
