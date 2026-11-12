@@ -1,13 +1,13 @@
-# Quiz statistikasi (2026-11-12 15:20, Toshkent)
+# Quiz statistikasi (2026-11-12 15:30, Toshkent)
 
-Hisobga olingan quizlar: 708, ishtirokchilar: 12
+Hisobga olingan quizlar: 709, ishtirokchilar: 12
 
 | # | Ishtirokchi | To'g'ri | Noto'g'ri | Jami | Natija |
 |---|---|---|---|---|---|
 | 1 | Shohbek Jalilov (@bekdzyudo) | 542 | 134 | 676 | 80% |
 | 2 | O'ktambek Umbarov (@uktambek_umbarov) | 534 | 163 | 697 | 77% |
 | 3 | Şoxbozbek Tuxtasinov (@shohboz3dx) | 493 | 140 | 633 | 78% |
-| 4 | Samariddin (@Samar_0208) | 442 | 236 | 678 | 65% |
+| 4 | Samariddin (@Samar_0208) | 443 | 236 | 679 | 65% |
 | 5 | Bobirbek (@siddiqovbobirbek) | 418 | 234 | 652 | 64% |
 | 6 | MK | 293 | 310 | 603 | 49% |
 | 7 | Defcomp (@Defcomputec) | 276 | 188 | 464 | 59% |
