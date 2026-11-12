@@ -1,5 +1,5 @@
 {
- "offset": 33114553,
+ "offset": 33114585,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -2812,6 +2812,14 @@
   "5454317675159230246": {
    "q": "PQ-316-sonli Qarorga koʻra, «yoʻl xaritasi» qaysi yillar uchun ishlab chiqilgan?",
    "correct": 2
+  },
+  "5454317675159230299": {
+   "q": "Quyidagilardan qaysi birlari Maʼlumotlar bazasini boshqarish tizimi (MBBT) dasturlari hisoblanadi?",
+   "correct": 1
+  },
+  "5454317675159230291": {
+   "q": "PF-190-sonli Farmonda nechta ilova bor?",
+   "correct": 0
   }
  },
  "answers": {
@@ -8553,7 +8561,11 @@
   "5454317675159230238:6009117194": 1,
   "5454317675159230246:262746859": 2,
   "5454317675159230212:1007925524": 1,
-  "5454317675159230246:6009117194": 1
+  "5454317675159230246:6009117194": 1,
+  "5454317675159230299:1007925524": 1,
+  "5454317675159230291:1007925524": 0,
+  "5454317675159230246:1007925524": 2,
+  "5454317675159230238:1007925524": 0
  },
  "users": {
   "1007925524": {
