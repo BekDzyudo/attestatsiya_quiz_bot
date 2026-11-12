@@ -1,5 +1,5 @@
 {
- "offset": 33114652,
+ "offset": 33114668,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -2840,6 +2840,10 @@
   "5454317675159230322": {
    "q": "...... ish stansiyasi yoki tarmoq qurilmasiga simli muhitga ulangan va boshqa Ethernet stansiyalari bilan oʻzaro bogʻlan",
    "correct": 2
+  },
+  "5454317675159230327": {
+   "q": "Tizimga kiritilgan maʼlumotlarning asl manbaga mos kelishini taʼminlash jarayoni qanday nomlanadi?",
+   "correct": 3
   }
  },
  "answers": {
@@ -8618,7 +8622,15 @@
   "5454317675159230312:1805166872": 0,
   "5454317675159230322:1805166872": 0,
   "5454317675159230322:262746859": 2,
-  "5454317675159230299:672629750": 1
+  "5454317675159230299:672629750": 1,
+  "5454317675159230327:262746859": 0,
+  "5454317675159230302:672629750": 1,
+  "5454317675159230303:672629750": 0,
+  "5454317675159230322:6956735341": 1,
+  "5454317675159230327:6956735341": 0,
+  "5454317675159230327:1805166872": 0,
+  "5454317675159230307:672629750": 0,
+  "5454317675159230312:672629750": 0
  },
  "users": {
   "1007925524": {
