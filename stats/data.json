@@ -1,5 +1,5 @@
 {
- "offset": 33114744,
+ "offset": 33114754,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -2852,6 +2852,10 @@
   "5454317675159230344": {
    "q": "HTML hujjatida sarlavhaning oʻz teglari mavjud boʻlib, ular soni nechtani tashkil etadi?",
    "correct": 0
+  },
+  "5454317675159230347": {
+   "q": "Maʼlumotlarning qabul qilinadigan qoidalarga muvofiqligini tekshirish jarayoni nima deyiladi?",
+   "correct": 3
   }
  },
  "answers": {
@@ -8676,7 +8680,12 @@
   "5454317675159230344:1045607258": 2,
   "5454317675159230344:262746859": 0,
   "5454317675159230344:1007925524": 2,
-  "5454317675159230344:125126380": 0
+  "5454317675159230344:125126380": 0,
+  "5454317675159230347:125126380": 2,
+  "5454317675159230347:262746859": 3,
+  "5454317675159230344:409412968": 0,
+  "5454317675159230347:409412968": 3,
+  "5454317675159230347:672629750": 3
  },
  "users": {
   "1007925524": {
