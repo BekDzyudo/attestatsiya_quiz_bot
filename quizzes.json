@@ -1905,6 +1905,43 @@
   "explanation": "PF-190da 1–9-ilovalar mavjud."
  },
  {
+  "question": "Quyidagilardan qaysi birlari Maʼlumotlar bazasini boshqarish tizimi (MBBT) dasturlari hisoblanadi?",
+  "answer": "MS Access, MySQL, Oracle",
+  "wrong": [
+   "MS Word, PowerPoint, Paint",
+   "Photoshop, CorelDRAW, Illustrator",
+   "Chrome, Firefox, Opera"
+  ],
+  "wrong_old": [],
+  "explanation": "MBBT dasturlari: Access, MySQL, Oracle, PostgreSQL va boshq."
+ },
+ {
+  "question": "Turli tarmoqlar yoki tarmoq qurilmalarini bogʻlaydigan apparat va dasturiy taʼminot tizimi qanday nomlanadi?",
+  "answer": "Shlyuz (gateway)",
+  "wrong": [
+   "Konsentrator (hub)",
+   "Takrorlagich (repeater)",
+   "Modem"
+  ],
+  "wrong_old": [],
+  "explanation": "Shlyuz turli protokolli tarmoqlarni bogʻlovchi apparat-dasturiy tizim."
+ },
+ {
+  "question": "Yakuniy davlat attestatsiyasida test topshiriqlari toʻgʻri bajarilganligining necha foizidan past koʻrsatkichi uchun «2» (qoniqarsiz) baho qoʻyiladi?",
+  "answer": "60 foizidan past",
+  "wrong": [
+   "55 foizidan past",
+   "65 foizidan past",
+   "70 foizidan past"
+  ],
+  "wrong_old": [
+   "56 foizidan past",
+   "70 foizidan past",
+   "50 foizidan past"
+  ],
+  "explanation": "2-ilova 39-band: 90–100% «5», 70–89,9% «4», 60–69,9% «3», 60% dan past «2»."
+ },
+ {
   "question": "Vazirlar Mahkamasining 466-son qarori bilan tasdiqlangan Nizomga koʻra, «texnikum» qanday taʼlim muassasasi sifatida taʼriflangan?",
   "answer": "XT 5-darajasigacha, oliy taʼlim bilan integratsiyalashgan, OTM huzuridagi taʼlim muassasasi",
   "wrong": [
@@ -1933,43 +1970,6 @@
    "12 oydan"
   ],
   "explanation": "Nizom 27-band: intensiv va qoʻshimcha oʻquv kurslarining oʻqitish muddati 6 oydan oshmaydi."
- },
- {
-  "question": "Yakuniy davlat attestatsiyasida test topshiriqlari toʻgʻri bajarilganligining necha foizidan past koʻrsatkichi uchun «2» (qoniqarsiz) baho qoʻyiladi?",
-  "answer": "60 foizidan past",
-  "wrong": [
-   "55 foizidan past",
-   "65 foizidan past",
-   "70 foizidan past"
-  ],
-  "wrong_old": [
-   "56 foizidan past",
-   "70 foizidan past",
-   "50 foizidan past"
-  ],
-  "explanation": "2-ilova 39-band: 90–100% «5», 70–89,9% «4», 60–69,9% «3», 60% dan past «2»."
- },
- {
-  "question": "Quyidagilardan qaysi birlari Maʼlumotlar bazasini boshqarish tizimi (MBBT) dasturlari hisoblanadi?",
-  "answer": "MS Access, MySQL, Oracle",
-  "wrong": [
-   "MS Word, PowerPoint, Paint",
-   "Photoshop, CorelDRAW, Illustrator",
-   "Chrome, Firefox, Opera"
-  ],
-  "wrong_old": [],
-  "explanation": "MBBT dasturlari: Access, MySQL, Oracle, PostgreSQL va boshq."
- },
- {
-  "question": "Turli tarmoqlar yoki tarmoq qurilmalarini bogʻlaydigan apparat va dasturiy taʼminot tizimi qanday nomlanadi?",
-  "answer": "Shlyuz (gateway)",
-  "wrong": [
-   "Konsentrator (hub)",
-   "Takrorlagich (repeater)",
-   "Modem"
-  ],
-  "wrong_old": [],
-  "explanation": "Shlyuz turli protokolli tarmoqlarni bogʻlovchi apparat-dasturiy tizim."
  },
  {
   "question": "...... ish stansiyasi yoki tarmoq qurilmasiga simli muhitga ulangan va boshqa Ethernet stansiyalari bilan oʻzaro bogʻlanish imkonini beruvchi qurilma.",
