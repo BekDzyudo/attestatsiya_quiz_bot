@@ -1,5 +1,5 @@
 {
- "offset": 33114938,
+ "offset": 33114946,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -2900,6 +2900,10 @@
   "5454317675159230385": {
    "q": "______ mamlakatlar, demografik guruhlar va iqtisodiy hududlar oʻrtasidagi texnologik tafovutdir.",
    "correct": 2
+  },
+  "5454317675159230396": {
+   "q": "Internetda domenlarni nomlash tizimi (Domain name System) qaysi yildan joriy qilingan?",
+   "correct": 0
   }
  },
  "answers": {
@@ -8821,7 +8825,11 @@
   "5454317675159230378:1007925524": 0,
   "5454317675159230380:1007925524": 1,
   "5454317675159230380:125126380": 1,
-  "5454317675159230385:262746859": 2
+  "5454317675159230385:262746859": 2,
+  "5454317675159230380:672629750": 3,
+  "5454317675159230396:125126380": 3,
+  "5454317675159230385:672629750": 2,
+  "5454317675159230396:672629750": 1
  },
  "users": {
   "1007925524": {
