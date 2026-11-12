@@ -1,5 +1,5 @@
 {
- "offset": 33115217,
+ "offset": 33115243,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -3012,6 +3012,26 @@
   "5454157528713665522": {
    "q": "Zoom qanday dastur hisoblanadi?",
    "correct": 1
+  },
+  "5454157528713665560": {
+   "q": "Subyektni uning identifikatori orqali tanib olish protsedurasiga nima deyiladi?",
+   "correct": 1
+  },
+  "5454157528713665569": {
+   "q": "Operativ xotira (RAM) qanday vazifani bajaradi?",
+   "correct": 0
+  },
+  "5454157528713665570": {
+   "q": "VMsining 106-son qarori bilan tasdiqlangan Nizomga koʻra, malaka oshirish uchun belgilangan muddatlarda sertifikatga ega",
+   "correct": 3
+  },
+  "5454157528713665580": {
+   "q": "Microsoft kompaniyasi qachondan boshlab Windows 8 operatsion tizimni qoʻllab-quvvatlashni toʻxtatdi?",
+   "correct": 2
+  },
+  "5454157528713665589": {
+   "q": "Ingichka koaksial kabel turi signalni necha metr masofaga buzilmasdan uzatadi?",
+   "correct": 2
   }
  },
  "answers": {
@@ -9065,7 +9085,20 @@
   "5454157528713665253:1805166872": 1,
   "5454157528713665255:1805166872": 0,
   "5454157528713665261:1805166872": 1,
-  "5454157528713665293:1805166872": 0
+  "5454157528713665293:1805166872": 0,
+  "5454157528713665302:1805166872": 2,
+  "5454157528713665319:1805166872": 1,
+  "5454157528713665351:1805166872": 2,
+  "5454157528713665391:1805166872": 1,
+  "5454157528713665420:1805166872": 3,
+  "5454157528713665447:1805166872": 1,
+  "5454157528713665474:1805166872": 1,
+  "5454157528713665522:1805166872": 1,
+  "5454157528713665560:1805166872": 3,
+  "5454157528713665569:1805166872": 0,
+  "5454157528713665570:1805166872": 3,
+  "5454157528713665580:1805166872": 2,
+  "5454157528713665589:1805166872": 3
  },
  "users": {
   "1007925524": {
