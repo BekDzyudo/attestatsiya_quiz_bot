@@ -1,5 +1,5 @@
 {
- "offset": 33115854,
+ "offset": 33115975,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -3167,6 +3167,14 @@
   },
   "5456409328527348921": {
    "q": "Butunjahon internet tarmogʻi konsepsiyasini qachon va kim ishlab chiqqan?",
+   "correct": 0
+  },
+  "5458661128341034817": {
+   "q": "Yakuniy davlat attestatsiyasida Oʻzbekiston tarixi fanidan davlat imtihonini qaysi oʻqituvchilar oʻtkaza oladi?",
+   "correct": 1
+  },
+  "5458661128341034818": {
+   "q": "PQ-316-sonli Qarorga koʻra, texnikumlarni saqlash xarajatlari qachondan boshlab Davlat byudjeti va toʻlov-kontrakt hisob",
    "correct": 0
   }
  },
@@ -9537,7 +9545,13 @@
   "5456409328527348910:262746859": 0,
   "5456409328527348910:1007925524": 1,
   "5456409328527348921:1007925524": 0,
-  "5456409328527348921:262746859": 0
+  "5456409328527348921:262746859": 0,
+  "5456409328527348795:1045607258": 2,
+  "5456409328527348804:1045607258": 1,
+  "5456409328527348808:1045607258": 1,
+  "5456409328527348810:1045607258": 0,
+  "5458661128341034817:262746859": 2,
+  "5458661128341034818:262746859": 1
  },
  "users": {
   "1007925524": {
