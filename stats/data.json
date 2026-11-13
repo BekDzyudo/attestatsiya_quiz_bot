@@ -1,5 +1,5 @@
 {
- "offset": 33115700,
+ "offset": 33115702,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -3088,6 +3088,10 @@
   "5456409328527348787": {
    "q": "Simpleks uzatish turida maʼlumotlar qanday shaklda uzatiladi?",
    "correct": 1
+  },
+  "5456409328527348789": {
+   "q": "Kompyuter tarmoqlarida maʼlumot uzatish rejimlari toʻgʻri berilgan qatorni belgilang?",
+   "correct": 0
   }
  },
  "answers": {
@@ -9380,7 +9384,8 @@
   "5456409328527348787:672629750": 2,
   "5456409328527348784:262746859": 1,
   "5456409328527348787:262746859": 2,
-  "5456409328527348787:6956735341": 2
+  "5456409328527348787:6956735341": 2,
+  "5456409328527348789:262746859": 3
  },
  "users": {
   "1007925524": {
