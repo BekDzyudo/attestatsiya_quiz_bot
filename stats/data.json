@@ -1,5 +1,5 @@
 {
- "offset": 33116028,
+ "offset": 33116076,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -3200,6 +3200,14 @@
   "5458661128341034883": {
    "q": "\"Taʼlim toʻgʻrisidagi Qonunga koʻra, Rasmiy, norasmiy va informal taʼlimlar oʻrtasidagi farqni toʻgʻri ifodalagan varian",
    "correct": 1
+  },
+  "5458661128341034900": {
+   "q": "PF-190-sonli Farmonga koʻra, norasmiy, informal taʼlim hamda amaliy tajriba asosida egallangan koʻnikmalar qanday usulda",
+   "correct": 3
+  },
+  "5458661128341034901": {
+   "q": "Google Talk qanday dastur hisoblanadi?",
+   "correct": 2
   }
  },
  "answers": {
@@ -9601,7 +9609,9 @@
   "5458661128341034883:262746859": 1,
   "5456409328527348889:672629750": 0,
   "5456409328527348905:672629750": 3,
-  "5456409328527348910:672629750": 0
+  "5456409328527348910:672629750": 0,
+  "5458661128341034900:672629750": 3,
+  "5458661128341034901:672629750": 1
  },
  "users": {
   "1007925524": {
