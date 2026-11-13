@@ -1,5 +1,5 @@
 {
- "offset": 33116196,
+ "offset": 33116206,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -3236,6 +3236,14 @@
   "5458661128341034944": {
    "q": "Yakuniy davlat attestatsiyasi boʻyicha tuzilgan hisobotlar va materiallar kasbiy taʼlim tashkiloti arxivida necha yil da",
    "correct": 2
+  },
+  "5458661128341034953": {
+   "q": "Yakuniy davlat attestatsiyasini oʻtkazish jadvali attestatsiya boshlanishidan kamida necha kun oldin tasdiqlanadi?",
+   "correct": 1
+  },
+  "5458661128341034957": {
+   "q": "Yakuniy davlat attestatsiyasi boʻyicha har yili 1 yanvarga qadar kasbiy taʼlim tashkiloti tomonidan qanday hujjat imzola",
+   "correct": 0
   }
  },
  "answers": {
@@ -9699,7 +9707,12 @@
   "5458661128341034931:125126380": 2,
   "5456409328527348793:289268182": 3,
   "5458661128341034944:125126380": 2,
-  "5458661128341034904:262746859": 2
+  "5458661128341034904:262746859": 2,
+  "5458661128341034905:262746859": 2,
+  "5458661128341034913:262746859": 3,
+  "5458661128341034953:125126380": 1,
+  "5458661128341034957:125126380": 3,
+  "5458661128341034925:262746859": 2
  },
  "users": {
   "1007925524": {
