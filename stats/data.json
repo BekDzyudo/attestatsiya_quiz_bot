@@ -1,5 +1,5 @@
 {
- "offset": 33115748,
+ "offset": 33115756,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -3100,6 +3100,18 @@
   "5456409328527348795": {
    "q": "Markazi aniq mavjud topologiya boʻlib, bu markazga barcha abonentlar ulanadi. Ushbu taʼrif qaysi tarmoq topologiyasiga t",
    "correct": 0
+  },
+  "5456409328527348804": {
+   "q": "Qidiruv tizimi (search engine) nima?",
+   "correct": 1
+  },
+  "5456409328527348808": {
+   "q": "Blu-ray disklarning ikki qatlamli turiga qancha hajmdagi maʼlumotlarni saqlash mumkin?",
+   "correct": 1
+  },
+  "5456409328527348810": {
+   "q": "Switchga oʻxshaydi, ammo har bir olingan maʼlumotlar paketini tekshirmaydi. U har bir maʼlumot paketini barcha portlarga",
+   "correct": 1
   }
  },
  "answers": {
@@ -9416,7 +9428,11 @@
   "5456409328527348793:6009117194": 1,
   "5456409328527348793:125126380": 1,
   "5456409328527348795:125126380": 0,
-  "5456409328527348795:6009117194": 2
+  "5456409328527348795:6009117194": 2,
+  "5456409328527348795:262746859": 2,
+  "5456409328527348804:262746859": 1,
+  "5456409328527348808:262746859": 2,
+  "5456409328527348810:262746859": 1
  },
  "users": {
   "1007925524": {
