@@ -1,5 +1,5 @@
 {
- "offset": 33115812,
+ "offset": 33115826,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -3152,6 +3152,14 @@
   "5456409328527348884": {
    "q": "Foydalanish talablari asosida maʼlumotning yashirinligi, yaxlitligi va foydalanuvchanligini taʼminlash jarayoni nima dey",
    "correct": 0
+  },
+  "5456409328527348889": {
+   "q": "Sistema fayli kengaytmasi qaysi qatorda berilgan?",
+   "correct": 0
+  },
+  "5456409328527348905": {
+   "q": "Taʼlim toʻgʻrisidagi Qonunga koʻra, davlat taʼlim oluvchilarni ijtimoiy himoya qilish doirasida quyidagilardan qaysi bir",
+   "correct": 3
   }
  },
  "answers": {
@@ -9500,7 +9508,14 @@
   "5456409328527348868:1007925524": 0,
   "5456409328527348872:1007925524": 1,
   "5456409328527348877:1007925524": 1,
-  "5456409328527348884:1007925524": 0
+  "5456409328527348884:1007925524": 0,
+  "5456409328527348864:125126380": 2,
+  "5456409328527348868:125126380": 0,
+  "5456409328527348872:125126380": 1,
+  "5456409328527348877:125126380": 1,
+  "5456409328527348884:125126380": 1,
+  "5456409328527348889:125126380": 0,
+  "5456409328527348905:125126380": 0
  },
  "users": {
   "1007925524": {
