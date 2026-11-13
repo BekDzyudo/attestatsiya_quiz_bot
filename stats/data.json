@@ -1,5 +1,5 @@
 {
- "offset": 33116274,
+ "offset": 33116290,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -3292,6 +3292,10 @@
   "5458661128341035009": {
    "q": "Excel dasturining fayl kengaytmasi qaysi qatorda koʻrsatilgan?",
    "correct": 2
+  },
+  "5458661128341035010": {
+   "q": "PF-190-son Farmonga koʻra, pedagog kadrlar salohiyatini oshirish yoʻnalishida Agentlik birinchi vazifa sifatida nimani b",
+   "correct": 0
   }
  },
  "answers": {
@@ -9794,7 +9798,15 @@
   "5458661128341034982:672629750": 1,
   "5458661128341034984:672629750": 3,
   "5458661128341034994:672629750": 2,
-  "5458661128341035009:672629750": 2
+  "5458661128341035009:672629750": 2,
+  "5458661128341035010:672629750": 3,
+  "5458661128341034978:125126380": 2,
+  "5458661128341034979:125126380": 1,
+  "5458661128341034982:125126380": 1,
+  "5458661128341034984:125126380": 2,
+  "5458661128341034994:125126380": 2,
+  "5458661128341035009:125126380": 2,
+  "5458661128341035010:125126380": 1
  },
  "users": {
   "1007925524": {
