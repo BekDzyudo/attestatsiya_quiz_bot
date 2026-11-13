@@ -1,5 +1,5 @@
 {
- "offset": 33116318,
+ "offset": 33116322,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -3352,6 +3352,14 @@
   "5458661128341035069": {
    "q": "PQ-316-sonli Qarorga koʻra, maxsus fan oʻqituvchilarining malaka oshirish rejasini kim tasdiqlaydi?",
    "correct": 1
+  },
+  "5458661128341035068": {
+   "q": "125-son (roʻyxat raqami 2431-3) buyruq bilan 45-bandning yangi tahririda keltirilgan Vazirlar Mahkamasining 466-son qaro",
+   "correct": 0
+  },
+  "5458661128341035070": {
+   "q": "Web brauzer nima vazifani bajaradi?",
+   "correct": 3
   }
  },
  "answers": {
@@ -9876,7 +9884,9 @@
   "5458661128341035054:672629750": 2,
   "5458661128341035061:672629750": 1,
   "5458661128341035063:672629750": 2,
-  "5458661128341035069:672629750": 3
+  "5458661128341035069:672629750": 3,
+  "5458661128341035068:672629750": 0,
+  "5458661128341035070:672629750": 3
  },
  "users": {
   "1007925524": {
