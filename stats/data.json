@@ -1,5 +1,5 @@
 {
- "offset": 33115686,
+ "offset": 33115700,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -3084,6 +3084,10 @@
   "5456409328527348784": {
    "q": "Yakuniy davlat attestatsiyasida Oʻzbekiston tarixi fanidan davlat imtihoni qaysi guruhlarda oʻtkaziladi?",
    "correct": 2
+  },
+  "5456409328527348787": {
+   "q": "Simpleks uzatish turida maʼlumotlar qanday shaklda uzatiladi?",
+   "correct": 1
   }
  },
  "answers": {
@@ -9369,7 +9373,14 @@
   "5454157528713665580:672629750": 3,
   "5454157528713665589:672629750": 2,
   "5454157528713665598:672629750": 0,
-  "5454157528713665621:672629750": 3
+  "5454157528713665621:672629750": 3,
+  "5456409328527348773:672629750": 0,
+  "5456409328527348775:672629750": 1,
+  "5456409328527348784:672629750": 2,
+  "5456409328527348787:672629750": 2,
+  "5456409328527348784:262746859": 1,
+  "5456409328527348787:262746859": 2,
+  "5456409328527348787:6956735341": 2
  },
  "users": {
   "1007925524": {
