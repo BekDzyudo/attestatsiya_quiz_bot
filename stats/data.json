@@ -1,5 +1,5 @@
 {
- "offset": 33116322,
+ "offset": 33116328,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -3360,6 +3360,18 @@
   "5458661128341035070": {
    "q": "Web brauzer nima vazifani bajaradi?",
    "correct": 3
+  },
+  "5458661128341035075": {
+   "q": "PQ-316-sonli Qarorga koʻra, kasbiy taʼlim tizimini isloh qilishning asosiy maqsadli koʻrsatkichlari qaysi yilga qadar be",
+   "correct": 1
+  },
+  "5458661128341035079": {
+   "q": "Taʼlim toʻgʻrisidagi Qonunga muvofiq Taʼlim tashkilotining rasmiy veb-saytidagi axborotning ishonchliligi uchun kim shax",
+   "correct": 3
+  },
+  "5458661128341035083": {
+   "q": "PQ-316-sonli Qarorga koʻra, ilgʻor kasbiy mahorat texnikumlari binolarini qurish, rekonstruksiya qilish va taʼmirlash is",
+   "correct": 1
   }
  },
  "answers": {
@@ -9886,7 +9898,10 @@
   "5458661128341035063:672629750": 2,
   "5458661128341035069:672629750": 3,
   "5458661128341035068:672629750": 0,
-  "5458661128341035070:672629750": 3
+  "5458661128341035070:672629750": 3,
+  "5458661128341035075:672629750": 1,
+  "5458661128341035079:672629750": 3,
+  "5458661128341035083:672629750": 1
  },
  "users": {
   "1007925524": {
