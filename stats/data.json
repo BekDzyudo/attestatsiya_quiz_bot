@@ -1,5 +1,5 @@
 {
- "offset": 33115357,
+ "offset": 33115377,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -3052,6 +3052,10 @@
   "5456409328527348756": {
    "q": "Qaysi qurilma — kompyuter ish jarayonida axborotlarni protsessorga berishga va protsessordan olingan axborotlarni vaqtin",
    "correct": 3
+  },
+  "5456409328527348758": {
+   "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
+   "correct": 2
   }
  },
  "answers": {
@@ -9173,7 +9177,17 @@
   "5456409328527348756:1805166872": 3,
   "5456409328527348756:1007925524": 3,
   "5456409328527348755:262746859": 2,
-  "5456409328527348756:262746859": 0
+  "5456409328527348756:262746859": 0,
+  "5456409328527348758:262746859": 2,
+  "5456409328527348758:1007925524": 2,
+  "5454157528713665227:6009117194": 3,
+  "5454157528713665230:6009117194": 1,
+  "5456409328527348758:1805166872": 2,
+  "5454157528713665234:6009117194": 3,
+  "5454157528713665236:6009117194": 3,
+  "5454157528713665242:6009117194": 3,
+  "5454157528713665251:6009117194": 3,
+  "5454157528713665253:6009117194": 3
  },
  "users": {
   "1007925524": {
