@@ -1,5 +1,5 @@
 {
- "offset": 33115742,
+ "offset": 33115748,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -3096,6 +3096,10 @@
   "5456409328527348793": {
    "q": "Taʼlim toʻgʻrisidagi Qonunga koʻra, Oʻzbekiston Respublikasi Vazirlar Mahkamasi taʼlim sohasida quyidagi vakolatlardan q",
    "correct": 3
+  },
+  "5456409328527348795": {
+   "q": "Markazi aniq mavjud topologiya boʻlib, bu markazga barcha abonentlar ulanadi. Ushbu taʼrif qaysi tarmoq topologiyasiga t",
+   "correct": 0
   }
  },
  "answers": {
@@ -9409,7 +9413,10 @@
   "5456409328527348784:6009117194": 2,
   "5456409328527348787:6009117194": 3,
   "5456409328527348789:6009117194": 1,
-  "5456409328527348793:6009117194": 1
+  "5456409328527348793:6009117194": 1,
+  "5456409328527348793:125126380": 1,
+  "5456409328527348795:125126380": 0,
+  "5456409328527348795:6009117194": 2
  },
  "users": {
   "1007925524": {
