@@ -32,14 +32,22 @@ jobs:
           git config user.email "quiz-bot@users.noreply.github.com"
           python3 stats.py --setup || true
           end=$(( $(date +%s) + 330*60 ))
+          # Repo bilan sinxronlash: tashqaridan (qo'lda) o'zgartirish bo'lsa va to'qnashuv chiqsa,
+          # yarim qolgan rebase tufayli tsikl to'xtab qolmasligi uchun masofaviy holatga qaytariladi.
+          sync() {
+            git pull -q --rebase --autostash 2>/dev/null && return 0
+            git rebase --abort 2>/dev/null || true
+            git fetch -q origin main && git reset -q --hard origin/main
+            echo "sinxronlashda to'qnashuv: origin/main holatiga qaytarildi"
+          }
           while [ $(date +%s) -lt $end ]; do
-            git pull -q --rebase || true
+            sync
             python3 send.py || echo "yuborishda xato"
             python3 stats.py > /dev/null || echo "statistikada xato"
             git add state.json stats
             if ! git diff --cached --quiet; then
               git commit -q -m "quiz yuborildi"
-              for i in 1 2 3; do git pull -q --rebase && git push -q && break; sleep 5; done
+              for i in 1 2 3; do sync && git push -q && break; sleep 5; done
             fi
             # keyingi 5 daqiqalik nuqtagacha /stat, /men buyruqlarini kutib, darhol javob beradi
             now=$(date +%s); wait=$(( 300 - now % 300 + 5 ))
