@@ -1,5 +1,5 @@
 {
- "offset": 33115760,
+ "offset": 33115762,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -3112,6 +3112,10 @@
   "5456409328527348810": {
    "q": "Switchga oʻxshaydi, ammo har bir olingan maʼlumotlar paketini tekshirmaydi. U har bir maʼlumot paketini barcha portlarga",
    "correct": 1
+  },
+  "5456409328527348815": {
+   "q": "Vazirlar Mahkamasining 466-son qarori bilan tasdiqlangan Nizomga koʻra, oʻrta maxsus professional taʼlim dasturlarida oʻ",
+   "correct": 3
   }
  },
  "answers": {
@@ -9434,7 +9438,8 @@
   "5456409328527348808:262746859": 2,
   "5456409328527348810:262746859": 1,
   "5456409328527348789:672629750": 0,
-  "5456409328527348793:672629750": 1
+  "5456409328527348793:672629750": 1,
+  "5456409328527348815:262746859": 3
  },
  "users": {
   "1007925524": {
