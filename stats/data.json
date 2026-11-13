@@ -1,5 +1,5 @@
 {
- "offset": 33115762,
+ "offset": 33115800,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -3116,6 +3116,22 @@
   "5456409328527348815": {
    "q": "Vazirlar Mahkamasining 466-son qarori bilan tasdiqlangan Nizomga koʻra, oʻrta maxsus professional taʼlim dasturlarida oʻ",
    "correct": 3
+  },
+  "5456409328527348823": {
+   "q": "…... bu – arifmetik va mantiqiy amallarni bajaruvchi, xotira qurilmasi bilan bogʻlanuvchi, qurilmalar ishini boshqaruvch",
+   "correct": 2
+  },
+  "5456409328527348830": {
+   "q": "Raqamli klaviaturada ikki marta koʻrinmaydigan tugma nomi qaysi qatorda berilgan?",
+   "correct": 0
+  },
+  "5456409328527348838": {
+   "q": "PF-190-sonli Farmon qaysi sohaga oid?",
+   "correct": 1
+  },
+  "5456409328527348842": {
+   "q": "PQ-316-sonli Qarorga koʻra, texnikum umumtaʼlim fani oʻqituvchilari ish haqi fondiga nisbatan necha foiz miqdorida ragʻb",
+   "correct": 2
   }
  },
  "answers": {
@@ -9439,7 +9455,26 @@
   "5456409328527348810:262746859": 1,
   "5456409328527348789:672629750": 0,
   "5456409328527348793:672629750": 1,
-  "5456409328527348815:262746859": 3
+  "5456409328527348815:262746859": 3,
+  "5456409328527348823:262746859": 1,
+  "5456409328527348830:262746859": 0,
+  "5456409328527348838:262746859": 3,
+  "5456409328527348842:262746859": 2,
+  "5456409328527348773:1007925524": 1,
+  "5456409328527348775:1007925524": 1,
+  "5456409328527348784:1007925524": 1,
+  "5456409328527348787:1007925524": 2,
+  "5456409328527348789:1007925524": 0,
+  "5456409328527348793:1007925524": 3,
+  "5456409328527348795:1007925524": 3,
+  "5456409328527348804:1007925524": 1,
+  "5456409328527348808:1007925524": 1,
+  "5456409328527348810:1007925524": 0,
+  "5456409328527348815:1007925524": 3,
+  "5456409328527348823:1007925524": 3,
+  "5456409328527348830:1007925524": 0,
+  "5456409328527348838:1007925524": 1,
+  "5456409328527348842:1007925524": 1
  },
  "users": {
   "1007925524": {
