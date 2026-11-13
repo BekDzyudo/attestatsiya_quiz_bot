@@ -1,5 +1,5 @@
 {
- "offset": 33115800,
+ "offset": 33115812,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -3132,6 +3132,26 @@
   "5456409328527348842": {
    "q": "PQ-316-sonli Qarorga koʻra, texnikum umumtaʼlim fani oʻqituvchilari ish haqi fondiga nisbatan necha foiz miqdorida ragʻb",
    "correct": 2
+  },
+  "5456409328527348864": {
+   "q": "Tarmoq yaratilgan usul uning …..... deb ataladi.",
+   "correct": 2
+  },
+  "5456409328527348868": {
+   "q": "MS Excel dasturi qanday vazifani bajarishga moʻljallangan?",
+   "correct": 0
+  },
+  "5456409328527348872": {
+   "q": "PF-190-son Farmonga koʻra, Davlat texnikumlari mutaxassislarni qanday asosda jalb qiladi?",
+   "correct": 1
+  },
+  "5456409328527348877": {
+   "q": "Kompyuter konfiguratsiyasi deganda nimani tushunasiz?",
+   "correct": 1
+  },
+  "5456409328527348884": {
+   "q": "Foydalanish talablari asosida maʼlumotning yashirinligi, yaxlitligi va foydalanuvchanligini taʼminlash jarayoni nima dey",
+   "correct": 0
   }
  },
  "answers": {
@@ -9474,7 +9494,13 @@
   "5456409328527348823:1007925524": 3,
   "5456409328527348830:1007925524": 0,
   "5456409328527348838:1007925524": 1,
-  "5456409328527348842:1007925524": 1
+  "5456409328527348842:1007925524": 1,
+  "5456409328527348860:1007925524": 1,
+  "5456409328527348864:1007925524": 2,
+  "5456409328527348868:1007925524": 0,
+  "5456409328527348872:1007925524": 1,
+  "5456409328527348877:1007925524": 1,
+  "5456409328527348884:1007925524": 0
  },
  "users": {
   "1007925524": {
