@@ -1,5 +1,5 @@
 {
- "offset": 33116272,
+ "offset": 33116274,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -3288,6 +3288,10 @@
   "5458661128341034994": {
    "q": "MS Excelda berilgan A2;C12 diapazonda nechta katak mavjud?",
    "correct": 1
+  },
+  "5458661128341035009": {
+   "q": "Excel dasturining fayl kengaytmasi qaysi qatorda koʻrsatilgan?",
+   "correct": 2
   }
  },
  "answers": {
@@ -9789,7 +9793,8 @@
   "5458661128341034979:672629750": 3,
   "5458661128341034982:672629750": 1,
   "5458661128341034984:672629750": 3,
-  "5458661128341034994:672629750": 2
+  "5458661128341034994:672629750": 2,
+  "5458661128341035009:672629750": 2
  },
  "users": {
   "1007925524": {
