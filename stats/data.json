@@ -1,5 +1,5 @@
 {
- "offset": 33116681,
+ "offset": 33116713,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -3403,6 +3403,14 @@
   },
   "5458462391614313521": {
    "q": "VMsining 106-son qarori bilan tasdiqlangan Nizomga koʻra, professional taʼlim muassasalari boshqaruv va pedagog kadrlari",
+   "correct": 0
+  },
+  "5458462391614313522": {
+   "q": "Vazirlar Mahkamasining 466-son qarori bilan tasdiqlangan Nizomga koʻra, oʻrta maxsus professional taʼlim (texnikumlar) d",
+   "correct": 0
+  },
+  "5458462391614313525": {
+   "q": "Taʼlim toʻgʻrisidagi Qonunga koʻra, taʼlim tashkilotlari talabgorlarni va (yoki) ularning ota-onasini quyidagilardan qay",
    "correct": 0
   }
  },
@@ -10105,7 +10113,23 @@
   "5458462391614313518:1007925524": 1,
   "5458462391614313519:1007925524": 2,
   "5458462391614313521:1007925524": 0,
-  "5458462391614313519:672629750": 2
+  "5458462391614313519:672629750": 2,
+  "5458462391614313518:262746859": 1,
+  "5458462391614313519:262746859": 2,
+  "5458462391614313521:672629750": 0,
+  "5458462391614313522:672629750": 1,
+  "5458462391614313525:672629750": 0,
+  "5458462391614313506:289268182": 0,
+  "5458462391614313507:289268182": 3,
+  "5458462391614313508:289268182": 0,
+  "5458462391614313515:289268182": 0,
+  "5458462391614313516:289268182": 0,
+  "5458462391614313521:262746859": 0,
+  "5458462391614313518:289268182": 1,
+  "5458462391614313519:289268182": 2,
+  "5458462391614313521:289268182": 0,
+  "5458462391614313522:262746859": 0,
+  "5458462391614313522:289268182": 0
  },
  "users": {
   "1007925524": {
