@@ -1,5 +1,5 @@
 {
- "offset": 33117046,
+ "offset": 33117072,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -3567,6 +3567,14 @@
   },
   "5458462391614313750": {
    "q": "PQ-316-sonli Qarorga koʻra, kasbiy taʼlim dasturlari xalqaro standartlari asosida yangidan ishlab chiqiladigan tartib qa",
+   "correct": 0
+  },
+  "5458462391614313751": {
+   "q": "PF-190-sonli Farmonga koʻra, kasbiy taʼlim va kasbga oʻqitishda boshqaruv tizimini takomillashtirish orqali qanday natij",
+   "correct": 2
+  },
+  "5458462391614313754": {
+   "q": "Yakuniy davlat attestatsiyasi komissiyasining tarkibi kamida necha foizi korxonalar (tashkilotlar) vakillaridan iborat b",
    "correct": 0
   }
  },
@@ -10450,7 +10458,20 @@
   "5458462391614313687:1805166872": 1,
   "5458462391614313691:1805166872": 1,
   "5458462391614313696:1805166872": 1,
-  "5458462391614313699:1805166872": 1
+  "5458462391614313699:1805166872": 1,
+  "5458462391614313700:1805166872": 0,
+  "5458462391614313703:1805166872": 3,
+  "5458462391614313704:1805166872": 2,
+  "5458462391614313706:1805166872": 2,
+  "5458462391614313708:1805166872": 0,
+  "5458462391614313711:1805166872": 0,
+  "5458462391614313739:1805166872": 0,
+  "5458462391614313741:1805166872": 2,
+  "5458462391614313744:1805166872": 3,
+  "5458462391614313749:1805166872": 0,
+  "5458462391614313750:1805166872": 0,
+  "5458462391614313751:1805166872": 0,
+  "5458462391614313754:1805166872": 0
  },
  "users": {
   "1007925524": {
