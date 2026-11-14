@@ -1,5 +1,5 @@
 {
- "offset": 33117152,
+ "offset": 33117172,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -3604,6 +3604,22 @@
   "5458462391614313785": {
    "q": "PQ-316-sonli Qarorga koʻra, imtiyozli kreditning muddati qancha yil?",
    "correct": 3
+  },
+  "5458462391614313791": {
+   "q": "Taʼlim toʻgʻrisidagi Qonunga koʻra, Quyidagilardan qaysi biri «Taʼlim sohasidagi asosiy prinsiplar» jumlasiga kirmaydi?",
+   "correct": 2
+  },
+  "5458462391614313842": {
+   "q": "PQ-316-sonli Qarorga koʻra, Oliy taʼlim, fan va innovatsiyalar vazirligi qaror ijrosini har yili qaysi sanaga qadar moni",
+   "correct": 3
+  },
+  "5458462391614313870": {
+   "q": "PQ-316-sonli Qarorga koʻra, reytingda eng yuqori oʻrinni egallagan texnikumlar har biri bazaviy hisoblash miqdorining ne",
+   "correct": 2
+  },
+  "5458462391614313876": {
+   "q": "Yakuniy davlat attestatsiyasi komissiyasining tarkibi kamida necha nafardan iborat boʻladi?",
+   "correct": 2
   }
  },
  "answers": {
@@ -10539,7 +10555,17 @@
   "5458462391614313770:262746859": 2,
   "5458462391614313778:262746859": 3,
   "5458462391614313781:262746859": 0,
-  "5458462391614313785:262746859": 3
+  "5458462391614313785:262746859": 3,
+  "5458462391614313791:262746859": 2,
+  "5458462391614313842:262746859": 3,
+  "5458462391614313870:262746859": 2,
+  "5458462391614313876:262746859": 2,
+  "5458462391614313876:1045607258": 0,
+  "5458462391614313870:1045607258": 1,
+  "5458462391614313842:1045607258": 2,
+  "5458462391614313791:1045607258": 3,
+  "5458462391614313785:1045607258": 0,
+  "5458462391614313781:1045607258": 2
  },
  "users": {
   "1007925524": {
