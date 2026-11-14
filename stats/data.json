@@ -1,5 +1,5 @@
 {
- "offset": 33116998,
+ "offset": 33117010,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -3524,6 +3524,26 @@
   "5458462391614313696": {
    "q": "PQ-316-sonli Qarorga koʻra, texnikumlarda bir nafar ishlab chiqarish taʼlimi ustasiga eng koʻpi bilan necha nafar oʻquvc",
    "correct": 1
+  },
+  "5458462391614313700": {
+   "q": "Yakuniy davlat attestatsiyasida «2» (qoniqarsiz) baho olgan bitiruvchining qayta topshirish jarayoni asosiy attestatsiya",
+   "correct": 3
+  },
+  "5458462391614313703": {
+   "q": "VMsining 106-son qarori bilan tasdiqlangan Nizomga koʻra, attestatsiya komissiyasi necha kishidan iborat tarkibda tuzila",
+   "correct": 3
+  },
+  "5458462391614313704": {
+   "q": "PQ-316-sonli Qarorga koʻra, 9-sinfni tamomlagan bitiruvchilar orasidan qabul qilingan oʻquvchilar qaysi manba hisobidan ",
+   "correct": 2
+  },
+  "5458462391614313706": {
+   "q": "VMsining 106-son qarori bilan tasdiqlangan Nizomga koʻra, malaka oshirish faoliyati kamida qancha hajmdagi oʻquv dasturl",
+   "correct": 3
+  },
+  "5458462391614313708": {
+   "q": "PQ-316-sonli Qarorga koʻra, imtiyozli kredit har bir milliard soʻm mablagʻ uchun kamida necha nafar oʻquvchini jalb etis",
+   "correct": 0
   }
  },
  "answers": {
@@ -10383,7 +10403,12 @@
   "5458462391614313676:262746859": 1,
   "5458462391614313687:262746859": 1,
   "5458462391614313691:262746859": 0,
-  "5458462391614313696:262746859": 1
+  "5458462391614313696:262746859": 1,
+  "5458462391614313700:262746859": 3,
+  "5458462391614313703:262746859": 3,
+  "5458462391614313704:262746859": 2,
+  "5458462391614313706:262746859": 3,
+  "5458462391614313708:262746859": 0
  },
  "users": {
   "1007925524": {
