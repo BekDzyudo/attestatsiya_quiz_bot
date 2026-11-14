@@ -1,5 +1,5 @@
 {
- "offset": 33117216,
+ "offset": 33117248,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -3639,6 +3639,22 @@
   },
   "5458462391614313897": {
    "q": "PQ-316-sonli Qarorga koʻra, dual taʼlim oʻquvchilariga har oylik stipendiya qanday miqdorda toʻlanadi?",
+   "correct": 3
+  },
+  "5458462391614313903": {
+   "q": "PQ-316-sonli Qarorga koʻra, ilgʻor kasbiy mahorat texnikumlari faoliyatini moliyalashtirish va xodimlar ish haqi shartla",
+   "correct": 2
+  },
+  "5458462391614313912": {
+   "q": "PF-190-sonli Farmon yoshlarda qanday xususiyatlarni shakllantirishni maqsad qiladi?",
+   "correct": 2
+  },
+  "5458462391614313918": {
+   "q": "Yakuniy davlat attestatsiyasidan imtiyozli diplom olish uchun oʻquvchining yakuniy baholarining kamida necha foizi «5» (",
+   "correct": 1
+  },
+  "5458462391614313920": {
+   "q": "PF-190-sonli Farmonga koʻra, kasbiy taʼlim va kasbga oʻqitish tizimida davlat-xususiy sheriklikni rivojlantirish qaysi y",
    "correct": 3
   }
  },
@@ -10607,7 +10623,23 @@
   "5458462391614313889:672629750": 1,
   "5458462391614313894:672629750": 3,
   "5458462391614313895:672629750": 2,
-  "5458462391614313897:672629750": 3
+  "5458462391614313897:672629750": 3,
+  "5458462391614313903:672629750": 2,
+  "5458462391614313912:672629750": 2,
+  "5458462391614313918:672629750": 1,
+  "5458462391614313920:672629750": 3,
+  "5458462391614313547:289268182": 3,
+  "5458462391614313550:289268182": 0,
+  "5458462391614313552:289268182": 1,
+  "5458462391614313553:289268182": 0,
+  "5458462391614313554:289268182": 1,
+  "5458462391614313557:289268182": 3,
+  "5458462391614313558:289268182": 3,
+  "5458462391614313560:289268182": 1,
+  "5458462391614313562:289268182": 3,
+  "5458462391614313604:289268182": 1,
+  "5458462391614313627:289268182": 1,
+  "5458462391614313631:289268182": 2
  },
  "users": {
   "1007925524": {
