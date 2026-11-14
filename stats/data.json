@@ -1,5 +1,5 @@
 {
- "offset": 33116910,
+ "offset": 33116918,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -3456,6 +3456,22 @@
   "5458462391614313553": {
    "q": "Kasbiy taʼlim tashkilotlaridagi yakuniy davlat attestatsiyasida boshlangʻich kasbiy taʼlim boʻyicha davlat imtihoni qays",
    "correct": 0
+  },
+  "5458462391614313554": {
+   "q": "PQ-316-sonli Qarorga koʻra, 2026 yil 1 yanvardan boshlab ishlab chiqarish taʼlimi ustasining bazaviy tarif stavkasi kimn",
+   "correct": 1
+  },
+  "5458462391614313557": {
+   "q": "PQ-316-sonli Qarorga koʻra, ilgʻor kasbiy mahorat texnikumlaridagi malaka oshirish kurslarini qaysi tashkilot tashkil et",
+   "correct": 3
+  },
+  "5458462391614313558": {
+   "q": "PQ-316-sonli Qarorga koʻra, menejerlik oʻquv kursining oʻquv rejasi va dasturlari A. Avloniy nomidagi Pedagogik mahorat ",
+   "correct": 3
+  },
+  "5458462391614313560": {
+   "q": "PF-190-sonli Farmonga koʻra, majburiy kasbiy taʼlim dasturlari boʻyicha beriladigan malaka darajalarini kim belgilaydi?",
+   "correct": 1
   }
  },
  "answers": {
@@ -10271,7 +10287,11 @@
   "5458462391614313550:672629750": 0,
   "5458462391614313552:672629750": 1,
   "5458462391614313553:262746859": 0,
-  "5458462391614313553:672629750": 0
+  "5458462391614313553:672629750": 0,
+  "5458462391614313554:262746859": 1,
+  "5458462391614313557:262746859": 3,
+  "5458462391614313558:262746859": 3,
+  "5458462391614313560:262746859": 1
  },
  "users": {
   "1007925524": {
