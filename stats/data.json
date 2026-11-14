@@ -1,5 +1,5 @@
 {
- "offset": 33116621,
+ "offset": 33116633,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -3376,6 +3376,14 @@
   "5458462391614313506": {
    "q": "MS Excelda berilgan B21: C24 diapazonda nechta katak mavjud?",
    "correct": 3
+  },
+  "5458462391614313507": {
+   "q": "Milliy axborot qidiruv tizimi nomi toʻgʻri berilgan qatorni belgilang?",
+   "correct": 3
+  },
+  "5458462391614313508": {
+   "q": "Taʼlim toʻgʻrisidagi Qonunga koʻra, masofaviy taʼlimni tashkil etish tartibini qaysi organ belgilaydi?",
+   "correct": 0
   }
  },
  "answers": {
@@ -10049,7 +10057,13 @@
   "5458661128341035063:262746859": 2,
   "5458661128341035068:262746859": 2,
   "5458661128341035069:262746859": 1,
-  "5458661128341035070:262746859": 3
+  "5458661128341035070:262746859": 3,
+  "5458661128341035075:262746859": 1,
+  "5458661128341035079:262746859": 3,
+  "5458661128341035083:262746859": 1,
+  "5458462391614313506:262746859": 3,
+  "5458462391614313507:262746859": 3,
+  "5458462391614313508:262746859": 0
  },
  "users": {
   "1007925524": {
