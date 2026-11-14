@@ -1,5 +1,5 @@
 {
- "offset": 33116661,
+ "offset": 33116663,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -3392,6 +3392,10 @@
   "5458462391614313516": {
    "q": "Windows Logo +M tugmalari vazifasi qaysi qatorda koʻrsatilgan?",
    "correct": 3
+  },
+  "5458462391614313518": {
+   "q": "…...“kompyuterning miyasi” deb aytiladi.",
+   "correct": 1
   }
  },
  "answers": {
@@ -10085,7 +10089,8 @@
   "5458661128341035026:125126380": 3,
   "5458661128341035029:125126380": 3,
   "5458661128341035034:125126380": 2,
-  "5458661128341035036:125126380": 1
+  "5458661128341035036:125126380": 1,
+  "5458462391614313518:672629750": 3
  },
  "users": {
   "1007925524": {
