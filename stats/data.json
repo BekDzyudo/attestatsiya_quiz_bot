@@ -1,5 +1,5 @@
 {
- "offset": 33117346,
+ "offset": 33117354,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -3668,6 +3668,22 @@
   "5458462391614313932": {
    "q": "PF-190-sonli Farmonga koʻra, texnikum va korxonalar oʻrtasida samarali hamkorlikni tashkil etish hamda dual taʼlim tizim",
    "correct": 0
+  },
+  "5458462391614313965": {
+   "q": "PQ-316-sonli Qarorga koʻra, kasbiy taʼlim tizimidagi dual taʼlimning amaldagi ulushi necha foizga teng?",
+   "correct": 0
+  },
+  "5458462391614313964": {
+   "q": "PF-190-sonli Farmonga koʻra, Agentlik markaziy apparatining cheklangan shtatlar soni nechta?",
+   "correct": 2
+  },
+  "5458462391614313959": {
+   "q": "VMsining 106-son qarori bilan tasdiqlangan Nizomga koʻra, malaka oshirishning qanday shakllari mavjud?",
+   "correct": 3
+  },
+  "5458462391614313936": {
+   "q": "VMsining 106-son qarori bilan tasdiqlangan Nizomga koʻra, 100 ballik tizim doirasida 20 balldan kam ball toʻplagan boshq",
+   "correct": 1
   }
  },
  "answers": {
@@ -10680,7 +10696,11 @@
   "5458462391614313761:289268182": 1,
   "5458462391614313925:289268182": 1,
   "5458462391614313930:289268182": 1,
-  "5458462391614313932:289268182": 0
+  "5458462391614313932:289268182": 0,
+  "5458462391614313965:289268182": 0,
+  "5458462391614313964:289268182": 2,
+  "5458462391614313959:289268182": 3,
+  "5458462391614313936:289268182": 1
  },
  "users": {
   "1007925524": {
