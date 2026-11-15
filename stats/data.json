@@ -1,5 +1,5 @@
 {
- "offset": 33118284,
+ "offset": 33118288,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -3964,6 +3964,14 @@
   "5463018797864589693": {
    "q": "Skaner qanday vazifani bajaradi?",
    "correct": 3
+  },
+  "5463018797864589701": {
+   "q": "PQ-316-sonli Qarorga koʻra, ragʻbatlantirish toʻlovining necha foizi moddiy-texnika bazasini mustahkamlashga yoʻnaltiril",
+   "correct": 1
+  },
+  "5463018797864589702": {
+   "q": "PQ-316-sonli Qarorga koʻra, menejerlik oʻquv kursini kim tashkil etadi?",
+   "correct": 1
   }
  },
  "answers": {
@@ -11433,7 +11441,9 @@
   "5460714191427998828:289268182": 3,
   "5460714191427998831:289268182": 1,
   "5460714191427998845:289268182": 2,
-  "5460714191427998849:289268182": 3
+  "5460714191427998849:289268182": 3,
+  "5463018797864589701:6009117194": 2,
+  "5463018797864589702:6009117194": 0
  },
  "users": {
   "1007925524": {
