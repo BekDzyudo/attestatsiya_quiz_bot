@@ -1,5 +1,5 @@
 {
- "offset": 33118073,
+ "offset": 33118093,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -3928,6 +3928,22 @@
   "5460766998050905490": {
    "q": "PowerPoint dasturida yangi slayd qoʻshish uchun qaysi tugmani bosish kerak?",
    "correct": 3
+  },
+  "5460766998050905506": {
+   "q": "Chop etish qurilmalariga nimalar kiradi?",
+   "correct": 1
+  },
+  "5463018797864589659": {
+   "q": "Zoom qanday dastur hisoblanadi?",
+   "correct": 3
+  },
+  "5463018797864589667": {
+   "q": "Operativ xotira (RAM) qanday vazifani bajaradi?",
+   "correct": 1
+  },
+  "5463018797864589674": {
+   "q": "VMsining 106-son qarori bilan tasdiqlangan Nizomga koʻra, malaka oshirish uchun belgilangan muddatlarda sertifikatga ega",
+   "correct": 2
   }
  },
  "answers": {
@@ -11292,7 +11308,17 @@
   "5460714191427998548:6009117194": 3,
   "5460714191427998596:6009117194": 1,
   "5460714191427998653:6009117194": 1,
-  "5460714191427998685:6009117194": 1
+  "5460714191427998685:6009117194": 1,
+  "5460714191427998687:6009117194": 1,
+  "5460714191427998688:6009117194": 3,
+  "5460766998050905495:672629750": 0,
+  "5460766998050905498:672629750": 1,
+  "5460766998050905505:672629750": 3,
+  "5460766998050905506:672629750": 1,
+  "5463018797864589659:672629750": 3,
+  "5463018797864589667:672629750": 1,
+  "5463018797864589674:672629750": 2,
+  "5460714191427998692:6009117194": 1
  },
  "users": {
   "1007925524": {
