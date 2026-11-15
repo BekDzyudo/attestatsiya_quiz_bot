@@ -1,5 +1,5 @@
 {
- "offset": 33117689,
+ "offset": 33117699,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -3799,6 +3799,22 @@
   },
   "5460714191427998771": {
    "q": "VMsining 106-son qarori bilan tasdiqlangan Nizomga koʻra, ikki akademik oʻquv soati davomiyligi uzluksiz necha daqiqani ",
+   "correct": 1
+  },
+  "5460714191427998785": {
+   "q": "VMsining 26.02.2021 yildagi 106-son qarorining toʻliq nomi qanday?",
+   "correct": 3
+  },
+  "5460714191427998788": {
+   "q": "PQ-316-sonli Qarorga koʻra, 2026 yildan boshlab har yili texnikumlar oʻquvchilari oʻrtasida qanday tanlov oʻtkaziladi?",
+   "correct": 2
+  },
+  "5460714191427998789": {
+   "q": "PQ-316-sonli Qarorga koʻra, texnikumga yoʻnaltirish 9-sinf yakuni boʻyicha imtihon natijasiga koʻra qaysi yildan boshlab",
+   "correct": 1
+  },
+  "5460714191427998794": {
+   "q": "PQ-316-sonli Qarorga koʻra, maktabning qaysi sinf oʻquvchilariga oʻqishini texnikumlarga koʻchirishga ruxsat beriladi?",
    "correct": 1
   }
  },
@@ -10981,7 +10997,11 @@
   "5460714191427998760:672629750": 1,
   "5460714191427998766:672629750": 3,
   "5460714191427998762:672629750": 0,
-  "5460714191427998771:672629750": 1
+  "5460714191427998771:672629750": 1,
+  "5460714191427998785:672629750": 3,
+  "5460714191427998788:672629750": 2,
+  "5460714191427998789:672629750": 1,
+  "5460714191427998794:672629750": 1
  },
  "users": {
   "1007925524": {
