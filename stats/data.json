@@ -1,5 +1,5 @@
 {
- "offset": 33117703,
+ "offset": 33117709,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -3824,6 +3824,18 @@
   "5460714191427998803": {
    "q": "Yakuniy davlat attestatsiyasida test topshiriqlarini kim tomonidan ishlab chiqiladi?",
    "correct": 2
+  },
+  "5460714191427998807": {
+   "q": "PQ-316-sonli Qarorga koʻra, «yoʻl xaritasi» qaysi yillar uchun ishlab chiqilgan?",
+   "correct": 2
+  },
+  "5460714191427998816": {
+   "q": "PF-190-sonli Farmonda nechta ilova bor?",
+   "correct": 0
+  },
+  "5460714191427998820": {
+   "q": "Yakuniy davlat attestatsiyasida test topshiriqlari toʻgʻri bajarilganligining necha foizidan past koʻrsatkichi uchun «2»",
+   "correct": 1
   }
  },
  "answers": {
@@ -11011,7 +11023,10 @@
   "5460714191427998789:672629750": 1,
   "5460714191427998794:672629750": 1,
   "5460714191427998796:672629750": 3,
-  "5460714191427998803:672629750": 2
+  "5460714191427998803:672629750": 2,
+  "5460714191427998807:672629750": 2,
+  "5460714191427998816:672629750": 0,
+  "5460714191427998820:672629750": 1
  },
  "users": {
   "1007925524": {
