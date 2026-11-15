@@ -1,5 +1,5 @@
 {
- "offset": 33117487,
+ "offset": 33117517,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -3716,6 +3716,14 @@
   "5460714191427998539": {
    "q": "PF-190-son Farmonga koʻra, Kasbiy taʼlimni rivojlantirish hududiy tadbirkorlar kengashlari kimlar raisligida tashkil eti",
    "correct": 3
+  },
+  "5460714191427998541": {
+   "q": "Taʼlim toʻgʻrisidagi Qonunga koʻra «kadrlarni qayta tayyorlash» va «malaka oshirish» tushunchalari oʻrtasidagi farqni to",
+   "correct": 1
+  },
+  "5460714191427998542": {
+   "q": "Taʼlim toʻgʻrisidagi Qonunga koʻra, quyidagilardan qaysi biri taʼlim tashkilotlarining xalqaro hamkorlik shakllari sifat",
+   "correct": 1
   }
  },
  "answers": {
@@ -10798,7 +10806,22 @@
   "5460714191427998534:289268182": 0,
   "5460714191427998536:289268182": 3,
   "5460714191427998537:289268182": 3,
-  "5460714191427998539:289268182": 3
+  "5460714191427998539:289268182": 3,
+  "5460714191427998522:672629750": 0,
+  "5460714191427998524:672629750": 1,
+  "5460714191427998525:672629750": 1,
+  "5460714191427998526:672629750": 1,
+  "5460714191427998527:672629750": 1,
+  "5460714191427998528:672629750": 2,
+  "5460714191427998529:672629750": 3,
+  "5460714191427998531:672629750": 2,
+  "5460714191427998533:672629750": 1,
+  "5460714191427998534:672629750": 0,
+  "5460714191427998536:672629750": 3,
+  "5460714191427998537:672629750": 2,
+  "5460714191427998539:672629750": 3,
+  "5460714191427998541:672629750": 1,
+  "5460714191427998542:672629750": 1
  },
  "users": {
   "1007925524": {
