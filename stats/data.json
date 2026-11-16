@@ -1,5 +1,5 @@
 {
- "offset": 33119685,
+ "offset": 33119703,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -4188,6 +4188,22 @@
   "5465270597678274545": {
    "q": "Windows Logo +M tugmalari vazifasi qaysi qatorda koʻrsatilgan?",
    "correct": 3
+  },
+  "5465270597678274543": {
+   "q": "PF-190-sonli Farmonga koʻra, bitiruvchilar bandligini taʼminlash, texnikumlar ixtisoslashuvi va dasturlar mazmunini tako",
+   "correct": 1
+  },
+  "5465270597678274548": {
+   "q": "…...“kompyuterning miyasi” deb aytiladi.",
+   "correct": 1
+  },
+  "5465270597678274551": {
+   "q": "PQ-316-sonli Qarorga koʻra, Kasbiy taʼlimni rivojlantirish institutida direktorning taʼlim mazmunini taʼminlash boʻyicha",
+   "correct": 2
+  },
+  "5465270597678274553": {
+   "q": "VMsining 106-son qarori bilan tasdiqlangan Nizomga koʻra, professional taʼlim muassasalari boshqaruv va pedagog kadrlari",
+   "correct": 0
   }
  },
  "answers": {
@@ -12355,7 +12371,16 @@
   "5465270597678274521:1805166872": 2,
   "5465270597678274534:1805166872": 3,
   "5465270597678274538:1805166872": 3,
-  "5465270597678274545:1045607258": 2
+  "5465270597678274545:1045607258": 2,
+  "5465270597678274521:6009117194": 3,
+  "5465270597678274534:6009117194": 3,
+  "5465270597678274538:6009117194": 3,
+  "5465270597678274538:262746859": 0,
+  "5465270597678274543:6009117194": 0,
+  "5465270597678274548:6009117194": 1,
+  "5465270597678274551:6009117194": 2,
+  "5465270597678274553:6009117194": 0,
+  "5465270597678274545:6009117194": 1
  },
  "users": {
   "1007925524": {
