@@ -1,5 +1,5 @@
 {
- "offset": 33119415,
+ "offset": 33119421,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -4100,6 +4100,18 @@
   "5463018797864589892": {
    "q": "Yakuniy davlat attestatsiyasi boʻyicha apellyatsiya komissiyasi tarkibiga qanday shaxslar kiritilmaydi?",
    "correct": 1
+  },
+  "5465270597678274433": {
+   "q": "Yakuniy davlat attestatsiyasida bitiruvchi «2» (qoniqarsiz) baho olgan taqdirda, u shu oʻquv yilida tegishli imtihonni n",
+   "correct": 1
+  },
+  "5465270597678274436": {
+   "q": ".doc ushbu fayl kengaytmasi qaysi dasturga tegishli?",
+   "correct": 0
+  },
+  "5465270597678274439": {
+   "q": "PQ-316 sonli Qarorga koʻra, texnikumlar umumtaʼlim fanlari oʻqituvchilarining malakasi qayerda oshiriladi?",
+   "correct": 0
   }
  },
  "answers": {
@@ -12133,7 +12145,10 @@
   "5463018797864589885:672629750": 2,
   "5463018797864589888:672629750": 0,
   "5463018797864589892:262746859": 1,
-  "5463018797864589892:6009117194": 1
+  "5463018797864589892:6009117194": 1,
+  "5465270597678274433:262746859": 0,
+  "5465270597678274436:262746859": 0,
+  "5465270597678274439:262746859": 0
  },
  "users": {
   "1007925524": {
