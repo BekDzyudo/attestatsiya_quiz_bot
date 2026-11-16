@@ -1,5 +1,5 @@
 {
- "offset": 33119669,
+ "offset": 33119671,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -4172,6 +4172,10 @@
   "5465270597678274510": {
    "q": "PQ-316-sonli Qarorga koʻra, ilgʻor kasbiy mahorat texnikumlari binolarini qurish, rekonstruksiya qilish va taʼmirlash is",
    "correct": 1
+  },
+  "5465270597678274521": {
+   "q": "MS Excelda berilgan B21: C24 diapazonda nechta katak mavjud?",
+   "correct": 3
   }
  },
  "answers": {
@@ -12331,7 +12335,8 @@
   "5465270597678274497:6009117194": 1,
   "5465270597678274501:6009117194": 3,
   "5465270597678274510:262746859": 1,
-  "5465270597678274510:6009117194": 0
+  "5465270597678274510:6009117194": 0,
+  "5465270597678274521:262746859": 3
  },
  "users": {
   "1007925524": {
