@@ -1,5 +1,5 @@
 {
- "offset": 33119293,
+ "offset": 33119297,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -4080,6 +4080,10 @@
   "5463018797864589878": {
    "q": "PQ-316-sonli Qarorga koʻra, 2028 yildan boshlab kasbiy taʼlim dasturlari sifatini qaysi organ tanlov asosida oʻrganadi?",
    "correct": 1
+  },
+  "5463018797864589880": {
+   "q": "Yakuniy davlat attestatsiyasi (YaDA) qayerlarda oʻtkazilishi mumkin?",
+   "correct": 2
   }
  },
  "answers": {
@@ -12053,7 +12057,9 @@
   "5463018797864589869:1805166872": 1,
   "5463018797864589874:1805166872": 2,
   "5463018797864589876:1805166872": 0,
-  "5463018797864589878:1805166872": 0
+  "5463018797864589878:1805166872": 0,
+  "5463018797864589880:6009117194": 2,
+  "5463018797864589880:1805166872": 0
  },
  "users": {
   "1007925524": {
