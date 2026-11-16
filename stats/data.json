@@ -1,5 +1,5 @@
 {
- "offset": 33119249,
+ "offset": 33119269,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -4060,6 +4060,22 @@
   "5463018797864589859": {
    "q": "VMsining 106-son qarori bilan tasdiqlangan Nizomga koʻra, qayta tayyorlashda oʻquv yuklamasining eng koʻp hajmi har haft",
    "correct": 1
+  },
+  "5463018797864589867": {
+   "q": "......- foydalanuvchiga matnli va grafikli maʼlumotlarni chiqarish uchun xizmat qiladigan qurilma.",
+   "correct": 1
+  },
+  "5463018797864589869": {
+   "q": "Vazirlar Mahkamasining 466-son qarori bilan tasdiqlangan Nizomga koʻra, professional taʼlim muassasasida oʻquvchilar gur",
+   "correct": 3
+  },
+  "5463018797864589874": {
+   "q": "VMsining 106-son qarori bilan tasdiqlangan Nizomga koʻra, mashgʻulotlar oraligʻidagi tanaffus kamida necha daqiqani tash",
+   "correct": 2
+  },
+  "5463018797864589876": {
+   "q": "Biror bir sohaga, faoliyatga, voqea va hodisaga bagʻishlangan maʼlumotlarni oʻzida jamlagan internet sahifalari majmui n",
+   "correct": 0
   }
  },
  "answers": {
@@ -12011,7 +12027,17 @@
   "5463018797864589859:262746859": 1,
   "5463018797864589855:6009117194": 3,
   "5463018797864589858:6009117194": 0,
-  "5463018797864589859:6009117194": 1
+  "5463018797864589859:6009117194": 1,
+  "5463018797864589863:6009117194": 1,
+  "5463018797864589867:6009117194": 1,
+  "5463018797864589869:6009117194": 3,
+  "5463018797864589874:6009117194": 2,
+  "5463018797864589876:6009117194": 0,
+  "5463018797864589863:262746859": 1,
+  "5463018797864589867:262746859": 1,
+  "5463018797864589869:262746859": 3,
+  "5463018797864589874:262746859": 2,
+  "5463018797864589876:262746859": 0
  },
  "users": {
   "1007925524": {
