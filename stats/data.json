@@ -1,5 +1,5 @@
 {
- "offset": 33119683,
+ "offset": 33119685,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -4184,6 +4184,10 @@
   "5465270597678274538": {
    "q": "Taʼlim toʻgʻrisidagi Qonunga koʻra, masofaviy taʼlimni tashkil etish tartibini qaysi organ belgilaydi?",
    "correct": 0
+  },
+  "5465270597678274545": {
+   "q": "Windows Logo +M tugmalari vazifasi qaysi qatorda koʻrsatilgan?",
+   "correct": 3
   }
  },
  "answers": {
@@ -12350,7 +12354,8 @@
   "5465270597678274510:1805166872": 0,
   "5465270597678274521:1805166872": 2,
   "5465270597678274534:1805166872": 3,
-  "5465270597678274538:1805166872": 3
+  "5465270597678274538:1805166872": 3,
+  "5465270597678274545:1045607258": 2
  },
  "users": {
   "1007925524": {
