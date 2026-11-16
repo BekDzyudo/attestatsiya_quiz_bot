@@ -1,5 +1,5 @@
 {
- "offset": 33118926,
+ "offset": 33118946,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -4003,6 +4003,26 @@
   },
   "5463018797864589818": {
    "q": "\"Taʼlim toʻgʻrisidagi Qonunga koʻra, Rasmiy, norasmiy va informal taʼlimlar oʻrtasidagi farqni toʻgʻri ifodalagan varian",
+   "correct": 1
+  },
+  "5463018797864589824": {
+   "q": "PF-190-sonli Farmonga koʻra, norasmiy, informal taʼlim hamda amaliy tajriba asosida egallangan koʻnikmalar qanday usulda",
+   "correct": 3
+  },
+  "5463018797864589825": {
+   "q": "Google Talk qanday dastur hisoblanadi?",
+   "correct": 2
+  },
+  "5463018797864589827": {
+   "q": "PF-190-sonli Farmonda belgilangan asosiy maqsad nima?",
+   "correct": 2
+  },
+  "5463018797864589830": {
+   "q": "VMsining 106-son qarori bilan tasdiqlangan Nizomga koʻra, malaka oshirishda tinglovchi oʻquv mashgʻulotlarini uzrli saba",
+   "correct": 2
+  },
+  "5463018797864589833": {
+   "q": "Taʼlim toʻgʻrisidagi Qonunga koʻra, Taʼlim tashkilotini boshqarishni quyidagilardan qaysilari amalga oshiradi?",
    "correct": 1
   }
  },
@@ -11794,7 +11814,17 @@
   "5463018797864589815:262746859": 0,
   "5463018797864589816:262746859": 3,
   "5463018797864589818:262746859": 1,
-  "5463018797864589821:262746859": 2
+  "5463018797864589821:262746859": 2,
+  "5463018797864589824:262746859": 3,
+  "5463018797864589825:262746859": 0,
+  "5463018797864589827:262746859": 2,
+  "5463018797864589830:262746859": 2,
+  "5463018797864589833:262746859": 1,
+  "5463018797864589833:6956735341": 1,
+  "5463018797864589830:6956735341": 2,
+  "5463018797864589827:6956735341": 2,
+  "5463018797864589825:6956735341": 2,
+  "5463018797864589824:6956735341": 1
  },
  "users": {
   "1007925524": {
