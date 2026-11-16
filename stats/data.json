@@ -1,5 +1,5 @@
 {
- "offset": 33118828,
+ "offset": 33118842,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -3992,6 +3992,14 @@
   "5463018797864589808": {
    "q": "Axborotni saqlash qurilmalariga nimalar kiradi?",
    "correct": 3
+  },
+  "5463018797864589809": {
+   "q": "PF-190-son Farmonga koʻra, Migratsiya agentligi buyurtmalari qaysi jamgʻarma hisobidan moliyalashtiriladi?",
+   "correct": 2
+  },
+  "5463018797864589812": {
+   "q": "Kasbiy taʼlim tashkilotining oʻquv dasturlarini toʻliq tugatgan, lekin attestatsiyada qatnashmagan bitiruvchilar komissi",
+   "correct": 2
   }
  },
  "answers": {
@@ -11733,7 +11741,14 @@
   "5463018797864589689:262746859": 1,
   "5463018797864589693:262746859": 3,
   "5463018797864589701:262746859": 1,
-  "5463018797864589702:262746859": 1
+  "5463018797864589702:262746859": 1,
+  "5458462391614313545:1007925524": 0,
+  "5458462391614313542:1007925524": 3,
+  "5463018797864589804:1007925524": 1,
+  "5463018797864589805:1007925524": 0,
+  "5463018797864589808:1007925524": 3,
+  "5463018797864589809:1007925524": 2,
+  "5463018797864589812:1007925524": 2
  },
  "users": {
   "1007925524": {
