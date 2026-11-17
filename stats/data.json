@@ -1,5 +1,5 @@
 {
- "offset": 33121070,
+ "offset": 33121084,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -4451,6 +4451,10 @@
   },
   "5469883529993133978": {
    "q": "PQ-316-sonli Qarorga koʻra, milliy reytingda eng yuqori oʻrinni egallagan nechta texnikum ragʻbatlantiriladi?",
+   "correct": 1
+  },
+  "5469883529993133984": {
+   "q": "PF-190-son Farmonga koʻra, 2027 yil 1 yanvardan boshlab Namangan, Samarqand va Toshkent shaharlarida qaysi sohalar kasbl",
    "correct": 1
   }
  },
@@ -13277,7 +13281,14 @@
   "5469883529993133971:262746859": 2,
   "5469883529993133971:1805166872": 1,
   "5469883529993133978:262746859": 0,
-  "5469883529993133978:1805166872": 1
+  "5469883529993133978:1805166872": 1,
+  "5469883529993133971:1007925524": 3,
+  "5469883529993133984:1805166872": 1,
+  "5469883529993133978:1007925524": 1,
+  "5469883529993133984:1007925524": 2,
+  "5469883529993133984:262746859": 1,
+  "5469883529993133978:6009117194": 1,
+  "5469883529993133984:6009117194": 1
  },
  "users": {
   "1007925524": {
