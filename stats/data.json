@@ -1,5 +1,5 @@
 {
- "offset": 33120308,
+ "offset": 33120349,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -4264,6 +4264,22 @@
   "5467631730179447212": {
    "q": "Vazirlar Mahkamasining 466-son qarori bilan tasdiqlangan Nizomga koʻra, «oʻqitishning dual tizimi» atamasi nimani anglat",
    "correct": 0
+  },
+  "5467631730179447214": {
+   "q": "PQ-316-sonli Qarorga koʻra, texnikumlarda bir nafar ishlab chiqarish taʼlimi ustasiga eng koʻpi bilan necha nafar oʻquvc",
+   "correct": 1
+  },
+  "5467631730179447219": {
+   "q": "Vazirlar Mahkamasining 466-son qarori bilan tasdiqlangan Nizomga koʻra, guruhdagi oʻquvchilar soni necha nafar va undan ",
+   "correct": 0
+  },
+  "5467631730179447226": {
+   "q": "Yakuniy davlat attestatsiyasida «2» (qoniqarsiz) baho olgan bitiruvchining qayta topshirish jarayoni asosiy attestatsiya",
+   "correct": 3
+  },
+  "5467631730179447231": {
+   "q": "VMsining 106-son qarori bilan tasdiqlangan Nizomga koʻra, attestatsiya komissiyasi necha kishidan iborat tarkibda tuzila",
+   "correct": 3
   }
  },
  "answers": {
@@ -12741,7 +12757,27 @@
   "5465270597678274608:262746859": 0,
   "5465270597678274612:262746859": 1,
   "5465270597678274617:262746859": 2,
-  "5465270597678274620:262746859": 1
+  "5465270597678274620:262746859": 1,
+  "5465270597678274625:262746859": 3,
+  "5465270597678274629:262746859": 3,
+  "5465270597678274634:262746859": 1,
+  "5465270597678274638:262746859": 3,
+  "5465270597678274639:262746859": 1,
+  "5465270597678274643:262746859": 1,
+  "5465270597678274645:262746859": 2,
+  "5465270597678274650:262746859": 2,
+  "5465270597678274651:262746859": 0,
+  "5465270597678274696:262746859": 1,
+  "5465270597678274698:262746859": 1,
+  "5465270597678274708:262746859": 2,
+  "5465270597678274712:262746859": 0,
+  "5465270597678274718:262746859": 1,
+  "5467631730179447207:262746859": 1,
+  "5467631730179447212:262746859": 0,
+  "5467631730179447214:262746859": 1,
+  "5467631730179447219:262746859": 1,
+  "5467631730179447226:262746859": 3,
+  "5467631730179447231:262746859": 3
  },
  "users": {
   "1007925524": {
