@@ -1,5 +1,5 @@
 {
- "offset": 33121200,
+ "offset": 33121210,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -4480,6 +4480,26 @@
   "5469883529993134033": {
    "q": "PQ-316 Qaroriga koʻra, «Atrofimizdagi kasblar» dasturi qaysi yoshdan boshlab bolalarda kasblar haqida ilk tasavvurlar sh",
    "correct": 1
+  },
+  "5469883529993134044": {
+   "q": "PF-190-sonli Farmonga koʻra, Kasbiy taʼlimni rivojlantirish jamgʻarmasi mablagʻlari asosan nimaga sarflanadi?",
+   "correct": 1
+  },
+  "5469883529993134070": {
+   "q": "PQ-316-sonli Qarorga koʻra, 2026/2027 oʻquv yilidan boshlab texnikum direktoriga menejerlik sertifikati asosida lavozim ",
+   "correct": 1
+  },
+  "5469883529993134082": {
+   "q": "Taʼlim toʻgʻrisidagi Qonunga koʻra, umumiy oʻrta taʼlimning qaysi bosqichida va qaysi sinfdan soʻng professional tashxis",
+   "correct": 2
+  },
+  "5469883529993134092": {
+   "q": "PQ-316-sonli Qarorga koʻra, xorijda malaka oshirish va stajirovka oʻtash dasturlarida ishtirok etgan pedagoglar sonini n",
+   "correct": 3
+  },
+  "5469883529993134099": {
+   "q": "PQ-316-sonli Qarorga koʻra, Kasbiy taʼlim agentligi tizimida nechta ilgʻor kasbiy mahorat texnikumi tashkil etiladi?",
+   "correct": 2
   }
  },
  "answers": {
@@ -13363,7 +13383,12 @@
   "5469883529993134029:262746859": 1,
   "5469883529993134033:262746859": 1,
   "5469883529993134033:1805166872": 1,
-  "5469883529993134033:1007925524": 1
+  "5469883529993134033:1007925524": 1,
+  "5469883529993134044:262746859": 1,
+  "5469883529993134070:262746859": 1,
+  "5469883529993134082:262746859": 2,
+  "5469883529993134092:262746859": 3,
+  "5469883529993134099:262746859": 2
  },
  "users": {
   "1007925524": {
