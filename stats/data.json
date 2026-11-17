@@ -1,5 +1,5 @@
 {
- "offset": 33121324,
+ "offset": 33121346,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -4552,6 +4552,26 @@
   "5469883529993134196": {
    "q": "Taʼlim toʻgʻrisidagi Qonunga muvofiq Taʼlim oluvchilarning huquqlari jumlasiga KIRMAYDIGAN variant:",
    "correct": 1
+  },
+  "5469883529993134255": {
+   "q": "Taʼlim toʻgʻrisidagi Qonunga muvofiq Taʼlim tashkilotining ustavida quyidagilardan qaysi biri KOʻRSATILMAYDI?",
+   "correct": 0
+  },
+  "5469883529993134263": {
+   "q": "Taʼlim toʻgʻrisidagi Qonunga koʻra, dual taʼlimda amaliy qism qayerda amalga oshiriladi?",
+   "correct": 3
+  },
+  "5469883529993134269": {
+   "q": "VMsining 106-son qarori bilan tasdiqlangan Nizomga koʻra, ikki akademik oʻquv soati davomiyligi uzluksiz necha daqiqani ",
+   "correct": 1
+  },
+  "5469883529993134284": {
+   "q": "PQ-316-sonli Qarorga koʻra, 7—9-sinf oʻquvchilarining kasbiy qiziqishlari va iqtidorlari aniqlanadigan dastur nomi?",
+   "correct": 1
+  },
+  "5469883529993134287": {
+   "q": "VMsining 26.02.2021 yildagi 106-son qarorining toʻliq nomi qanday?",
+   "correct": 3
   }
  },
  "answers": {
@@ -13497,7 +13517,18 @@
   "5469883529993134196:672629750": 1,
   "5469883529993134202:672629750": 3,
   "5469883529993134206:672629750": 1,
-  "5469883529993134212:672629750": 1
+  "5469883529993134212:672629750": 1,
+  "5469883529993134221:672629750": 0,
+  "5469883529993134225:672629750": 2,
+  "5469883529993134228:672629750": 1,
+  "5469883529993134234:672629750": 2,
+  "5469883529993134242:672629750": 0,
+  "5469883529993134248:672629750": 1,
+  "5469883529993134255:672629750": 0,
+  "5469883529993134263:672629750": 3,
+  "5469883529993134269:672629750": 1,
+  "5469883529993134284:672629750": 1,
+  "5469883529993134287:672629750": 3
  },
  "users": {
   "1007925524": {
