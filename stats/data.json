@@ -1,5 +1,5 @@
 {
- "offset": 33120813,
+ "offset": 33120821,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -4364,6 +4364,22 @@
   "5469883529993133812": {
    "q": "PQ-316-sonli Qarorga koʻra, reytingda eng yuqori oʻrinni egallagan texnikumlar har biri bazaviy hisoblash miqdorining ne",
    "correct": 2
+  },
+  "5469883529993133821": {
+   "q": "Yakuniy davlat attestatsiyasi komissiyasining tarkibi kamida necha nafardan iborat boʻladi?",
+   "correct": 2
+  },
+  "5469883529993133822": {
+   "q": "PQ-316-sonli Qarorga koʻra, xorijga pedagoglarni yuborish xarajatlari qaysi jamgʻarma hisobidan qoplanadi?",
+   "correct": 0
+  },
+  "5469883529993133832": {
+   "q": "PF-190-son Farmonga koʻra, Davlat texnikumlari direktorlari va direktor oʻrinbosarlarini qanday asosda lavozimga tayinla",
+   "correct": 2
+  },
+  "5469883529993133835": {
+   "q": "PF-190-son Farmonga koʻra, Kambagʻallikni qisqartirish va bandlik vazirligi hamda Migratsiya agentligi buyurtmalari boʻy",
+   "correct": 1
   }
  },
  "answers": {
@@ -13062,7 +13078,11 @@
   "5469883529993133794:262746859": 3,
   "5469883529993133797:262746859": 2,
   "5469883529993133808:262746859": 3,
-  "5469883529993133812:262746859": 2
+  "5469883529993133812:262746859": 2,
+  "5469883529993133821:262746859": 2,
+  "5469883529993133822:262746859": 0,
+  "5469883529993133832:262746859": 2,
+  "5469883529993133835:262746859": 1
  },
  "users": {
   "1007925524": {
