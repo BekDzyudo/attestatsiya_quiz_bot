@@ -1,5 +1,5 @@
 {
- "offset": 33121210,
+ "offset": 33121230,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -4500,6 +4500,18 @@
   "5469883529993134099": {
    "q": "PQ-316-sonli Qarorga koʻra, Kasbiy taʼlim agentligi tizimida nechta ilgʻor kasbiy mahorat texnikumi tashkil etiladi?",
    "correct": 2
+  },
+  "5469883529993134105": {
+   "q": "PF-190-sonli Farmonga koʻra, xalqaro hamkorlikni mustahkamlash yoʻnalishida Agentlikning birinchi asosiy vazifasi nimada",
+   "correct": 1
+  },
+  "5469883529993134111": {
+   "q": "Vazirlar Mahkamasining 466-son qarori bilan tasdiqlangan Nizomga koʻra, «kasbiy kompetensiya» atamasi nimani anglatadi?",
+   "correct": 0
+  },
+  "5469883529993134125": {
+   "q": "PQ-316-sonli Qarorga koʻra, 5 yoshdan boshlab bolalarda kasblar haqida tasavvurlar shakllantiriladigan dastur nomi?",
+   "correct": 3
   }
  },
  "answers": {
@@ -13388,7 +13400,17 @@
   "5469883529993134070:262746859": 1,
   "5469883529993134082:262746859": 2,
   "5469883529993134092:262746859": 3,
-  "5469883529993134099:262746859": 2
+  "5469883529993134099:262746859": 2,
+  "5469883529993134044:1805166872": 2,
+  "5469883529993134070:1805166872": 2,
+  "5469883529993134082:1805166872": 0,
+  "5469883529993134092:1805166872": 3,
+  "5469883529993134099:1805166872": 2,
+  "5469883529993134105:1805166872": 1,
+  "5469883529993134111:1805166872": 1,
+  "5469883529993134125:1805166872": 3,
+  "5469883529993134105:262746859": 1,
+  "5469883529993134111:262746859": 1
  },
  "users": {
   "1007925524": {
