@@ -1,5 +1,5 @@
 {
- "offset": 33121554,
+ "offset": 33121560,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -4720,6 +4720,18 @@
   "5472135329806817375": {
    "q": "PQ-316-sonli Qarorga koʻra, dual taʼlim rejasidagi oʻquvchining kasbiy koʻnikmalar hamda intizomi qoniqarsiz baholangand",
    "correct": 2
+  },
+  "5472135329806817385": {
+   "q": "MS Excel dasturida qaysi element jadvalni tartibga solish uchun ishlatiladi?",
+   "correct": 1
+  },
+  "5472135329806817411": {
+   "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
+   "correct": 3
+  },
+  "5472135329806817451": {
+   "q": "Skaner qanday vazifani bajaradi?",
+   "correct": 3
   }
  },
  "answers": {
@@ -13779,7 +13791,10 @@
   "5472135329806817351:262746859": 2,
   "5472135329806817365:262746859": 0,
   "5472135329806817375:262746859": 2,
-  "5472135329806817137:672629750": 1
+  "5472135329806817137:672629750": 1,
+  "5472135329806817385:262746859": 1,
+  "5472135329806817411:262746859": 3,
+  "5472135329806817451:262746859": 3
  },
  "users": {
   "1007925524": {
