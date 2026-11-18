@@ -14,10 +14,46 @@ Ishlatish:
 import datetime, html, json, os, sys, time, urllib.parse, urllib.request
 
 TOKEN = os.environ["TELEGRAM_TOKEN"]
-CHAT = os.environ.get("TELEGRAM_CHAT_ID", "-1003982072134")
+# Faol guruh config.json dan olinadi ("pending" — yangi guruh ID'si hali kiritilmagan)
+LEGACY = "-1003982072134"  # birinchi guruh (2026-11-18 gacha)
+try:
+    CHAT = str(json.load(open("config.json", encoding="utf-8"))["chat_id"])
+except (OSError, KeyError, ValueError):
+    CHAT = os.environ.get("TELEGRAM_CHAT_ID", LEGACY)
+PENDING = CHAT == "pending"
 os.makedirs("stats", exist_ok=True)
-DB = "stats/data.json"
-db = json.load(open(DB, encoding="utf-8")) if os.path.exists(DB) else {"offset": 0, "polls": {}, "answers": {}, "users": {}}
+TAG = CHAT.lstrip("-")
+DB = "stats/data.json" if CHAT == LEGACY else f"stats/data_{TAG}.json"
+REPORT = "stats/STATS.md" if CHAT == LEGACY else f"stats/STATS_{TAG}.md"
+SENT = f"stats/sent_{TAG}.json"  # shu guruhga yuborilgan quizlarning poll ID'lari
+CHATS = "stats/chats.json"       # bot qo'shilgan guruhlar ro'yxati
+if os.path.exists(DB):
+    db = json.load(open(DB, encoding="utf-8"))
+else:
+    # yangi guruh: eski bazadagi getUpdates offsetidan davom etiladi, reyting noldan
+    off = 0
+    for f in ("stats/data.json", "stats/data_pending.json"):
+        if os.path.exists(f):
+            off = max(off, json.load(open(f, encoding="utf-8")).get("offset", 0))
+    db = {"offset": off, "polls": {}, "answers": {}, "users": {}}
+chats = json.load(open(CHATS, encoding="utf-8")) if os.path.exists(CHATS) else {}
+
+
+def sent_ids():
+    if CHAT == LEGACY:
+        return None  # eski guruhda filtr yo'q
+    return set(json.load(open(SENT, encoding="utf-8"))) if os.path.exists(SENT) else set()
+
+
+def note_chat(c, status=None):
+    if c.get("type") not in ("group", "supergroup"):
+        return
+    e = chats.setdefault(str(c["id"]), {})
+    e["title"] = c.get("title", "")
+    if status:
+        e["status"] = status
+    e["seen"] = datetime.datetime.now(TZ).strftime("%Y-%m-%d %H:%M")
+    json.dump(chats, open(CHATS, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
 
 # Statistikadan chiqarilgan foydalanuvchilar (javoblari saqlanmaydi va hisoblanmaydi)
 EXCLUDE = {"7149515601"}  # Дилчехра — 2026-11-04 da egasining so'rovi bilan chiqarildi
@@ -79,6 +115,9 @@ def me_text(user):
 
 
 def handle_message(m):
+    note_chat(m["chat"])
+    if str(m["chat"]["id"]) != CHAT:
+        return  # buyruqlarga faqat faol guruhda javob beriladi
     text = (m.get("text") or "").strip()
     if not text.startswith("/"):
         return
@@ -97,7 +136,8 @@ def process(u):
     db["offset"] = u["update_id"] + 1
     if "poll" in u:
         p = u["poll"]
-        if p.get("type") == "quiz" and p.get("correct_option_id") is not None:
+        ids = sent_ids()
+        if p.get("type") == "quiz" and p.get("correct_option_id") is not None and (ids is None or p["id"] in ids):
             db["polls"][p["id"]] = {"q": p["question"][:120], "correct": p["correct_option_id"]}
     if "poll_answer" in u:
         a = u["poll_answer"]
@@ -113,6 +153,9 @@ def process(u):
             db["answers"][key] = a["option_ids"][0]
         else:
             db["answers"].pop(key, None)  # ovozini qaytarib olgan
+    if "my_chat_member" in u:
+        cm = u["my_chat_member"]
+        note_chat(cm["chat"], cm.get("new_chat_member", {}).get("status"))
     if "message" in u:
         try:
             handle_message(u["message"])
@@ -120,10 +163,10 @@ def process(u):
             print("buyruqqa javobda xato:", e)
 
 
-ALLOWED = json.dumps(["poll", "poll_answer", "message"])
+ALLOWED = json.dumps(["poll", "poll_answer", "message", "my_chat_member"])
 
 
-LIVE = os.environ.get("LIVE_RATING", "1") == "1"
+LIVE = os.environ.get("LIVE_RATING", "1") == "1" and not PENDING
 last_live = 0.0
 
 
@@ -155,6 +198,9 @@ def fetch(long_poll=0):
 
 
 def write_report():
+    if PENDING:
+        json.dump(db, open(DB, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+        return ["Faol guruh hali tanlanmagan (config.json: pending)"]
     for k in [k for k in db["answers"] if k.split(":")[1] in EXCLUDE]:
         del db["answers"][k]
     for uid in EXCLUDE:
@@ -177,7 +223,7 @@ def write_report():
     if members is not None:
         lines += ["", f"Guruh a'zolari (bot bilan): {members}. Javob bergan: {len(table)}. "
                   f"Javob bermagan: taxminan {max(members - 1 - len(EXCLUDE) - len(table), 0)}."]
-    open("stats/STATS.md", "w", encoding="utf-8").write("\n".join(lines) + "\n")
+    open(REPORT, "w", encoding="utf-8").write("\n".join(lines) + "\n")
     json.dump(db, open(DB, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
     return lines
 
@@ -220,7 +266,7 @@ if __name__ == "__main__":
         while fetch(0):
             pass
         print("\n".join(write_report()))
-        if os.environ.get("LIVE_RATING", "1") == "1":
+        if LIVE:
             try:
                 update_live()
             except Exception as e:

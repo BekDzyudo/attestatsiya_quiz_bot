@@ -2,7 +2,13 @@
 import datetime, json, os, random, sys, urllib.error, urllib.parse, urllib.request
 
 TOKEN = os.environ["TELEGRAM_TOKEN"]
-CHAT = os.environ["TELEGRAM_CHAT_ID"]
+try:
+    CHAT = str(json.load(open("config.json", encoding="utf-8"))["chat_id"])
+except (OSError, KeyError, ValueError):
+    CHAT = os.environ["TELEGRAM_CHAT_ID"]
+if CHAT == "pending":
+    print("Faol guruh hali tanlanmagan (config.json) — yuborilmadi")
+    sys.exit(0)
 
 now = datetime.datetime.now(datetime.timezone(datetime.timedelta(hours=5)))
 # Vaqtinchalik to'xtatish: state.json dagi "pause_until" vaqtigacha savol yuborilmaydi
@@ -77,6 +83,12 @@ def send_one(idx, n):
         res = json.load(e)
 
     print(f"#{idx + 1}/{len(bank)}:", res.get("ok"), res.get("description") or "")
+    if res.get("ok"):
+        f = f"stats/sent_{CHAT.lstrip('-')}.json"
+        ids = json.load(open(f, encoding="utf-8")) if os.path.exists(f) else []
+        ids.append(res["result"]["poll"]["id"])
+        os.makedirs("stats", exist_ok=True)
+        json.dump(ids, open(f, "w", encoding="utf-8"))
     return res.get("ok")
 
 
