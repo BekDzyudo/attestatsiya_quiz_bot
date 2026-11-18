@@ -1,5 +1,5 @@
 {
- "offset": 33121544,
+ "offset": 33121552,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -4704,6 +4704,22 @@
   "5472135329806817293": {
    "q": "Zoom qanday dastur hisoblanadi?",
    "correct": 3
+  },
+  "5472135329806817314": {
+   "q": "Operativ xotira (RAM) qanday vazifani bajaradi?",
+   "correct": 1
+  },
+  "5472135329806817351": {
+   "q": "VMsining 106-son qarori bilan tasdiqlangan Nizomga koʻra, malaka oshirish uchun belgilangan muddatlarda sertifikatga ega",
+   "correct": 2
+  },
+  "5472135329806817365": {
+   "q": "Yakuniy davlat attestatsiyasining komissiya raisligiga bitta shaxs ketma-ket bir kasbiy taʼlim tashkilotida tegishli kas",
+   "correct": 0
+  },
+  "5472135329806817375": {
+   "q": "PQ-316-sonli Qarorga koʻra, dual taʼlim rejasidagi oʻquvchining kasbiy koʻnikmalar hamda intizomi qoniqarsiz baholangand",
+   "correct": 2
   }
  },
  "answers": {
@@ -13758,7 +13774,11 @@
   "5467631730179447246:289268182": 0,
   "5467631730179447254:289268182": 2,
   "5467631730179447257:289268182": 3,
-  "5467631730179447260:289268182": 0
+  "5467631730179447260:289268182": 0,
+  "5472135329806817314:262746859": 1,
+  "5472135329806817351:262746859": 2,
+  "5472135329806817365:262746859": 0,
+  "5472135329806817375:262746859": 2
  },
  "users": {
   "1007925524": {
