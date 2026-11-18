@@ -1,5 +1,5 @@
 {
- "offset": 33121768,
+ "offset": 33121770,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -4772,6 +4772,10 @@
   "5472135329806817608": {
    "q": "Taʼlim toʻgʻrisidagi Qonunga koʻra, davlat taʼlim oluvchilarni ijtimoiy himoya qilish doirasida quyidagilardan qaysi bir",
    "correct": 2
+  },
+  "5472135329806817612": {
+   "q": "Qattiq disk (ing. HDD – hard disk drive) ning asosiy vazifasi nimadan iborat?",
+   "correct": 1
   }
  },
  "answers": {
@@ -13933,7 +13937,8 @@
   "5472135329806817601:125126380": 2,
   "5472135329806817149:672629750": 1,
   "5472135329806817174:672629750": 2,
-  "5472135329806817197:672629750": 0
+  "5472135329806817197:672629750": 0,
+  "5472135329806817612:125126380": 1
  },
  "users": {
   "1007925524": {
