@@ -1,5 +1,5 @@
 {
- "offset": 33122135,
+ "offset": 33122143,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -4808,6 +4808,10 @@
   "5472135329806817670": {
    "q": "\"Taʼlim toʻgʻrisidagi Qonunga koʻra, Rasmiy, norasmiy va informal taʼlimlar oʻrtasidagi farqni toʻgʻri ifodalagan varian",
    "correct": 0
+  },
+  "5472135329806817681": {
+   "q": "MS Excel 2010 ning standart varagʻi harflar orqali belgilanuvchi nechta ustundan iborat?",
+   "correct": 3
   }
  },
  "answers": {
@@ -14152,7 +14156,8 @@
   "5472135329806817657:672629750": 0,
   "5472135329806817657:289268182": 3,
   "5472135329806817657:125126380": 3,
-  "5472135329806817670:125126380": 3
+  "5472135329806817670:125126380": 3,
+  "5472135329806817681:125126380": 2
  },
  "users": {
   "1007925524": {
