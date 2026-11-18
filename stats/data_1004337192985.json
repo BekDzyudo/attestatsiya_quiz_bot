@@ -1,5 +1,5 @@
 {
- "offset": 33122181,
+ "offset": 33122202,
  "polls": {
   "5470169922707397248": {
    "q": "PQ-316-sonli Qarorga koʻra, Kasbiy taʼlimni rivojlantirish institutida direktorning taʼlim mazmunini taʼminlash boʻyicha",
@@ -7,6 +7,10 @@
   },
   "5470169922707397260": {
    "q": "VMsining 106-son qarori bilan tasdiqlangan Nizomga koʻra, professional taʼlim muassasalari boshqaruv va pedagog kadrlari",
+   "correct": 0
+  },
+  "5472320447192242378": {
+   "q": "Taʼlim toʻgʻrisidagi Qonunga koʻra, taʼlim tashkilotlari talabgorlarni va (yoki) ularning ota-onasini quyidagilardan qay",
    "correct": 0
   }
  },
@@ -28,7 +32,17 @@
   "5470169922707397248:64221163": 3,
   "5470169922707397260:672629750": 0,
   "5470169922707397260:6062520260": 0,
-  "5470169922707397260:64221163": 0
+  "5470169922707397260:64221163": 0,
+  "5470169922707397248:6828417325": 1,
+  "5470169922707397260:6828417325": 0,
+  "5472320447192242378:6828417325": 0,
+  "5470169922707397248:1475464952": 3,
+  "5470169922707397260:1475464952": 0,
+  "5472320447192242378:672629750": 0,
+  "5470169922707397260:989514053": 0,
+  "5472320447192242378:1475464952": 1,
+  "5470169922707397260:441439079": 0,
+  "5470169922707397248:5498024510": 3
  },
  "users": {
   "672629750": {
@@ -78,6 +92,18 @@
   "64221163": {
    "name": "Shaxnoza",
    "username": "shaxnozanasirova"
+  },
+  "6828417325": {
+   "name": "JAVOHIR MURODOVICH",
+   "username": "JavoxirMurodovich"
+  },
+  "1475464952": {
+   "name": "Солижон Маманазаров",
+   "username": "HR_Solijon"
+  },
+  "5498024510": {
+   "name": "Элбек",
+   "username": ""
   }
  },
  "live_msg": 3
