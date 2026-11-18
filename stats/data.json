@@ -1,5 +1,5 @@
 {
- "offset": 33121756,
+ "offset": 33121768,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -4768,6 +4768,10 @@
   "5472135329806817601": {
    "q": "PF-190-son Farmonga koʻra, Davlat texnikumlari mutaxassislarni qanday asosda jalb qiladi?",
    "correct": 3
+  },
+  "5472135329806817608": {
+   "q": "Taʼlim toʻgʻrisidagi Qonunga koʻra, davlat taʼlim oluvchilarni ijtimoiy himoya qilish doirasida quyidagilardan qaysi bir",
+   "correct": 2
   }
  },
  "answers": {
@@ -13923,7 +13927,13 @@
   "5472135329806817560:125126380": 0,
   "5472135329806817600:262746859": 3,
   "5472135329806817601:262746859": 3,
-  "5472135329806817600:1007925524": 3
+  "5472135329806817600:1007925524": 3,
+  "5472135329806817608:125126380": 1,
+  "5472135329806817608:262746859": 2,
+  "5472135329806817601:125126380": 2,
+  "5472135329806817149:672629750": 1,
+  "5472135329806817174:672629750": 2,
+  "5472135329806817197:672629750": 0
  },
  "users": {
   "1007925524": {
