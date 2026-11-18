@@ -1,6 +1,6 @@
-# Quiz statistikasi (2026-11-18 15:10, Toshkent)
+# Quiz statistikasi (2026-11-18 15:20, Toshkent)
 
-Hisobga olingan quizlar: 1176, ishtirokchilar: 12
+Hisobga olingan quizlar: 1176, ishtirokchilar: 13
 
 | # | Ishtirokchi | To'g'ri | Noto'g'ri | Jami | Natija |
 |---|---|---|---|---|---|
@@ -16,5 +16,6 @@ Hisobga olingan quizlar: 1176, ishtirokchilar: 12
 | 10 | D.B. Tojiyev (@dextor_07) | 122 | 108 | 230 | 53% |
 | 11 | Elyor Dusnazarov (@elyordusnazarov) | 89 | 102 | 191 | 47% |
 | 12 | С.Илхом (@saydiganiyev_ilhom) | 55 | 138 | 193 | 28% |
+| 13 | Jamol | 1 | 0 | 1 | 100% |
 
-Guruh a'zolari (bot bilan): 13. Javob bergan: 12. Javob bermagan: taxminan 0.
+Guruh a'zolari (bot bilan): 13. Javob bergan: 13. Javob bermagan: taxminan 0.
