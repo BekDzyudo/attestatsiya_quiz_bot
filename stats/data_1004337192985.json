@@ -1,5 +1,5 @@
 {
- "offset": 33122750,
+ "offset": 33122764,
  "polls": {
   "5470169922707397248": {
    "q": "PQ-316-sonli Qarorga koʻra, Kasbiy taʼlimni rivojlantirish institutida direktorning taʼlim mazmunini taʼminlash boʻyicha",
@@ -64,6 +64,10 @@
   "5472320447192242427": {
    "q": "PQ-316-sonli Qarorga koʻra, ilgʻor kasbiy mahorat texnikumlaridagi malaka oshirish kurslarini qaysi tashkilot tashkil et",
    "correct": 1
+  },
+  "5472320447192242429": {
+   "q": "PQ-316-sonli Qarorga koʻra, menejerlik oʻquv kursining oʻquv rejasi va dasturlari A. Avloniy nomidagi Pedagogik mahorat ",
+   "correct": 3
   }
  },
  "answers": {
@@ -344,7 +348,14 @@
   "5472320447192242416:441439079": 3,
   "5472320447192242417:441439079": 1,
   "5472320447192242421:441439079": 0,
-  "5472320447192242427:441439079": 1
+  "5472320447192242427:441439079": 1,
+  "5472320447192242429:1007925524": 3,
+  "5472320447192242429:1475464952": 3,
+  "5472320447192242429:125126380": 3,
+  "5472320447192242429:1767314278": 3,
+  "5472320447192242427:672629750": 1,
+  "5472320447192242429:236301709": 3,
+  "5472320447192242429:672629750": 3
  },
  "users": {
   "672629750": {
