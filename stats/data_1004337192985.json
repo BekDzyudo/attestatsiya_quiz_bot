@@ -1,9 +1,13 @@
 {
- "offset": 33122159,
+ "offset": 33122181,
  "polls": {
   "5470169922707397248": {
    "q": "PQ-316-sonli Qarorga koʻra, Kasbiy taʼlimni rivojlantirish institutida direktorning taʼlim mazmunini taʼminlash boʻyicha",
    "correct": 3
+  },
+  "5470169922707397260": {
+   "q": "VMsining 106-son qarori bilan tasdiqlangan Nizomga koʻra, professional taʼlim muassasalari boshqaruv va pedagog kadrlari",
+   "correct": 0
   }
  },
  "answers": {
@@ -13,7 +17,18 @@
   "5470169922707397248:249850940": 3,
   "5470169922707397248:1767314278": 3,
   "5470169922707397248:1152193055": 1,
-  "5470169922707397248:1250674189": 3
+  "5470169922707397248:1250674189": 3,
+  "5470169922707397248:6062520260": 1,
+  "5470169922707397248:108193844": 1,
+  "5470169922707397260:1929682890": 0,
+  "5470169922707397260:1767314278": 0,
+  "5470169922707397248:289268182": 3,
+  "5470169922707397260:289268182": 0,
+  "5470169922707397260:1250674189": 0,
+  "5470169922707397248:64221163": 3,
+  "5470169922707397260:672629750": 0,
+  "5470169922707397260:6062520260": 0,
+  "5470169922707397260:64221163": 0
  },
  "users": {
   "672629750": {
@@ -43,6 +58,26 @@
   "1250674189": {
    "name": "Bobirbek",
    "username": "siddiqovbobirbek"
+  },
+  "6062520260": {
+   "name": "Naima Karimova",
+   "username": "Naima6356"
+  },
+  "108193844": {
+   "name": "Дилфуза Уткуровна",
+   "username": ""
+  },
+  "1929682890": {
+   "name": "Ruzmatov Kakhramon",
+   "username": "RaMaNioN"
+  },
+  "289268182": {
+   "name": "Şoxbozbek Tuxtasinov",
+   "username": "shohboz3dx"
+  },
+  "64221163": {
+   "name": "Shaxnoza",
+   "username": "shaxnozanasirova"
   }
  },
  "live_msg": 3
