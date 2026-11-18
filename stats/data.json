@@ -1,5 +1,5 @@
 {
- "offset": 33121352,
+ "offset": 33121364,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -4584,6 +4584,30 @@
   "5472135329806817006": {
    "q": "PQ-316-sonli Qarorga koʻra, maktabning qaysi sinf oʻquvchilariga oʻqishini texnikumlarga koʻchirishga ruxsat beriladi?",
    "correct": 1
+  },
+  "5472135329806817009": {
+   "q": "Yakuniy davlat attestatsiyasida dual taʼlim shaklida taʼlim olgan bitiruvchilarning koʻrgazmali-amaliy imtihon jarayonla",
+   "correct": 3
+  },
+  "5472135329806817013": {
+   "q": "Yakuniy davlat attestatsiyasida test topshiriqlarini kim tomonidan ishlab chiqiladi?",
+   "correct": 2
+  },
+  "5472135329806817021": {
+   "q": "PQ-316-sonli Qarorga koʻra, «yoʻl xaritasi» qaysi yillar uchun ishlab chiqilgan?",
+   "correct": 2
+  },
+  "5472135329806817028": {
+   "q": "PF-190-sonli Farmonda nechta ilova bor?",
+   "correct": 0
+  },
+  "5472135329806817031": {
+   "q": "Yakuniy davlat attestatsiyasida test topshiriqlari toʻgʻri bajarilganligining necha foizidan past koʻrsatkichi uchun «2»",
+   "correct": 1
+  },
+  "5472135329806817033": {
+   "q": "Vazirlar Mahkamasining 466-son qarori bilan tasdiqlangan Nizomga koʻra, «texnikum» qanday taʼlim muassasasi sifatida taʼ",
+   "correct": 0
   }
  },
  "answers": {
@@ -13543,7 +13567,13 @@
   "5469883529993134287:672629750": 3,
   "5472135329806817000:672629750": 2,
   "5472135329806817003:672629750": 1,
-  "5472135329806817006:672629750": 1
+  "5472135329806817006:672629750": 1,
+  "5472135329806817009:672629750": 3,
+  "5472135329806817013:672629750": 2,
+  "5472135329806817021:672629750": 2,
+  "5472135329806817028:672629750": 0,
+  "5472135329806817031:672629750": 1,
+  "5472135329806817033:672629750": 0
  },
  "users": {
   "1007925524": {
