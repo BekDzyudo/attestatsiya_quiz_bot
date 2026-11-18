@@ -30,21 +30,6 @@
   "explanation": "Nizom 26-band: idoraviy mansubligidan qatʼi nazar, har uch yilda kamida bir marta."
  },
  {
-  "question": "Vazirlar Mahkamasining 466-son qarori bilan tasdiqlangan Nizomga koʻra, oʻrta maxsus professional taʼlim (texnikumlar) dasturlarida oʻqishning normativ muddati ikki yildan kam boʻlmagani holda oʻquv jarayoni kamida necha hafta davom etishi zarur?",
-  "answer": "Kamida 94 hafta",
-  "wrong": [
-   "Kamida 84 hafta",
-   "Kamida 104 hafta",
-   "Kamida 90 hafta"
-  ],
-  "wrong_old": [
-   "Kamida 120 hafta",
-   "22–94 hafta",
-   "Kamida 72 hafta"
-  ],
-  "explanation": "Nizom 112-band: normativ muddat ikki yildan kam boʻlmaganda oʻquv jarayoni kamida 94 hafta."
- },
- {
   "question": "Taʼlim toʻgʻrisidagi Qonunga koʻra, taʼlim tashkilotlari talabgorlarni va (yoki) ularning ota-onasini quyidagilardan qaysi hujjat bilan tanishtirishi SHART BOʻLMAYDI?",
   "answer": "Tashkilotning moliyaviy hisoboti",
   "wrong": [
@@ -435,21 +420,6 @@
   "explanation": "60-modda: 1992-yil 1-yanvardan keyin olingan xorijiy hujjat tan olinadi."
  },
  {
-  "question": "Vazirlar Mahkamasining 466-son qarori bilan tasdiqlangan Nizomga koʻra, professional taʼlim muassasalarida qoʻshimcha oʻquv kursini bitiruvchilarga belgilangan tartibda tashkil etilgan imtihonlarni muvaffaqiyatli yakunlaganidan soʻng qanday hujjat beriladi?",
-  "answer": "Davlat namunasidagi sertifikat yoki guvohnoma",
-  "wrong": [
-   "Davlat namunasidagi malaka toʻgʻrisidagi diplom",
-   "Taʼlim muassasasining oʻz namunasidagi guvohnoma",
-   "Ish beruvchi tomonidan beriladigan maʼlumotnoma"
-  ],
-  "wrong_old": [
-   "Faqat maʼlumotnoma",
-   "Xalqaro sertifikat",
-   "Davlat namunasidagi diplom"
-  ],
-  "explanation": "Nizom 27-band: mehnat faoliyati huquqini beruvchi davlat namunasidagi sertifikat yoki guvohnoma."
- },
- {
   "question": "PQ-316-sonli Qarorga koʻra, davlat organlariga texnikumlarni qaysi tadbirlarga jalb qilish taqiqlangan?",
   "answer": "Taʼlim jarayoni bilan bogʻliq boʻlmagan tadbirlarga",
   "wrong": [
@@ -465,21 +435,6 @@
   "explanation": "19-band: texnikumlarni taʼlim jarayoni bilan bogʻliq boʻlmagan tadbirlarga jalb qilish taqiqlanadi."
  },
  {
-  "question": "Vazirlar Mahkamasining 466-son qarori bilan tasdiqlangan Nizomga koʻra, «oʻqitishning dual tizimi» atamasi nimani anglatadi?",
-  "answer": "Nazariy qismi taʼlim muassasasida, amaliy qismi ish joylarida tashkil etiladigan oʻqitish turi",
-  "wrong": [
-   "Nazariy qismi ish joyida, amaliy qismi taʼlim muassasasida tashkil etiladigan oʻqitish turi",
-   "Taʼlim muassasasi va oliy taʼlim tashkilotida navbatma-navbat tashkil etiladigan oʻqitish",
-   "Kunduzgi va masofaviy shakllar birgalikda qoʻllaniladigan aralash oʻqitish turi"
-  ],
-  "wrong_old": [
-   "Ikki tilda oʻqitish tizimi",
-   "Ikki taʼlim muassasasida parallel oʻqish",
-   "Kunduzgi va sirtqi shakllarni birlashtirish"
-  ],
-  "explanation": "Nizom: oʻqitishning dual tizimi tushunchasi."
- },
- {
   "question": "PQ-316-sonli Qarorga koʻra, texnikumlarda bir nafar ishlab chiqarish taʼlimi ustasiga eng koʻpi bilan necha nafar oʻquvchi toʻgʻri kelishi cheklangan normativ sifatida belgilangan?",
   "answer": "20 nafar",
   "wrong": [
@@ -493,21 +448,6 @@
    "15 nafar"
   ],
   "explanation": "5-band «a»: normativ 1:20 — bir ustaga 20 nafar oʻquvchi."
- },
- {
-  "question": "Vazirlar Mahkamasining 466-son qarori bilan tasdiqlangan Nizomga koʻra, guruhdagi oʻquvchilar soni necha nafar va undan ortiq boʻlganda chet tili, informatika kabi fanlarni ikkita kichik guruhga boʻlib oʻqitishga ruxsat etiladi?",
-  "answer": "26 nafar va undan ortiq",
-  "wrong": [
-   "25 nafar va undan ortiq",
-   "28 nafar va undan ortiq",
-   "27 nafar va undan ortiq"
-  ],
-  "wrong_old": [
-   "30 nafar va undan ortiq",
-   "24 nafar va undan ortiq",
-   "20 nafar va undan ortiq"
-  ],
-  "explanation": "Nizom 36-band: guruhda 26 nafar va undan ortiq oʻquvchi boʻlsa, ikkita kichik guruhga boʻlinadi."
  },
  {
   "question": "Yakuniy davlat attestatsiyasida «2» (qoniqarsiz) baho olgan bitiruvchining qayta topshirish jarayoni asosiy attestatsiya tugaganidan soʻng qancha vaqt ichida oʻtkaziladi?",
@@ -643,21 +583,6 @@
    "Bakalavriat — 5 yil, magistratura — 3 yil"
   ],
   "explanation": "11-modda: bakalavriat kamida uch yil, magistratura kamida bir yil."
- },
- {
-  "question": "Vazirlar Mahkamasining 466-son qarori bilan tasdiqlangan Nizomga koʻra, oʻquv mashgʻulotlari uchun ikki akademik oʻquv soati davomiyligi uzluksiz necha daqiqani tashkil etadi?",
-  "answer": "80 daqiqa",
-  "wrong": [
-   "70 daqiqa",
-   "85 daqiqa",
-   "75 daqiqa"
-  ],
-  "wrong_old": [
-   "60 daqiqa",
-   "45 daqiqa",
-   "90 daqiqa"
-  ],
-  "explanation": "Nizom 95-band: ikki akademik soat uzluksiz 80 daqiqa; 40 daqiqalik bir akademik soat ham joriy etilishi mumkin."
  },
  {
   "question": "PQ-316-sonli Qarorga koʻra, kasbiy taʼlim dasturlari xalqaro standartlari asosida yangidan ishlab chiqiladigan tartib qanday faoliyat doirasida amalga oshiriladi?",
@@ -973,21 +898,6 @@
    "Prezident maktablari"
   ],
   "explanation": "11-band «d»: moliyalashtirish va ish haqi ijod maktablari uchun belgilangan shartlarda amalga oshiriladi."
- },
- {
-  "question": "Vazirlar Mahkamasining 466-son qarori bilan tasdiqlangan Nizomga koʻra, professional taʼlim muassasalarida taʼlim sifatini nazorat qilishning qanday turi olib borilmaydi?",
-  "answer": "Xalqaro ekspert nazorati",
-  "wrong": [
-   "Ichki nazorat",
-   "Tashqi nazorat",
-   "Davlat-jamoat nazorati"
-  ],
-  "wrong_old": [
-   "Tashqi nazorat",
-   "Ichki nazorat",
-   "Davlat-jamoat nazorati"
-  ],
-  "explanation": "Nizom 41-band: ichki, tashqi, davlat-jamoat nazorati va yakuniy davlat attestatsiyasi."
  },
  {
   "question": "PF-190-sonli Farmon yoshlarda qanday xususiyatlarni shakllantirishni maqsad qiladi?",
@@ -1395,21 +1305,6 @@
   "explanation": "1-ilova, 5-yoʻnalish «a»: qoʻshma va xalqaro dasturlar asosida kadrlar tayyorlash."
  },
  {
-  "question": "Vazirlar Mahkamasining 466-son qarori bilan tasdiqlangan Nizomga koʻra, «kasbiy kompetensiya» atamasi nimani anglatadi?",
-  "answer": "Bilim, koʻnikma va amaliy tajriba asosida kasbiy vazifalarni bajarish qobiliyati",
-  "wrong": [
-   "Bilim va koʻnikmalarni diplom yoki sertifikat bilan rasmiy tasdiqlash qobiliyati",
-   "Kasb boʻyicha nazariy bilimlarni oʻquv dasturi darajasida egallaganlik koʻrsatkichi",
-   "Ish beruvchi talablariga mos ish staji va malaka toifasining mavjudligi"
-  ],
-  "wrong_old": [
-   "Faqat nazariy bilimlar yigʻindisi",
-   "Diplom va sertifikatlar soni",
-   "Ish staji davomiyligi"
-  ],
-  "explanation": "Nizom: kasbiy kompetensiya tushunchasi."
- },
- {
   "question": "PQ-316-sonli Qarorga koʻra, 5 yoshdan boshlab bolalarda kasblar haqida tasavvurlar shakllantiriladigan dastur nomi?",
   "answer": "«Atrofimizdagi kasblar»",
   "wrong": [
@@ -1648,21 +1543,6 @@
    "Mustaqil izlanuvchilik"
   ],
   "explanation": "12-modda: PhD uchun ishlab chiqarishdan ajralgan holda — tayanch doktorantura."
- },
- {
-  "question": "Vazirlar Mahkamasining 466-son qarori bilan tasdiqlangan Nizomga koʻra, oʻrta professional taʼlimda oʻquvchilarning umumiy haftalik yuklamasi 54 soat boʻlganda auditoriya va amaliyot mashgʻulotlari hajmi qanchagacha boʻladi?",
-  "answer": "36 soatgacha",
-  "wrong": [
-   "38 soatgacha",
-   "32 soatgacha",
-   "40 soatgacha"
-  ],
-  "wrong_old": [
-   "54 soatgacha",
-   "40 soatgacha",
-   "30 soatgacha"
-  ],
-  "explanation": "Nizom 95-band: umumiy haftalik yuklama 54 soat, kunduzgi taʼlimda auditoriya va amaliyot — 36 soatgacha."
  },
  {
   "question": "Taʼlim toʻgʻrisidagi Qonunga koʻra, professional taʼlim egallanadigan kasb va mutaxassislik boʻyicha qanday darajalarni oʻz ichiga oladi?",
@@ -1920,36 +1800,6 @@
   "explanation": "2-ilova 39-band: 90–100% «5», 70–89,9% «4», 60–69,9% «3», 60% dan past «2»."
  },
  {
-  "question": "Vazirlar Mahkamasining 466-son qarori bilan tasdiqlangan Nizomga koʻra, «texnikum» qanday taʼlim muassasasi sifatida taʼriflangan?",
-  "answer": "XT 5-darajasigacha, oliy taʼlim bilan integratsiyalashgan, OTM huzuridagi taʼlim muassasasi",
-  "wrong": [
-   "XT 4-darajasigacha, kasb-hunar maktablari negizida tashkil etilgan taʼlim muassasasi",
-   "XT 5-darajasigacha, Agentlik huzurida mustaqil faoliyat yurituvchi taʼlim muassasasi",
-   "XT 6-darajasigacha, oliy taʼlimning birinchi bosqichini beruvchi taʼlim muassasasi"
-  ],
-  "wrong_old": [
-   "Xalqaro tasniflagichning 3-darajasiga mos muassasa",
-   "Umumiy oʻrta taʼlim negizida 2 yillik kasb-hunar maktabi",
-   "Faqat boshlangʻich professional taʼlim beruvchi muassasa"
-  ],
-  "explanation": "Nizom: texnikum tushunchasi."
- },
- {
-  "question": "Vazirlar Mahkamasining 466-son qarori bilan tasdiqlangan Nizomga koʻra, professional taʼlim muassasalarida qoʻshimcha kvalifikatsiyalarni egallash uchun tashkil etilishi mumkin boʻlgan intensiv va qoʻshimcha oʻquv kurslarining oʻqitish muddati necha oydan oshmasligi kerak?",
-  "answer": "6 oydan",
-  "wrong": [
-   "4 oydan",
-   "9 oydan",
-   "3 oydan"
-  ],
-  "wrong_old": [
-   "1 oydan",
-   "3 oydan",
-   "12 oydan"
-  ],
-  "explanation": "Nizom 27-band: intensiv va qoʻshimcha oʻquv kurslarining oʻqitish muddati 6 oydan oshmaydi."
- },
- {
   "question": "PF-190-sonli Farmonga koʻra, davlat organlari va tashkilotlari kasbga oʻqitish buyurtmalarini qayerga joylashtirish huquqiga ega?",
   "answer": "Davlat texnikumlariga toʻgʻridan-toʻgʻri",
   "wrong": [
@@ -2000,21 +1850,6 @@
    "50 nafar"
   ],
   "explanation": "1-band «d»: xorijda malaka oshirgan pedagoglar soni amaldagi 100 nafardan 2 500 nafarga yetkaziladi."
- },
- {
-  "question": "Vazirlar Mahkamasining 466-son qarori bilan tasdiqlangan Nizomga koʻra, oʻrta professional taʼlim darajasida kadrlar tayyorlash qaysi shaxslar hisobidan va qancha muddatda tashkil etiladi?",
-  "answer": "XT kamida 3-darajasi dasturini tamomlagan yoki umumiy oʻrta maʼlumotli shaxslar — 2 yilgacha",
-  "wrong": [
-   "XT kamida 2-darajasi dasturini tamomlagan yoki 9-sinf bitiruvchilari — 3 yilgacha",
-   "Faqat umumiy oʻrta maʼlumotli shaxslar — 1 yildan 3 yilgacha",
-   "XT kamida 3-darajasi dasturini tamomlagan yoki umumiy oʻrta maʼlumotli shaxslar — 3 yilgacha"
-  ],
-  "wrong_old": [
-   "Oliy maʼlumotli shaxslar — 1 yilgacha",
-   "Faqat 9-sinf bitiruvchilari — 3 yilgacha",
-   "Faqat 11-sinf bitiruvchilari — 4 yilgacha"
-  ],
-  "explanation": "Nizom 90-band: oʻrta professional taʼlimda kadrlar tayyorlash."
  },
  {
   "question": "PQ-316-sonli Qarorga koʻra, umumiy oʻrta maʼlumotga ega boʻlgan talabgorlar orasidan qabul qilingan oʻquvchilar qanday asosda oʻqitiladi?",
@@ -2462,21 +2297,6 @@
   ],
   "wrong_old": [],
   "explanation": "Qidiruv tizimi (Google, Yandex) internet resurslarini indekslab qidiradi."
- },
- {
-  "question": "Vazirlar Mahkamasining 466-son qarori bilan tasdiqlangan Nizomga koʻra, oʻrta maxsus professional taʼlim dasturlarida oʻquv davrining umumiy hajmi qanday taqsimlanadi?",
-  "answer": "Nazariy va amaliy taʼlim 80–85%, YDA 1–3%, taʼtillar 14–18%",
-  "wrong": [
-   "Nazariy va amaliy taʼlim 75–95%, YDA 1–3%, taʼtillar 4–24%",
-   "Nazariy va amaliy taʼlim 80–85%, YDA 3–5%, taʼtillar 12–15%",
-   "Nazariy va amaliy taʼlim 85–90%, YDA 1–3%, taʼtillar 10–14%"
-  ],
-  "wrong_old": [
-   "Nazariy va amaliy taʼlim 75–95%, YDA 1–3%, taʼtillar 4–24%",
-   "Nazariy taʼlim 60%, amaliyot 30%, taʼtillar 10%",
-   "Nazariy va amaliy taʼlim 90%, YDA 5%, taʼtillar 5%"
-  ],
-  "explanation": "Nizom 111-band: oʻrta maxsus professional taʼlimda oʻquv davri taqsimoti."
  },
  {
   "question": "PF-190-sonli Farmon qaysi sohaga oid?",
@@ -2931,21 +2751,6 @@
   "explanation": "Printer — matn va grafikni chiqarish (chop etish) qurilmasi."
  },
  {
-  "question": "Vazirlar Mahkamasining 466-son qarori bilan tasdiqlangan Nizomga koʻra, professional taʼlim muassasasida oʻquvchilar guruhlarini toʻldirishda (kasb-hunar maktablaridan tashqari) qoidaga koʻra kamida va eng koʻpi bilan necha nafar oʻquvchi belgilanadi?",
-  "answer": "Kamida 12 nafar va eng koʻpi bilan 30 nafar",
-  "wrong": [
-   "Kamida 15 nafar va eng koʻpi bilan 30 nafar",
-   "Kamida 12 nafar va eng koʻpi bilan 25 nafar",
-   "Kamida 10 nafar va eng koʻpi bilan 30 nafar"
-  ],
-  "wrong_old": [
-   "Kamida 15 va eng koʻpi bilan 25 nafar",
-   "Kamida 10 va eng koʻpi bilan 35 nafar",
-   "Kamida 20 va eng koʻpi bilan 30 nafar"
-  ],
-  "explanation": "Nizom 34-band: guruhlarni toʻldirish 12–30 nafar oʻquvchi doirasida."
- },
- {
   "question": "VMsining 106-son qarori bilan tasdiqlangan Nizomga koʻra, mashgʻulotlar oraligʻidagi tanaffus kamida necha daqiqani tashkil etadi?",
   "answer": "10 daqiqa",
   "wrong": [
@@ -3224,21 +3029,6 @@
    "Malaka oshirish instituti"
   ],
   "explanation": "11-band «a»: ilgʻor kasbiy mahorat texnikumlari hududdagi boshqa texnikumlar uchun yetakchi amaliyot bazasi hisoblanadi."
- },
- {
-  "question": "125-son (roʻyxat raqami 2431-3) buyruq bilan 45-bandning yangi tahririda keltirilgan Vazirlar Mahkamasining 466-son qarori qaysi taʼlim tizimini tartibga soladi?",
-  "answer": "Uzluksiz boshlangʻich, oʻrta va oʻrta maxsus professional taʼlim tizimini",
-  "wrong": [
-   "Uzluksiz boshlangʻich va oʻrta professional taʼlim hamda oliy taʼlim tizimini",
-   "Umumiy oʻrta va oʻrta maxsus taʼlim tizimini",
-   "Kasbga oʻqitish va malaka oshirish tizimini"
-  ],
-  "wrong_old": [
-   "Oliy taʼlimdan keyingi taʼlim tizimini",
-   "Maktabgacha va umumiy oʻrta taʼlim tizimini",
-   "Faqat oliy taʼlim tizimini"
-  ],
-  "explanation": "466-son qaror: uzluksiz boshlangʻich, oʻrta va oʻrta maxsus professional taʼlim tizimini tartibga soluvchi hujjatlar."
  },
  {
   "question": "PQ-316-sonli Qarorga koʻra, maxsus fan oʻqituvchilarining malaka oshirish rejasini kim tasdiqlaydi?",
