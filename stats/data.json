@@ -1,5 +1,5 @@
 {
- "offset": 33121482,
+ "offset": 33121492,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -4664,6 +4664,18 @@
   "5472135329806817128": {
    "q": "PQ-316-sonli Qarorga koʻra, qaysi yilga qadar texnikumlar faoliyatini tugatish, ularga tegishli yer uchastkalari hamda b",
    "correct": 2
+  },
+  "5472135329806817149": {
+   "q": "Elektron pochta (email) xizmatining asosiy maqsadi nima?",
+   "correct": 1
+  },
+  "5472135329806817174": {
+   "q": "Vizual koʻrish qurilmalariga nimalar kiradi?",
+   "correct": 2
+  },
+  "5472135329806817197": {
+   "q": "PF-190-sonli Farmonga koʻra, diplom (malaka sertifikati)ga ega xodimlarni ishga qabul qilish tizimi qaysi klassifikator ",
+   "correct": 0
   }
  },
  "answers": {
@@ -13687,7 +13699,12 @@
   "5472135329806817116:672629750": 1,
   "5472135329806817122:672629750": 3,
   "5472135329806817122:262746859": 0,
-  "5472135329806817128:262746859": 2
+  "5472135329806817128:262746859": 2,
+  "5472135329806817137:262746859": 1,
+  "5472135329806817146:262746859": 0,
+  "5472135329806817149:262746859": 1,
+  "5472135329806817174:262746859": 2,
+  "5472135329806817197:262746859": 3
  },
  "users": {
   "1007925524": {
