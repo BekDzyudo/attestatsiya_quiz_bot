@@ -1,5 +1,5 @@
 {
- "offset": 33121492,
+ "offset": 33121496,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -4676,6 +4676,14 @@
   "5472135329806817197": {
    "q": "PF-190-sonli Farmonga koʻra, diplom (malaka sertifikati)ga ega xodimlarni ishga qabul qilish tizimi qaysi klassifikator ",
    "correct": 0
+  },
+  "5472135329806817211": {
+   "q": "PF-190-son Farmonga koʻra, Davlat texnikumlari taʼlim xizmatlari narxini nimaga asoslanib belgilaydi?",
+   "correct": 1
+  },
+  "5472135329806817249": {
+   "q": "PowerPoint dasturida yangi slayd qoʻshish uchun qaysi tugmani bosish kerak?",
+   "correct": 3
   }
  },
  "answers": {
@@ -13704,7 +13712,9 @@
   "5472135329806817146:262746859": 0,
   "5472135329806817149:262746859": 1,
   "5472135329806817174:262746859": 2,
-  "5472135329806817197:262746859": 3
+  "5472135329806817197:262746859": 3,
+  "5472135329806817211:262746859": 1,
+  "5472135329806817249:262746859": 3
  },
  "users": {
   "1007925524": {
