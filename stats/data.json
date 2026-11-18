@@ -1,5 +1,5 @@
 {
- "offset": 33121740,
+ "offset": 33121756,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -4760,6 +4760,14 @@
   "5472135329806817560": {
    "q": ".msg ushbu fayl kengaytmasi qaysi dasturga tegishli?",
    "correct": 0
+  },
+  "5472135329806817600": {
+   "q": "MS Excel dasturi qanday vazifani bajarishga moʻljallangan?",
+   "correct": 3
+  },
+  "5472135329806817601": {
+   "q": "PF-190-son Farmonga koʻra, Davlat texnikumlari mutaxassislarni qanday asosda jalb qiladi?",
+   "correct": 3
   }
  },
  "answers": {
@@ -13912,7 +13920,10 @@
   "5472135329806817483:125126380": 3,
   "5472135329806817451:125126380": 3,
   "5472135329806817411:125126380": 1,
-  "5472135329806817560:125126380": 0
+  "5472135329806817560:125126380": 0,
+  "5472135329806817600:262746859": 3,
+  "5472135329806817601:262746859": 3,
+  "5472135329806817600:1007925524": 3
  },
  "users": {
   "1007925524": {
