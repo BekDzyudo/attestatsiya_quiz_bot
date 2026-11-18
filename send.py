@@ -19,7 +19,7 @@ try:
         sys.exit(0)
 except (OSError, ValueError):
     pass
-if now.hour < 9 and not os.environ.get("FORCE"):
+if (now.hour < 9 or now.hour >= 23) and not os.environ.get("FORCE"):
     print("Tungi vaqt (Toshkent", now.strftime("%H:%M"), ") — yuborilmadi")
     sys.exit(0)
 
