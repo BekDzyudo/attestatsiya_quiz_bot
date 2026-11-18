@@ -1,5 +1,5 @@
 {
- "offset": 33121416,
+ "offset": 33121456,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -4620,6 +4620,22 @@
   "5472135329806817042": {
    "q": "…....kompyuterga axborot kiritishning asosiy qurilmasi boʻlib, maʼlum belgilarni kiritish yoki vazifani bajarishga moʻlj",
    "correct": 2
+  },
+  "5472135329806817052": {
+   "q": "PQ-316-sonli Qarorga koʻra, xorijda malaka oshirish va stajirovka dasturlarida ishtirok etgan pedagoglarning amaldagi so",
+   "correct": 3
+  },
+  "5472135329806817058": {
+   "q": "Vazirlar Mahkamasining 466-son qarori bilan tasdiqlangan Nizomga koʻra, oʻrta professional taʼlim darajasida kadrlar tay",
+   "correct": 1
+  },
+  "5472135329806817066": {
+   "q": "PQ-316-sonli Qarorga koʻra, umumiy oʻrta maʼlumotga ega boʻlgan talabgorlar orasidan qabul qilingan oʻquvchilar qanday a",
+   "correct": 0
+  },
+  "5472135329806817075": {
+   "q": "Taʼlim toʻgʻrisidagi Qonunga koʻra, Oʻrta maxsus professional taʼlim qayerda amalga oshiriladi va uning minimal davomiyl",
+   "correct": 3
   }
  },
  "answers": {
@@ -13610,7 +13626,27 @@
   "5469883529993134269:262746859": 1,
   "5469883529993134284:262746859": 1,
   "5469883529993134287:262746859": 2,
-  "5472135329806817000:262746859": 2
+  "5472135329806817000:262746859": 2,
+  "5472135329806817003:262746859": 2,
+  "5472135329806817006:262746859": 1,
+  "5472135329806817009:262746859": 3,
+  "5472135329806817052:672629750": 3,
+  "5472135329806817013:262746859": 2,
+  "5472135329806817021:262746859": 2,
+  "5472135329806817028:262746859": 0,
+  "5472135329806817031:262746859": 1,
+  "5472135329806817058:672629750": 1,
+  "5472135329806817033:262746859": 0,
+  "5472135329806817036:262746859": 3,
+  "5472135329806817066:672629750": 0,
+  "5472135329806817038:262746859": 3,
+  "5472135329806817075:672629750": 3,
+  "5472135329806817039:262746859": 0,
+  "5472135329806817042:262746859": 2,
+  "5472135329806817052:262746859": 3,
+  "5472135329806817058:262746859": 1,
+  "5472135329806817066:262746859": 0,
+  "5472135329806817075:262746859": 3
  },
  "users": {
   "1007925524": {
