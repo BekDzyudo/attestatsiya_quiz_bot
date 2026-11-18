@@ -183,7 +183,13 @@ def fetch(long_poll=0):
         return 0
     ups = res.get("result", [])
     for u in ups:
-        process(u)
+        try:
+            process(u)
+        except Exception as e:
+            print("yangilanishni qayta ishlashda xato:", e)
+    if ups:
+        # har bir qabul qilingan to'plam darhol diskka yoziladi (jarayon uzilsa ham yo'qolmaydi)
+        json.dump(db, open(DB, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
     if LIVE and any("poll_answer" in u for u in ups):
         global last_live
         # Telegram cheklovlari uchun: tahrirlar orasida kamida 3 soniya
@@ -256,12 +262,14 @@ if __name__ == "__main__":
             print(api("setMyCommands", commands=json.dumps(cmds, ensure_ascii=False), scope=json.dumps(scope)))
     elif len(sys.argv) > 2 and sys.argv[1] == "--listen":
         deadline = time.time() + int(sys.argv[2])
-        while True:
-            left = int(deadline - time.time())
-            if left <= 1:
-                break
-            fetch(long_poll=min(25, left - 1))
-        write_report()
+        try:
+            while True:
+                left = int(deadline - time.time())
+                if left <= 1:
+                    break
+                fetch(long_poll=min(25, left - 1))
+        finally:
+            write_report()
     else:
         while fetch(0):
             pass
