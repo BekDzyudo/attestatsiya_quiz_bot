@@ -1,5 +1,5 @@
 {
- "offset": 33122431,
+ "offset": 33122450,
  "polls": {
   "5470169922707397248": {
    "q": "PQ-316-sonli Qarorga koʻra, Kasbiy taʼlimni rivojlantirish institutida direktorning taʼlim mazmunini taʼminlash boʻyicha",
@@ -36,6 +36,10 @@
   "5472320447192242405": {
    "q": "Yakuniy davlat attestatsiyasida koʻrgazmali-amaliy imtihon natijalari boʻyicha komissiya tomonidan qanday hujjat rasmiyl",
    "correct": 1
+  },
+  "5472320447192242409": {
+   "q": "PQ-316-sonli Qarorga koʻra, ragʻbatlantirish toʻlovining necha foizi rahbar va xodimlarni moddiy ragʻbatlantirishga yoʻn",
+   "correct": 0
   }
  },
  "answers": {
@@ -178,7 +182,16 @@
   "5472320447192242405:1612104094": 1,
   "5472320447192242405:5828847218": 2,
   "5472320447192242399:5828847218": 2,
-  "5472320447192242392:5828847218": 1
+  "5472320447192242392:5828847218": 1,
+  "5472320447192242409:672629750": 0,
+  "5472320447192242409:1475464952": 0,
+  "5470169922707397260:236301709": 0,
+  "5472320447192242409:1612104094": 0,
+  "5470169922707397248:236301709": 3,
+  "5472320447192242409:1767314278": 1,
+  "5472320447192242409:236301709": 0,
+  "5472320447192242409:1190120358": 0,
+  "5472320447192242399:1338396740": 1
  },
  "users": {
   "672629750": {
@@ -276,6 +289,10 @@
   "5828847218": {
    "name": "Nazira Kuchkarova",
    "username": "KNK_13"
+  },
+  "1338396740": {
+   "name": "Jasur Og'aliqov",
+   "username": "Ogaliqov2472"
   }
  },
  "live_msg": 3
