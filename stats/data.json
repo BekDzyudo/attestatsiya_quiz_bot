@@ -1,5 +1,5 @@
 {
- "offset": 33121470,
+ "offset": 33121472,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -4652,6 +4652,10 @@
   "5472135329806817110": {
    "q": "PF-190-son Farmonga koʻra, Xorijiy ish beruvchilar ehtiyojidan kelib chiqib kasb va xorijiy tillarga oʻqitish boʻyicha b",
    "correct": 0
+  },
+  "5472135329806817116": {
+   "q": "URL (Uniform Resource Locator) nima?",
+   "correct": 1
   }
  },
  "answers": {
@@ -13669,7 +13673,8 @@
   "5472135329806817084:262746859": 1,
   "5472135329806817090:262746859": 0,
   "5472135329806817107:262746859": 0,
-  "5472135329806817110:262746859": 0
+  "5472135329806817110:262746859": 0,
+  "5472135329806817116:262746859": 1
  },
  "users": {
   "1007925524": {
