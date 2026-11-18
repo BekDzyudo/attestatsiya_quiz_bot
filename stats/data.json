@@ -1,5 +1,5 @@
 {
- "offset": 33121524,
+ "offset": 33121526,
  "polls": {
   "5424918052787461899": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
@@ -4700,6 +4700,10 @@
   "5472135329806817286": {
    "q": "Chop etish qurilmalariga nimalar kiradi?",
    "correct": 1
+  },
+  "5472135329806817293": {
+   "q": "Zoom qanday dastur hisoblanadi?",
+   "correct": 3
   }
  },
  "answers": {
@@ -13744,7 +13748,8 @@
   "5469883529993134134:1007925524": 3,
   "5472135329806817278:262746859": 1,
   "5472135329806817281:262746859": 3,
-  "5472135329806817286:262746859": 1
+  "5472135329806817286:262746859": 1,
+  "5472135329806817293:262746859": 3
  },
  "users": {
   "1007925524": {
