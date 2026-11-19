@@ -1,0 +1,40 @@
+name: A'zolikni tekshirish (qo'lda, faqat o'qish)
+
+# getUpdates chaqirmaydi va repoga hech narsa yozmaydi — asosiy bot ishiga ta'sir qilmaydi.
+on:
+  workflow_dispatch:
+    inputs:
+      ids:
+        description: "Tekshiriladigan user ID'lar (vergul bilan)"
+        required: true
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: getChatMember
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          IDS: ${{ inputs.ids }}
+        run: |
+          python3 - <<'PY'
+          import json, os, urllib.request, urllib.parse
+          chat = json.load(open("config.json"))["chat_id"]
+          def api(m, **p):
+              u = f"https://api.telegram.org/bot{os.environ['TELEGRAM_TOKEN']}/{m}?" + urllib.parse.urlencode(p)
+              try:
+                  return json.load(urllib.request.urlopen(u, timeout=20))
+              except urllib.error.HTTPError as e:
+                  return json.load(e)
+          print("MEMBERCOUNT", api("getChatMemberCount", chat_id=chat).get("result"))
+          for a in api("getChatAdministrators", chat_id=chat).get("result", []):
+              u = a["user"]; print("ADMIN", u["id"], a["status"], u.get("is_bot"), u.get("first_name", ""), u.get("last_name", ""), u.get("username", ""))
+          for uid in os.environ["IDS"].split(","):
+              r = api("getChatMember", chat_id=chat, user_id=uid.strip())
+              s = r.get("result", {}).get("status") if r.get("ok") else "xato: " + str(r.get("description"))
+              print("MEMBER", uid.strip(), s)
+          PY
