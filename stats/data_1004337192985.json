@@ -1,5 +1,5 @@
 {
- "offset": 33126191,
+ "offset": 33126200,
  "polls": {
   "5470169922707397248": {
    "q": "PQ-316-sonli Qarorga koʻra, Kasbiy taʼlimni rivojlantirish institutida direktorning taʼlim mazmunini taʼminlash boʻyicha",
@@ -244,6 +244,10 @@
   "5474572247005925872": {
    "q": "PF-190-sonli Farmon yoshlarda qanday xususiyatlarni shakllantirishni maqsad qiladi?",
    "correct": 1
+  },
+  "5474572247005925874": {
+   "q": "Yakuniy davlat attestatsiyasidan imtiyozli diplom olish uchun oʻquvchining yakuniy baholarining kamida necha foizi «5» (",
+   "correct": 3
   }
  },
  "answers": {
@@ -2506,7 +2510,13 @@
   "5474572247005925850:8813373496": 3,
   "5474572247005925854:8813373496": 0,
   "5474572247005925858:8813373496": 1,
-  "5474572247005925861:8813373496": 0
+  "5474572247005925861:8813373496": 0,
+  "5474572247005925872:1007925524": 1,
+  "5474572247005925874:1338396740": 3,
+  "5474572247005925874:1007925524": 3,
+  "5474572247005925874:6009117194": 3,
+  "5474572247005925874:155464216": 3,
+  "5474572247005925872:6009117194": 1
  },
  "users": {
   "672629750": {
