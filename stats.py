@@ -114,6 +114,35 @@ def me_text(user):
     return f"{html.escape(full_name(user), quote=False)}, sizda hali hisobga olingan javob yo'q."
 
 
+_admins = {"t": 0, "ids": set()}
+
+
+def is_admin(m):
+    """Xabar yuboruvchi guruh admini (yoki guruh nomidan yozgan anonim admin) ekanini tekshiradi."""
+    sc = m.get("sender_chat")
+    if sc and str(sc.get("id")) == CHAT:
+        return True
+    if time.time() - _admins["t"] > 300:
+        r = api("getChatAdministrators", chat_id=CHAT)
+        if r.get("ok"):
+            _admins["ids"] = {str(a["user"]["id"]) for a in r["result"]}
+            _admins["t"] = time.time()
+    return str(m.get("from", {}).get("id")) in _admins["ids"]
+
+
+def setup_menu():
+    """Buyruqlar menyusi: oddiy a'zolarga faqat /men, adminlarga /stat ham."""
+    men = {"command": "men", "description": "Mening natijam"}
+    stat = {"command": "stat", "description": "Guruh reytingi (faqat adminlar)"}
+    out = []
+    for scope in ({"type": "default"}, {"type": "all_group_chats"}):
+        out.append(api("setMyCommands", commands=json.dumps([men], ensure_ascii=False), scope=json.dumps(scope)))
+    if not PENDING:
+        out.append(api("setMyCommands", commands=json.dumps([stat, men], ensure_ascii=False),
+                       scope=json.dumps({"type": "chat_administrators", "chat_id": int(CHAT)})))
+    return out
+
+
 def handle_message(m):
     note_chat(m["chat"])
     if str(m["chat"]["id"]) != CHAT:
@@ -123,6 +152,8 @@ def handle_message(m):
         return
     cmd = text.split()[0].split("@")[0].lower()
     if cmd in ("/stat", "/statistika", "/reyting"):
+        if not is_admin(m):
+            return  # /stat faqat adminlar uchun; boshqalar qadalgan jonli reytingni ko'radi
         reply = stat_text()
     elif cmd in ("/men", "/natijam"):
         reply = me_text(m["from"])
@@ -256,10 +287,7 @@ def update_live():
 
 if __name__ == "__main__":
     if len(sys.argv) > 1 and sys.argv[1] == "--setup":
-        cmds = [{"command": "stat", "description": "Guruh reytingi: to'g'ri va xato javoblar"},
-                {"command": "men", "description": "Mening natijam"}]
-        for scope in ({"type": "default"}, {"type": "all_group_chats"}):
-            print(api("setMyCommands", commands=json.dumps(cmds, ensure_ascii=False), scope=json.dumps(scope)))
+        print(setup_menu())
     elif len(sys.argv) > 2 and sys.argv[1] == "--listen":
         deadline = time.time() + int(sys.argv[2])
         try:
@@ -271,6 +299,12 @@ if __name__ == "__main__":
         finally:
             write_report()
     else:
+        if db.get("menu_v") != 2:
+            try:
+                if all(r.get("ok") for r in setup_menu()):
+                    db["menu_v"] = 2
+            except Exception as e:
+                print("menyuni yangilashda xato:", e)
         while fetch(0):
             pass
         print("\n".join(write_report()))
