@@ -1,5 +1,5 @@
 {
- "offset": 33128022,
+ "offset": 33128038,
  "polls": {
   "5470169922707397248": {
    "q": "PQ-316-sonli Qarorga koʻra, Kasbiy taʼlimni rivojlantirish institutida direktorning taʼlim mazmunini taʼminlash boʻyicha",
@@ -383,6 +383,10 @@
   },
   "5474572247005926052": {
    "q": "Yakuniy davlat attestatsiyasidagi koʻrgazmali-amaliy imtihonlar shartlari va baholash mezonlarini kim ishlab chiqadi va ",
+   "correct": 3
+  },
+  "5474572247005926053": {
+   "q": "PQ-316-sonli Qarorga koʻra, davlat xaridlarida texnikum ishlab chiqargan mahsulotlarga nisbatan necha foiz miqdorida pre",
    "correct": 3
   }
  },
@@ -3828,7 +3832,18 @@
   "5474572247005925858:2819685": 3,
   "5474572247005925854:2819685": 0,
   "5474572247005925850:2819685": 2,
-  "5474572247005925835:2819685": 1
+  "5474572247005925835:2819685": 1,
+  "5474572247005926052:5945557949": 2,
+  "5474572247005926053:536329044": 3,
+  "5474572247005926052:2819685": 3,
+  "5474572247005926050:951585221": 1,
+  "5474572247005926044:301905367": 0,
+  "5474572247005926053:1190120358": 2,
+  "5474572247005926050:301905367": 3,
+  "5474572247005926052:301905367": 2,
+  "5474572247005926053:301905367": 3,
+  "5474572247005926053:951585221": 3,
+  "5474572247005926053:817651592": 3
  },
  "users": {
   "672629750": {
