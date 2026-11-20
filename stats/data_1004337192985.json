@@ -1,5 +1,5 @@
 {
- "offset": 33132732,
+ "offset": 33132743,
  "polls": {
   "5470169922707397248": {
    "q": "PQ-316-sonli Qarorga koʻra, Kasbiy taʼlimni rivojlantirish institutida direktorning taʼlim mazmunini taʼminlash boʻyicha",
@@ -580,6 +580,10 @@
   "5188603944229672221": {
    "q": "PQ-316-sonli Qarorga koʻra, menejerlik oʻquv kursini kim tashkil etadi?",
    "correct": 1
+  },
+  "5188603944229672235": {
+   "q": "Yakuniy davlat attestatsiyasida Oʻzbekiston tarixi fanidan davlat imtihoni qaysi guruhlarda oʻtkaziladi?",
+   "correct": 0
   }
  },
  "answers": {
@@ -6877,7 +6881,14 @@
   "5188603944229672221:2057764615": 1,
   "5188603944229672210:2057764615": 3,
   "5188603944229672221:125126380": 1,
-  "5472320447192242427:418731158": 1
+  "5472320447192242427:418731158": 1,
+  "5188603944229672235:2819685": 2,
+  "5188603944229672215:1190120358": 1,
+  "5188603944229672215:242915445": 2,
+  "5188603944229672221:242915445": 1,
+  "5188603944229672221:1190120358": 1,
+  "5188603944229672235:1190120358": 3,
+  "5188603944229672235:242915445": 0
  },
  "users": {
   "672629750": {
