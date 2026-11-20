@@ -1,245 +1,5 @@
 [
  {
-  "question": "PQ-316-sonli Qarorga koʻra, Kasbiy taʼlimni rivojlantirish institutida direktorning taʼlim mazmunini taʼminlash boʻyicha maslahatchisi lavozimiga kim jalb etiladi?",
-  "answer": "Xorijiy mutaxassis",
-  "wrong": [
-   "Mahalliy yetakchi pedagog",
-   "Xalqaro tashkilot vakili",
-   "Agentlik tavsiya etgan mahalliy mutaxassis"
-  ],
-  "wrong_old": [
-   "Agentlik direktori oʻrinbosari",
-   "Mahalliy professor",
-   "Ish beruvchilar vakili"
-  ],
-  "explanation": "6-band «b» (iii): maslahatchi lavozimiga xorijiy mutaxassis jalb etiladi."
- },
- {
-  "question": "VMsining 106-son qarori bilan tasdiqlangan Nizomga koʻra, professional taʼlim muassasalari boshqaruv va pedagog kadrlari idoraviy mansubligidan qatʼi nazar, necha yilda malakasini oshirishlari shart?",
-  "answer": "Har uch yilda kamida bir marta",
-  "wrong": [
-   "Har uch yilda kamida ikki marta",
-   "Har toʻrt yilda kamida bir marta",
-   "Har ikki yarim yilda kamida bir marta"
-  ],
-  "wrong_old": [
-   "Har yili",
-   "Har besh yilda kamida bir marta",
-   "Har ikki yilda kamida bir marta"
-  ],
-  "explanation": "Nizom 26-band: idoraviy mansubligidan qatʼi nazar, har uch yilda kamida bir marta."
- },
- {
-  "question": "Taʼlim toʻgʻrisidagi Qonunga koʻra, taʼlim tashkilotlari talabgorlarni va (yoki) ularning ota-onasini quyidagilardan qaysi hujjat bilan tanishtirishi SHART BOʻLMAYDI?",
-  "answer": "Tashkilotning moliyaviy hisoboti",
-  "wrong": [
-   "Litsenziya yoki xabarnoma qabul qilinganligi toʻgʻrisidagi tasdiqnoma",
-   "Oʻquvchilarning huquqlari va majburiyatlari",
-   "Taʼlim faoliyatini tartibga soluvchi boshqa hujjatlar"
-  ],
-  "wrong_old": [
-   "Oʻquv dasturi",
-   "Davlat akkreditatsiyasi sertifikati",
-   "Ustav"
-  ],
-  "explanation": "38-modda: ustav, litsenziya/tasdiqnoma, akkreditatsiya sertifikati, oʻquv dasturi va boshqalar bilan tanishtiriladi."
- },
- {
-  "question": "PF-190-son Farmonga koʻra, Kasbiy taʼlim agentligi tizimiga oʻtkazish orqali qayta tashkil etiladigan texnikumlarning umumiy soni nechta?",
-  "answer": "643 ta",
-  "wrong": [
-   "634 ta",
-   "463 ta",
-   "653 ta"
-  ],
-  "wrong_old": [
-   "210 ta",
-   "720 ta",
-   "343 ta"
-  ],
-  "explanation": "4-ilova: Agentlik tizimiga oʻtkazish orqali 643 ta texnikum qayta tashkil etiladi."
- },
- {
-  "question": "PQ-316-sonli Qarorga koʻra, 2026 yil 1 yanvardan boshlab Agentlikning hududiy boshqarmalari qaysi organga tenglashtiriladi?",
-  "answer": "Maktabgacha va maktab taʼlimi vazirligining hududiy boʻlinmalariga",
-  "wrong": [
-   "Oliy taʼlim, fan va innovatsiyalar vazirligining hududiy boshqarmalariga",
-   "Maktabgacha va maktab taʼlimi vazirligining markaziy apparatiga",
-   "Hududiy hokimliklarning ijtimoiy soha bloklariga"
-  ],
-  "wrong_old": [
-   "Oliy taʼlim, fan va innovatsiyalar vazirligining hududiy boʻlinmalariga",
-   "Hokimliklarning taʼlim boʻlimlariga",
-   "Bandlik vazirligining hududiy boshqarmalariga"
-  ],
-  "explanation": "15-band «g» (i): ish haqi va ragʻbatlantirish shartlari boʻyicha hududiy boshqarmalar MMTV hududiy boʻlinmalariga tenglashtiriladi."
- },
- {
-  "question": "PQ-316-sonli Qarorga koʻra, ilgʻor kasbiy mahorat texnikumida amaliy mashgʻulot oʻtaydigan boshqa texnikum oʻquvchilarini bir kunlik ovqati uchun necha foiz bazaviy hisoblash miqdorida mablagʻ ajratiladi?",
-  "answer": "15 foizi",
-  "wrong": [
-   "12 foizi",
-   "18 foizi",
-   "5 foizi"
-  ],
-  "wrong_old": [
-   "20 foizi",
-   "10 foizi",
-   "25 foizi"
-  ],
-  "explanation": "11-band «g»: bir kunlik oziq-ovqat uchun BHMning 15 foizi miqdorida mablagʻ ajratiladi."
- },
- {
-  "question": "PQ-316-sonli Qarorga koʻra, texnikumlar milliy reytingini kim yuritadi?",
-  "answer": "Taʼlim sifatini taʼminlash milliy agentligi",
-  "wrong": [
-   "Kasbiy taʼlim agentligi huzuridagi reyting markazi",
-   "Taʼlim sifatini nazorat qilish davlat inspeksiyasi",
-   "Oliy taʼlim, fan va innovatsiyalar vazirligi huzuridagi agentlik"
-  ],
-  "wrong_old": [
-   "Oliy taʼlim, fan va innovatsiyalar vazirligi",
-   "Kasbiy taʼlim agentligi",
-   "Kasbiy taʼlimni rivojlantirish instituti"
-  ],
-  "explanation": "12-band «a»: texnikumlar milliy reytingi Taʼlim sifatini taʼminlash milliy agentligi tomonidan yuritiladi."
- },
- {
-  "question": "PF-190-son Farmonga nechta ilova mavjud?",
-  "answer": "9 ta",
-  "wrong": [
-   "8 ta",
-   "10 ta",
-   "7 ta"
-  ],
-  "wrong_old": [
-   "11 ta",
-   "6 ta",
-   "5 ta"
-  ],
-  "explanation": "PF-190da 9 ta ilova bor."
- },
- {
-  "question": "Yakuniy davlat attestatsiyasida koʻrgazmali-amaliy imtihon natijalari boʻyicha komissiya tomonidan qanday hujjat rasmiylashtiriladi?",
-  "answer": "Baholash qaydnomasi",
-  "wrong": [
-   "Baholash bayonnomasi",
-   "Imtihon qaydnomasi",
-   "Natijalar dalolatnomasi"
-  ],
-  "wrong_old": [
-   "Tavsifnoma",
-   "Maʼlumotnoma",
-   "Dalolatnoma"
-  ],
-  "explanation": "2-ilova 48-band: baholash qaydnomasi; 49-band: test va qaydnoma asosida bayonnoma."
- },
- {
-  "question": "PQ-316-sonli Qarorga koʻra, ragʻbatlantirish toʻlovining necha foizi rahbar va xodimlarni moddiy ragʻbatlantirishga yoʻnaltiriladi?",
-  "answer": "20 foizi",
-  "wrong": [
-   "25 foizi",
-   "15 foizi",
-   "10 foizi"
-  ],
-  "wrong_old": [
-   "80 foizi",
-   "30 foizi",
-   "50 foizi"
-  ],
-  "explanation": "12-band «b»: 80 foiz — moddiy-texnika bazasi, 20 foiz — rahbar va xodimlarni ragʻbatlantirish."
- },
- {
-  "question": "PF-190-son Farmonga koʻra, «Vaucher» tizimi bilan qamrab olinmagan shaxslarni kasbga oʻqitish boʻyicha buyurtmalarni kim beradi?",
-  "answer": "Kambagʻallikni qisqartirish va bandlik vazirligi",
-  "wrong": [
-   "Kasbiy taʼlim agentligi hududiy boshqarmalari",
-   "Bandlikka koʻmaklashish davlat jamgʻarmasi",
-   "Mahalla va oilani qoʻllab-quvvatlash vazirligi"
-  ],
-  "wrong_old": [
-   "Migratsiya agentligi",
-   "Kasbiy taʼlim agentligi",
-   "Yoshlar ishlari agentligi"
-  ],
-  "explanation": "3-band «v» (i): vaucher bilan qamralmaganlar uchun buyurtmani Bandlik vazirligi beradi."
- },
- {
-  "question": "PQ-316-sonli Qarorga koʻra, Hisob palatasi har yili qaysi sanaga qadar Prezident Administratsiyasiga axborot kiritib boradi?",
-  "answer": "1-oktabrga qadar",
-  "wrong": [
-   "1-noyabrga qadar",
-   "15-sentabrga qadar",
-   "1-sentabrga qadar"
-  ],
-  "wrong_old": [
-   "15-oktabrga qadar",
-   "1-dekabrga qadar",
-   "15-sentabrga qadar"
-  ],
-  "explanation": "21-band «b»: Hisob palatasi har yili 1-oktabrga qadar Prezident Administratsiyasiga axborot kiritadi."
- },
- {
-  "question": "Taʼlim toʻgʻrisidagi Qonunga muvofiq Quyidagilardan qaysi biri taʼlim oluvchilarning majburiyatlari jumlasiga KIRMAYDI?",
-  "answer": "Taʼlim tashkiloti xodimlarini tanlash",
-  "wrong": [
-   "Taʼlim tashkiloti ustavi talablariga rioya etish",
-   "Pedagog xodimlarning shaʼni va qadr-qimmatini hurmat qilish",
-   "Taʼlim dasturlarini oʻzlashtirish"
-  ],
-  "wrong_old": [
-   "Ichki tartib-qoidalarga rioya etish",
-   "Mashgʻulotlarga qatnashish",
-   "Mol-mulkni asrash"
-  ],
-  "explanation": "48-modda: majburiyatlar roʻyxatida xodim tanlash yoʻq."
- },
- {
-  "question": "Kasbiy taʼlim tashkilotlaridagi yakuniy davlat attestatsiyasida boshlangʻich kasbiy taʼlim boʻyicha davlat imtihoni qaysi fanlardan test shaklida oʻtkaziladi?",
-  "answer": "Oʻzbekiston tarixi va kasbiy fanlardan",
-  "wrong": [
-   "Oʻzbekiston tarixi va umumtaʼlim fanlaridan",
-   "Faqat Oʻzbekiston tarixidan",
-   "Kasbiy fanlar va chet tilidan"
-  ],
-  "wrong_old": [
-   "Matematika va informatikadan",
-   "Ona tili va adabiyotdan",
-   "Faqat kasbiy fanlardan"
-  ],
-  "explanation": "2-ilova 5-band: boshlangʻich kasbiy taʼlim — Oʻzbekiston tarixi va kasbiy fanlardan test."
- },
- {
-  "question": "PQ-316-sonli Qarorga koʻra, 2026 yil 1 yanvardan boshlab ishlab chiqarish taʼlimi ustasining bazaviy tarif stavkasi kimning bazaviy tarif stavkasiga tenglashtiriladi?",
-  "answer": "Umumiy oʻrta taʼlim tashkiloti birinchi malaka toifali oʻqituvchisining",
-  "wrong": [
-   "Umumiy oʻrta taʼlim tashkiloti oliy malaka toifali oʻqituvchisining",
-   "Umumiy oʻrta taʼlim tashkiloti ikkinchi malaka toifali oʻqituvchisining",
-   "Texnikum umumtaʼlim fani oʻqituvchisining"
-  ],
-  "wrong_old": [
-   "Texnikum maxsus fan oʻqituvchisining",
-   "Oliy toifali maktab oʻqituvchisining",
-   "Ikkinchi toifali maktab oʻqituvchisining"
-  ],
-  "explanation": "5-band «b»: ustaning bazaviy stavkasi maktabning birinchi toifali oʻqituvchisi stavkasiga teng olinadi."
- },
- {
-  "question": "PQ-316-sonli Qarorga koʻra, ilgʻor kasbiy mahorat texnikumlaridagi malaka oshirish kurslarini qaysi tashkilot tashkil etadi?",
-  "answer": "Kasbiy taʼlimni rivojlantirish instituti",
-  "wrong": [
-   "Kasbiy taʼlim agentligining hududiy boshqarmalari",
-   "Oliy taʼlim, fan va innovatsiyalar vazirligi",
-   "Yetakchi oliy taʼlim tashkilotlari"
-  ],
-  "wrong_old": [
-   "A. Avloniy nomidagi institut",
-   "Kasbiy taʼlim agentligi",
-   "Ilgʻor kasbiy mahorat texnikumi direktori"
-  ],
-  "explanation": "11-band «v»: ilgʻor texnikumlardagi malaka oshirish kurslarini Institut tashkil etadi."
- },
- {
   "question": "PQ-316-sonli Qarorga koʻra, menejerlik oʻquv kursining oʻquv rejasi va dasturlari A. Avloniy nomidagi Pedagogik mahorat milliy instituti bilan birgalikda kim tomonidan tasdiqlanadi?",
   "answer": "Kasbiy taʼlim agentligi",
   "wrong": [
@@ -283,6 +43,17 @@
    "Texnikum direktori"
   ],
   "explanation": "7-band «a» (ii): stipendiya dual oʻquvchilar soniga nisbatan Agentlik tomonidan ajratiladi."
+ },
+ {
+  "question": "MS Excel dasturi qanday vazifani bajarishga moʻljallangan?",
+  "answer": "Elektron jadvallar bilan ishlash va hisob-kitoblar",
+  "wrong": [
+   "Matnli hujjatlarni tahrirlash",
+   "Taqdimotlar tayyorlash",
+   "Rastrli tasvirlarni tahrirlash"
+  ],
+  "wrong_old": [],
+  "explanation": "Excel — elektron jadval protsessori: formulalar, hisob-kitob, diagrammalar."
  },
  {
   "question": "PQ-316-sonli Qarorga koʻra, texnikumlarda bir nafar ishlab chiqarish taʼlimi ustasiga toʻgʻri keladigan oʻquvchilar sonining cheklangan normativi qanday nisbatda belgilanadi?",
@@ -373,6 +144,17 @@
    "9 foiz"
   ],
   "explanation": "1-band «b»: 9-sinf bitiruvchilarini qamrab olish amaldagi 29 foizdan 50 foizga yetkaziladi."
+ },
+ {
+  "question": "Qattiq disk (ing. HDD – hard disk drive) ning asosiy vazifasi nimadan iborat?",
+  "answer": "Maʼlumotlarni uzoq muddat saqlash",
+  "wrong": [
+   "Maʼlumotlarni vaqtincha saqlash",
+   "Arifmetik-mantiqiy amallarni bajarish",
+   "Tasvirni monitorga chiqarish"
+  ],
+  "wrong_old": [],
+  "explanation": "HDD — doimiy (energiyaga bogʻliq boʻlmagan) xotira: maʼlumotlar kompyuter oʻchirilganda ham saqlanadi."
  },
  {
   "question": "PQ-316-sonli Qarorga koʻra, har yili malaka oshirish jarayonida ishlab chiqarish taʼlimi ustalari, umumtaʼlim fanlari va maxsus fan oʻqituvchilarining har bir toifasidan eng yaxshi natija koʻrsatgan necha nafari xorijga yuboriladi?",
@@ -480,6 +262,17 @@
   "explanation": "Nizom 4-band: qayta tayyorlash va malaka oshirish attestatsiya komissiyasi 3–5 kishidan iborat."
  },
  {
+  "question": "Axborotni saqlash qurilmalariga nimalar kiradi?",
+  "answer": "Qattiq disk, fleshka va optik disklar",
+  "wrong": [
+   "Monitor, printer va proyektor",
+   "Klaviatura, sichqoncha va skaner",
+   "Modem, router va kommutator"
+  ],
+  "wrong_old": [],
+  "explanation": "Axborot saqlash qurilmalari: HDD, SSD, fleshka, CD/DVD."
+ },
+ {
   "question": "PQ-316-sonli Qarorga koʻra, 9-sinfni tamomlagan bitiruvchilar orasidan qabul qilingan oʻquvchilar qaysi manba hisobidan oʻqitiladi?",
   "answer": "Toʻliq Davlat budjeti mablagʻlari hisobidan",
   "wrong": [
@@ -570,6 +363,17 @@
   "explanation": "15-band «d»: oʻrinbosarlarga lavozim maoshining 30 foizi (direktorga 50 foiz)."
  },
  {
+  "question": "MS Excel 2010 ning standart varagʻi harflar orqali belgilanuvchi nechta ustundan iborat?",
+  "answer": "16 384 ta",
+  "wrong": [
+   "256 ta",
+   "1 048 576 ta",
+   "65 536 ta"
+  ],
+  "wrong_old": [],
+  "explanation": "Excel 2007/2010 varagʻida 16 384 ustun (A dan XFD gacha) va 1 048 576 qator bor. 256 ustun — Excel 2003."
+ },
+ {
   "question": "Taʼlim toʻgʻrisidagi Qonunga koʻra, Bakalavriat va magistratura bosqichlari uchun qonunda belgilangan minimal oʻqish davomiyligi qanday?",
   "answer": "Bakalavriat — kamida 3 yil, magistratura — kamida 1 yil",
   "wrong": [
@@ -658,6 +462,17 @@
    "Oʻquv rejalarini tasdiqlash"
   ],
   "explanation": "2-ilova 16-band: komissiyaning asosiy vazifalari."
+ },
+ {
+  "question": "Google Talk qanday dastur hisoblanadi?",
+  "answer": "Tezkor xabar almashish (messenjer) dasturi",
+  "wrong": [
+   "Elektron pochta mijozi",
+   "Videomontaj dasturi",
+   "Antivirus dasturi"
+  ],
+  "wrong_old": [],
+  "explanation": "Google Talk — Google kompaniyasining matnli va ovozli muloqot uchun messenjeri (keyinchalik Hangouts bilan almashtirilgan)."
  },
  {
   "question": "Yakuniy davlat attestatsiyasining asosiy maqsadi nimadan iborat?",
@@ -765,6 +580,17 @@
   "explanation": "21-band «a»: vazirlik har yili 15-sentabrga qadar monitoring oʻtkazib, natijani Hisob palatasi va Adliyaga kiritadi."
  },
  {
+  "question": "......- foydalanuvchiga matnli va grafikli maʼlumotlarni chiqarish uchun xizmat qiladigan qurilma.",
+  "answer": "Printer",
+  "wrong": [
+   "Skaner",
+   "Klaviatura",
+   "Mikrofon"
+  ],
+  "wrong_old": [],
+  "explanation": "Printer — matn va grafikni chiqarish (chop etish) qurilmasi."
+ },
+ {
   "question": "PQ-316-sonli Qarorga koʻra, reytingda eng yuqori oʻrinni egallagan texnikumlar har biri bazaviy hisoblash miqdorining necha baravari miqdorida ragʻbatlantiriladi?",
   "answer": "3 000 baravari",
   "wrong": [
@@ -855,6 +681,17 @@
   "explanation": "Nizom: muqobil malaka oshirish — individual kasbiy mahorat natijalarini tasdiqlashga asoslangan shakl."
  },
  {
+  "question": "Biror bir sohaga, faoliyatga, voqea va hodisaga bagʻishlangan maʼlumotlarni oʻzida jamlagan internet sahifalari majmui nima deb ataladi?",
+  "answer": "Veb-sayt",
+  "wrong": [
+   "Veb-brauzer",
+   "Veb-server",
+   "Domen"
+  ],
+  "wrong_old": [],
+  "explanation": "Bir mavzuga bagʻishlangan veb-sahifalar majmui — veb-sayt."
+ },
+ {
   "question": "PQ-316-sonli Qarorga koʻra, imtiyozli kreditning imtiyozli davri qancha yil?",
   "answer": "2 yil",
   "wrong": [
@@ -943,6 +780,17 @@
    "Taʼlim mazmunini takomillashtirish yoʻnalishida"
   ],
   "explanation": "1-ilova, 4-yoʻnalish «b»: DXSHni rivojlantirish infratuzilma yoʻnalishida."
+ },
+ {
+  "question": "MS Excelda berilgan A2;C12 diapazonda nechta katak mavjud?",
+  "answer": "2 ta",
+  "wrong": [
+   "33 ta",
+   "30 ta",
+   "36 ta"
+  ],
+  "wrong_old": [],
+  "explanation": "«;» belgisi diapazon emas, alohida kataklarni bildiradi: A2 va C12 — 2 ta katak (A2:C12 boʻlganda 33 ta)."
  },
  {
   "question": "Taʼlim toʻgʻrisidagi Qonunning 6-moddasiga koʻra, taʼlim tizimining ajralmas ikki xususiyati qanday ifodalangan?",
@@ -1050,6 +898,17 @@
   "explanation": "1-band «v»: dual taʼlimning amaldagi ulushi 9 foiz, maqsad — 40 foiz."
  },
  {
+  "question": "Excel dasturining fayl kengaytmasi qaysi qatorda koʻrsatilgan?",
+  "answer": ".xlsx",
+  "wrong": [
+   ".docx",
+   ".pptx",
+   ".accdb"
+  ],
+  "wrong_old": [],
+  "explanation": "Excel 2007 va undan keyingi versiyalarida fayllar .xlsx (eski versiyada .xls) kengaytmasida saqlanadi."
+ },
+ {
   "question": "Taʼlim toʻgʻrisidagi Qonunga koʻra, mustaqil izlanuvchilik shakli tayanch doktorantura va doktoranturadan qaysi xususiyati bilan farqlanadi?",
   "answer": "Ishlab chiqarishdan ajralmagan holda tashkil etiladi",
   "wrong": [
@@ -1140,6 +999,17 @@
   "explanation": "Nizom: qayta tayyorlash va malaka oshirishda 1 kredit 6 soatlik oʻquv yuklamasiga teng."
  },
  {
+  "question": ".doc ushbu fayl kengaytmasi qaysi dasturga tegishli?",
+  "answer": "Microsoft Word",
+  "wrong": [
+   "Microsoft Excel",
+   "Microsoft PowerPoint",
+   "Microsoft Access"
+  ],
+  "wrong_old": [],
+  "explanation": ".doc / .docx — Word hujjatlari. Excel — .xls/.xlsx, PowerPoint — .ppt/.pptx, Access — .mdb/.accdb."
+ },
+ {
   "question": "Yakuniy davlat attestatsiyasida test topshiriqlari bajarilgandan soʻng javoblarni javoblar varaqasiga koʻchirish uchun necha daqiqa qoʻshimcha vaqt beriladi?",
   "answer": "10 daqiqa",
   "wrong": [
@@ -1228,6 +1098,17 @@
    "Oliy taʼlim muassasalariga grantlar"
   ],
   "explanation": "5-band: jamgʻarma mablagʻlari moddiy-texnika baza va kasbiy taʼlimni rivojlantirishga."
+ },
+ {
+  "question": "Hozirgi kunda Oʻzbekistonda xizmat koʻrsatuvchi Internet provayderlari nomlari toʻgʻri koʻrsatilgan qatorni belgilang",
+  "answer": "Uztelecom, Sarkor Telecom, TPS, Comnet",
+  "wrong": [
+   "Rostelecom, Kazakhtelecom, Turkcell, MTS",
+   "Verizon, AT&T, Comcast, Sprint",
+   "Vodafone, Orange, Telekom, Telia"
+  ],
+  "wrong_old": [],
+  "explanation": "Oʻzbekistonda xizmat koʻrsatuvchi provayderlar: Uztelecom, Sarkor Telecom, TPS, Comnet va boshqalar."
  },
  {
   "question": "PQ-316-sonli Qarorga koʻra, 2026/2027 oʻquv yilidan boshlab texnikum direktoriga menejerlik sertifikati asosida lavozim maoshining necha foizi miqdorida har oylik ustama beriladi?",
@@ -1335,6 +1216,17 @@
   "explanation": "2-ilova 8-band: jadval korxonalar bilan kelishib, direktor buyrugʻi bilan tasdiqlanadi."
  },
  {
+  "question": "Web brauzer nima vazifani bajaradi?",
+  "answer": "Veb-sahifalarni topish va koʻrish imkonini beradi",
+  "wrong": [
+   "Veb-saytlarni xostingda saqlaydi",
+   "Kompyuterni viruslardan himoya qiladi",
+   "Internetga ulanishni taʼminlaydi"
+  ],
+  "wrong_old": [],
+  "explanation": "Brauzer (Chrome, Firefox, Edge) veb-sahifalarni yuklab, ekranda koʻrsatadi. Ulanishni esa provayder taʼminlaydi."
+ },
+ {
   "question": "PF-190-son Farmonga koʻra, Kasbiy taʼlimni rivojlantirish hududiy tadbirkorlar kengashlari kimlar raisligida tashkil etiladi?",
   "answer": "Qoraqalpogʻiston VK Raisi, viloyatlar va Toshkent shahar hokimlari",
   "wrong": [
@@ -1425,6 +1317,17 @@
   "explanation": "2-ilova 36-band: 72 ta savol, 120 daqiqa (+10 daqiqa koʻchirish)."
  },
  {
+  "question": "MS Excelda berilgan B21: C24 diapazonda nechta katak mavjud?",
+  "answer": "8 ta",
+  "wrong": [
+   "6 ta",
+   "4 ta",
+   "12 ta"
+  ],
+  "wrong_old": [],
+  "explanation": "B21:C24 — 2 ustun × 4 qator = 8 katak."
+ },
+ {
   "question": "Yakuniy davlat attestatsiyasidagi koʻrgazmali-amaliy imtihonlar shartlari va baholash mezonlarini kim ishlab chiqadi va tasdiqlaydi?",
   "answer": "Professional taʼlimni rivojlantirish instituti — korxonalar vakillari ishtirokida",
   "wrong": [
@@ -1513,6 +1416,17 @@
    "2027/2028 oʻquv yilidan"
   ],
   "explanation": "2-band: kasb-hunarga yoʻnaltirishning yangi tartibi 2026/2027 oʻquv yilidan joriy etiladi."
+ },
+ {
+  "question": "Milliy axborot qidiruv tizimi nomi toʻgʻri berilgan qatorni belgilang?",
+  "answer": "www.uz",
+  "wrong": [
+   "www.google.uz",
+   "www.yandex.uz",
+   "www.mail.uz"
+  ],
+  "wrong_old": [],
+  "explanation": "www.uz — Oʻzbekistonning milliy axborot-qidiruv tizimi."
  },
  {
   "question": "PF-190-sonli Farmonga koʻra, hududiy tadbirkorlar kengashi tarkibiga kimlar kiritiladi?",
@@ -1620,6 +1534,17 @@
   "explanation": "32-modda: ustavda taʼlim turi, maqsad, qabul tartibi, tuzilma, mol-mulk va b. koʻrsatiladi."
  },
  {
+  "question": "Windows Logo +M tugmalari vazifasi qaysi qatorda koʻrsatilgan?",
+  "answer": "Barcha oynalarni yigʻib qoʻyish",
+  "wrong": [
+   "Faol oynani yopish",
+   "Ish stolini koʻrsatish va qaytarish",
+   "Fayl boshqaruvchisini ochish"
+  ],
+  "wrong_old": [],
+  "explanation": "Win+M barcha oynalarni yigʻadi (minimize). Win+D ish stolini koʻrsatadi/qaytaradi, Win+E — Explorer, Alt+F4 — yopish."
+ },
+ {
   "question": "Taʼlim toʻgʻrisidagi Qonunga koʻra, dual taʼlimda amaliy qism qayerda amalga oshiriladi?",
   "answer": "Taʼlim oluvchining ish joyida",
   "wrong": [
@@ -1708,6 +1633,17 @@
    "2026-yildan"
   ],
   "explanation": "2-band «g» (iv): 2028-yildan texnikumga yoʻnaltirish 9-sinf yakunidagi imtihon natijasiga koʻra amalga oshiriladi."
+ },
+ {
+  "question": "…...“kompyuterning miyasi” deb aytiladi.",
+  "answer": "Protsessor",
+  "wrong": [
+   "Operativ xotira",
+   "Qattiq disk",
+   "Videokarta"
+  ],
+  "wrong_old": [],
+  "explanation": "Protsessor (CPU) — «kompyuterning miyasi»."
  },
  {
   "question": "PQ-316-sonli Qarorga koʻra, maktabning qaysi sinf oʻquvchilariga oʻqishini texnikumlarga koʻchirishga ruxsat beriladi?",
@@ -1800,6 +1736,17 @@
   "explanation": "2-ilova 39-band: 90–100% «5», 70–89,9% «4», 60–69,9% «3», 60% dan past «2»."
  },
  {
+  "question": "CamScanner qanday dastur?",
+  "answer": "Hujjatlarni telefon kamerasi orqali skanerlovchi ilova",
+  "wrong": [
+   "Videokuzatuv kamerasini boshqaruvchi dastur",
+   "Fotosuratlarni tahrirlovchi dastur",
+   "QR-kod yaratuvchi dastur"
+  ],
+  "wrong_old": [],
+  "explanation": "CamScanner hujjatni telefon kamerasi bilan suratga olib, uni PDF yoki rasm koʻrinishidagi skan nusxaga aylantiradi."
+ },
+ {
   "question": "PF-190-sonli Farmonga koʻra, davlat organlari va tashkilotlari kasbga oʻqitish buyurtmalarini qayerga joylashtirish huquqiga ega?",
   "answer": "Davlat texnikumlariga toʻgʻridan-toʻgʻri",
   "wrong": [
@@ -1813,28 +1760,6 @@
    "Faqat oliy taʼlim muassasalariga"
   ],
   "explanation": "3-band «g»: buyurtmalarni davlat texnikumlariga toʻgʻridan-toʻgʻri joylashtirishga ruxsat."
- },
- {
-  "question": "CamScanner qanday dastur?",
-  "answer": "Hujjatlarni telefon kamerasi orqali skanerlovchi ilova",
-  "wrong": [
-   "Videokuzatuv kamerasini boshqaruvchi dastur",
-   "Fotosuratlarni tahrirlovchi dastur",
-   "QR-kod yaratuvchi dastur"
-  ],
-  "wrong_old": [],
-  "explanation": "CamScanner hujjatni telefon kamerasi bilan suratga olib, uni PDF yoki rasm koʻrinishidagi skan nusxaga aylantiradi."
- },
- {
-  "question": "…....kompyuterga axborot kiritishning asosiy qurilmasi boʻlib, maʼlum belgilarni kiritish yoki vazifani bajarishga moʻljallangan tugmachalardan iborat.",
-  "answer": "Klaviatura",
-  "wrong": [
-   "Sichqoncha",
-   "Skaner",
-   "Sensorli panel"
-  ],
-  "wrong_old": [],
-  "explanation": "Klaviatura — asosiy kiritish qurilmasi."
  },
  {
   "question": "PQ-316-sonli Qarorga koʻra, xorijda malaka oshirish va stajirovka dasturlarida ishtirok etgan pedagoglarning amaldagi soni nechta?",
@@ -1912,6 +1837,17 @@
   "explanation": "2-ilova 5-band: oʻrta va oʻrta maxsus — kasbiy fanlardan test shaklida."
  },
  {
+  "question": "…....kompyuterga axborot kiritishning asosiy qurilmasi boʻlib, maʼlum belgilarni kiritish yoki vazifani bajarishga moʻljallangan tugmachalardan iborat.",
+  "answer": "Klaviatura",
+  "wrong": [
+   "Sichqoncha",
+   "Skaner",
+   "Sensorli panel"
+  ],
+  "wrong_old": [],
+  "explanation": "Klaviatura — asosiy kiritish qurilmasi."
+ },
+ {
   "question": "PQ-316-sonli Qarorga koʻra, qaror ijrosini nazorat qilish boʻyicha Hisob palatasi qaysi organ bilan birgalikda ish olib boradi?",
   "answer": "Adliya vazirligi",
   "wrong": [
@@ -1940,17 +1876,6 @@
    "Kambagʻallikni qisqartirish va bandlik vazirligi"
   ],
   "explanation": "3-band «v» (ii): xorijiy ish beruvchilar ehtiyoji boʻyicha buyurtmani Migratsiya agentligi beradi."
- },
- {
-  "question": "URL (Uniform Resource Locator) nima?",
-  "answer": "Internetdagi resursning yagona manzili",
-  "wrong": [
-   "Internetga ulanish protokoli",
-   "Brauzerning ichki dasturi",
-   "Domen nomini IP ga aylantiruvchi server"
-  ],
-  "wrong_old": [],
-  "explanation": "URL — resursning joylashgan manzilini koʻrsatuvchi yagona lokator."
  },
  {
   "question": "VMsining 106-son qarori bilan tasdiqlangan Nizomga koʻra, tinglovchilar belgilangan modullar boʻyicha qancha foizdan yuqori oʻzlashtirsa, modul uchun ajratilgan kredit beriladi?",
@@ -2013,26 +1938,15 @@
   "explanation": "3-band «v» (i): vaucher va buyurtma xarajatlari Bandlikka koʻmaklashish davlat jamgʻarmasidan."
  },
  {
-  "question": "Elektron pochta (email) xizmatining asosiy maqsadi nima?",
-  "answer": "Internet orqali elektron xabarlar va fayllar almashish",
+  "question": "URL (Uniform Resource Locator) nima?",
+  "answer": "Internetdagi resursning yagona manzili",
   "wrong": [
-   "Veb-sahifalar yaratish",
-   "Fayllarni bulutda tahrirlash",
-   "Real vaqtda videoaloqa qilish"
+   "Internetga ulanish protokoli",
+   "Brauzerning ichki dasturi",
+   "Domen nomini IP ga aylantiruvchi server"
   ],
   "wrong_old": [],
-  "explanation": "Elektron pochta xabarlar va ilova fayllarini manzilga yetkazish uchun xizmat qiladi."
- },
- {
-  "question": "Vizual koʻrish qurilmalariga nimalar kiradi?",
-  "answer": "Monitor va proyektor",
-  "wrong": [
-   "Printer va plotter",
-   "Skaner va veb-kamera",
-   "Klaviatura va sichqoncha"
-  ],
-  "wrong_old": [],
-  "explanation": "Vizual koʻrish (tasvirni koʻrsatish) qurilmalari — monitor, proyektor."
+  "explanation": "URL — resursning joylashgan manzilini koʻrsatuvchi yagona lokator."
  },
  {
   "question": "PF-190-sonli Farmonga koʻra, diplom (malaka sertifikati)ga ega xodimlarni ishga qabul qilish tizimi qaysi klassifikator asosida yoʻlga qoʻyiladi?",
@@ -2065,28 +1979,6 @@
   "explanation": "3-band «g» (ii): narx bozor konyunkturasidan kelib chiqib belgilanadi."
  },
  {
-  "question": "PowerPoint dasturida yangi slayd qoʻshish uchun qaysi tugmani bosish kerak?",
-  "answer": "Ctrl + M",
-  "wrong": [
-   "Ctrl + N",
-   "Ctrl + D",
-   "Ctrl + S"
-  ],
-  "wrong_old": [],
-  "explanation": "Ctrl+M yangi slayd qoʻshadi. Ctrl+N — yangi taqdimot, Ctrl+D — slaydni nusxalash, Ctrl+S — saqlash."
- },
- {
-  "question": "Windows OTda ilovalarni yopish uchun qaysi tugmani bosish kerak?",
-  "answer": "Alt + F4",
-  "wrong": [
-   "Ctrl + F4",
-   "Alt + Tab",
-   "Win + M"
-  ],
-  "wrong_old": [],
-  "explanation": "Alt+F4 faol ilovani yopadi. Ctrl+F4 — dastur ichidagi hujjat/varaqni yopadi."
- },
- {
   "question": "Taʼlim toʻgʻrisidagi Qonunga koʻra, taʼlim sifati ustidan nazorat qilish vakolatiga ega boʻlmagan organlar tomonidan taʼlim tashkilotlarining qaysi jihatini tekshirishga yoʻl qoʻyilmaydi?",
   "answer": "Taʼlim sifati, jarayoni, pedagoglar mehnati va oʻzlashtirishni",
   "wrong": [
@@ -2115,39 +2007,6 @@
    "14 ta texnikumda"
   ],
   "explanation": "5-band «a» (i): 2026/2027 oʻquv yilida Agentlik tanlagan 50 ta texnikumda, 2027/2028 da qolganlarida."
- },
- {
-  "question": "Chop etish qurilmalariga nimalar kiradi?",
-  "answer": "Printer va plotter",
-  "wrong": [
-   "Skaner va plotter",
-   "Monitor va proyektor",
-   "Printer va skaner"
-  ],
-  "wrong_old": [],
-  "explanation": "Chop etish (chiqarish) qurilmalari — printer va plotter. Skaner esa kiritish qurilmasi."
- },
- {
-  "question": "Zoom qanday dastur hisoblanadi?",
-  "answer": "Videokonferensiya dasturi",
-  "wrong": [
-   "Ijtimoiy tarmoq",
-   "Fayl almashish xizmati",
-   "Bulutli matn muharriri"
-  ],
-  "wrong_old": [],
-  "explanation": "Zoom — onlayn video uchrashuvlar va vebinarlar oʻtkazish platformasi."
- },
- {
-  "question": "Operativ xotira (RAM) qanday vazifani bajaradi?",
-  "answer": "Ishlayotgan dastur va maʼlumotlarni vaqtincha saqlaydi",
-  "wrong": [
-   "Maʼlumotlarni oʻchirilgandan keyin ham doimiy saqlaydi",
-   "Tasvirni monitorga chiqarishga moslashtiradi",
-   "Kompyuterni yoqishda faqat BIOS ni saqlaydi"
-  ],
-  "wrong_old": [],
-  "explanation": "RAM — tezkor, energiyaga bogʻliq (vaqtinchalik) xotira."
  },
  {
   "question": "VMsining 106-son qarori bilan tasdiqlangan Nizomga koʻra, malaka oshirish uchun belgilangan muddatlarda sertifikatga ega boʻlmagan kadrlarga nisbatan qanday chora qoʻllaniladi?",
@@ -2180,6 +2039,17 @@
   "explanation": "2-ilova 14-band: bir kishi ketma-ket ikki martadan ortiq rais boʻlishiga yoʻl qoʻyilmaydi."
  },
  {
+  "question": "Elektron pochta (email) xizmatining asosiy maqsadi nima?",
+  "answer": "Internet orqali elektron xabarlar va fayllar almashish",
+  "wrong": [
+   "Veb-sahifalar yaratish",
+   "Fayllarni bulutda tahrirlash",
+   "Real vaqtda videoaloqa qilish"
+  ],
+  "wrong_old": [],
+  "explanation": "Elektron pochta xabarlar va ilova fayllarini manzilga yetkazish uchun xizmat qiladi."
+ },
+ {
   "question": "PQ-316-sonli Qarorga koʻra, dual taʼlim rejasidagi oʻquvchining kasbiy koʻnikmalar hamda intizomi qoniqarsiz baholanganda nima boʻladi?",
   "answer": "Stipendiya toʻlash toʻxtatiladi",
   "wrong": [
@@ -2193,39 +2063,6 @@
    "Oʻquvchi kunduzgi taʼlimga koʻchiriladi"
   ],
   "explanation": "7-band «a» (iii): ish beruvchi qoniqarsiz baholasa, stipendiya toʻlash toʻxtatiladi."
- },
- {
-  "question": "MS Excel dasturida qaysi element jadvalni tartibga solish uchun ishlatiladi?",
-  "answer": "Saralash va filtrlash (Sort & Filter)",
-  "wrong": [
-   "Formatlash (Format Cells)",
-   "Birlashtirish (Merge & Center)",
-   "Yozuvni tekshirish (Spelling)"
-  ],
-  "wrong_old": [],
-  "explanation": "Jadval maʼlumotlarini tartibga solish — «Сортировка и фильтр / Sort & Filter»."
- },
- {
-  "question": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
-  "answer": "Alt + Tab",
-  "wrong": [
-   "Ctrl + Tab",
-   "Win + D",
-   "Alt + F4"
-  ],
-  "wrong_old": [],
-  "explanation": "Alt+Tab ochiq oynalar orasida almashadi. Ctrl+Tab — bitta dastur ichidagi varaqlar, Win+D — ish stoli, Alt+F4 — oynani yopish."
- },
- {
-  "question": "Skaner qanday vazifani bajaradi?",
-  "answer": "Qogʻozdagi matn va tasvirni raqamli shaklga oʻtkazadi",
-  "wrong": [
-   "Raqamli tasvirni qogʻozga chop etadi",
-   "Katta formatdagi chizmalarni chiqaradi",
-   "Tasvirni monitorga moslashtiradi"
-  ],
-  "wrong_old": [],
-  "explanation": "Skaner — axborot kiritish qurilmasi."
  },
  {
   "question": "PQ-316-sonli Qarorga koʻra, ragʻbatlantirish toʻlovining necha foizi moddiy-texnika bazasini mustahkamlashga yoʻnaltiriladi?",
@@ -2288,15 +2125,15 @@
   "explanation": "23-modda: VM vakolatlari roʻyxatida ichki tartib qoidalarini tasdiqlash yoʻq."
  },
  {
-  "question": "Qidiruv tizimi (search engine) nima?",
-  "answer": "Internetdan maʼlumotni kalit soʻzlar boʻyicha izlovchi tizim",
+  "question": "Vizual koʻrish qurilmalariga nimalar kiradi?",
+  "answer": "Monitor va proyektor",
   "wrong": [
-   "Saytlarni joylashtiruvchi xosting xizmati",
-   "Elektron pochta xabarlarini saralovchi dastur",
-   "Kompyuterdagi fayllarni arxivlovchi dastur"
+   "Printer va plotter",
+   "Skaner va veb-kamera",
+   "Klaviatura va sichqoncha"
   ],
   "wrong_old": [],
-  "explanation": "Qidiruv tizimi (Google, Yandex) internet resurslarini indekslab qidiradi."
+  "explanation": "Vizual koʻrish (tasvirni koʻrsatish) qurilmalari — monitor, proyektor."
  },
  {
   "question": "PF-190-sonli Farmon qaysi sohaga oid?",
@@ -2329,28 +2166,6 @@
   "explanation": "15-band «g» (ii): umumtaʼlim oʻqituvchilari uchun 10 foiz, boshqa xodimlar uchun 20 foiz."
  },
  {
-  "question": ".msg ushbu fayl kengaytmasi qaysi dasturga tegishli?",
-  "answer": "Microsoft Outlook",
-  "wrong": [
-   "Microsoft Word",
-   "Microsoft Access",
-   "Microsoft Excel"
-  ],
-  "wrong_old": [],
-  "explanation": ".msg — Outlook xat fayli."
- },
- {
-  "question": "MS Excel dasturi qanday vazifani bajarishga moʻljallangan?",
-  "answer": "Elektron jadvallar bilan ishlash va hisob-kitoblar",
-  "wrong": [
-   "Matnli hujjatlarni tahrirlash",
-   "Taqdimotlar tayyorlash",
-   "Rastrli tasvirlarni tahrirlash"
-  ],
-  "wrong_old": [],
-  "explanation": "Excel — elektron jadval protsessori: formulalar, hisob-kitob, diagrammalar."
- },
- {
   "question": "PF-190-son Farmonga koʻra, Davlat texnikumlari mutaxassislarni qanday asosda jalb qiladi?",
   "answer": "Toʻgʻridan-toʻgʻri shartnoma asosida",
   "wrong": [
@@ -2379,17 +2194,6 @@
    "Kam taʼminlangan oila bolalari uchun sharoit"
   ],
   "explanation": "52-modda: imtiyozlar, stipendiyalar, yashash joylari va kam taʼminlangan, nogironligi boʻlganlar uchun sharoit."
- },
- {
-  "question": "Qattiq disk (ing. HDD – hard disk drive) ning asosiy vazifasi nimadan iborat?",
-  "answer": "Maʼlumotlarni uzoq muddat saqlash",
-  "wrong": [
-   "Maʼlumotlarni vaqtincha saqlash",
-   "Arifmetik-mantiqiy amallarni bajarish",
-   "Tasvirni monitorga chiqarish"
-  ],
-  "wrong_old": [],
-  "explanation": "HDD — doimiy (energiyaga bogʻliq boʻlmagan) xotira: maʼlumotlar kompyuter oʻchirilganda ham saqlanadi."
  },
  {
   "question": "Yakuniy davlat attestatsiyasida Oʻzbekiston tarixi fanidan davlat imtihonini qaysi oʻqituvchilar oʻtkaza oladi?",
@@ -2422,15 +2226,15 @@
   "explanation": "15-band «a»: 2026-yil 1-sentabrdan saqlash xarajatlari budjet va toʻlov-kontrakt hisobidan."
  },
  {
-  "question": "Axborotni saqlash qurilmalariga nimalar kiradi?",
-  "answer": "Qattiq disk, fleshka va optik disklar",
+  "question": "PowerPoint dasturida yangi slayd qoʻshish uchun qaysi tugmani bosish kerak?",
+  "answer": "Ctrl + M",
   "wrong": [
-   "Monitor, printer va proyektor",
-   "Klaviatura, sichqoncha va skaner",
-   "Modem, router va kommutator"
+   "Ctrl + N",
+   "Ctrl + D",
+   "Ctrl + S"
   ],
   "wrong_old": [],
-  "explanation": "Axborot saqlash qurilmalari: HDD, SSD, fleshka, CD/DVD."
+  "explanation": "Ctrl+M yangi slayd qoʻshadi. Ctrl+N — yangi taqdimot, Ctrl+D — slaydni nusxalash, Ctrl+S — saqlash."
  },
  {
   "question": "PF-190-son Farmonga koʻra, Migratsiya agentligi buyurtmalari qaysi jamgʻarma hisobidan moliyalashtiriladi?",
@@ -2508,17 +2312,6 @@
   "explanation": "19-modda: rasmiy, norasmiy va informal taʼlim farqlari."
  },
  {
-  "question": "MS Excel 2010 ning standart varagʻi harflar orqali belgilanuvchi nechta ustundan iborat?",
-  "answer": "16 384 ta",
-  "wrong": [
-   "256 ta",
-   "1 048 576 ta",
-   "65 536 ta"
-  ],
-  "wrong_old": [],
-  "explanation": "Excel 2007/2010 varagʻida 16 384 ustun (A dan XFD gacha) va 1 048 576 qator bor. 256 ustun — Excel 2003."
- },
- {
   "question": "PF-190-sonli Farmonga koʻra, norasmiy, informal taʼlim hamda amaliy tajriba asosida egallangan koʻnikmalar qanday usulda tan olinadi?",
   "answer": "Malakani baholash markazlarida baholash orqali",
   "wrong": [
@@ -2534,15 +2327,15 @@
   "explanation": "7-band: norasmiy va informal koʻnikmalar malakani baholash markazlarida tan olinadi."
  },
  {
-  "question": "Google Talk qanday dastur hisoblanadi?",
-  "answer": "Tezkor xabar almashish (messenjer) dasturi",
+  "question": "Windows OTda ilovalarni yopish uchun qaysi tugmani bosish kerak?",
+  "answer": "Alt + F4",
   "wrong": [
-   "Elektron pochta mijozi",
-   "Videomontaj dasturi",
-   "Antivirus dasturi"
+   "Ctrl + F4",
+   "Alt + Tab",
+   "Win + M"
   ],
   "wrong_old": [],
-  "explanation": "Google Talk — Google kompaniyasining matnli va ovozli muloqot uchun messenjeri (keyinchalik Hangouts bilan almashtirilgan)."
+  "explanation": "Alt+F4 faol ilovani yopadi. Ctrl+F4 — dastur ichidagi hujjat/varaqni yopadi."
  },
  {
   "question": "PF-190-sonli Farmonda belgilangan asosiy maqsad nima?",
@@ -2635,6 +2428,17 @@
   "explanation": "7-modda: 7 ta taʼlim turi, birinchisi maktabgacha taʼlim va tarbiya."
  },
  {
+  "question": "Chop etish qurilmalariga nimalar kiradi?",
+  "answer": "Printer va plotter",
+  "wrong": [
+   "Skaner va plotter",
+   "Monitor va proyektor",
+   "Printer va skaner"
+  ],
+  "wrong_old": [],
+  "explanation": "Chop etish (chiqarish) qurilmalari — printer va plotter. Skaner esa kiritish qurilmasi."
+ },
+ {
   "question": "Yakuniy davlat attestatsiyasi boʻyicha tuzilgan hisobotlar va materiallar kasbiy taʼlim tashkiloti arxivida necha yil davomida saqlanadi?",
   "answer": "10 yil",
   "wrong": [
@@ -2725,6 +2529,17 @@
   "explanation": "Nizom 16-band: qayta tayyorlashda oʻquv yuklamasining eng koʻp hajmi haftasiga 36 (54 ak.) soat."
  },
  {
+  "question": "Zoom qanday dastur hisoblanadi?",
+  "answer": "Videokonferensiya dasturi",
+  "wrong": [
+   "Ijtimoiy tarmoq",
+   "Fayl almashish xizmati",
+   "Bulutli matn muharriri"
+  ],
+  "wrong_old": [],
+  "explanation": "Zoom — onlayn video uchrashuvlar va vebinarlar oʻtkazish platformasi."
+ },
+ {
   "question": "Yakuniy davlat attestatsiyasidagi apellyatsiya komissiyasi bitiruvchining shikoyatini necha ish kuni ichida koʻrib chiqadi?",
   "answer": "Uch ish kuni ichida",
   "wrong": [
@@ -2740,17 +2555,6 @@
   "explanation": "2-ilova 52-band: ariza 3 ish kunida beriladi va 3 ish kunida koʻrib chiqiladi."
  },
  {
-  "question": "......- foydalanuvchiga matnli va grafikli maʼlumotlarni chiqarish uchun xizmat qiladigan qurilma.",
-  "answer": "Printer",
-  "wrong": [
-   "Skaner",
-   "Klaviatura",
-   "Mikrofon"
-  ],
-  "wrong_old": [],
-  "explanation": "Printer — matn va grafikni chiqarish (chop etish) qurilmasi."
- },
- {
   "question": "VMsining 106-son qarori bilan tasdiqlangan Nizomga koʻra, mashgʻulotlar oraligʻidagi tanaffus kamida necha daqiqani tashkil etadi?",
   "answer": "10 daqiqa",
   "wrong": [
@@ -2764,17 +2568,6 @@
    "5 daqiqa"
   ],
   "explanation": "Nizom 30-band: mashgʻulotlar oraligʻidagi tanaffus kamida 10 daqiqa."
- },
- {
-  "question": "Biror bir sohaga, faoliyatga, voqea va hodisaga bagʻishlangan maʼlumotlarni oʻzida jamlagan internet sahifalari majmui nima deb ataladi?",
-  "answer": "Veb-sayt",
-  "wrong": [
-   "Veb-brauzer",
-   "Veb-server",
-   "Domen"
-  ],
-  "wrong_old": [],
-  "explanation": "Bir mavzuga bagʻishlangan veb-sahifalar majmui — veb-sayt."
  },
  {
   "question": "PQ-316-sonli Qarorga koʻra, 2028 yildan boshlab kasbiy taʼlim dasturlari sifatini qaysi organ tanlov asosida oʻrganadi?",
@@ -2807,28 +2600,6 @@
   "explanation": "836-son qaror: 2025-yil 1-yanvardan YDA ish beruvchi korxonalarda ham tashkil etiladi."
  },
  {
-  "question": "MS Excelda berilgan A2;C12 diapazonda nechta katak mavjud?",
-  "answer": "2 ta",
-  "wrong": [
-   "33 ta",
-   "30 ta",
-   "36 ta"
-  ],
-  "wrong_old": [],
-  "explanation": "«;» belgisi diapazon emas, alohida kataklarni bildiradi: A2 va C12 — 2 ta katak (A2:C12 boʻlganda 33 ta)."
- },
- {
-  "question": "Excel dasturining fayl kengaytmasi qaysi qatorda koʻrsatilgan?",
-  "answer": ".xlsx",
-  "wrong": [
-   ".docx",
-   ".pptx",
-   ".accdb"
-  ],
-  "wrong_old": [],
-  "explanation": "Excel 2007 va undan keyingi versiyalarida fayllar .xlsx (eski versiyada .xls) kengaytmasida saqlanadi."
- },
- {
   "question": "PF-190-son Farmonga koʻra, pedagog kadrlar salohiyatini oshirish yoʻnalishida Agentlik birinchi vazifa sifatida nimani bajaradi?",
   "answer": "Pedagog kadrlar malakasini oshirish va ularni qayta tayyorlashni tashkil qilish",
   "wrong": [
@@ -2859,6 +2630,17 @@
   "explanation": "2-ilova 51-band: apellyatsiya komissiyasiga joriy yil komissiya aʼzolari kiritilmaydi."
  },
  {
+  "question": "Operativ xotira (RAM) qanday vazifani bajaradi?",
+  "answer": "Ishlayotgan dastur va maʼlumotlarni vaqtincha saqlaydi",
+  "wrong": [
+   "Maʼlumotlarni oʻchirilgandan keyin ham doimiy saqlaydi",
+   "Tasvirni monitorga chiqarishga moslashtiradi",
+   "Kompyuterni yoqishda faqat BIOS ni saqlaydi"
+  ],
+  "wrong_old": [],
+  "explanation": "RAM — tezkor, energiyaga bogʻliq (vaqtinchalik) xotira."
+ },
+ {
   "question": "Yakuniy davlat attestatsiyasida bitiruvchi «2» (qoniqarsiz) baho olgan taqdirda, u shu oʻquv yilida tegishli imtihonni necha marta qayta topshirish huquqiga ega?",
   "answer": "Bir marta",
   "wrong": [
@@ -2874,17 +2656,6 @@
   "explanation": "2-ilova 27-band: «2» olgan bitiruvchi shu oʻquv yilida bir marta qayta topshiradi."
  },
  {
-  "question": ".doc ushbu fayl kengaytmasi qaysi dasturga tegishli?",
-  "answer": "Microsoft Word",
-  "wrong": [
-   "Microsoft Excel",
-   "Microsoft PowerPoint",
-   "Microsoft Access"
-  ],
-  "wrong_old": [],
-  "explanation": ".doc / .docx — Word hujjatlari. Excel — .xls/.xlsx, PowerPoint — .ppt/.pptx, Access — .mdb/.accdb."
- },
- {
   "question": "PQ-316 sonli Qarorga koʻra, texnikumlar umumtaʼlim fanlari oʻqituvchilarining malakasi qayerda oshiriladi?",
   "answer": "A. Avloniy nomidagi Pedagogik mahorat milliy instituti va hududiy pedagogik mahorat markazlarida",
   "wrong": [
@@ -2898,17 +2669,6 @@
    "Ilgʻor kasbiy mahorat texnikumlarida"
   ],
   "explanation": "4-band «a»: umumtaʼlim fanlari oʻqituvchilari A. Avloniy instituti va hududiy markazlarda malaka oshiradi."
- },
- {
-  "question": "Hozirgi kunda Oʻzbekistonda xizmat koʻrsatuvchi Internet provayderlari nomlari toʻgʻri koʻrsatilgan qatorni belgilang",
-  "answer": "Uztelecom, Sarkor Telecom, TPS, Comnet",
-  "wrong": [
-   "Rostelecom, Kazakhtelecom, Turkcell, MTS",
-   "Verizon, AT&T, Comcast, Sprint",
-   "Vodafone, Orange, Telekom, Telia"
-  ],
-  "wrong_old": [],
-  "explanation": "Oʻzbekistonda xizmat koʻrsatuvchi provayderlar: Uztelecom, Sarkor Telecom, TPS, Comnet va boshqalar."
  },
  {
   "question": "PQ-316-sonli Qarorga koʻra, dual taʼlim shaklida tahsil olayotgan oʻquvchilarga stipendiya qaysi oʻquv yilidan boshlab toʻlanadi?",
@@ -2969,6 +2729,17 @@
    "Faqat ijaraga berish taqiqlanadi"
   ],
   "explanation": "66-modda: davlat taʼlim muassasalari operativ boshqaruvidagi obyektlarni xususiylashtirishga yoʻl qoʻyilmaydi."
+ },
+ {
+  "question": "MS Excel dasturida qaysi element jadvalni tartibga solish uchun ishlatiladi?",
+  "answer": "Saralash va filtrlash (Sort & Filter)",
+  "wrong": [
+   "Formatlash (Format Cells)",
+   "Birlashtirish (Merge & Center)",
+   "Yozuvni tekshirish (Spelling)"
+  ],
+  "wrong_old": [],
+  "explanation": "Jadval maʼlumotlarini tartibga solish — «Сортировка и фильтр / Sort & Filter»."
  },
  {
   "question": "Taʼlim toʻgʻrisidagi Qonunga koʻra, Oilada taʼlim olish qanday huquqiy asosda amalga oshiriladi?",
@@ -3046,15 +2817,15 @@
   "explanation": "4-band «b»: reja OTM imkoniyatidan kelib chiqib Kasbiy taʼlim agentligi tomonidan tasdiqlanadi."
  },
  {
-  "question": "Web brauzer nima vazifani bajaradi?",
-  "answer": "Veb-sahifalarni topish va koʻrish imkonini beradi",
+  "question": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
+  "answer": "Alt + Tab",
   "wrong": [
-   "Veb-saytlarni xostingda saqlaydi",
-   "Kompyuterni viruslardan himoya qiladi",
-   "Internetga ulanishni taʼminlaydi"
+   "Ctrl + Tab",
+   "Win + D",
+   "Alt + F4"
   ],
   "wrong_old": [],
-  "explanation": "Brauzer (Chrome, Firefox, Edge) veb-sahifalarni yuklab, ekranda koʻrsatadi. Ulanishni esa provayder taʼminlaydi."
+  "explanation": "Alt+Tab ochiq oynalar orasida almashadi. Ctrl+Tab — bitta dastur ichidagi varaqlar, Win+D — ish stoli, Alt+F4 — oynani yopish."
  },
  {
   "question": "PQ-316-sonli Qarorga koʻra, kasbiy taʼlim tizimini isloh qilishning asosiy maqsadli koʻrsatkichlari qaysi yilga qadar belgilangan?",
@@ -3102,28 +2873,6 @@
   "explanation": "11-band «j»: ilgʻor kasbiy mahorat texnikumlari binolari 2-ilovaga muvofiq 2026–2027-yillarda quriladi va taʼmirlanadi."
  },
  {
-  "question": "MS Excelda berilgan B21: C24 diapazonda nechta katak mavjud?",
-  "answer": "8 ta",
-  "wrong": [
-   "6 ta",
-   "4 ta",
-   "12 ta"
-  ],
-  "wrong_old": [],
-  "explanation": "B21:C24 — 2 ustun × 4 qator = 8 katak."
- },
- {
-  "question": "Milliy axborot qidiruv tizimi nomi toʻgʻri berilgan qatorni belgilang?",
-  "answer": "www.uz",
-  "wrong": [
-   "www.google.uz",
-   "www.yandex.uz",
-   "www.mail.uz"
-  ],
-  "wrong_old": [],
-  "explanation": "www.uz — Oʻzbekistonning milliy axborot-qidiruv tizimi."
- },
- {
   "question": "Taʼlim toʻgʻrisidagi Qonunga koʻra, masofaviy taʼlimni tashkil etish tartibini qaysi organ belgilaydi?",
   "answer": "Oʻzbekiston Respublikasi Vazirlar Mahkamasi",
   "wrong": [
@@ -3154,25 +2903,276 @@
   "explanation": "6-band «b» (ii): bandlik, ixtisoslashuv va dasturlar boʻyicha takliflarni hududiy kengashlar ishlab chiqadi."
  },
  {
-  "question": "Windows Logo +M tugmalari vazifasi qaysi qatorda koʻrsatilgan?",
-  "answer": "Barcha oynalarni yigʻib qoʻyish",
+  "question": "PQ-316-sonli Qarorga koʻra, Kasbiy taʼlimni rivojlantirish institutida direktorning taʼlim mazmunini taʼminlash boʻyicha maslahatchisi lavozimiga kim jalb etiladi?",
+  "answer": "Xorijiy mutaxassis",
   "wrong": [
-   "Faol oynani yopish",
-   "Ish stolini koʻrsatish va qaytarish",
-   "Fayl boshqaruvchisini ochish"
+   "Mahalliy yetakchi pedagog",
+   "Xalqaro tashkilot vakili",
+   "Agentlik tavsiya etgan mahalliy mutaxassis"
   ],
-  "wrong_old": [],
-  "explanation": "Win+M barcha oynalarni yigʻadi (minimize). Win+D ish stolini koʻrsatadi/qaytaradi, Win+E — Explorer, Alt+F4 — yopish."
+  "wrong_old": [
+   "Agentlik direktori oʻrinbosari",
+   "Mahalliy professor",
+   "Ish beruvchilar vakili"
+  ],
+  "explanation": "6-band «b» (iii): maslahatchi lavozimiga xorijiy mutaxassis jalb etiladi."
  },
  {
-  "question": "…...“kompyuterning miyasi” deb aytiladi.",
-  "answer": "Protsessor",
+  "question": "Skaner qanday vazifani bajaradi?",
+  "answer": "Qogʻozdagi matn va tasvirni raqamli shaklga oʻtkazadi",
   "wrong": [
-   "Operativ xotira",
-   "Qattiq disk",
-   "Videokarta"
+   "Raqamli tasvirni qogʻozga chop etadi",
+   "Katta formatdagi chizmalarni chiqaradi",
+   "Tasvirni monitorga moslashtiradi"
   ],
   "wrong_old": [],
-  "explanation": "Protsessor (CPU) — «kompyuterning miyasi»."
+  "explanation": "Skaner — axborot kiritish qurilmasi."
+ },
+ {
+  "question": "VMsining 106-son qarori bilan tasdiqlangan Nizomga koʻra, professional taʼlim muassasalari boshqaruv va pedagog kadrlari idoraviy mansubligidan qatʼi nazar, necha yilda malakasini oshirishlari shart?",
+  "answer": "Har uch yilda kamida bir marta",
+  "wrong": [
+   "Har uch yilda kamida ikki marta",
+   "Har toʻrt yilda kamida bir marta",
+   "Har ikki yarim yilda kamida bir marta"
+  ],
+  "wrong_old": [
+   "Har yili",
+   "Har besh yilda kamida bir marta",
+   "Har ikki yilda kamida bir marta"
+  ],
+  "explanation": "Nizom 26-band: idoraviy mansubligidan qatʼi nazar, har uch yilda kamida bir marta."
+ },
+ {
+  "question": "Taʼlim toʻgʻrisidagi Qonunga koʻra, taʼlim tashkilotlari talabgorlarni va (yoki) ularning ota-onasini quyidagilardan qaysi hujjat bilan tanishtirishi SHART BOʻLMAYDI?",
+  "answer": "Tashkilotning moliyaviy hisoboti",
+  "wrong": [
+   "Litsenziya yoki xabarnoma qabul qilinganligi toʻgʻrisidagi tasdiqnoma",
+   "Oʻquvchilarning huquqlari va majburiyatlari",
+   "Taʼlim faoliyatini tartibga soluvchi boshqa hujjatlar"
+  ],
+  "wrong_old": [
+   "Oʻquv dasturi",
+   "Davlat akkreditatsiyasi sertifikati",
+   "Ustav"
+  ],
+  "explanation": "38-modda: ustav, litsenziya/tasdiqnoma, akkreditatsiya sertifikati, oʻquv dasturi va boshqalar bilan tanishtiriladi."
+ },
+ {
+  "question": "PF-190-son Farmonga koʻra, Kasbiy taʼlim agentligi tizimiga oʻtkazish orqali qayta tashkil etiladigan texnikumlarning umumiy soni nechta?",
+  "answer": "643 ta",
+  "wrong": [
+   "634 ta",
+   "463 ta",
+   "653 ta"
+  ],
+  "wrong_old": [
+   "210 ta",
+   "720 ta",
+   "343 ta"
+  ],
+  "explanation": "4-ilova: Agentlik tizimiga oʻtkazish orqali 643 ta texnikum qayta tashkil etiladi."
+ },
+ {
+  "question": "PQ-316-sonli Qarorga koʻra, 2026 yil 1 yanvardan boshlab Agentlikning hududiy boshqarmalari qaysi organga tenglashtiriladi?",
+  "answer": "Maktabgacha va maktab taʼlimi vazirligining hududiy boʻlinmalariga",
+  "wrong": [
+   "Oliy taʼlim, fan va innovatsiyalar vazirligining hududiy boshqarmalariga",
+   "Maktabgacha va maktab taʼlimi vazirligining markaziy apparatiga",
+   "Hududiy hokimliklarning ijtimoiy soha bloklariga"
+  ],
+  "wrong_old": [
+   "Oliy taʼlim, fan va innovatsiyalar vazirligining hududiy boʻlinmalariga",
+   "Hokimliklarning taʼlim boʻlimlariga",
+   "Bandlik vazirligining hududiy boshqarmalariga"
+  ],
+  "explanation": "15-band «g» (i): ish haqi va ragʻbatlantirish shartlari boʻyicha hududiy boshqarmalar MMTV hududiy boʻlinmalariga tenglashtiriladi."
+ },
+ {
+  "question": "PQ-316-sonli Qarorga koʻra, ilgʻor kasbiy mahorat texnikumida amaliy mashgʻulot oʻtaydigan boshqa texnikum oʻquvchilarini bir kunlik ovqati uchun necha foiz bazaviy hisoblash miqdorida mablagʻ ajratiladi?",
+  "answer": "15 foizi",
+  "wrong": [
+   "12 foizi",
+   "18 foizi",
+   "5 foizi"
+  ],
+  "wrong_old": [
+   "20 foizi",
+   "10 foizi",
+   "25 foizi"
+  ],
+  "explanation": "11-band «g»: bir kunlik oziq-ovqat uchun BHMning 15 foizi miqdorida mablagʻ ajratiladi."
+ },
+ {
+  "question": "PQ-316-sonli Qarorga koʻra, texnikumlar milliy reytingini kim yuritadi?",
+  "answer": "Taʼlim sifatini taʼminlash milliy agentligi",
+  "wrong": [
+   "Kasbiy taʼlim agentligi huzuridagi reyting markazi",
+   "Taʼlim sifatini nazorat qilish davlat inspeksiyasi",
+   "Oliy taʼlim, fan va innovatsiyalar vazirligi huzuridagi agentlik"
+  ],
+  "wrong_old": [
+   "Oliy taʼlim, fan va innovatsiyalar vazirligi",
+   "Kasbiy taʼlim agentligi",
+   "Kasbiy taʼlimni rivojlantirish instituti"
+  ],
+  "explanation": "12-band «a»: texnikumlar milliy reytingi Taʼlim sifatini taʼminlash milliy agentligi tomonidan yuritiladi."
+ },
+ {
+  "question": "Qidiruv tizimi (search engine) nima?",
+  "answer": "Internetdan maʼlumotni kalit soʻzlar boʻyicha izlovchi tizim",
+  "wrong": [
+   "Saytlarni joylashtiruvchi xosting xizmati",
+   "Elektron pochta xabarlarini saralovchi dastur",
+   "Kompyuterdagi fayllarni arxivlovchi dastur"
+  ],
+  "wrong_old": [],
+  "explanation": "Qidiruv tizimi (Google, Yandex) internet resurslarini indekslab qidiradi."
+ },
+ {
+  "question": "PF-190-son Farmonga nechta ilova mavjud?",
+  "answer": "9 ta",
+  "wrong": [
+   "8 ta",
+   "10 ta",
+   "7 ta"
+  ],
+  "wrong_old": [
+   "11 ta",
+   "6 ta",
+   "5 ta"
+  ],
+  "explanation": "PF-190da 9 ta ilova bor."
+ },
+ {
+  "question": "Yakuniy davlat attestatsiyasida koʻrgazmali-amaliy imtihon natijalari boʻyicha komissiya tomonidan qanday hujjat rasmiylashtiriladi?",
+  "answer": "Baholash qaydnomasi",
+  "wrong": [
+   "Baholash bayonnomasi",
+   "Imtihon qaydnomasi",
+   "Natijalar dalolatnomasi"
+  ],
+  "wrong_old": [
+   "Tavsifnoma",
+   "Maʼlumotnoma",
+   "Dalolatnoma"
+  ],
+  "explanation": "2-ilova 48-band: baholash qaydnomasi; 49-band: test va qaydnoma asosida bayonnoma."
+ },
+ {
+  "question": "PQ-316-sonli Qarorga koʻra, ragʻbatlantirish toʻlovining necha foizi rahbar va xodimlarni moddiy ragʻbatlantirishga yoʻnaltiriladi?",
+  "answer": "20 foizi",
+  "wrong": [
+   "25 foizi",
+   "15 foizi",
+   "10 foizi"
+  ],
+  "wrong_old": [
+   "80 foizi",
+   "30 foizi",
+   "50 foizi"
+  ],
+  "explanation": "12-band «b»: 80 foiz — moddiy-texnika bazasi, 20 foiz — rahbar va xodimlarni ragʻbatlantirish."
+ },
+ {
+  "question": "PF-190-son Farmonga koʻra, «Vaucher» tizimi bilan qamrab olinmagan shaxslarni kasbga oʻqitish boʻyicha buyurtmalarni kim beradi?",
+  "answer": "Kambagʻallikni qisqartirish va bandlik vazirligi",
+  "wrong": [
+   "Kasbiy taʼlim agentligi hududiy boshqarmalari",
+   "Bandlikka koʻmaklashish davlat jamgʻarmasi",
+   "Mahalla va oilani qoʻllab-quvvatlash vazirligi"
+  ],
+  "wrong_old": [
+   "Migratsiya agentligi",
+   "Kasbiy taʼlim agentligi",
+   "Yoshlar ishlari agentligi"
+  ],
+  "explanation": "3-band «v» (i): vaucher bilan qamralmaganlar uchun buyurtmani Bandlik vazirligi beradi."
+ },
+ {
+  "question": "PQ-316-sonli Qarorga koʻra, Hisob palatasi har yili qaysi sanaga qadar Prezident Administratsiyasiga axborot kiritib boradi?",
+  "answer": "1-oktabrga qadar",
+  "wrong": [
+   "1-noyabrga qadar",
+   "15-sentabrga qadar",
+   "1-sentabrga qadar"
+  ],
+  "wrong_old": [
+   "15-oktabrga qadar",
+   "1-dekabrga qadar",
+   "15-sentabrga qadar"
+  ],
+  "explanation": "21-band «b»: Hisob palatasi har yili 1-oktabrga qadar Prezident Administratsiyasiga axborot kiritadi."
+ },
+ {
+  "question": "Taʼlim toʻgʻrisidagi Qonunga muvofiq Quyidagilardan qaysi biri taʼlim oluvchilarning majburiyatlari jumlasiga KIRMAYDI?",
+  "answer": "Taʼlim tashkiloti xodimlarini tanlash",
+  "wrong": [
+   "Taʼlim tashkiloti ustavi talablariga rioya etish",
+   "Pedagog xodimlarning shaʼni va qadr-qimmatini hurmat qilish",
+   "Taʼlim dasturlarini oʻzlashtirish"
+  ],
+  "wrong_old": [
+   "Ichki tartib-qoidalarga rioya etish",
+   "Mashgʻulotlarga qatnashish",
+   "Mol-mulkni asrash"
+  ],
+  "explanation": "48-modda: majburiyatlar roʻyxatida xodim tanlash yoʻq."
+ },
+ {
+  "question": ".msg ushbu fayl kengaytmasi qaysi dasturga tegishli?",
+  "answer": "Microsoft Outlook",
+  "wrong": [
+   "Microsoft Word",
+   "Microsoft Access",
+   "Microsoft Excel"
+  ],
+  "wrong_old": [],
+  "explanation": ".msg — Outlook xat fayli."
+ },
+ {
+  "question": "Kasbiy taʼlim tashkilotlaridagi yakuniy davlat attestatsiyasida boshlangʻich kasbiy taʼlim boʻyicha davlat imtihoni qaysi fanlardan test shaklida oʻtkaziladi?",
+  "answer": "Oʻzbekiston tarixi va kasbiy fanlardan",
+  "wrong": [
+   "Oʻzbekiston tarixi va umumtaʼlim fanlaridan",
+   "Faqat Oʻzbekiston tarixidan",
+   "Kasbiy fanlar va chet tilidan"
+  ],
+  "wrong_old": [
+   "Matematika va informatikadan",
+   "Ona tili va adabiyotdan",
+   "Faqat kasbiy fanlardan"
+  ],
+  "explanation": "2-ilova 5-band: boshlangʻich kasbiy taʼlim — Oʻzbekiston tarixi va kasbiy fanlardan test."
+ },
+ {
+  "question": "PQ-316-sonli Qarorga koʻra, 2026 yil 1 yanvardan boshlab ishlab chiqarish taʼlimi ustasining bazaviy tarif stavkasi kimning bazaviy tarif stavkasiga tenglashtiriladi?",
+  "answer": "Umumiy oʻrta taʼlim tashkiloti birinchi malaka toifali oʻqituvchisining",
+  "wrong": [
+   "Umumiy oʻrta taʼlim tashkiloti oliy malaka toifali oʻqituvchisining",
+   "Umumiy oʻrta taʼlim tashkiloti ikkinchi malaka toifali oʻqituvchisining",
+   "Texnikum umumtaʼlim fani oʻqituvchisining"
+  ],
+  "wrong_old": [
+   "Texnikum maxsus fan oʻqituvchisining",
+   "Oliy toifali maktab oʻqituvchisining",
+   "Ikkinchi toifali maktab oʻqituvchisining"
+  ],
+  "explanation": "5-band «b»: ustaning bazaviy stavkasi maktabning birinchi toifali oʻqituvchisi stavkasiga teng olinadi."
+ },
+ {
+  "question": "PQ-316-sonli Qarorga koʻra, ilgʻor kasbiy mahorat texnikumlaridagi malaka oshirish kurslarini qaysi tashkilot tashkil etadi?",
+  "answer": "Kasbiy taʼlimni rivojlantirish instituti",
+  "wrong": [
+   "Kasbiy taʼlim agentligining hududiy boshqarmalari",
+   "Oliy taʼlim, fan va innovatsiyalar vazirligi",
+   "Yetakchi oliy taʼlim tashkilotlari"
+  ],
+  "wrong_old": [
+   "A. Avloniy nomidagi institut",
+   "Kasbiy taʼlim agentligi",
+   "Ilgʻor kasbiy mahorat texnikumi direktori"
+  ],
+  "explanation": "11-band «v»: ilgʻor texnikumlardagi malaka oshirish kurslarini Institut tashkil etadi."
  }
 ]
