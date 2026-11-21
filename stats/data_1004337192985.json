@@ -1,5 +1,5 @@
 {
- "offset": 33136587,
+ "offset": 33136596,
  "polls": {
   "5470169922707397248": {
    "q": "PQ-316-sonli Qarorga koʻra, Kasbiy taʼlimni rivojlantirish institutida direktorning taʼlim mazmunini taʼminlash boʻyicha",
@@ -784,6 +784,10 @@
   "5190855744043358734": {
    "q": "Windows OTda bir nechta ochiq ilovani tezkor oʻzgartirish uchun qaysi klavish kombinatsiyasi ishlatiladi?",
    "correct": 0
+  },
+  "5190855744043358737": {
+   "q": "PQ-316-sonli Qarorga koʻra, kasbiy taʼlim tizimini isloh qilishning asosiy maqsadli koʻrsatkichlari qaysi yilga qadar be",
+   "correct": 3
   }
  },
  "answers": {
@@ -9327,7 +9331,12 @@
   "5190855744043358732:262746859": 2,
   "5190855744043358733:262746859": 1,
   "5190855744043358734:262746859": 0,
-  "5188603944229672398:301905367": 3
+  "5188603944229672398:301905367": 3,
+  "5188603944229672403:301905367": 2,
+  "5188603944229672235:5945557949": 3,
+  "5190855744043358737:262746859": 3,
+  "5190855744043358737:125126380": 3,
+  "5188603944229672412:301905367": 0
  },
  "users": {
   "672629750": {
