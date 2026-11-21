@@ -1,5 +1,5 @@
 {
- "offset": 33138950,
+ "offset": 33138961,
  "polls": {
   "5470169922707397248": {
    "q": "PQ-316-sonli Qarorga koʻra, Kasbiy taʼlimni rivojlantirish institutida direktorning taʼlim mazmunini taʼminlash boʻyicha",
@@ -971,6 +971,10 @@
   },
   "5190855744043359054": {
    "q": "Taʼlim toʻgʻrisidagi Qonunga muvofiq Taʼlim tashkilotlari oʻz faoliyati tashqi baholashdan oʻtkazilishidan qancha vaqt o",
+   "correct": 2
+  },
+  "5190855744043359058": {
+   "q": "PF-190-son Farmonga koʻra, 2027 yil 1 yanvardan boshlab Mashgʻulotlar milliy klassifikatoridagi malaka darajasiga mos di",
    "correct": 2
   }
  },
@@ -10958,7 +10962,14 @@
   "5190855744043359052:1767314278": 1,
   "5190855744043359054:1767314278": 2,
   "5188603944229672309:361217538": 1,
-  "5188603944229672313:361217538": 3
+  "5188603944229672313:361217538": 3,
+  "5188603944229672315:361217538": 3,
+  "5190855744043359058:7242656295": 2,
+  "5188603944229672319:361217538": 3,
+  "5190855744043359058:771869214": 2,
+  "5190855744043359054:1190120358": 2,
+  "5190855744043359058:1190120358": 2,
+  "5190855744043359058:1767314278": 2
  },
  "users": {
   "672629750": {
