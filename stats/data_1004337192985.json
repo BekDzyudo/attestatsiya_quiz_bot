@@ -1,5 +1,5 @@
 {
- "offset": 33136596,
+ "offset": 33136616,
  "polls": {
   "5470169922707397248": {
    "q": "PQ-316-sonli Qarorga koʻra, Kasbiy taʼlimni rivojlantirish institutida direktorning taʼlim mazmunini taʼminlash boʻyicha",
@@ -788,6 +788,10 @@
   "5190855744043358737": {
    "q": "PQ-316-sonli Qarorga koʻra, kasbiy taʼlim tizimini isloh qilishning asosiy maqsadli koʻrsatkichlari qaysi yilga qadar be",
    "correct": 3
+  },
+  "5190855744043358739": {
+   "q": "Taʼlim toʻgʻrisidagi Qonunga muvofiq Taʼlim tashkilotining rasmiy veb-saytidagi axborotning ishonchliligi uchun kim shax",
+   "correct": 0
   }
  },
  "answers": {
@@ -9336,7 +9340,18 @@
   "5188603944229672235:5945557949": 3,
   "5190855744043358737:262746859": 3,
   "5190855744043358737:125126380": 3,
-  "5188603944229672412:301905367": 0
+  "5188603944229672412:301905367": 0,
+  "5190855744043358737:1190120358": 3,
+  "5190855744043358739:1190120358": 0,
+  "5188603944229672414:301905367": 3,
+  "5188603944229672416:301905367": 2,
+  "5190855744043358739:262746859": 0,
+  "5188603944229672421:301905367": 2,
+  "5188603944229672436:301905367": 1,
+  "5190855744043358737:1767314278": 3,
+  "5188603944229672437:301905367": 0,
+  "5190855744043358739:1767314278": 0,
+  "5190855744043358734:1767314278": 3
  },
  "users": {
   "672629750": {
