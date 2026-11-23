@@ -1712,6 +1712,10 @@
   "5199880282081073952": {
    "q": "Yakuniy davlat attestatsiyasida koʻrgazmali-amaliy imtihon natijalari boʻyicha komissiya tomonidan qanday hujjat rasmiyl",
    "correct": 0
+  },
+  "5199880282081073956": {
+   "q": "PQ-316-sonli Qarorga koʻra, ragʻbatlantirish toʻlovining necha foizi rahbar va xodimlarni moddiy ragʻbatlantirishga yoʻn",
+   "correct": 3
   }
  },
  "answers": {
