@@ -90,6 +90,11 @@ def send_one(chat, bank, idx, n):
         ids.append(res["result"]["poll"]["id"])
         os.makedirs("stats", exist_ok=True)
         json.dump(ids, open(f, "w", encoding="utf-8"))
+        # to'g'ri javob ham saqlanadi: reyting Telegram "poll" yangilanishini kutmasdan hisoblanadi
+        pf = f"stats/polls_{chat.lstrip('-')}.json"
+        polls = json.load(open(pf, encoding="utf-8")) if os.path.exists(pf) else {}
+        polls[res["result"]["poll"]["id"]] = {"q": q["question"][:120], "correct": correct}
+        json.dump(polls, open(pf, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
     return q["question"] if res.get("ok") else None
 
 

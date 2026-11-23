@@ -15,34 +15,99 @@ import datetime, html, json, os, sys, time, urllib.parse, urllib.request
 
 TOKEN = os.environ["TELEGRAM_TOKEN"]
 # Faol guruh config.json dan olinadi ("pending" — yangi guruh ID'si hali kiritilmagan)
-LEGACY = "-1003982072134"  # birinchi guruh (2026-11-18 gacha)
+LEGACY = "-1003982072134"  # birinchi ("Test") guruh — 2026-11-23 dan yana faol (config.json "extra")
 try:
-    CHAT = str(json.load(open("config.json", encoding="utf-8"))["chat_id"])
+    _cfg = json.load(open("config.json", encoding="utf-8"))
+    CHAT = str(_cfg["chat_id"])
+    EXTRA = [str(e["chat_id"]) for e in _cfg.get("extra", [])]
 except (OSError, KeyError, ValueError):
-    CHAT = os.environ.get("TELEGRAM_CHAT_ID", LEGACY)
+    CHAT, EXTRA = os.environ.get("TELEGRAM_CHAT_ID", LEGACY), []
 PENDING = CHAT == "pending"
 os.makedirs("stats", exist_ok=True)
-TAG = CHAT.lstrip("-")
-DB = "stats/data.json" if CHAT == LEGACY else f"stats/data_{TAG}.json"
-REPORT = "stats/STATS.md" if CHAT == LEGACY else f"stats/STATS_{TAG}.md"
-SENT = f"stats/sent_{TAG}.json"  # shu guruhga yuborilgan quizlarning poll ID'lari
 CHATS = "stats/chats.json"       # bot qo'shilgan guruhlar ro'yxati
-if os.path.exists(DB):
-    db = json.load(open(DB, encoding="utf-8"))
-else:
-    # yangi guruh: eski bazadagi getUpdates offsetidan davom etiladi, reyting noldan
-    off = 0
-    for f in ("stats/data.json", "stats/data_pending.json"):
-        if os.path.exists(f):
-            off = max(off, json.load(open(f, encoding="utf-8")).get("offset", 0))
-    db = {"offset": off, "polls": {}, "answers": {}, "users": {}}
+MAIN = CHAT
+
+
+def _paths(chat):
+    tag = chat.lstrip("-")
+    db_f = "stats/data.json" if chat == LEGACY else f"stats/data_{tag}.json"
+    rep = "stats/STATS.md" if chat == LEGACY else f"stats/STATS_{tag}.md"
+    return tag, db_f, rep, f"stats/sent_{tag}.json"
+
+
+def _load(chat):
+    tag, db_f, rep, sent_f = _paths(chat)
+    if os.path.exists(db_f):
+        d = json.load(open(db_f, encoding="utf-8"))
+    else:
+        # yangi guruh: eski bazadagi getUpdates offsetidan davom etiladi, reyting noldan
+        off = 0
+        for f in ("stats/data.json", "stats/data_pending.json"):
+            if os.path.exists(f):
+                off = max(off, json.load(open(f, encoding="utf-8")).get("offset", 0))
+        d = {"offset": off, "polls": {}, "answers": {}, "users": {}}
+    return {"CHAT": chat, "TAG": tag, "DB": db_f, "REPORT": rep, "SENT": sent_f, "db": d,
+            "admins": {"t": 0, "ids": set()}, "last_live": 0.0}
+
+
+CTX = {c: _load(c) for c in [MAIN] + [e for e in EXTRA if e != MAIN]}
+GROUPS = list(CTX)
+CUR = None
+
+
+def use(chat):
+    """Ish olib boriladigan guruhni almashtiradi (CHAT, DB, REPORT, SENT, db globallari)."""
+    global CHAT, TAG, DB, REPORT, SENT, db, _admins, CUR
+    c = CTX[chat]
+    CUR = c
+    CHAT, TAG, DB, REPORT, SENT, db, _admins = c["CHAT"], c["TAG"], c["DB"], c["REPORT"], c["SENT"], c["db"], c["admins"]
+
+
+use(MAIN)
 chats = json.load(open(CHATS, encoding="utf-8")) if os.path.exists(CHATS) else {}
 
 
-def sent_ids():
-    if CHAT == LEGACY:
-        return None  # eski guruhda filtr yo'q
-    return set(json.load(open(SENT, encoding="utf-8"))) if os.path.exists(SENT) else set()
+def migrate():
+    """Bir martalik: 2026-11-23 gacha asosiy bazaga yozilib qolgan Test guruhi javoblarini o'z bazasiga ko'chiradi."""
+    if LEGACY not in CTX or LEGACY == MAIN or CTX[LEGACY]["db"].get("mig_1123"):
+        return
+    m, t = CTX[MAIN]["db"], CTX[LEGACY]["db"]
+    sent = sent_ids(LEGACY)
+    for k in [k for k in m["answers"] if k.split(":")[0] in sent]:
+        t["answers"][k] = m["answers"].pop(k)
+        uid = k.split(":")[1]
+        if uid in m["users"]:
+            t["users"].setdefault(uid, m["users"][uid])
+    t["mig_1123"] = 1
+
+
+def save_db():
+    json.dump(db, open(DB, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+
+
+def sent_ids(chat=None):
+    f = CTX[chat]["SENT"] if chat else SENT
+    return set(json.load(open(f, encoding="utf-8"))) if os.path.exists(f) else set()
+
+
+def known_polls(chat):
+    f = f"stats/polls_{CTX[chat]['TAG']}.json"
+    return json.load(open(f, encoding="utf-8")) if os.path.exists(f) else {}
+
+
+def merge_known():
+    """send.py yozib qo'ygan (yuborish paytidagi) to'g'ri javoblarni bazaga qo'shadi."""
+    for c in GROUPS:
+        for pid, p in known_polls(c).items():
+            CTX[c]["db"]["polls"].setdefault(pid, p)
+
+
+def owner_of_poll(pid):
+    """Poll qaysi guruhga yuborilganini aniqlaydi (yuborilgan ID'lar yoki saqlangan polllar bo'yicha)."""
+    for c in GROUPS:
+        if pid in CTX[c]["db"]["polls"] or pid in sent_ids(c):
+            return c
+    return None
 
 
 def note_chat(c, status=None):
@@ -114,9 +179,6 @@ def me_text(user):
     return f"{html.escape(full_name(user), quote=False)}, sizda hali hisobga olingan javob yo'q."
 
 
-_admins = {"t": 0, "ids": set()}
-
-
 def is_admin(m):
     """Xabar yuboruvchi guruh admini (yoki guruh nomidan yozgan anonim admin) ekanini tekshiradi."""
     sc = m.get("sender_chat")
@@ -138,15 +200,17 @@ def setup_menu():
     for scope in ({"type": "default"}, {"type": "all_group_chats"}):
         out.append(api("setMyCommands", commands=json.dumps([men], ensure_ascii=False), scope=json.dumps(scope)))
     if not PENDING:
-        out.append(api("setMyCommands", commands=json.dumps([stat, men], ensure_ascii=False),
-                       scope=json.dumps({"type": "chat_administrators", "chat_id": int(CHAT)})))
+        for c in GROUPS:
+            out.append(api("setMyCommands", commands=json.dumps([stat, men], ensure_ascii=False),
+                           scope=json.dumps({"type": "chat_administrators", "chat_id": int(c)})))
     return out
 
 
 def handle_message(m):
     note_chat(m["chat"])
-    if str(m["chat"]["id"]) != CHAT:
-        return  # buyruqlarga faqat faol guruhda javob beriladi
+    if str(m["chat"]["id"]) not in CTX:
+        return  # buyruqlarga faqat faol guruhlarda javob beriladi
+    use(str(m["chat"]["id"]))
     text = (m.get("text") or "").strip()
     if not text.startswith("/"):
         return
@@ -164,12 +228,12 @@ def handle_message(m):
 
 
 def process(u):
-    db["offset"] = u["update_id"] + 1
+    CTX[MAIN]["db"]["offset"] = u["update_id"] + 1
     if "poll" in u:
         p = u["poll"]
-        ids = sent_ids()
-        if p.get("type") == "quiz" and p.get("correct_option_id") is not None and (ids is None or p["id"] in ids):
-            db["polls"][p["id"]] = {"q": p["question"][:120], "correct": p["correct_option_id"]}
+        owner = owner_of_poll(p["id"])
+        if owner and p.get("type") == "quiz" and p.get("correct_option_id") is not None:
+            CTX[owner]["db"]["polls"][p["id"]] = {"q": p["question"][:120], "correct": p["correct_option_id"]}
     if "poll_answer" in u:
         a = u["poll_answer"]
         user = a.get("user")
@@ -178,12 +242,15 @@ def process(u):
         uid = str(user["id"])
         if uid in EXCLUDE:
             return
-        db["users"][uid] = {"name": full_name(user), "username": user.get("username", "")}
+        owner = owner_of_poll(a["poll_id"]) or MAIN
+        d = CTX[owner]["db"]
+        d["users"][uid] = {"name": full_name(user), "username": user.get("username", "")}
         key = f'{a["poll_id"]}:{uid}'
         if a.get("option_ids"):
-            db["answers"][key] = a["option_ids"][0]
+            d["answers"][key] = a["option_ids"][0]
         else:
-            db["answers"].pop(key, None)  # ovozini qaytarib olgan
+            d["answers"].pop(key, None)  # ovozini qaytarib olgan
+        TOUCHED.add(owner)
     if "my_chat_member" in u:
         cm = u["my_chat_member"]
         note_chat(cm["chat"], cm.get("new_chat_member", {}).get("status"))
@@ -192,6 +259,11 @@ def process(u):
             handle_message(u["message"])
         except Exception as e:
             print("buyruqqa javobda xato:", e)
+        finally:
+            use(MAIN)
+
+
+TOUCHED = set()  # yangi javob kelgan guruhlar (jonli reyting yangilanadi)
 
 
 ALLOWED = json.dumps(["poll", "poll_answer", "message", "my_chat_member"])
@@ -202,7 +274,9 @@ last_live = 0.0
 
 
 def fetch(long_poll=0):
-    params = dict(offset=db["offset"], limit=100, allowed_updates=ALLOWED)
+    merge_known()
+    migrate()
+    params = dict(offset=CTX[MAIN]["db"]["offset"], limit=100, allowed_updates=ALLOWED)
     url = f"https://api.telegram.org/bot{TOKEN}/getUpdates"
     params["timeout"] = long_poll
     req = urllib.request.Request(url, data=urllib.parse.urlencode(params).encode())
@@ -213,28 +287,37 @@ def fetch(long_poll=0):
         time.sleep(3)
         return 0
     ups = res.get("result", [])
+    TOUCHED.clear()
     for u in ups:
         try:
             process(u)
         except Exception as e:
             print("yangilanishni qayta ishlashda xato:", e)
+    use(MAIN)
     if ups:
         # har bir qabul qilingan to'plam darhol diskka yoziladi (jarayon uzilsa ham yo'qolmaydi)
-        json.dump(db, open(DB, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
-    if LIVE and any("poll_answer" in u for u in ups):
-        global last_live
-        # Telegram cheklovlari uchun: tahrirlar orasida kamida 3 soniya
-        if time.time() - last_live < 3:
-            time.sleep(3 - (time.time() - last_live))
-        try:
-            update_live()
-        except Exception as e:
-            print("jonli reytingda xato:", e)
-        last_live = time.time()
+        for c in GROUPS:
+            use(c)
+            save_db()
+        use(MAIN)
+    if LIVE:
+        for c in [c for c in GROUPS if c in TOUCHED]:
+            use(c)
+            # Telegram cheklovlari uchun: tahrirlar orasida kamida 3 soniya
+            if time.time() - CUR["last_live"] < 3:
+                time.sleep(3 - (time.time() - CUR["last_live"]))
+            try:
+                update_live()
+            except Exception as e:
+                print("jonli reytingda xato:", e)
+            CUR["last_live"] = time.time()
+        use(MAIN)
     return len(ups)
 
 
 def write_report():
+    merge_known()
+    migrate()
     if PENDING:
         json.dump(db, open(DB, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
         return ["Faol guruh hali tanlanmagan (config.json: pending)"]
@@ -297,7 +380,9 @@ if __name__ == "__main__":
                     break
                 fetch(long_poll=min(25, left - 1))
         finally:
-            write_report()
+            for c in GROUPS:
+                use(c)
+                write_report()
     else:
         if db.get("menu_v") != 2:
             try:
@@ -307,9 +392,7 @@ if __name__ == "__main__":
                 print("menyuni yangilashda xato:", e)
         while fetch(0):
             pass
-        print("\n".join(write_report()))
-        if LIVE:
-            try:
-                update_live()
-            except Exception as e:
-                print("jonli reytingda xato:", e)
+        for c in GROUPS:
+            use(c)
+            print("\n".join(write_report()))
+        use(MAIN)
