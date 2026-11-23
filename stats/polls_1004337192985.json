@@ -26,5 +26,9 @@
  "5199880282081073966": {
   "q": "PQ-316-sonli Qarorga koʻra, Hisob palatasi har yili qaysi sanaga qadar Prezident Administratsiyasiga axborot kiritib bor",
   "correct": 0
+ },
+ "5199880282081073971": {
+  "q": "Taʼlim toʻgʻrisidagi Qonunga muvofiq Quyidagilardan qaysi biri taʼlim oluvchilarning majburiyatlari jumlasiga KIRMAYDI?",
+  "correct": 3
  }
 }
