@@ -4856,6 +4856,10 @@
   "5199855843717161435": {
    "q": "PQ-316-sonli Qarorga koʻra, ilgʻor kasbiy mahorat texnikumlari boshqa texnikumlar uchun nima vazifasini bajaradi?",
    "correct": 0
+  },
+  "5199855843717161441": {
+   "q": "PQ-316-sonli Qarorga koʻra, reytingda eng yuqori oʻrinni egallagan texnikumlar har biri bazaviy hisoblash miqdorining ne",
+   "correct": 3
   }
  },
  "answers": {
