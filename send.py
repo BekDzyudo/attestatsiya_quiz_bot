@@ -24,6 +24,7 @@ if (now.hour < 9 or now.hour >= 23) and not os.environ.get("FORCE"):
     sys.exit(0)
 
 bank = json.load(open("quizzes.json", encoding="utf-8"))
+MAIN_NOW = set()  # shu ishga tushishda asosiy guruhga yuborilgan savollar
 state = json.load(open("state.json", encoding="utf-8"))
 
 # GitHub jadvali ba'zan kechikadi yoki o'tkazib yuboradi: oxirgi yuborilganidan
@@ -38,14 +39,14 @@ except (KeyError, ValueError):
     pass
 
 
-def make_options(q, n):
+def make_options(q, n, bank_len):
     """Variantlarni har safar yangidan tuzadi: asosan yangi (to'g'riga yaqin) chalg'ituvchilar,
     toq aylanishlarda bittasi eskisidan; to'g'ri javob eng uzun variant bo'lib qolmasligi va
     o'rni har safar tasodifiy bo'lishi ta'minlanadi."""
     if "options" in q:  # eski format
         return q["options"], q["correct_option_id"]
     rnd = random.Random(n * 7919 + 17)
-    cycle = n // len(bank)
+    cycle = n // bank_len
     wrong = list(q["wrong"])
     extra = [w for w in q.get("wrong_old", []) if w not in wrong and w != q["answer"]]
     if cycle % 2 == 1 and extra:
@@ -60,12 +61,12 @@ def make_options(q, n):
     return opts, opts.index(ans)
 
 
-def send_one(idx, n):
+def send_one(chat, bank, idx, n):
     q = bank[idx]
-    options, correct = make_options(q, n)
+    options, correct = make_options(q, n, len(bank))
 
     data = {
-        "chat_id": CHAT,
+        "chat_id": chat,
         "question": q["question"],
         "options": json.dumps([{"text": o} for o in options], ensure_ascii=False),
         "type": "quiz",
@@ -82,26 +83,46 @@ def send_one(idx, n):
     except urllib.error.HTTPError as e:
         res = json.load(e)
 
-    print(f"#{idx + 1}/{len(bank)}:", res.get("ok"), res.get("description") or "")
+    print(f"[{chat}] #{idx + 1}/{len(bank)}:", res.get("ok"), res.get("description") or "")
     if res.get("ok"):
-        f = f"stats/sent_{CHAT.lstrip('-')}.json"
+        f = f"stats/sent_{chat.lstrip('-')}.json"
         ids = json.load(open(f, encoding="utf-8")) if os.path.exists(f) else []
         ids.append(res["result"]["poll"]["id"])
         os.makedirs("stats", exist_ok=True)
         json.dump(ids, open(f, "w", encoding="utf-8"))
-    return res.get("ok")
+    return q["question"] if res.get("ok") else None
 
 
-sent = 0
-for _ in range(count):
-    idx = state["next"] % len(bank)
-    if not send_one(idx, state["next"]):
-        break
-    state["next"] = idx + 1
-    sent += 1
+# Yuboriladigan guruhlar: asosiy guruh (config.json "chat_id", quizzes.json, state["next"])
+# va config.json "extra" dagi qo'shimcha guruhlar — har birining o'z savollar banki va hisoblagichi bor.
+targets = [{"chat_id": CHAT, "bank": "quizzes.json", "key": "next", "main": True}]
+try:
+    targets += json.load(open("config.json", encoding="utf-8")).get("extra", [])
+except (OSError, ValueError):
+    pass
 
-if sent:
-    state["last_sent"] = now.isoformat(timespec="minutes")
-    json.dump(state, open("state.json", "w", encoding="utf-8"), ensure_ascii=False, indent=1)
-if sent < count and sent == 0:
+main_sent = 0
+for t in targets:
+    tbank = bank if t["bank"] == "quizzes.json" else json.load(open(t["bank"], encoding="utf-8"))
+    key = t["key"]
+    state.setdefault(key, 0)
+    sent_now = []  # shu ishga tushishda asosiy guruhga ketgan savollar (takrorlanmasin)
+    for _ in range(count):
+        idx = state[key] % len(tbank)
+        # qo'shimcha guruhga ayni paytda asosiy guruhdagi savolning o'zi ketmasin
+        if not t.get("main") and tbank[idx]["question"] in MAIN_NOW:
+            idx = (idx + 1) % len(tbank)
+        sent_q = send_one(str(t["chat_id"]), tbank, idx, state[key])
+        if not sent_q:
+            break
+        state[key] = idx + 1
+        if t.get("main"):
+            MAIN_NOW.add(sent_q)
+            main_sent += 1
+        sent_now.append(sent_q)
+    if sent_now:
+        state["last_sent"] = now.isoformat(timespec="minutes")
+        json.dump(state, open("state.json", "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+
+if main_sent == 0:
     sys.exit(1)
