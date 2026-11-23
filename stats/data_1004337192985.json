@@ -1720,6 +1720,10 @@
   "5199880282081073961": {
    "q": "PF-190-son Farmonga koʻra, «Vaucher» tizimi bilan qamrab olinmagan shaxslarni kasbga oʻqitish boʻyicha buyurtmalarni kim",
    "correct": 1
+  },
+  "5199880282081073966": {
+   "q": "PQ-316-sonli Qarorga koʻra, Hisob palatasi har yili qaysi sanaga qadar Prezident Administratsiyasiga axborot kiritib bor",
+   "correct": 0
   }
  },
  "answers": {
