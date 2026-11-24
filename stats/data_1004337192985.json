@@ -1,5 +1,5 @@
 {
- "offset": 33164697,
+ "offset": 33164699,
  "polls": {
   "5470169922707397248": {
    "q": "PQ-316-sonli Qarorga koʻra, Kasbiy taʼlimni rivojlantirish institutida direktorning taʼlim mazmunini taʼminlash boʻyicha",
@@ -2080,6 +2080,10 @@
   "5199441482452310513": {
    "q": "PQ-316-sonli Qarorga koʻra, yoshlarni kasb-hunarga yoʻnaltirishning yangi tartibi qaysi oʻquv yilidan boshlab joriy etil",
    "correct": 0
+  },
+  "5199441482452310521": {
+   "q": "PF-190-sonli Farmonga koʻra, hududiy tadbirkorlar kengashi tarkibiga kimlar kiritiladi?",
+   "correct": 1
   }
  },
  "answers": {
@@ -26906,7 +26910,8 @@
   "5202132081894760007:262746859": 1,
   "5202132081894760009:262746859": 0,
   "5202132081894760010:262746859": 1,
-  "5202132081894760019:262746859": 3
+  "5202132081894760019:262746859": 3,
+  "5202132081894760023:262746859": 2
  },
  "users": {
   "672629750": {
