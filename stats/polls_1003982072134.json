@@ -166,5 +166,9 @@
  "5202107643530845759": {
   "q": ".msg ushbu fayl kengaytmasi qaysi dasturga tegishli?",
   "correct": 2
+ },
+ "5202107643530845763": {
+  "q": "Yakuniy davlat attestatsiyasida «2» (qoniqarsiz) baho olgan bitiruvchining qayta topshirish jarayoni asosiy attestatsiya",
+  "correct": 3
  }
 }
