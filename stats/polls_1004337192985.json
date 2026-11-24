@@ -154,5 +154,9 @@
  "5199880282081074297": {
   "q": "Yakuniy davlat attestatsiyasi komissiyasining asosiy vazifalari nimadan iborat?",
   "correct": 2
+ },
+ "5199880282081074302": {
+  "q": "Yakuniy davlat attestatsiyasining asosiy maqsadi nimadan iborat?",
+  "correct": 0
  }
 }
