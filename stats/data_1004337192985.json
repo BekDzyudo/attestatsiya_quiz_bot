@@ -1,5 +1,5 @@
 {
- "offset": 33163444,
+ "offset": 33163446,
  "polls": {
   "5470169922707397248": {
    "q": "PQ-316-sonli Qarorga koʻra, Kasbiy taʼlimni rivojlantirish institutida direktorning taʼlim mazmunini taʼminlash boʻyicha",
@@ -2019,6 +2019,10 @@
   },
   "5202132081894760004": {
    "q": "PQ-316-sonli Qarorga koʻra, Kasbiy taʼlim agentligi tizimida nechta ilgʻor kasbiy mahorat texnikumi tashkil etiladi?",
+   "correct": 1
+  },
+  "5202132081894760007": {
+   "q": "PF-190-sonli Farmonga koʻra, xalqaro hamkorlikni mustahkamlash yoʻnalishida Agentlikning birinchi asosiy vazifasi nimada",
    "correct": 1
   }
  },
@@ -26183,7 +26187,8 @@
   "5202132081894760004:8509657328": 1,
   "5202132081894760004:418731158": 1,
   "5202132081894759923:1338396740": 0,
-  "5202132081894759925:1338396740": 2
+  "5202132081894759925:1338396740": 2,
+  "5202132081894759926:1338396740": 0
  },
  "users": {
   "672629750": {
