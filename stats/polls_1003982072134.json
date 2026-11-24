@@ -170,5 +170,9 @@
  "5202107643530845763": {
   "q": "Yakuniy davlat attestatsiyasida «2» (qoniqarsiz) baho olgan bitiruvchining qayta topshirish jarayoni asosiy attestatsiya",
   "correct": 3
+ },
+ "5202107643530845778": {
+  "q": "PQ-316-sonli Qarorga koʻra, ilgʻor kasbiy mahorat texnikumlaridagi malaka oshirish kurslarini qaysi tashkilot tashkil et",
+  "correct": 0
  }
 }

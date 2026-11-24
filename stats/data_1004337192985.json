@@ -1,5 +1,5 @@
 {
- "offset": 33160091,
+ "offset": 33160094,
  "polls": {
   "5470169922707397248": {
    "q": "PQ-316-sonli Qarorga koʻra, Kasbiy taʼlimni rivojlantirish institutida direktorning taʼlim mazmunini taʼminlash boʻyicha",
@@ -1864,6 +1864,10 @@
   "5199880282081074307": {
    "q": "PF-190-sonli Farmoniga koʻra, kasbiy taʼlim tizimini muvofiqlashtirish yoʻnalishida Agentlik birinchi vazifa sifatida ni",
    "correct": 1
+  },
+  "5199880282081074310": {
+   "q": "Taʼlim toʻgʻrisidagi Qonunga muvofiq Attestatsiya va kompleks davlat akkreditatsiyasi necha bosqichda va qanday nomlar b",
+   "correct": 0
   }
  },
  "answers": {
@@ -24116,7 +24120,9 @@
   "5199880282081074272:6564730738": 3,
   "5199880282081074307:197935978": 1,
   "5199880282081074277:6564730738": 1,
-  "5188603944229672207:1124649376": 1
+  "5188603944229672207:1124649376": 1,
+  "5199880282081074307:1007925524": 1,
+  "5188603944229672210:1124649376": 3
  },
  "users": {
   "672629750": {
