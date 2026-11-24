@@ -2052,6 +2052,10 @@
   "5202132081894760037": {
    "q": "VMsining 106-son qarori bilan tasdiqlangan Nizomga koʻra, qayta tayyorlashning davomiyligi kamida qancha etib belgilanga",
    "correct": 3
+  },
+  "5202132081894760040": {
+   "q": "Yakuniy davlat attestatsiyasida test topshiriqlari jami necha savoldan iborat boʻladi hamda ularni bajarish uchun necha ",
+   "correct": 1
   }
  },
  "answers": {
