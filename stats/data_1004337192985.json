@@ -1,5 +1,5 @@
 {
- "offset": 33164049,
+ "offset": 33164051,
  "polls": {
   "5470169922707397248": {
    "q": "PQ-316-sonli Qarorga koʻra, Kasbiy taʼlimni rivojlantirish institutida direktorning taʼlim mazmunini taʼminlash boʻyicha",
@@ -2055,6 +2055,10 @@
   },
   "5202132081894760040": {
    "q": "Yakuniy davlat attestatsiyasida test topshiriqlari jami necha savoldan iborat boʻladi hamda ularni bajarish uchun necha ",
+   "correct": 1
+  },
+  "5202132081894760043": {
+   "q": "Yakuniy davlat attestatsiyasidagi koʻrgazmali-amaliy imtihonlar shartlari va baholash mezonlarini kim ishlab chiqadi va ",
    "correct": 1
   }
  },
@@ -26557,7 +26561,8 @@
   "5199880282081074334:989514053": 0,
   "5199880282081074327:989514053": 3,
   "5199880282081074326:989514053": 2,
-  "5199880282081074323:989514053": 3
+  "5199880282081074323:989514053": 3,
+  "5199880282081074320:989514053": 3
  },
  "users": {
   "672629750": {
