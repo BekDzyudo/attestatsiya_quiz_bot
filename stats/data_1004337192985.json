@@ -1,5 +1,5 @@
 {
- "offset": 33163817,
+ "offset": 33163820,
  "polls": {
   "5470169922707397248": {
    "q": "PQ-316-sonli Qarorga koʻra, Kasbiy taʼlimni rivojlantirish institutida direktorning taʼlim mazmunini taʼminlash boʻyicha",
@@ -2044,6 +2044,10 @@
   "5202132081894760026": {
    "q": "Taʼlim toʻgʻrisidagi Qonunga koʻra, quyidagilardan qaysi biri taʼlim tashkilotlarining xalqaro hamkorlik shakllari sifat",
    "correct": 0
+  },
+  "5202132081894760032": {
+   "q": "PF-190-sonli Farmonga koʻra, buyurtma boʻyicha toʻlangan mablagʻlar davlat texnikumlarining qaysi hisob raqamiga oʻtkazi",
+   "correct": 1
   }
  },
  "answers": {
@@ -26420,7 +26424,9 @@
   "5202132081894760019:125126380": 3,
   "5202132081894759939:1864535284": 3,
   "5202132081894760026:48354397": 0,
-  "5202132081894760023:125126380": 2
+  "5202132081894760023:125126380": 2,
+  "5202132081894760026:125126380": 2,
+  "5202132081894759942:1864535284": 3
  },
  "users": {
   "672629750": {
