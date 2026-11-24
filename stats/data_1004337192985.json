@@ -1,5 +1,5 @@
 {
- "offset": 33163010,
+ "offset": 33163012,
  "polls": {
   "5470169922707397248": {
    "q": "PQ-316-sonli Qarorga koʻra, Kasbiy taʼlimni rivojlantirish institutida direktorning taʼlim mazmunini taʼminlash boʻyicha",
@@ -1996,6 +1996,10 @@
   "5202132081894759979": {
    "q": "PQ-316-sonli Qarorga koʻra, oʻquvchining umumiy mehnat stajini hisoblashda qanday davr inobatga olinadi?",
    "correct": 3
+  },
+  "5202132081894759985": {
+   "q": "PQ-316 Qaroriga koʻra, «Atrofimizdagi kasblar» dasturi qaysi yoshdan boshlab bolalarda kasblar haqida ilk tasavvurlar sh",
+   "correct": 2
   }
  },
  "answers": {
@@ -25913,7 +25917,8 @@
   "5192956193504499641:441439079": 1,
   "5192956193504499645:441439079": 1,
   "5197628482267387450:989514053": 1,
-  "5202132081894759942:7242656295": 3
+  "5202132081894759942:7242656295": 3,
+  "5202132081894759943:7242656295": 0
  },
  "users": {
   "672629750": {
