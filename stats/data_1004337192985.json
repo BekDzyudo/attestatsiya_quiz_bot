@@ -1,5 +1,5 @@
 {
- "offset": 33159221,
+ "offset": 33159222,
  "polls": {
   "5470169922707397248": {
    "q": "PQ-316-sonli Qarorga koʻra, Kasbiy taʼlimni rivojlantirish institutida direktorning taʼlim mazmunini taʼminlash boʻyicha",
@@ -1828,6 +1828,10 @@
   "5199880282081074283": {
    "q": "PQ-316-sonli Qarorga koʻra, texnikum direktori oʻrinbosariga lavozim maoshining necha foizi miqdorida har oylik ustama b",
    "correct": 1
+  },
+  "5199880282081074284": {
+   "q": "Taʼlim toʻgʻrisidagi Qonunga koʻra, Bakalavriat va magistratura bosqichlari uchun qonunda belgilangan minimal oʻqish dav",
+   "correct": 2
   }
  },
  "answers": {
@@ -23609,7 +23613,8 @@
   "5199880282081074282:155464216": 1,
   "5199880282081074283:155464216": 1,
   "5199880282081074283:1767314278": 1,
-  "5199880282081074283:1612104094": 1
+  "5199880282081074283:1612104094": 1,
+  "5199880282081074283:1007925524": 1
  },
  "users": {
   "672629750": {
