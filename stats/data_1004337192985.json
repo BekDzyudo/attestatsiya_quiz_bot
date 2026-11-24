@@ -1,5 +1,5 @@
 {
- "offset": 33159747,
+ "offset": 33159749,
  "polls": {
   "5470169922707397248": {
    "q": "PQ-316-sonli Qarorga koʻra, Kasbiy taʼlimni rivojlantirish institutida direktorning taʼlim mazmunini taʼminlash boʻyicha",
@@ -1848,6 +1848,10 @@
   "5199880282081074293": {
    "q": "PF-190-sonli Farmonga koʻra, kasbiy taʼlimda «hayot davomida oʻqish» tamoyili qaysi yoʻnalish doirasida tatbiq etiladi?",
    "correct": 1
+  },
+  "5199880282081074297": {
+   "q": "Yakuniy davlat attestatsiyasi komissiyasining asosiy vazifalari nimadan iborat?",
+   "correct": 2
   }
  },
  "answers": {
@@ -23907,7 +23911,8 @@
   "5474572247005925759:8633103894": 2,
   "5474572247005925761:8633103894": 0,
   "5474572247005925762:8633103894": 1,
-  "5474572247005925767:8633103894": 1
+  "5474572247005925767:8633103894": 1,
+  "5474572247005925768:8633103894": 0
  },
  "users": {
   "672629750": {
