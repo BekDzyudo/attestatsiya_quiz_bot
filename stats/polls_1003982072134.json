@@ -122,5 +122,9 @@
  "5202107643530845724": {
   "q": "PQ-316-sonli Qarorga koʻra, 9-sinfni tamomlagan bitiruvchilar orasidan qabul qilingan oʻquvchilar qaysi manba hisobidan ",
   "correct": 1
+ },
+ "5202107643530845726": {
+  "q": "Chop etish qurilmalariga nimalar kiradi?",
+  "correct": 0
  }
 }

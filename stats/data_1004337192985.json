@@ -1,5 +1,5 @@
 {
- "offset": 33158814,
+ "offset": 33158819,
  "polls": {
   "5470169922707397248": {
    "q": "PQ-316-sonli Qarorga koʻra, Kasbiy taʼlimni rivojlantirish institutida direktorning taʼlim mazmunini taʼminlash boʻyicha",
@@ -1816,6 +1816,10 @@
   "5199880282081074277": {
    "q": "PQ-316-sonli Qarorga koʻra, imtiyozli kredit har bir milliard soʻm mablagʻ uchun kamida necha nafar oʻquvchini jalb etis",
    "correct": 1
+  },
+  "5199880282081074279": {
+   "q": "Taʼlim toʻgʻrisidagi Qonunga muvofiq Taʼlim tashkilotlari oʻz faoliyati tashqi baholashdan oʻtkazilishidan qancha vaqt o",
+   "correct": 3
   }
  },
  "answers": {
@@ -23406,7 +23410,9 @@
   "5188603944229672072:5828847218": 2,
   "5188603944229672065:5828847218": 3,
   "5195207993318185329:48354397": 1,
-  "5199880282081073966:1189950815": 0
+  "5199880282081073966:1189950815": 0,
+  "5195207993318185328:48354397": 0,
+  "5199880282081074277:672629750": 1
  },
  "users": {
   "672629750": {
