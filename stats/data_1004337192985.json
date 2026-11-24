@@ -1,5 +1,5 @@
 {
- "offset": 33159291,
+ "offset": 33159292,
  "polls": {
   "5470169922707397248": {
    "q": "PQ-316-sonli Qarorga koʻra, Kasbiy taʼlimni rivojlantirish institutida direktorning taʼlim mazmunini taʼminlash boʻyicha",
@@ -1831,6 +1831,10 @@
   },
   "5199880282081074284": {
    "q": "Taʼlim toʻgʻrisidagi Qonunga koʻra, Bakalavriat va magistratura bosqichlari uchun qonunda belgilangan minimal oʻqish dav",
+   "correct": 2
+  },
+  "5199880282081074287": {
+   "q": "PQ-316-sonli Qarorga koʻra, kasbiy taʼlim dasturlari xalqaro standartlari asosida yangidan ishlab chiqiladigan tartib qa",
    "correct": 2
   }
  },
@@ -23650,7 +23654,8 @@
   "5199880282081074279:5498024510": 3,
   "5199880282081074282:5498024510": 1,
   "5199880282081074283:5498024510": 1,
-  "5199880282081074284:5498024510": 2
+  "5199880282081074284:5498024510": 2,
+  "5188603944229672215:5828847218": 0
  },
  "users": {
   "672629750": {
