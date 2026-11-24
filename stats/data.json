@@ -4900,6 +4900,10 @@
   "5199855843717161529": {
    "q": "PQ-316-sonli Qarorga koʻra, texnikumlarda bir nafar ishlab chiqarish taʼlimi ustasiga toʻgʻri keladigan oʻquvchilar soni",
    "correct": 1
+  },
+  "5199855843717161532": {
+   "q": "Taʼlim toʻgʻrisidagi Qonunga koʻra, davlat taʼlim oluvchilarni ijtimoiy himoya qilish doirasida quyidagilardan qaysi bir",
+   "correct": 2
   }
  },
  "answers": {
