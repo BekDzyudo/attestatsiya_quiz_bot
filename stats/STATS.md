@@ -1,19 +1,19 @@
-# Quiz statistikasi (2026-11-24 11:20, Toshkent)
+# Quiz statistikasi (2026-11-24 11:30, Toshkent)
 
 Hisobga olingan quizlar: 1232, ishtirokchilar: 13
 
 | # | Ishtirokchi | To'g'ri | Noto'g'ri | Jami | Natija |
 |---|---|---|---|---|---|
 | 1 | Shohbek Jalilov (@bekdzyudo) | 983 | 187 | 1170 | 84% |
-| 2 | O'ktambek Umbarov (@uktambek_umbarov) | 953 | 246 | 1199 | 79% |
+| 2 | O'ktambek Umbarov (@uktambek_umbarov) | 954 | 246 | 1200 | 80% |
 | 3 | Şoxbozbek Tuxtasinov (@shohboz3dx) | 920 | 192 | 1112 | 83% |
-| 4 | Samariddin (@Samar_0208) | 862 | 334 | 1196 | 72% |
+| 4 | Samariddin (@Samar_0208) | 863 | 334 | 1197 | 72% |
 | 5 | Bobirbek (@siddiqovbobirbek) | 563 | 283 | 846 | 67% |
 | 6 | MK | 522 | 521 | 1043 | 50% |
 | 7 | Doniyor Abdujalilov (@doniyorjonabdujalilov) | 490 | 297 | 787 | 62% |
 | 8 | Defcomp (@Defcomputec) | 372 | 256 | 628 | 59% |
 | 9 | Dilmurodov Karamat (@Karamat_1992) | 132 | 116 | 248 | 53% |
-| 10 | D.B. Tojiyev (@dextor_07) | 122 | 113 | 235 | 52% |
+| 10 | D.B. Tojiyev (@dextor_07) | 130 | 114 | 244 | 53% |
 | 11 | Elyor Dusnazarov (@elyordusnazarov) | 93 | 103 | 196 | 47% |
 | 12 | С.Илхом (@saydiganiyev_ilhom) | 56 | 145 | 201 | 28% |
 | 13 | Jamol | 1 | 0 | 1 | 100% |
