@@ -5184,6 +5184,10 @@
   "5201859527565123426": {
    "q": "PQ-316-sonli Qarorga koʻra, 5 yoshdan boshlab bolalarda kasblar haqida tasavvurlar shakllantiriladigan dastur nomi?",
    "correct": 1
+  },
+  "5201859527565123429": {
+   "q": "Qattiq disk (ing. HDD – hard disk drive) ning asosiy vazifasi nimadan iborat?",
+   "correct": 0
   }
  },
  "answers": {
