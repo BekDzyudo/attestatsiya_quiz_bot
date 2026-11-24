@@ -178,5 +178,9 @@
  "5202107643530845806": {
   "q": "Yakuniy davlat attestatsiyasida test topshiriqlari jami necha savoldan iborat boʻladi hamda ularni bajarish uchun necha ",
   "correct": 0
+ },
+ "5202107643530845829": {
+  "q": "PF-190-sonli Farmon yoshlarda qanday xususiyatlarni shakllantirishni maqsad qiladi?",
+  "correct": 2
  }
 }

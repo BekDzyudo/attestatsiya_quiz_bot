@@ -174,5 +174,9 @@
  "5199880282081074312": {
   "q": "PQ-316-sonli Qarorga koʻra, imtiyozli kreditning muddati qancha yil?",
   "correct": 1
+ },
+ "5199880282081074316": {
+  "q": "Taʼlim toʻgʻrisidagi Qonunga koʻra, Quyidagilardan qaysi biri «Taʼlim sohasidagi asosiy prinsiplar» jumlasiga kirmaydi?",
+  "correct": 0
  }
 }

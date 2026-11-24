@@ -1,5 +1,5 @@
 {
- "offset": 33160418,
+ "offset": 33160420,
  "polls": {
   "5470169922707397248": {
    "q": "PQ-316-sonli Qarorga koʻra, Kasbiy taʼlimni rivojlantirish institutida direktorning taʼlim mazmunini taʼminlash boʻyicha",
@@ -1872,6 +1872,10 @@
   "5199880282081074312": {
    "q": "PQ-316-sonli Qarorga koʻra, imtiyozli kreditning muddati qancha yil?",
    "correct": 1
+  },
+  "5199880282081074316": {
+   "q": "Taʼlim toʻgʻrisidagi Qonunga koʻra, Quyidagilardan qaysi biri «Taʼlim sohasidagi asosiy prinsiplar» jumlasiga kirmaydi?",
+   "correct": 0
   }
  },
  "answers": {
@@ -24324,7 +24328,8 @@
   "5190855744043358967:5828847218": 0,
   "5199880282081074297:1189950815": 2,
   "5197628482267387526:6564730738": 2,
-  "5190855744043359012:5828847218": 3
+  "5190855744043359012:5828847218": 3,
+  "5190855744043359033:5828847218": 1
  },
  "users": {
   "672629750": {
