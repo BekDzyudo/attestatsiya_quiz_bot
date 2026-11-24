@@ -1,5 +1,5 @@
 {
- "offset": 33161996,
+ "offset": 33162000,
  "polls": {
   "5470169922707397248": {
    "q": "PQ-316-sonli Qarorga koʻra, Kasbiy taʼlimni rivojlantirish institutida direktorning taʼlim mazmunini taʼminlash boʻyicha",
@@ -1943,6 +1943,10 @@
   },
   "5202132081894759939": {
    "q": "VMsining 106-son qarori bilan tasdiqlangan Nizomga koʻra, 100 ballik tizim doirasida 20 balldan kam ball toʻplagan boshq",
+   "correct": 3
+  },
+  "5202132081894759942": {
+   "q": "VMsining 106-son qarori bilan tasdiqlangan Nizomga koʻra, malaka oshirishning qanday shakllari mavjud?",
    "correct": 3
   }
  },
@@ -25273,7 +25277,9 @@
   "5202132081894759921:325871839": 0,
   "5202132081894759939:386634593": 3,
   "5202132081894759923:325871839": 0,
-  "5192956193504499603:5828847218": 2
+  "5192956193504499603:5828847218": 2,
+  "5202132081894759925:325871839": 2,
+  "5192956193504499604:5828847218": 2
  },
  "users": {
   "672629750": {
