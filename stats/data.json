@@ -5028,6 +5028,10 @@
   "5202107643530845893": {
    "q": "VMsining 106-son qarori bilan tasdiqlangan Nizomga koʻra, professional taʼlim muassasalari boshqaruv va pedagog kadrlari",
    "correct": 3
+  },
+  "5202107643530845897": {
+   "q": "PQ-316-sonli Qarorga koʻra, maktabning qaysi sinf oʻquvchilariga oʻqishini texnikumlarga koʻchirishga ruxsat beriladi?",
+   "correct": 2
   }
  },
  "answers": {
@@ -14723,7 +14727,8 @@
   "5202107643530845884:1805166872": 0,
   "5202107643530845882:125126380": 3,
   "5202107643530845884:125126380": 0,
-  "5202107643530845893:125126380": 3
+  "5202107643530845893:125126380": 3,
+  "5202107643530845742:6956735341": 1
  },
  "users": {
   "1007925524": {

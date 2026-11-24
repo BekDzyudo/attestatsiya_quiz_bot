@@ -1,5 +1,5 @@
 {
- "offset": 33161258,
+ "offset": 33161260,
  "polls": {
   "5470169922707397248": {
    "q": "PQ-316-sonli Qarorga koʻra, Kasbiy taʼlimni rivojlantirish institutida direktorning taʼlim mazmunini taʼminlash boʻyicha",
@@ -1908,6 +1908,10 @@
   "5202132081894759919": {
    "q": "PQ-316-sonli Qarorga koʻra, imtiyozli kreditning imtiyozli davri qancha yil?",
    "correct": 2
+  },
+  "5202132081894759920": {
+   "q": "PQ-316-sonli Qarorga koʻra, dual taʼlim oʻquvchilariga har oylik stipendiya qanday miqdorda toʻlanadi?",
+   "correct": 3
   }
  },
  "answers": {
