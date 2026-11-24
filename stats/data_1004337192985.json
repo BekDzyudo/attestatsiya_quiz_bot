@@ -1,5 +1,5 @@
 {
- "offset": 33160659,
+ "offset": 33160660,
  "polls": {
   "5470169922707397248": {
    "q": "PQ-316-sonli Qarorga koʻra, Kasbiy taʼlimni rivojlantirish institutida direktorning taʼlim mazmunini taʼminlash boʻyicha",
@@ -1879,6 +1879,10 @@
   },
   "5199880282081074320": {
    "q": "PQ-316-sonli Qarorga koʻra, Oliy taʼlim, fan va innovatsiyalar vazirligi qaror ijrosini har yili qaysi sanaga qadar moni",
+   "correct": 3
+  },
+  "5199880282081074323": {
+   "q": "PQ-316-sonli Qarorga koʻra, reytingda eng yuqori oʻrinni egallagan texnikumlar har biri bazaviy hisoblash miqdorining ne",
    "correct": 3
   }
  },
@@ -24464,7 +24468,8 @@
   "5190855744043359104:5828847218": 1,
   "5199880282081074310:770159410": 0,
   "5199880282081074310:1767314278": 1,
-  "5199880282081074312:1767314278": 1
+  "5199880282081074312:1767314278": 1,
+  "5199880282081074320:770159410": 3
  },
  "users": {
   "672629750": {
