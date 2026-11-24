@@ -1,5 +1,5 @@
 {
- "offset": 33161020,
+ "offset": 33161025,
  "polls": {
   "5470169922707397248": {
    "q": "PQ-316-sonli Qarorga koʻra, Kasbiy taʼlimni rivojlantirish institutida direktorning taʼlim mazmunini taʼminlash boʻyicha",
@@ -1892,6 +1892,10 @@
   "5199880282081074327": {
    "q": "PQ-316-sonli Qarorga koʻra, xorijga pedagoglarni yuborish xarajatlari qaysi jamgʻarma hisobidan qoplanadi?",
    "correct": 3
+  },
+  "5199880282081074334": {
+   "q": "PF-190-son Farmonga koʻra, Davlat texnikumlari direktorlari va direktor oʻrinbosarlarini qanday asosda lavozimga tayinla",
+   "correct": 0
   }
  },
  "answers": {
@@ -24674,7 +24678,10 @@
   "5192956193504499645:814421550": 1,
   "5199880282081074297:8813373496": 2,
   "5192956193504499647:814421550": 1,
-  "5188603944229672072:6828417325": 1
+  "5188603944229672072:6828417325": 1,
+  "5188603944229672076:6828417325": 1,
+  "5199880282081074302:8813373496": 0,
+  "5192956193504499649:814421550": 2
  },
  "users": {
   "672629750": {
