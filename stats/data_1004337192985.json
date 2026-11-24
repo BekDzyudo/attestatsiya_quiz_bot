@@ -1,5 +1,5 @@
 {
- "offset": 33162781,
+ "offset": 33162783,
  "polls": {
   "5470169922707397248": {
    "q": "PQ-316-sonli Qarorga koʻra, Kasbiy taʼlimni rivojlantirish institutida direktorning taʼlim mazmunini taʼminlash boʻyicha",
@@ -1988,6 +1988,10 @@
   "5202132081894759971": {
    "q": "Yakuniy davlat attestatsiyasi jarayonlari ota-onalar va kuzatuvchilar uchun qanday tartibda tashkil etiladi?",
    "correct": 3
+  },
+  "5202132081894759978": {
+   "q": "Taʼlim toʻgʻrisidagi Qonunga muvofiq Nodavlat taʼlim tashkilotlari taʼlim faoliyati bilan shugʻullanishga qaysi vaqtdan ",
+   "correct": 2
   }
  },
  "answers": {
@@ -25791,7 +25795,8 @@
   "5202132081894759971:817651592": 3,
   "5195207993318185355:5828847218": 3,
   "5195207993318185357:5828847218": 2,
-  "5195207993318185358:5828847218": 1
+  "5195207993318185358:5828847218": 1,
+  "5199880282081074320:1190120358": 0
  },
  "users": {
   "672629750": {
