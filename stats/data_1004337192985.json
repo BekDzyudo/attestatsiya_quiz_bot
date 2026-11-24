@@ -1,5 +1,5 @@
 {
- "offset": 33157817,
+ "offset": 33157818,
  "polls": {
   "5470169922707397248": {
    "q": "PQ-316-sonli Qarorga koʻra, Kasbiy taʼlimni rivojlantirish institutida direktorning taʼlim mazmunini taʼminlash boʻyicha",
@@ -1784,6 +1784,10 @@
   "5199880282081074254": {
    "q": "PQ-316 sonli Qarorga koʻra, texnikumlar maxsus fan oʻqituvchilarining malakasi qayerda oshiriladi?",
    "correct": 0
+  },
+  "5199880282081074256": {
+   "q": "Taʼlim toʻgʻrisidagi Qonunga muvofiq Xorijiy davlatda olingan taʼlim toʻgʻrisidagi hujjat qaysi sanadan keyin olingan bo",
+   "correct": 3
   }
  },
  "answers": {
@@ -22786,7 +22790,8 @@
   "5197628482267387430:48354397": 2,
   "5197628482267387434:48354397": 2,
   "5197628482267387526:236301709": 2,
-  "5197628482267387514:108193844": 3
+  "5197628482267387514:108193844": 3,
+  "5199880282081074253:1864535284": 0
  },
  "users": {
   "672629750": {
