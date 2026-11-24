@@ -1984,6 +1984,10 @@
   "5202132081894759967": {
    "q": "Yakuniy davlat attestatsiyasida test topshiriqlari bajarilgandan soʻng javoblarni javoblar varaqasiga koʻchirish uchun n",
    "correct": 1
+  },
+  "5202132081894759971": {
+   "q": "Yakuniy davlat attestatsiyasi jarayonlari ota-onalar va kuzatuvchilar uchun qanday tartibda tashkil etiladi?",
+   "correct": 3
   }
  },
  "answers": {
