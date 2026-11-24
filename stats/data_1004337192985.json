@@ -1,5 +1,5 @@
 {
- "offset": 33164592,
+ "offset": 33164594,
  "polls": {
   "5470169922707397248": {
    "q": "PQ-316-sonli Qarorga koʻra, Kasbiy taʼlimni rivojlantirish institutida direktorning taʼlim mazmunini taʼminlash boʻyicha",
@@ -2076,6 +2076,10 @@
   "5199441482452310503": {
    "q": "PF-190-son Farmonga koʻra, mashgʻulotlarning milliy klassifikatoridagi malaka darajasiga mos diplom (malaka sertifikati)",
    "correct": 2
+  },
+  "5199441482452310513": {
+   "q": "PQ-316-sonli Qarorga koʻra, yoshlarni kasb-hunarga yoʻnaltirishning yangi tartibi qaysi oʻquv yilidan boshlab joriy etil",
+   "correct": 0
   }
  },
  "answers": {
@@ -26855,7 +26859,8 @@
   "5199441482452310503:5828847218": 2,
   "5199441482452310483:6801874549": 1,
   "5199441482452310494:6801874549": 2,
-  "5199441482452310503:6801874549": 2
+  "5199441482452310503:6801874549": 2,
+  "5202132081894759964:1475464952": 2
  },
  "users": {
   "672629750": {
