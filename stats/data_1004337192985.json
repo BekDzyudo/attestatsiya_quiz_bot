@@ -2068,6 +2068,10 @@
   "5199441482452310483": {
    "q": "PQ-316 sonli Qarorga koʻra, ishlab chiqarish taʼlimi ustalarining malakasi qayerda oshiriladi?",
    "correct": 1
+  },
+  "5199441482452310494": {
+   "q": "Taʼlim toʻgʻrisidagi Qonunga muvofiq Taʼlim oluvchilarning huquqlari jumlasiga KIRMAYDIGAN variant:",
+   "correct": 2
   }
  },
  "answers": {
