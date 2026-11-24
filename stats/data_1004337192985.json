@@ -1836,6 +1836,10 @@
   "5199880282081074287": {
    "q": "PQ-316-sonli Qarorga koʻra, kasbiy taʼlim dasturlari xalqaro standartlari asosida yangidan ishlab chiqiladigan tartib qa",
    "correct": 2
+  },
+  "5199880282081074289": {
+   "q": "PF-190-sonli Farmonga koʻra, kasbiy taʼlim va kasbga oʻqitishda boshqaruv tizimini takomillashtirish orqali qanday natij",
+   "correct": 0
   }
  },
  "answers": {
