@@ -1,5 +1,5 @@
 {
- "offset": 33161507,
+ "offset": 33161509,
  "polls": {
   "5470169922707397248": {
    "q": "PQ-316-sonli Qarorga koʻra, Kasbiy taʼlimni rivojlantirish institutida direktorning taʼlim mazmunini taʼminlash boʻyicha",
@@ -1915,6 +1915,10 @@
   },
   "5202132081894759921": {
    "q": "PQ-316-sonli Qarorga koʻra, ilgʻor kasbiy mahorat texnikumlari faoliyatini moliyalashtirish va xodimlar ish haqi shartla",
+   "correct": 0
+  },
+  "5202132081894759923": {
+   "q": "PF-190-sonli Farmon yoshlarda qanday xususiyatlarni shakllantirishni maqsad qiladi?",
    "correct": 0
   }
  },
@@ -24977,7 +24981,8 @@
   "5199880282081073997:361217538": 3,
   "5199880282081074307:1152193055": 3,
   "5199880282081074006:361217538": 0,
-  "5199880282081074239:361217538": 0
+  "5199880282081074239:361217538": 0,
+  "5199880282081074241:361217538": 0
  },
  "users": {
   "672629750": {
