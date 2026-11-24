@@ -1,5 +1,5 @@
 {
- "offset": 33163646,
+ "offset": 33163648,
  "polls": {
   "5470169922707397248": {
    "q": "PQ-316-sonli Qarorga koʻra, Kasbiy taʼlimni rivojlantirish institutida direktorning taʼlim mazmunini taʼminlash boʻyicha",
@@ -2032,6 +2032,10 @@
   "5202132081894760010": {
    "q": "Kasbiy taʼlim tashkilotidagi yakuniy davlat attestatsiyasi jadvali kimning buyrugʻi bilan tasdiqlanadi?",
    "correct": 1
+  },
+  "5202132081894760019": {
+   "q": "PF-190-son Farmonga koʻra, Kasbiy taʼlimni rivojlantirish hududiy tadbirkorlar kengashlari kimlar raisligida tashkil eti",
+   "correct": 3
   }
  },
  "answers": {
@@ -26307,7 +26311,8 @@
   "5202132081894760009:536329044": 0,
   "5202132081894759921:951585221": 3,
   "5202132081894760010:536329044": 1,
-  "5202132081894759923:951585221": 0
+  "5202132081894759923:951585221": 0,
+  "5202132081894759925:951585221": 2
  },
  "users": {
   "672629750": {
