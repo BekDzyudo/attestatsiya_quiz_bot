@@ -2008,6 +2008,10 @@
   "5202132081894759994": {
    "q": "PQ-316-sonli Qarorga koʻra, 2026/2027 oʻquv yilidan boshlab texnikum direktoriga menejerlik sertifikati asosida lavozim ",
    "correct": 2
+  },
+  "5202132081894759999": {
+   "q": "Taʼlim toʻgʻrisidagi Qonunga koʻra, umumiy oʻrta taʼlimning qaysi bosqichida va qaysi sinfdan soʻng professional tashxis",
+   "correct": 1
   }
  },
  "answers": {
