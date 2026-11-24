@@ -5112,6 +5112,10 @@
   "5202107643530846062": {
    "q": "Taʼlim toʻgʻrisidagi Qonunga koʻra, falsafa doktori (PhD) ilmiy darajasiga daʼvogar izlanuvchilar uchun ishlab chiqarish",
    "correct": 2
+  },
+  "5202107643530846067": {
+   "q": "Taʼlim toʻgʻrisidagi Qonunning 6-moddasiga koʻra, taʼlim tizimining ajralmas ikki xususiyati qanday ifodalangan?",
+   "correct": 0
   }
  },
  "answers": {
