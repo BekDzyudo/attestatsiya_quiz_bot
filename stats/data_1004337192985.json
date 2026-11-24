@@ -1,5 +1,5 @@
 {
- "offset": 33163935,
+ "offset": 33163937,
  "polls": {
   "5470169922707397248": {
    "q": "PQ-316-sonli Qarorga koʻra, Kasbiy taʼlimni rivojlantirish institutida direktorning taʼlim mazmunini taʼminlash boʻyicha",
@@ -2048,6 +2048,10 @@
   "5202132081894760032": {
    "q": "PF-190-sonli Farmonga koʻra, buyurtma boʻyicha toʻlangan mablagʻlar davlat texnikumlarining qaysi hisob raqamiga oʻtkazi",
    "correct": 1
+  },
+  "5202132081894760037": {
+   "q": "VMsining 106-son qarori bilan tasdiqlangan Nizomga koʻra, qayta tayyorlashning davomiyligi kamida qancha etib belgilanga",
+   "correct": 3
   }
  },
  "answers": {
@@ -26486,7 +26490,8 @@
   "5202132081894760010:1864535284": 1,
   "5197628482267387503:989514053": 1,
   "5202132081894760019:1864535284": 3,
-  "5197628482267387505:989514053": 2
+  "5197628482267387505:989514053": 2,
+  "5202132081894760023:1864535284": 2
  },
  "users": {
   "672629750": {
