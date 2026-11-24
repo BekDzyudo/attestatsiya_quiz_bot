@@ -6,7 +6,7 @@ Hisobga olingan quizlar: 1301, ishtirokchilar: 13
 |---|---|---|---|---|---|
 | 1 | Shohbek Jalilov (@bekdzyudo) | 991 | 188 | 1179 | 84% |
 | 2 | O'ktambek Umbarov (@uktambek_umbarov) | 969 | 246 | 1215 | 80% |
-| 3 | Şoxbozbek Tuxtasinov (@shohboz3dx) | 941 | 192 | 1133 | 83% |
+| 3 | Şoxbozbek Tuxtasinov (@shohboz3dx) | 941 | 193 | 1134 | 83% |
 | 4 | Samariddin (@Samar_0208) | 925 | 341 | 1266 | 73% |
 | 5 | Bobirbek (@siddiqovbobirbek) | 563 | 283 | 846 | 67% |
 | 6 | MK | 545 | 543 | 1088 | 50% |
