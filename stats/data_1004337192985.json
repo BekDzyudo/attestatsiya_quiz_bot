@@ -2024,6 +2024,10 @@
   "5202132081894760007": {
    "q": "PF-190-sonli Farmonga koʻra, xalqaro hamkorlikni mustahkamlash yoʻnalishida Agentlikning birinchi asosiy vazifasi nimada",
    "correct": 1
+  },
+  "5202132081894760009": {
+   "q": "PQ-316-sonli Qarorga koʻra, 5 yoshdan boshlab bolalarda kasblar haqida tasavvurlar shakllantiriladigan dastur nomi?",
+   "correct": 0
   }
  },
  "answers": {
