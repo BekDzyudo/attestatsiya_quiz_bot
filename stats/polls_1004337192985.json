@@ -318,5 +318,9 @@
  "5202132081894760000": {
   "q": "PQ-316-sonli Qarorga koʻra, xorijda malaka oshirish va stajirovka oʻtash dasturlarida ishtirok etgan pedagoglar sonini n",
   "correct": 3
+ },
+ "5202132081894760004": {
+  "q": "PQ-316-sonli Qarorga koʻra, Kasbiy taʼlim agentligi tizimida nechta ilgʻor kasbiy mahorat texnikumi tashkil etiladi?",
+  "correct": 1
  }
 }
