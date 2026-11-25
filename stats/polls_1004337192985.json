@@ -698,5 +698,9 @@
  "5203945082079680017": {
   "q": "Taʼlim toʻgʻrisidagi Qonunga koʻra, Oilada taʼlim olish qanday huquqiy asosda amalga oshiriladi?",
   "correct": 1
+ },
+ "5203945082079680021": {
+  "q": "PQ-316-sonli Qarorga koʻra, 2030 yilga qadar kasbiy sertifikatga ega ishlab chiqarish taʼlimi ustalari ulushi qancha foi",
+  "correct": 1
  }
 }
