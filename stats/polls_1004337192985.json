@@ -410,5 +410,9 @@
  "5201693282265994946": {
   "q": "Taʼlim toʻgʻrisidagi Qonunga muvofiq Taʼlim tashkilotining ustavida quyidagilardan qaysi biri KOʻRSATILMAYDI?",
   "correct": 2
+ },
+ "5201693282265994947": {
+  "q": "Taʼlim toʻgʻrisidagi Qonunga koʻra, dual taʼlimda amaliy qism qayerda amalga oshiriladi?",
+  "correct": 1
  }
 }
