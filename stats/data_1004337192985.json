@@ -1,5 +1,5 @@
 {
- "offset": 33170736,
+ "offset": 33170738,
  "polls": {
   "5470169922707397248": {
    "q": "PQ-316-sonli Qarorga koʻra, Kasbiy taʼlimni rivojlantirish institutida direktorning taʼlim mazmunini taʼminlash boʻyicha",
@@ -2364,6 +2364,10 @@
   "5203945082079679975": {
    "q": "PF-190-son Farmonga koʻra, pedagog kadrlar salohiyatini oshirish yoʻnalishida Agentlik birinchi vazifa sifatida nimani b",
    "correct": 3
+  },
+  "5203945082079679993": {
+   "q": "Yakuniy davlat attestatsiyasi boʻyicha apellyatsiya komissiyasi tarkibiga qanday shaxslar kiritilmaydi?",
+   "correct": 1
   }
  },
  "answers": {
@@ -30636,7 +30640,8 @@
   "5203945082079679909:48354397": 1,
   "5203945082079679911:48354397": 0,
   "5203945082079679966:301905367": 1,
-  "5203945082079679918:48354397": 1
+  "5203945082079679918:48354397": 1,
+  "5203945082079679975:301905367": 3
  },
  "users": {
   "672629750": {
