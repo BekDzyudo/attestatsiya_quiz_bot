@@ -686,5 +686,9 @@
  "5203945082079680004": {
   "q": "PQ-316-sonli Qarorga koʻra, 9-sinf bitiruvchilarining kasbiy taʼlim bilan qamrovini necha foizga etkazish maqsad qilinga",
   "correct": 1
+ },
+ "5203945082079680008": {
+  "q": "VMsining 106-son qarori bilan tasdiqlangan Nizomga koʻra, «masofaviy qayta tayyorlash va malaka oshirish» atamasi nimani",
+  "correct": 3
  }
 }
