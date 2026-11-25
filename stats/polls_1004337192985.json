@@ -582,5 +582,9 @@
  "5201693282265995140": {
   "q": "Kasbiy taʼlim tashkilotining oʻquv dasturlarini toʻliq tugatgan, lekin attestatsiyada qatnashmagan bitiruvchilar komissi",
   "correct": 1
+ },
+ "5201693282265995142": {
+  "q": "VMsining 106-son qarori bilan tasdiqlangan Nizomga koʻra, malaka oshirishning bir haftalik auditoriya oʻquv yuklamasinin",
+  "correct": 0
  }
 }
