@@ -2100,6 +2100,10 @@
   "5201693282265994942": {
    "q": "Yakuniy davlat attestatsiyasidagi koʻrgazmali-amaliy imtihon orqali bitiruvchining qanday xususiyati aniqlanadi?",
    "correct": 2
+  },
+  "5201693282265994943": {
+   "q": "PQ-316-sonli Qarorga koʻra, kasbiy taʼlim tizimida dual taʼlim ulushini necha foizga yetkazish maqsad qilingan?",
+   "correct": 3
   }
  },
  "answers": {
