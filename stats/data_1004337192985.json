@@ -2412,6 +2412,10 @@
   "5203945082079680027": {
    "q": "PQ-316-sonli Qarorga koʻra, maxsus fan oʻqituvchilarining malaka oshirish rejasini kim tasdiqlaydi?",
    "correct": 0
+  },
+  "5203945082079680028": {
+   "q": "PQ-316-sonli Qarorga koʻra, kasbiy taʼlim tizimini isloh qilishning asosiy maqsadli koʻrsatkichlari qaysi yilga qadar be",
+   "correct": 3
   }
  },
  "answers": {
