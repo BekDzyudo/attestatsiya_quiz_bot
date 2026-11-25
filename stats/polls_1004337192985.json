@@ -606,5 +606,9 @@
  "5201693282265995154": {
   "q": "VMsining 106-son qarori bilan tasdiqlangan Nizomga koʻra, malaka oshirishda tinglovchi oʻquv mashgʻulotlarini uzrli saba",
   "correct": 0
+ },
+ "5201693282265995157": {
+  "q": "Taʼlim toʻgʻrisidagi Qonunga koʻra, Taʼlim tashkilotini boshqarishni quyidagilardan qaysilari amalga oshiradi?",
+  "correct": 1
  }
 }
