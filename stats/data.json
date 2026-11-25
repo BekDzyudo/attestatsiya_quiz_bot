@@ -5316,6 +5316,10 @@
   "5201859527565123702": {
    "q": "PF-190-son Farmonga koʻra, Kambagʻallikni qisqartirish va bandlik vazirligi hamda Migratsiya agentligi buyurtmalari boʻy",
    "correct": 2
+  },
+  "5201859527565123703": {
+   "q": "PF-190-sonli Farmonga koʻra, hududiy tadbirkorlar kengashi tarkibiga kimlar kiritiladi?",
+   "correct": 0
   }
  },
  "answers": {

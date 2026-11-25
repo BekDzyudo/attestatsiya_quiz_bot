@@ -1,5 +1,5 @@
 {
- "offset": 33167645,
+ "offset": 33167647,
  "polls": {
   "5470169922707397248": {
    "q": "PQ-316-sonli Qarorga koʻra, Kasbiy taʼlimni rivojlantirish institutida direktorning taʼlim mazmunini taʼminlash boʻyicha",
@@ -2196,6 +2196,10 @@
   "5201693282265995009": {
    "q": "PQ-316-sonli Qarorga koʻra, qaysi yilga qadar texnikumlar faoliyatini tugatish, ularga tegishli yer uchastkalari hamda b",
    "correct": 0
+  },
+  "5201693282265995010": {
+   "q": "PF-190-sonli Farmonga koʻra, mulkchilik shaklidan qatʼiy nazar barcha kasbiy taʼlim tashkilotlari uchun majburiy boʻlgan",
+   "correct": 1
   }
  },
  "answers": {
@@ -28655,7 +28659,8 @@
   "5202132081894759935:233963624": 1,
   "5202132081894759939:233963624": 3,
   "5202132081894759942:233963624": 3,
-  "5202132081894759943:233963624": 0
+  "5202132081894759943:233963624": 0,
+  "5202132081894759945:233963624": 2
  },
  "users": {
   "672629750": {

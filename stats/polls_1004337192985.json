@@ -498,5 +498,9 @@
  "5201693282265995009": {
   "q": "PQ-316-sonli Qarorga koʻra, qaysi yilga qadar texnikumlar faoliyatini tugatish, ularga tegishli yer uchastkalari hamda b",
   "correct": 0
+ },
+ "5201693282265995010": {
+  "q": "PF-190-sonli Farmonga koʻra, mulkchilik shaklidan qatʼiy nazar barcha kasbiy taʼlim tashkilotlari uchun majburiy boʻlgan",
+  "correct": 1
  }
 }
