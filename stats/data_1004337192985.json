@@ -1,5 +1,5 @@
 {
- "offset": 33170537,
+ "offset": 33170538,
  "polls": {
   "5470169922707397248": {
    "q": "PQ-316-sonli Qarorga koʻra, Kasbiy taʼlimni rivojlantirish institutida direktorning taʼlim mazmunini taʼminlash boʻyicha",
@@ -2348,6 +2348,10 @@
   "5203945082079679939": {
    "q": "Yakuniy davlat attestatsiyasidagi apellyatsiya komissiyasi bitiruvchining shikoyatini necha ish kuni ichida koʻrib chiqa",
    "correct": 0
+  },
+  "5203945082079679942": {
+   "q": "VMsining 106-son qarori bilan tasdiqlangan Nizomga koʻra, mashgʻulotlar oraligʻidagi tanaffus kamida necha daqiqani tash",
+   "correct": 1
   }
  },
  "answers": {
@@ -30500,7 +30504,8 @@
   "5203945082079679933:672629750": 0,
   "5201693282265995150:1007925524": 0,
   "5203945082079679936:672629750": 1,
-  "5201693282265994982:155464216": 2
+  "5201693282265994982:155464216": 2,
+  "5203945082079679937:672629750": 3
  },
  "users": {
   "672629750": {
