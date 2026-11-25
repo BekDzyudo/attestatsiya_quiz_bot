@@ -5240,6 +5240,10 @@
   "5201859527565123598": {
    "q": "PF-190-sonli Farmonga koʻra, buyurtma boʻyicha toʻlangan mablagʻlar davlat texnikumlarining qaysi hisob raqamiga oʻtkazi",
    "correct": 2
+  },
+  "5201859527565123621": {
+   "q": "PF-190-son Farmonga koʻra, mashgʻulotlarning milliy klassifikatoridagi malaka darajasiga mos diplom (malaka sertifikati)",
+   "correct": 1
   }
  },
  "answers": {
