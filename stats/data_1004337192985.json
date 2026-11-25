@@ -1,5 +1,5 @@
 {
- "offset": 33169255,
+ "offset": 33169256,
  "polls": {
   "5470169922707397248": {
    "q": "PQ-316-sonli Qarorga koʻra, Kasbiy taʼlimni rivojlantirish institutida direktorning taʼlim mazmunini taʼminlash boʻyicha",
@@ -2291,6 +2291,10 @@
   },
   "5201693282265995147": {
    "q": "\"Taʼlim toʻgʻrisidagi Qonunga koʻra, Rasmiy, norasmiy va informal taʼlimlar oʻrtasidagi farqni toʻgʻri ifodalagan varian",
+   "correct": 0
+  },
+  "5201693282265995148": {
+   "q": "PF-190-sonli Farmonga koʻra, norasmiy, informal taʼlim hamda amaliy tajriba asosida egallangan koʻnikmalar qanday usulda",
    "correct": 0
   }
  },
@@ -29690,7 +29694,8 @@
   "5201693282265995147:5828847218": 2,
   "5201693282265995143:5498024510": 3,
   "5201693282265995142:5498024510": 0,
-  "5201693282265995140:289268182": 1
+  "5201693282265995140:289268182": 1,
+  "5201693282265995140:5498024510": 2
  },
  "users": {
   "672629750": {
