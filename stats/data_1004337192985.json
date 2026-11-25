@@ -1,5 +1,5 @@
 {
- "offset": 33171285,
+ "offset": 33171286,
  "polls": {
   "5470169922707397248": {
    "q": "PQ-316-sonli Qarorga koʻra, Kasbiy taʼlimni rivojlantirish institutida direktorning taʼlim mazmunini taʼminlash boʻyicha",
@@ -2392,6 +2392,10 @@
   "5203945082079680012": {
    "q": "Taʼlim toʻgʻrisidagi Qonunga koʻra, davlat taʼlim muassasalarining operativ boshqaruvida boʻlgan binolar, inshootlar, oʻ",
    "correct": 3
+  },
+  "5203945082079680017": {
+   "q": "Taʼlim toʻgʻrisidagi Qonunga koʻra, Oilada taʼlim olish qanday huquqiy asosda amalga oshiriladi?",
+   "correct": 1
   }
  },
  "answers": {
@@ -31003,7 +31007,8 @@
   "5203945082079679997:672629750": 0,
   "5203945082079679975:155464216": 2,
   "5203945082079680000:672629750": 2,
-  "5203945082079679993:155464216": 1
+  "5203945082079679993:155464216": 1,
+  "5203945082079679994:155464216": 1
  },
  "users": {
   "672629750": {
