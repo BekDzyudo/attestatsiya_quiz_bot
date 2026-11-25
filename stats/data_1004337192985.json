@@ -1,5 +1,5 @@
 {
- "offset": 33167037,
+ "offset": 33167040,
  "polls": {
   "5470169922707397248": {
    "q": "PQ-316-sonli Qarorga koʻra, Kasbiy taʼlimni rivojlantirish institutida direktorning taʼlim mazmunini taʼminlash boʻyicha",
@@ -2164,6 +2164,10 @@
   "5201693282265994978": {
    "q": "PQ-316-sonli Qarorga koʻra, xorijda malaka oshirish va stajirovka dasturlarida ishtirok etgan pedagoglarning amaldagi so",
    "correct": 1
+  },
+  "5201693282265994982": {
+   "q": "PQ-316-sonli Qarorga koʻra, umumiy oʻrta maʼlumotga ega boʻlgan talabgorlar orasidan qabul qilingan oʻquvchilar qanday a",
+   "correct": 2
   }
  },
  "answers": {
@@ -28303,7 +28307,9 @@
   "5202132081894759945:640024586": 0,
   "5201693282265994957:125126380": 1,
   "5201693282265994954:125126380": 3,
-  "5199441482452310494:108193844": 2
+  "5199441482452310494:108193844": 2,
+  "5201693282265994975:197935978": 3,
+  "5201693282265994952:125126380": 3
  },
  "users": {
   "672629750": {
