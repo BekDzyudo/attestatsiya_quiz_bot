@@ -1,5 +1,5 @@
 {
- "offset": 33170672,
+ "offset": 33170673,
  "polls": {
   "5470169922707397248": {
    "q": "PQ-316-sonli Qarorga koʻra, Kasbiy taʼlimni rivojlantirish institutida direktorning taʼlim mazmunini taʼminlash boʻyicha",
@@ -2356,6 +2356,10 @@
   "5203945082079679952": {
    "q": "PQ-316-sonli Qarorga koʻra, 2028 yildan boshlab kasbiy taʼlim dasturlari sifatini qaysi organ tanlov asosida oʻrganadi?",
    "correct": 3
+  },
+  "5203945082079679966": {
+   "q": "Yakuniy davlat attestatsiyasi (YaDA) qayerlarda oʻtkazilishi mumkin?",
+   "correct": 1
   }
  },
  "answers": {
@@ -30583,7 +30587,8 @@
   "5203945082079679918:386634593": 1,
   "5203945082079679926:6671734410": 2,
   "5203945082079679933:6671734410": 0,
-  "5203945082079679926:386634593": 2
+  "5203945082079679926:386634593": 2,
+  "5203945082079679933:386634593": 0
  },
  "users": {
   "672629750": {

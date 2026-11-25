@@ -5472,6 +5472,10 @@
   "5204111327378807190": {
    "q": "PQ-316-sonli Qarorga koʻra, 2026 yildan boshlab qaysi sana «Kasb va mehnat kuni» sifatida keng nishonlanadi?",
    "correct": 1
+  },
+  "5204111327378807194": {
+   "q": "Yakuniy davlat attestatsiyasidagi koʻrgazmali-amaliy imtihonlar shartlari va baholash mezonlarini kim ishlab chiqadi va ",
+   "correct": 0
   }
  },
  "answers": {
