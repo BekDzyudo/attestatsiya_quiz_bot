@@ -406,5 +406,9 @@
  "5201693282265994943": {
   "q": "PQ-316-sonli Qarorga koʻra, kasbiy taʼlim tizimida dual taʼlim ulushini necha foizga yetkazish maqsad qilingan?",
   "correct": 3
+ },
+ "5201693282265994946": {
+  "q": "Taʼlim toʻgʻrisidagi Qonunga muvofiq Taʼlim tashkilotining ustavida quyidagilardan qaysi biri KOʻRSATILMAYDI?",
+  "correct": 2
  }
 }
