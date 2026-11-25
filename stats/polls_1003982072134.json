@@ -442,5 +442,9 @@
  "5201859527565123655": {
   "q": "PF-190-sonli Farmonga koʻra, majburiy kasbiy taʼlim dasturlari boʻyicha beriladigan malaka darajalarini kim belgilaydi?",
   "correct": 2
+ },
+ "5201859527565123657": {
+  "q": "PQ-316-sonli Qarorga koʻra, Oliy taʼlim, fan va innovatsiyalar vazirligi qaror ijrosini har yili qaysi sanaga qadar moni",
+  "correct": 1
  }
 }
