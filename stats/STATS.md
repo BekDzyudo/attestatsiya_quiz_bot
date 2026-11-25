@@ -1,4 +1,4 @@
-# Quiz statistikasi (2026-11-25 19:10, Toshkent)
+# Quiz statistikasi (2026-11-25 19:20, Toshkent)
 
 Hisobga olingan quizlar: 1362, ishtirokchilar: 13
 
@@ -11,9 +11,11 @@ Hisobga olingan quizlar: 1362, ishtirokchilar: 13
 | 5 | Bobirbek (@siddiqovbobirbek) | 563 | 283 | 846 | 67% |
 | 6 | MK | 546 | 543 | 1089 | 50% |
 | 7 | Doniyor Abdujalilov (@doniyorjonabdujalilov) | 505 | 300 | 805 | 63% |
-| 8 | Defcomp (@Defcomputec) | 455 | 267 | 722 | 63% |
+| 8 | Defcomp (@Defcomputec) | 461 | 268 | 729 | 63% |
 | 9 | D.B. Tojiyev (@dextor_07) | 138 | 132 | 270 | 51% |
 | 10 | Dilmurodov Karamat (@Karamat_1992) | 132 | 116 | 248 | 53% |
 | 11 | Elyor Dusnazarov (@elyordusnazarov) | 93 | 103 | 196 | 47% |
 | 12 | С.Илхом (@saydiganiyev_ilhom) | 60 | 155 | 215 | 28% |
 | 13 | Jamol | 1 | 0 | 1 | 100% |
+
+Guruh a'zolari (bot bilan): 13. Javob bergan: 13. Javob bermagan: taxminan 0.
