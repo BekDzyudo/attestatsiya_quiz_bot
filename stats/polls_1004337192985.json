@@ -682,5 +682,9 @@
  "5203945082079680000": {
   "q": "PQ-316-sonli Qarorga koʻra, dual taʼlim shaklida tahsil olayotgan oʻquvchilarga stipendiya qaysi oʻquv yilidan boshlab t",
   "correct": 2
+ },
+ "5203945082079680004": {
+  "q": "PQ-316-sonli Qarorga koʻra, 9-sinf bitiruvchilarining kasbiy taʼlim bilan qamrovini necha foizga etkazish maqsad qilinga",
+  "correct": 1
  }
 }

@@ -5496,6 +5496,10 @@
   "5204111327378807237": {
    "q": "MS Excelda berilgan B21: C24 diapazonda nechta katak mavjud?",
    "correct": 2
+  },
+  "5204111327378807245": {
+   "q": "Taʼlim toʻgʻrisidagi Qonunga koʻra «kadrlarni qayta tayyorlash» va «malaka oshirish» tushunchalari oʻrtasidagi farqni to",
+   "correct": 0
   }
  },
  "answers": {
