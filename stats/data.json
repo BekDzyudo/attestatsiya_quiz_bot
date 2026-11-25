@@ -5352,6 +5352,10 @@
   "5204111327378807041": {
    "q": "PQ-316-sonli Qarorga koʻra, kasbiy taʼlim tizimini isloh qilishning asosiy maqsadli koʻrsatkichlari qaysi yilga qadar be",
    "correct": 1
+  },
+  "5204111327378807042": {
+   "q": "VMsining 106-son qarori bilan tasdiqlangan Nizomga koʻra, malaka oshirish uchun belgilangan muddatlarda sertifikatga ega",
+   "correct": 0
   }
  },
  "answers": {
