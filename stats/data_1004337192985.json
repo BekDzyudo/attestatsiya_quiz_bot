@@ -1,5 +1,5 @@
 {
- "offset": 33169079,
+ "offset": 33169083,
  "polls": {
   "5470169922707397248": {
    "q": "PQ-316-sonli Qarorga koʻra, Kasbiy taʼlimni rivojlantirish institutida direktorning taʼlim mazmunini taʼminlash boʻyicha",
@@ -2276,6 +2276,10 @@
   "5201693282265995138": {
    "q": "PF-190-son Farmonga koʻra, Migratsiya agentligi buyurtmalari qaysi jamgʻarma hisobidan moliyalashtiriladi?",
    "correct": 3
+  },
+  "5201693282265995140": {
+   "q": "Kasbiy taʼlim tashkilotining oʻquv dasturlarini toʻliq tugatgan, lekin attestatsiyada qatnashmagan bitiruvchilar komissi",
+   "correct": 1
   }
  },
  "answers": {
@@ -29571,7 +29575,9 @@
   "5201693282265995138:262746859": 3,
   "5201693282265994975:817651592": 3,
   "5201693282265994978:817651592": 1,
-  "5201693282265994982:817651592": 0
+  "5201693282265994982:817651592": 0,
+  "5201693282265994985:817651592": 1,
+  "5201693282265994987:817651592": 1
  },
  "users": {
   "672629750": {

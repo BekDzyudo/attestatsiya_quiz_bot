@@ -582,5 +582,9 @@
  "5204111327378807104": {
   "q": "PQ-316-sonli Qarorga koʻra, dual taʼlim rejasidagi oʻquvchining kasbiy koʻnikmalar hamda intizomi qoniqarsiz baholangand",
   "correct": 0
+ },
+ "5204111327378807113": {
+  "q": "Taʼlim toʻgʻrisidagi Qonunga muvofiq Oʻzbekiston Respublikasida taʼlim turlari soni va roʻyxatdagi birinchi taʼlim turi ",
+  "correct": 1
  }
 }
