@@ -1,5 +1,5 @@
 {
- "offset": 33169953,
+ "offset": 33169955,
  "polls": {
   "5470169922707397248": {
    "q": "PQ-316-sonli Qarorga koʻra, Kasbiy taʼlimni rivojlantirish institutida direktorning taʼlim mazmunini taʼminlash boʻyicha",
@@ -2324,6 +2324,10 @@
   "5203945082079679911": {
    "q": "Yakuniy davlat attestatsiyasi boʻyicha tuzilgan hisobotlar va materiallar kasbiy taʼlim tashkiloti arxivida necha yil da",
    "correct": 0
+  },
+  "5203945082079679918": {
+   "q": "Yakuniy davlat attestatsiyasini oʻtkazish jadvali attestatsiya boshlanishidan kamida necha kun oldin tasdiqlanadi?",
+   "correct": 1
   }
  },
  "answers": {
@@ -30143,7 +30147,8 @@
   "5201693282265995150:989514053": 2,
   "5201693282265995148:989514053": 0,
   "5203945082079679903:1612104094": 0,
-  "5203945082079679909:1612104094": 2
+  "5203945082079679909:1612104094": 2,
+  "5203945082079679911:1338396740": 0
  },
  "users": {
   "672629750": {

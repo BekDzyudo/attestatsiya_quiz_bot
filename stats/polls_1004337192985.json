@@ -626,5 +626,9 @@
  "5203945082079679911": {
   "q": "Yakuniy davlat attestatsiyasi boʻyicha tuzilgan hisobotlar va materiallar kasbiy taʼlim tashkiloti arxivida necha yil da",
   "correct": 0
+ },
+ "5203945082079679918": {
+  "q": "Yakuniy davlat attestatsiyasini oʻtkazish jadvali attestatsiya boshlanishidan kamida necha kun oldin tasdiqlanadi?",
+  "correct": 1
  }
 }
