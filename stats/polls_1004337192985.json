@@ -702,5 +702,9 @@
  "5203945082079680021": {
   "q": "PQ-316-sonli Qarorga koʻra, 2030 yilga qadar kasbiy sertifikatga ega ishlab chiqarish taʼlimi ustalari ulushi qancha foi",
   "correct": 1
+ },
+ "5203945082079680022": {
+  "q": "PQ-316-sonli Qarorga koʻra, dual taʼlim dasturlarini tashkil etgan ish beruvchilarga beriladigan imtiyozli kreditning en",
+  "correct": 0
  }
 }
