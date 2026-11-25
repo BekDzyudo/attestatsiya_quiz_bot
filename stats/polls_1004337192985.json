@@ -710,5 +710,9 @@
  "5203945082079680023": {
   "q": "PQ-316-sonli Qarorga koʻra, ilgʻor kasbiy mahorat texnikumlari boshqa texnikumlar uchun nima vazifasini bajaradi?",
   "correct": 1
+ },
+ "5203945082079680027": {
+  "q": "PQ-316-sonli Qarorga koʻra, maxsus fan oʻqituvchilarining malaka oshirish rejasini kim tasdiqlaydi?",
+  "correct": 0
  }
 }
