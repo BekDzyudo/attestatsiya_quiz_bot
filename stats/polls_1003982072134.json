@@ -706,5 +706,9 @@
  "5204111327378807259": {
   "q": "Taʼlim toʻgʻrisidagi Qonunga muvofiq Taʼlim tashkilotlari oʻz faoliyati tashqi baholashdan oʻtkazilishidan qancha vaqt o",
   "correct": 1
+ },
+ "5204111327378807260": {
+  "q": "Taʼlim toʻgʻrisidagi Qonunga koʻra, Oilada taʼlim olish qanday huquqiy asosda amalga oshiriladi?",
+  "correct": 0
  }
 }

@@ -1,5 +1,5 @@
 {
- "offset": 33171568,
+ "offset": 33171570,
  "polls": {
   "5470169922707397248": {
    "q": "PQ-316-sonli Qarorga koʻra, Kasbiy taʼlimni rivojlantirish institutida direktorning taʼlim mazmunini taʼminlash boʻyicha",
@@ -2404,6 +2404,10 @@
   "5203945082079680022": {
    "q": "PQ-316-sonli Qarorga koʻra, dual taʼlim dasturlarini tashkil etgan ish beruvchilarga beriladigan imtiyozli kreditning en",
    "correct": 0
+  },
+  "5203945082079680023": {
+   "q": "PQ-316-sonli Qarorga koʻra, ilgʻor kasbiy mahorat texnikumlari boshqa texnikumlar uchun nima vazifasini bajaradi?",
+   "correct": 1
   }
  },
  "answers": {
@@ -31157,7 +31161,8 @@
   "5203945082079679903:1475464952": 2,
   "5203945082079679897:1475464952": 3,
   "5203945082079680012:236301709": 3,
-  "5201693282265995157:1475464952": 1
+  "5201693282265995157:1475464952": 1,
+  "5201693282265995154:1475464952": 0
  },
  "users": {
   "672629750": {
