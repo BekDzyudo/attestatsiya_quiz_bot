@@ -442,5 +442,9 @@
  "5201693282265994961": {
   "q": "Yakuniy davlat attestatsiyasida dual taʼlim shaklida taʼlim olgan bitiruvchilarning koʻrgazmali-amaliy imtihon jarayonla",
   "correct": 3
+ },
+ "5201693282265994965": {
+  "q": "Yakuniy davlat attestatsiyasida test topshiriqlarini kim tomonidan ishlab chiqiladi?",
+  "correct": 1
  }
 }
