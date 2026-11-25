@@ -546,5 +546,9 @@
  "5201693282265995074": {
   "q": "Yakuniy davlat attestatsiyasida Oʻzbekiston tarixi fanidan davlat imtihoni qaysi guruhlarda oʻtkaziladi?",
   "correct": 2
+ },
+ "5201693282265995076": {
+  "q": "Taʼlim toʻgʻrisidagi Qonunga koʻra, Oʻzbekiston Respublikasi Vazirlar Mahkamasi taʼlim sohasida quyidagi vakolatlardan q",
+  "correct": 0
  }
 }
