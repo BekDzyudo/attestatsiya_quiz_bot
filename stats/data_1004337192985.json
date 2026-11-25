@@ -1,5 +1,5 @@
 {
- "offset": 33167308,
+ "offset": 33167310,
  "polls": {
   "5470169922707397248": {
    "q": "PQ-316-sonli Qarorga koʻra, Kasbiy taʼlimni rivojlantirish institutida direktorning taʼlim mazmunini taʼminlash boʻyicha",
@@ -2176,6 +2176,10 @@
   "5201693282265994987": {
    "q": "VMsining 106-son qarori bilan tasdiqlangan Nizomga koʻra, malaka oshirish kurslaridagi oʻquv jarayoni tinglovchilar soni",
    "correct": 1
+  },
+  "5201693282265994993": {
+   "q": "Yakuniy davlat attestatsiyasida oʻrta va oʻrta maxsus kasbiy taʼlim boʻyicha davlat imtihoni qaysi fanlardan test shakli",
+   "correct": 0
   }
  },
  "answers": {
@@ -28443,7 +28447,8 @@
   "5202132081894759988:672629750": 0,
   "5201693282265994987:8509657328": 1,
   "5202132081894759994:672629750": 2,
-  "5202132081894759999:672629750": 1
+  "5202132081894759999:672629750": 1,
+  "5202132081894760000:672629750": 3
  },
  "users": {
   "672629750": {
