@@ -2144,6 +2144,10 @@
   "5201693282265994965": {
    "q": "Yakuniy davlat attestatsiyasida test topshiriqlarini kim tomonidan ishlab chiqiladi?",
    "correct": 1
+  },
+  "5201693282265994966": {
+   "q": "PQ-316-sonli Qarorga koʻra, «yoʻl xaritasi» qaysi yillar uchun ishlab chiqilgan?",
+   "correct": 3
   }
  },
  "answers": {
