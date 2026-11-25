@@ -5324,6 +5324,10 @@
   "5201859527565123704": {
    "q": "PQ-316 sonli Qarorga koʻra, texnikumlar umumtaʼlim fanlari oʻqituvchilarining malakasi qayerda oshiriladi?",
    "correct": 1
+  },
+  "5201859527565123709": {
+   "q": "PQ-316-sonli Qarorga koʻra, ragʻbatlantirish toʻlovining necha foizi rahbar va xodimlarni moddiy ragʻbatlantirishga yoʻn",
+   "correct": 0
   }
  },
  "answers": {

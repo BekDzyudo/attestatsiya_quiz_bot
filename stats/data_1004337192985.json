@@ -1,5 +1,5 @@
 {
- "offset": 33167835,
+ "offset": 33167838,
  "polls": {
   "5470169922707397248": {
    "q": "PQ-316-sonli Qarorga koʻra, Kasbiy taʼlimni rivojlantirish institutida direktorning taʼlim mazmunini taʼminlash boʻyicha",
@@ -2204,6 +2204,10 @@
   "5201693282265995018": {
    "q": "PF-190-son Farmonga koʻra, «Vaucher» tizimi va buyurtma asosida fuqarolarni oʻqitish xarajatlari qaysi jamgʻarma hisobid",
    "correct": 0
+  },
+  "5201693282265995025": {
+   "q": "PF-190-sonli Farmonga koʻra, diplom (malaka sertifikati)ga ega xodimlarni ishga qabul qilish tizimi qaysi klassifikator ",
+   "correct": 3
   }
  },
  "answers": {
@@ -28775,7 +28779,9 @@
   "5201693282265995018:8813373496": 0,
   "5190855744043358759:48354397": 2,
   "5201693282265994999:6801874549": 2,
-  "5201693282265995010:1612104094": 1
+  "5201693282265995010:1612104094": 1,
+  "5201693282265994987:236301709": 1,
+  "5190855744043358757:48354397": 1
  },
  "users": {
   "672629750": {
