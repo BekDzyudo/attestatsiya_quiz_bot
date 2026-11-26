@@ -1,5 +1,5 @@
 {
- "offset": 33175131,
+ "offset": 33175133,
  "polls": {
   "5470169922707397248": {
    "q": "PQ-316-sonli Qarorga koʻra, Kasbiy taʼlimni rivojlantirish institutida direktorning taʼlim mazmunini taʼminlash boʻyicha",
@@ -2579,6 +2579,10 @@
   },
   "5206516109632607938": {
    "q": "PF-190-son Farmonga koʻra, 2027 yil 1 yanvardan boshlab Mashgʻulotlar milliy klassifikatoridagi malaka darajasiga mos di",
+   "correct": 1
+  },
+  "5206516109632607944": {
+   "q": "PQ-316-sonli Qarorga koʻra, texnikum direktori oʻrinbosariga lavozim maoshining necha foizi miqdorida har oylik ustama b",
    "correct": 1
   }
  },
@@ -33276,7 +33280,8 @@
   "5188603944229672065:80046935": 3,
   "5188603944229672072:80046935": 1,
   "5188603944229672459:6564730738": 2,
-  "5188603944229672118:80046935": 0
+  "5188603944229672118:80046935": 0,
+  "5188603944229672181:80046935": 0
  },
  "users": {
   "672629750": {

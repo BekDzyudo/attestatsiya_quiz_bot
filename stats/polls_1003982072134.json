@@ -878,5 +878,9 @@
  "5206269874862562792": {
   "q": "PF-190-sonli Farmoniga koʻra, kasbiy taʼlim tizimini muvofiqlashtirish yoʻnalishida Agentlik birinchi vazifa sifatida ni",
   "correct": 2
+ },
+ "5206269874862562796": {
+  "q": "Kasbiy taʼlim tashkilotidagi yakuniy davlat attestatsiyasi jadvali kimning buyrugʻi bilan tasdiqlanadi?",
+  "correct": 0
  }
 }
