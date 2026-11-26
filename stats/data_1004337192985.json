@@ -1,5 +1,5 @@
 {
- "offset": 33177807,
+ "offset": 33177809,
  "polls": {
   "5470169922707397248": {
    "q": "PQ-316-sonli Qarorga koʻra, Kasbiy taʼlimni rivojlantirish institutida direktorning taʼlim mazmunini taʼminlash boʻyicha",
@@ -2660,6 +2660,10 @@
   "5206516109632608120": {
    "q": "VMsining 106-son qarori bilan tasdiqlangan Nizomga koʻra, «muqobil malaka oshirish» qanday taʼriflangan?",
    "correct": 0
+  },
+  "5206516109632608129": {
+   "q": "PQ-316-sonli Qarorga koʻra, imtiyozli kreditning imtiyozli davri qancha yil?",
+   "correct": 2
   }
  },
  "answers": {
@@ -34826,7 +34830,8 @@
   "5206516109632608070:8813373496": 2,
   "5206516109632608066:8813373496": 0,
   "5206516109632608048:8813373496": 3,
-  "5206516109632608030:8813373496": 0
+  "5206516109632608030:8813373496": 0,
+  "5206516109632608026:8813373496": 1
  },
  "users": {
   "672629750": {
