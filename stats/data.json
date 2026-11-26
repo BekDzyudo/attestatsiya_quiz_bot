@@ -5748,6 +5748,10 @@
   "5206269874862562875": {
    "q": "Taʼlim toʻgʻrisidagi Qonunga muvofiq Quyidagilardan qaysi biri taʼlim oluvchilarning majburiyatlari jumlasiga KIRMAYDI?",
    "correct": 1
+  },
+  "5206269874862562879": {
+   "q": "VMsining 106-son qarori bilan tasdiqlangan Nizomga koʻra, attestatsiya komissiyasi necha kishidan iborat tarkibda tuzila",
+   "correct": 0
   }
  },
  "answers": {
