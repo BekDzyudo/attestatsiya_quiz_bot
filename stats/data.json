@@ -5656,6 +5656,10 @@
   "5206269874862562686": {
    "q": "PQ-316-sonli Qarorga koʻra, 2030 yilga qadar kasbiy taʼlim tizimini isloh qilish boʻyicha nechta asosiy maqsadli koʻrsat",
    "correct": 1
+  },
+  "5206269874862562695": {
+   "q": "PQ-316-sonli Qarorga koʻra, dual taʼlim shaklida tahsil olayotgan oʻquvchilarga stipendiya qaysi oʻquv yilidan boshlab t",
+   "correct": 0
   }
  },
  "answers": {
