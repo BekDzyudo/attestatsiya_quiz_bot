@@ -990,5 +990,9 @@
  "5206269874862562926": {
   "q": "Yakuniy davlat attestatsiyasining komissiya raisligiga bitta shaxs ketma-ket bir kasbiy taʼlim tashkilotida tegishli kas",
   "correct": 2
+ },
+ "5206269874862562931": {
+  "q": "Taʼlim toʻgʻrisidagi Qonunga koʻra, masofaviy taʼlimni tashkil etish tartibini qaysi organ belgilaydi?",
+  "correct": 0
  }
 }
