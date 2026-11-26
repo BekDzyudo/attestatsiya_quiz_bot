@@ -1,5 +1,5 @@
 {
- "offset": 33178681,
+ "offset": 33178685,
  "polls": {
   "5470169922707397248": {
    "q": "PQ-316-sonli Qarorga koʻra, Kasbiy taʼlimni rivojlantirish institutida direktorning taʼlim mazmunini taʼminlash boʻyicha",
@@ -2708,6 +2708,10 @@
   "5208767909446293168": {
    "q": "PF-190-sonli Farmonga koʻra, Agentlik markaziy apparatining cheklangan shtatlar soni nechta?",
    "correct": 0
+  },
+  "5208767909446293183": {
+   "q": "PQ-316-sonli Qarorga koʻra, kasbiy taʼlim tizimidagi dual taʼlimning amaldagi ulushi necha foizga teng?",
+   "correct": 3
   }
  },
  "answers": {
@@ -35357,7 +35361,9 @@
   "5206516109632608144:48354397": 3,
   "5208767909446293082:48354397": 2,
   "5206516109632608013:989514053": 1,
-  "5206516109632608070:6801874549": 2
+  "5206516109632608070:6801874549": 2,
+  "5208767909446293168:2819685": 0,
+  "5206516109632608080:6801874549": 3
  },
  "users": {
   "672629750": {
