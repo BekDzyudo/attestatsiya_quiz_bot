@@ -2424,6 +2424,10 @@
   "5203945082079680122": {
    "q": "PQ-316-sonli Qarorga koʻra, ilgʻor kasbiy mahorat texnikumlari binolarini qurish, rekonstruksiya qilish va taʼmirlash is",
    "correct": 2
+  },
+  "5203945082079680123": {
+   "q": "Taʼlim toʻgʻrisidagi Qonunga koʻra, masofaviy taʼlimni tashkil etish tartibini qaysi organ belgilaydi?",
+   "correct": 0
   }
  },
  "answers": {
