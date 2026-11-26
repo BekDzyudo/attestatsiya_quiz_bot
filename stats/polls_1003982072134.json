@@ -750,5 +750,9 @@
  "5206363127192492824": {
   "q": "Milliy axborot qidiruv tizimi nomi toʻgʻri berilgan qatorni belgilang?",
   "correct": 2
+ },
+ "5206363127192492826": {
+  "q": "Taʼlim toʻgʻrisidagi Qonunga koʻra, taʼlim tashkilotlari talabgorlarni va (yoki) ularning ota-onasini quyidagilardan qay",
+  "correct": 2
  }
 }
