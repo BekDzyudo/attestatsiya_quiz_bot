@@ -978,5 +978,9 @@
  "5206269874862562913": {
   "q": "Kasbiy taʼlim tashkilotlaridagi yakuniy davlat attestatsiyasida boshlangʻich kasbiy taʼlim boʻyicha davlat imtihoni qays",
   "correct": 0
+ },
+ "5206269874862562919": {
+  "q": "PQ-316-sonli Qarorga koʻra, imtiyozli kreditning imtiyozli davri qancha yil?",
+  "correct": 1
  }
 }
