@@ -1,5 +1,5 @@
 {
- "offset": 33178897,
+ "offset": 33178898,
  "polls": {
   "5470169922707397248": {
    "q": "PQ-316-sonli Qarorga koʻra, Kasbiy taʼlimni rivojlantirish institutida direktorning taʼlim mazmunini taʼminlash boʻyicha",
@@ -2720,6 +2720,10 @@
   "5208767909446293195": {
    "q": "PQ-316-sonli Qarorga koʻra, 2030 yilga qadar xalqaro va qoʻshma taʼlim dasturlari joriy etilgan texnikumlar sonini necht",
    "correct": 3
+  },
+  "5208767909446293198": {
+   "q": "PQ-316-sonli Qarorga koʻra, milliy reytingda eng yuqori oʻrinni egallagan nechta texnikum ragʻbatlantiriladi?",
+   "correct": 2
   }
  },
  "answers": {
@@ -35499,7 +35503,8 @@
   "5206516109632607809:6671734410": 2,
   "5208767909446293195:817651592": 3,
   "5206516109632607811:6671734410": 3,
-  "5206516109632607815:6671734410": 0
+  "5206516109632607815:6671734410": 0,
+  "5206516109632607822:6671734410": 0
  },
  "users": {
   "672629750": {
