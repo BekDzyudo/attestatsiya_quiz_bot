@@ -826,5 +826,9 @@
  "5206516109632607837": {
   "q": "PQ-316-sonli Qarorga koʻra, 2026 yildan boshlab qaysi sana «Kasb va mehnat kuni» sifatida keng nishonlanadi?",
   "correct": 0
+ },
+ "5206516109632607840": {
+  "q": "PQ-316-sonli Qarorga koʻra, «Kasbiy mahorat milliy tanlovi» oʻtkaziladigan kasblar soni nechta?",
+  "correct": 1
  }
 }
