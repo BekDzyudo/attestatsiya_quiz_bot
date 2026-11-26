@@ -834,5 +834,9 @@
  "5206269874862562668": {
   "q": "Web brauzer nima vazifani bajaradi?",
   "correct": 0
+ },
+ "5206269874862562672": {
+  "q": "Taʼlim toʻgʻrisidagi Qonunga koʻra, Oʻrta maxsus professional taʼlim qayerda amalga oshiriladi va uning minimal davomiyl",
+  "correct": 1
  }
 }
