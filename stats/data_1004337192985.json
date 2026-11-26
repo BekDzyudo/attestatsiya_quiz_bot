@@ -1,5 +1,5 @@
 {
- "offset": 33176182,
+ "offset": 33176186,
  "polls": {
   "5470169922707397248": {
    "q": "PQ-316-sonli Qarorga koʻra, Kasbiy taʼlimni rivojlantirish institutida direktorning taʼlim mazmunini taʼminlash boʻyicha",
@@ -2596,6 +2596,10 @@
   "5206516109632607969": {
    "q": "PF-190-sonli Farmonga koʻra, kasbiy taʼlim va kasbga oʻqitishda boshqaruv tizimini takomillashtirish orqali qanday natij",
    "correct": 0
+  },
+  "5206516109632607971": {
+   "q": "Yakuniy davlat attestatsiyasi komissiyasining tarkibi kamida necha foizi korxonalar (tashkilotlar) vakillaridan iborat b",
+   "correct": 1
   }
  },
  "answers": {
@@ -33828,7 +33832,9 @@
   "5197628482267387499:80046935": 3,
   "5206516109632607811:640024586": 3,
   "5206516109632607815:1864535284": 0,
-  "5206516109632607815:640024586": 0
+  "5206516109632607815:640024586": 0,
+  "5206516109632607822:640024586": 0,
+  "5197628482267387502:80046935": 1
  },
  "users": {
   "672629750": {
