@@ -830,5 +830,9 @@
  "5206269874862562634": {
   "q": "Yakuniy davlat attestatsiyasini oʻtkazish jadvali attestatsiya boshlanishidan kamida necha kun oldin tasdiqlanadi?",
   "correct": 2
+ },
+ "5206269874862562668": {
+  "q": "Web brauzer nima vazifani bajaradi?",
+  "correct": 0
  }
 }
