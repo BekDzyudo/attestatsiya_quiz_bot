@@ -746,5 +746,9 @@
  "5203945082079680130": {
   "q": "Taʼlim toʻgʻrisidagi Qonunga koʻra, taʼlim tashkilotlari talabgorlarni va (yoki) ularning ota-onasini quyidagilardan qay",
   "correct": 1
+ },
+ "5203945082079680133": {
+  "q": "PF-190-son Farmonga koʻra, Kasbiy taʼlim agentligi tizimiga oʻtkazish orqali qayta tashkil etiladigan texnikumlarning um",
+  "correct": 1
  }
 }
