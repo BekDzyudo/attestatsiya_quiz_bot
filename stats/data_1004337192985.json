@@ -2664,6 +2664,10 @@
   "5206516109632608129": {
    "q": "PQ-316-sonli Qarorga koʻra, imtiyozli kreditning imtiyozli davri qancha yil?",
    "correct": 2
+  },
+  "5206516109632608144": {
+   "q": "PQ-316-sonli Qarorga koʻra, dual taʼlim oʻquvchilariga har oylik stipendiya qanday miqdorda toʻlanadi?",
+   "correct": 3
   }
  },
  "answers": {
