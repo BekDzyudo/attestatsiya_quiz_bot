@@ -754,5 +754,9 @@
  "5206363127192492826": {
   "q": "Taʼlim toʻgʻrisidagi Qonunga koʻra, taʼlim tashkilotlari talabgorlarni va (yoki) ularning ota-onasini quyidagilardan qay",
   "correct": 2
+ },
+ "5206363127192492828": {
+  "q": "PQ-316-sonli Qarorga koʻra, dual taʼlim stipendiyasini kim ajratadi?",
+  "correct": 1
  }
 }

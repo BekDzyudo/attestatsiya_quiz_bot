@@ -1,5 +1,5 @@
 {
- "offset": 33173002,
+ "offset": 33173003,
  "polls": {
   "5470169922707397248": {
    "q": "PQ-316-sonli Qarorga koʻra, Kasbiy taʼlimni rivojlantirish institutida direktorning taʼlim mazmunini taʼminlash boʻyicha",
@@ -2452,6 +2452,10 @@
   "5203945082079680134": {
    "q": "PQ-316-sonli Qarorga koʻra, 2026 yil 1 yanvardan boshlab Agentlikning hududiy boshqarmalari qaysi organga tenglashtirila",
    "correct": 0
+  },
+  "5203945082079680135": {
+   "q": "PQ-316-sonli Qarorga koʻra, ilgʻor kasbiy mahorat texnikumida amaliy mashgʻulot oʻtaydigan boshqa texnikum oʻquvchilarin",
+   "correct": 3
   }
  },
  "answers": {
@@ -31944,7 +31948,8 @@
   "5203945082079680134:8813373496": 0,
   "5203945082079680129:1475464952": 2,
   "5203945082079680130:1475464952": 1,
-  "5203945082079680133:1475464952": 1
+  "5203945082079680133:1475464952": 1,
+  "5203945082079680134:1475464952": 0
  },
  "users": {
   "672629750": {
