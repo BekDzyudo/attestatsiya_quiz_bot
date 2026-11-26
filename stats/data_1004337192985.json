@@ -1,5 +1,5 @@
 {
- "offset": 33173261,
+ "offset": 33173263,
  "polls": {
   "5470169922707397248": {
    "q": "PQ-316-sonli Qarorga koʻra, Kasbiy taʼlimni rivojlantirish institutida direktorning taʼlim mazmunini taʼminlash boʻyicha",
@@ -2472,6 +2472,10 @@
   "5206516109632607761": {
    "q": "PQ-316-sonli Qarorga koʻra, ragʻbatlantirish toʻlovining necha foizi rahbar va xodimlarni moddiy ragʻbatlantirishga yoʻn",
    "correct": 3
+  },
+  "5206516109632607770": {
+   "q": "PF-190-son Farmonga koʻra, «Vaucher» tizimi bilan qamrab olinmagan shaxslarni kasbga oʻqitish boʻyicha buyurtmalarni kim",
+   "correct": 1
   }
  },
  "answers": {
@@ -32127,7 +32131,8 @@
   "5203945082079679939:108193844": 0,
   "5203945082079680130:771869214": 1,
   "5203945082079680126:1864535284": 3,
-  "5203945082079680133:771869214": 1
+  "5203945082079680133:771869214": 1,
+  "5203945082079679942:108193844": 1
  },
  "users": {
   "672629750": {
