@@ -1,5 +1,5 @@
 {
- "offset": 33174498,
+ "offset": 33174500,
  "polls": {
   "5470169922707397248": {
    "q": "PQ-316-sonli Qarorga koʻra, Kasbiy taʼlimni rivojlantirish institutida direktorning taʼlim mazmunini taʼminlash boʻyicha",
@@ -2556,6 +2556,10 @@
   "5206516109632607893": {
    "q": "Yakuniy davlat attestatsiyasida «2» (qoniqarsiz) baho olgan bitiruvchining qayta topshirish jarayoni asosiy attestatsiya",
    "correct": 0
+  },
+  "5206516109632607900": {
+   "q": "VMsining 106-son qarori bilan tasdiqlangan Nizomga koʻra, attestatsiya komissiyasi necha kishidan iborat tarkibda tuzila",
+   "correct": 1
   }
  },
  "answers": {
@@ -32914,7 +32918,8 @@
   "5190855744043359142:6564730738": 3,
   "5203945082079680021:289268182": 1,
   "5206516109632607876:1338396740": 0,
-  "5203945082079680022:289268182": 0
+  "5203945082079680022:289268182": 0,
+  "5190855744043359126:6564730738": 2
  },
  "users": {
   "672629750": {
