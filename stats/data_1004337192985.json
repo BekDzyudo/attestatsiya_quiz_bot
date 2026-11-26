@@ -2612,6 +2612,10 @@
   "5206516109632607993": {
    "q": "Yakuniy davlat attestatsiyasining asosiy maqsadi nimadan iborat?",
    "correct": 0
+  },
+  "5206516109632608001": {
+   "q": "PF-190-sonli Farmonga koʻra, kasbiy taʼlim faoliyatini davlat taʼlim standartlari asosida tashkil qilgan texnikumlar va ",
+   "correct": 1
   }
  },
  "answers": {
