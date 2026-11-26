@@ -1010,5 +1010,9 @@
  "5206269874862562950": {
   "q": "PQ-316-sonli Qarorga koʻra, maxsus fan oʻqituvchilarining malaka oshirish rejasini kim tasdiqlaydi?",
   "correct": 1
+ },
+ "5206269874862562955": {
+  "q": "PF-190-son Farmonga nechta ilova mavjud?",
+  "correct": 0
  }
 }
