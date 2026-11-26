@@ -994,5 +994,9 @@
  "5206269874862562931": {
   "q": "Taʼlim toʻgʻrisidagi Qonunga koʻra, masofaviy taʼlimni tashkil etish tartibini qaysi organ belgilaydi?",
   "correct": 0
+ },
+ "5206269874862562940": {
+  "q": "PQ-316-sonli Qarorga koʻra, texnikumlarda bir nafar ishlab chiqarish taʼlimi ustasiga eng koʻpi bilan necha nafar oʻquvc",
+  "correct": 1
  }
 }
