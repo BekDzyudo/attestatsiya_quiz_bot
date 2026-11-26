@@ -1,5 +1,5 @@
 {
- "offset": 33178818,
+ "offset": 33178822,
  "polls": {
   "5470169922707397248": {
    "q": "PQ-316-sonli Qarorga koʻra, Kasbiy taʼlimni rivojlantirish institutida direktorning taʼlim mazmunini taʼminlash boʻyicha",
@@ -2716,6 +2716,10 @@
   "5208767909446293191": {
    "q": "Taʼlim toʻgʻrisidagi Qonunga koʻra, mustaqil izlanuvchilik shakli tayanch doktorantura va doktoranturadan qaysi xususiya",
    "correct": 2
+  },
+  "5208767909446293195": {
+   "q": "PQ-316-sonli Qarorga koʻra, 2030 yilga qadar xalqaro va qoʻshma taʼlim dasturlari joriy etilgan texnikumlar sonini necht",
+   "correct": 3
   }
  },
  "answers": {
@@ -35448,7 +35452,9 @@
   "5208767909446293082:1475464952": 2,
   "5203945082079680125:6671734410": 3,
   "5208767909446293191:1612104094": 2,
-  "5208767909446293091:1475464952": 3
+  "5208767909446293091:1475464952": 3,
+  "5208767909446293097:1475464952": 3,
+  "5208767909446293118:1475464952": 1
  },
  "users": {
   "672629750": {
