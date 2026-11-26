@@ -5856,6 +5856,10 @@
   "5206269874862562991": {
    "q": "Taʼlim toʻgʻrisidagi Qonunga koʻra, davlat taʼlim muassasalarining operativ boshqaruvida boʻlgan binolar, inshootlar, oʻ",
    "correct": 0
+  },
+  "5206269874862562994": {
+   "q": ".msg ushbu fayl kengaytmasi qaysi dasturga tegishli?",
+   "correct": 2
   }
  },
  "answers": {
