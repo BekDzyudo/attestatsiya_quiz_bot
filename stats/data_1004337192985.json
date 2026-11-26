@@ -1,5 +1,5 @@
 {
- "offset": 33178303,
+ "offset": 33178306,
  "polls": {
   "5470169922707397248": {
    "q": "PQ-316-sonli Qarorga koʻra, Kasbiy taʼlimni rivojlantirish institutida direktorning taʼlim mazmunini taʼminlash boʻyicha",
@@ -2684,6 +2684,10 @@
   "5208767909446293091": {
    "q": "PF-190-sonli Farmonga koʻra, kasbiy taʼlim va kasbga oʻqitish tizimida davlat-xususiy sheriklikni rivojlantirish qaysi y",
    "correct": 0
+  },
+  "5208767909446293097": {
+   "q": "Taʼlim toʻgʻrisidagi Qonunning 6-moddasiga koʻra, taʼlim tizimining ajralmas ikki xususiyati qanday ifodalangan?",
+   "correct": 3
   }
  },
  "answers": {
@@ -35114,7 +35118,9 @@
   "5206516109632607777:418731158": 0,
   "5188603944229672414:668423234": 3,
   "5206516109632607792:418731158": 2,
-  "5188603944229672416:668423234": 3
+  "5188603944229672416:668423234": 3,
+  "5206516109632607802:418731158": 2,
+  "5206516109632608154:1612104094": 2
  },
  "users": {
   "672629750": {
