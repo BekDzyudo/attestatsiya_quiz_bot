@@ -2428,6 +2428,10 @@
   "5203945082079680123": {
    "q": "Taʼlim toʻgʻrisidagi Qonunga koʻra, masofaviy taʼlimni tashkil etish tartibini qaysi organ belgilaydi?",
    "correct": 0
+  },
+  "5203945082079680125": {
+   "q": "PF-190-sonli Farmonga koʻra, bitiruvchilar bandligini taʼminlash, texnikumlar ixtisoslashuvi va dasturlar mazmunini tako",
+   "correct": 3
   }
  },
  "answers": {
