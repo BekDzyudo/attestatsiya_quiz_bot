@@ -1030,5 +1030,9 @@
  "5206269874862562984": {
   "q": "PQ-316-sonli Qarorga koʻra, imtiyozli kreditning muddati qancha yil?",
   "correct": 3
+ },
+ "5206269874862562985": {
+  "q": "PF-190-son Farmonga koʻra, Davlat texnikumlari direktorlari va direktor oʻrinbosarlarini qanday asosda lavozimga tayinla",
+  "correct": 0
  }
 }
