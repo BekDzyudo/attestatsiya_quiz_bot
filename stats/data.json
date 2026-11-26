@@ -5752,6 +5752,10 @@
   "5206269874862562879": {
    "q": "VMsining 106-son qarori bilan tasdiqlangan Nizomga koʻra, attestatsiya komissiyasi necha kishidan iborat tarkibda tuzila",
    "correct": 0
+  },
+  "5206269874862562880": {
+   "q": "PQ-316-sonli Qarorga koʻra, Hisob palatasi har yili qaysi sanaga qadar Prezident Administratsiyasiga axborot kiritib bor",
+   "correct": 1
   }
  },
  "answers": {
