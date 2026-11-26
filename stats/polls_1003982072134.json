@@ -738,5 +738,9 @@
  "5206363127192492815": {
   "q": "PQ-316-sonli Qarorga koʻra, kasbiy taʼlim tizimidagi dual taʼlimning amaldagi ulushi necha foizga teng?",
   "correct": 0
+ },
+ "5206363127192492816": {
+  "q": "PQ-316-sonli Qarorga koʻra, davlat xaridlarida texnikum ishlab chiqargan mahsulotlarga nisbatan necha foiz miqdorida pre",
+  "correct": 3
  }
 }
