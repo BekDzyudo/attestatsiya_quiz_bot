@@ -866,5 +866,9 @@
  "5206269874862562776": {
   "q": "Yakuniy davlat attestatsiyasida Oʻzbekiston tarixi fanidan davlat imtihonini qaysi oʻqituvchilar oʻtkaza oladi?",
   "correct": 1
+ },
+ "5206269874862562780": {
+  "q": "PQ-316-sonli Qarorga koʻra, texnikum umumtaʼlim fani oʻqituvchilari ish haqi fondiga nisbatan necha foiz miqdorida ragʻb",
+  "correct": 1
  }
 }
