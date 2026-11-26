@@ -1,5 +1,5 @@
 {
- "offset": 33173861,
+ "offset": 33173862,
  "polls": {
   "5470169922707397248": {
    "q": "PQ-316-sonli Qarorga koʻra, Kasbiy taʼlimni rivojlantirish institutida direktorning taʼlim mazmunini taʼminlash boʻyicha",
@@ -2507,6 +2507,10 @@
   },
   "5206516109632607822": {
    "q": "PQ-316-sonli Qarorga koʻra, dual taʼlim stipendiyasini kim ajratadi?",
+   "correct": 0
+  },
+  "5206516109632607824": {
+   "q": "PQ-316-sonli Qarorga koʻra, texnikumlarda bir nafar ishlab chiqarish taʼlimi ustasiga toʻgʻri keladigan oʻquvchilar soni",
    "correct": 0
   }
  },
@@ -32506,7 +32510,8 @@
   "5206516109632607811:1767314278": 3,
   "5206516109632607815:1767314278": 0,
   "5206516109632607822:1767314278": 0,
-  "5203945082079680134:1152193055": 0
+  "5203945082079680134:1152193055": 0,
+  "5206516109632607811:64221163": 3
  },
  "users": {
   "672629750": {
