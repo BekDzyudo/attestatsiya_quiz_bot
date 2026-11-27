@@ -2924,6 +2924,10 @@
   "5211019709259978781": {
    "q": "PQ-316-sonli Qarorga koʻra, umumiy oʻrta maʼlumotga ega boʻlgan talabgorlar orasidan qabul qilingan oʻquvchilar qanday a",
    "correct": 2
+  },
+  "5211019709259978784": {
+   "q": "Taʼlim toʻgʻrisidagi Qonunga koʻra, Oʻrta maxsus professional taʼlim qayerda amalga oshiriladi va uning minimal davomiyl",
+   "correct": 1
   }
  },
  "answers": {
