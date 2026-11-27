@@ -1,5 +1,5 @@
 {
- "offset": 33180007,
+ "offset": 33180009,
  "polls": {
   "5470169922707397248": {
    "q": "PQ-316-sonli Qarorga koʻra, Kasbiy taʼlimni rivojlantirish institutida direktorning taʼlim mazmunini taʼminlash boʻyicha",
@@ -2764,6 +2764,10 @@
   "5208767909446293504": {
    "q": "PQ-316-sonli Qarorga koʻra, 2026/2027 oʻquv yilidan boshlab texnikum direktoriga menejerlik sertifikati asosida lavozim ",
    "correct": 2
+  },
+  "5208767909446293505": {
+   "q": "Taʼlim toʻgʻrisidagi Qonunga koʻra, umumiy oʻrta taʼlimning qaysi bosqichida va qaysi sinfdan soʻng professional tashxis",
+   "correct": 1
   }
  },
  "answers": {
@@ -36077,7 +36081,8 @@
   "5208767909446293504:6801874549": 2,
   "5208767909446293501:64221163": 0,
   "5208767909446293080:771869214": 0,
-  "5208767909446293082:771869214": 1
+  "5208767909446293082:771869214": 1,
+  "5208767909446293091:771869214": 2
  },
  "users": {
   "672629750": {
