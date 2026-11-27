@@ -1234,5 +1234,9 @@
  "5211019709259978787": {
   "q": "VMsining 106-son qarori bilan tasdiqlangan Nizomga koʻra, malaka oshirish kurslaridagi oʻquv jarayoni tinglovchilar soni",
   "correct": 1
+ },
+ "5211019709259978791": {
+  "q": "Yakuniy davlat attestatsiyasida oʻrta va oʻrta maxsus kasbiy taʼlim boʻyicha davlat imtihoni qaysi fanlardan test shakli",
+  "correct": 0
  }
 }
