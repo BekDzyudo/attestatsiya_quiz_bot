@@ -1,5 +1,5 @@
 {
- "offset": 33184329,
+ "offset": 33184331,
  "polls": {
   "5470169922707397248": {
    "q": "PQ-316-sonli Qarorga koʻra, Kasbiy taʼlimni rivojlantirish institutida direktorning taʼlim mazmunini taʼminlash boʻyicha",
@@ -3012,6 +3012,10 @@
   "5211019709259979007": {
    "q": "PQ-316-sonli Qarorga koʻra, texnikum umumtaʼlim fani oʻqituvchilari ish haqi fondiga nisbatan necha foiz miqdorida ragʻb",
    "correct": 0
+  },
+  "5211019709259979009": {
+   "q": "PF-190-son Farmonga koʻra, Davlat texnikumlari mutaxassislarni qanday asosda jalb qiladi?",
+   "correct": 3
   }
  },
  "answers": {
@@ -38853,7 +38857,8 @@
   "5190855744043358917:668423234": 0,
   "5190855744043358928:668423234": 3,
   "5190855744043358935:668423234": 0,
-  "5190855744043358944:668423234": 1
+  "5190855744043358944:668423234": 1,
+  "5190855744043358946:668423234": 0
  },
  "users": {
   "672629750": {
