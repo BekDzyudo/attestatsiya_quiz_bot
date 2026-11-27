@@ -1338,5 +1338,9 @@
  "5208521674676246649": {
   "q": "Axborotni saqlash qurilmalariga nimalar kiradi?",
   "correct": 1
+ },
+ "5208521674676246653": {
+  "q": "PQ-316-sonli Qarorga koʻra, 2030 yilga qadar xalqaro va qoʻshma taʼlim dasturlari joriy etilgan texnikumlar sonini necht",
+  "correct": 0
  }
 }
