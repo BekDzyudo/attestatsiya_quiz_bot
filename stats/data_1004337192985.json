@@ -3084,6 +3084,10 @@
   "5211019709259979178": {
    "q": "Yakuniy davlat attestatsiyasini oʻtkazish jadvali attestatsiya boshlanishidan kamida necha kun oldin tasdiqlanadi?",
    "correct": 1
+  },
+  "5211019709259979184": {
+   "q": "Yakuniy davlat attestatsiyasi boʻyicha har yili 1 yanvarga qadar kasbiy taʼlim tashkiloti tomonidan qanday hujjat imzola",
+   "correct": 2
   }
  },
  "answers": {
