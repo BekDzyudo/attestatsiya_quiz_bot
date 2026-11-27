@@ -1,5 +1,5 @@
 {
- "offset": 33183547,
+ "offset": 33183548,
  "polls": {
   "5470169922707397248": {
    "q": "PQ-316-sonli Qarorga koʻra, Kasbiy taʼlimni rivojlantirish institutida direktorning taʼlim mazmunini taʼminlash boʻyicha",
@@ -2976,6 +2976,10 @@
   "5211019709259978890": {
    "q": "PQ-316-sonli Qarorga koʻra, 1:20 normativi 2026/2027 oʻquv yilida nechta texnikumda joriy etiladi?",
    "correct": 3
+  },
+  "5211019709259978904": {
+   "q": "VMsining 106-son qarori bilan tasdiqlangan Nizomga koʻra, malaka oshirish uchun belgilangan muddatlarda sertifikatga ega",
+   "correct": 2
   }
  },
  "answers": {
@@ -38379,7 +38383,8 @@
   "5211019709259978881:1338396740": 1,
   "5211019709259978890:242915445": 3,
   "5211019709259978888:242915445": 1,
-  "5211019709259978881:242915445": 1
+  "5211019709259978881:242915445": 1,
+  "5211019709259978888:1338396740": 1
  },
  "users": {
   "672629750": {
