@@ -1,5 +1,5 @@
 {
- "offset": 33184977,
+ "offset": 33184980,
  "polls": {
   "5470169922707397248": {
    "q": "PQ-316-sonli Qarorga koʻra, Kasbiy taʼlimni rivojlantirish institutida direktorning taʼlim mazmunini taʼminlash boʻyicha",
@@ -3044,6 +3044,10 @@
   "5211019709259979077": {
    "q": "VMsining 106-son qarori bilan tasdiqlangan Nizomga koʻra, malaka oshirish kurslari tinglovchilari 3 yilda kamida qancha ",
    "correct": 3
+  },
+  "5211019709259979080": {
+   "q": "\"Taʼlim toʻgʻrisidagi Qonunga koʻra, Rasmiy, norasmiy va informal taʼlimlar oʻrtasidagi farqni toʻgʻri ifodalagan varian",
+   "correct": 0
   }
  },
  "answers": {
@@ -39248,7 +39252,9 @@
   "5206516109632608096:951585221": 0,
   "5211019709259978890:1484885038": 3,
   "5211019709259979009:2057764615": 3,
-  "5206516109632608084:951585221": 0
+  "5206516109632608084:951585221": 0,
+  "5211019709259979007:2057764615": 2,
+  "5211019709259978904:1484885038": 2
  },
  "users": {
   "672629750": {
