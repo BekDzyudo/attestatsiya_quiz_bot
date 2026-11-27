@@ -3004,6 +3004,10 @@
   "5211019709259978980": {
    "q": "Taʼlim toʻgʻrisidagi Qonunga koʻra, Oʻzbekiston Respublikasi Vazirlar Mahkamasi taʼlim sohasida quyidagi vakolatlardan q",
    "correct": 0
+  },
+  "5211019709259978995": {
+   "q": "PF-190-sonli Farmon qaysi sohaga oid?",
+   "correct": 1
   }
  },
  "answers": {
