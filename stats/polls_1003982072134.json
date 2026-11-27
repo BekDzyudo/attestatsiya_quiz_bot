@@ -1130,5 +1130,9 @@
  "5208521674676246451": {
   "q": "PQ-316-sonli Qarorga koʻra, «Kasbiy mahorat milliy tanlovi» oʻtkaziladigan kasblar soni nechta?",
   "correct": 2
+ },
+ "5208521674676246452": {
+  "q": "URL (Uniform Resource Locator) nima?",
+  "correct": 3
  }
 }
