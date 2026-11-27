@@ -1322,5 +1322,9 @@
  "5211019709259979015": {
   "q": "Taʼlim toʻgʻrisidagi Qonunga koʻra, davlat taʼlim oluvchilarni ijtimoiy himoya qilish doirasida quyidagilardan qaysi bir",
   "correct": 3
+ },
+ "5211019709259979023": {
+  "q": "Yakuniy davlat attestatsiyasida Oʻzbekiston tarixi fanidan davlat imtihonini qaysi oʻqituvchilar oʻtkaza oladi?",
+  "correct": 0
  }
 }

@@ -1,5 +1,5 @@
 {
- "offset": 33184515,
+ "offset": 33184517,
  "polls": {
   "5470169922707397248": {
    "q": "PQ-316-sonli Qarorga koʻra, Kasbiy taʼlimni rivojlantirish institutida direktorning taʼlim mazmunini taʼminlash boʻyicha",
@@ -3020,6 +3020,10 @@
   "5211019709259979015": {
    "q": "Taʼlim toʻgʻrisidagi Qonunga koʻra, davlat taʼlim oluvchilarni ijtimoiy himoya qilish doirasida quyidagilardan qaysi bir",
    "correct": 3
+  },
+  "5211019709259979023": {
+   "q": "Yakuniy davlat attestatsiyasida Oʻzbekiston tarixi fanidan davlat imtihonini qaysi oʻqituvchilar oʻtkaza oladi?",
+   "correct": 0
   }
  },
  "answers": {
@@ -38957,7 +38961,8 @@
   "5211019709259978954:6671734410": 2,
   "5211019709259978980:6671734410": 0,
   "5211019709259978995:6671734410": 1,
-  "5201693282265995076:951585221": 0
+  "5201693282265995076:951585221": 0,
+  "5211019709259979007:6671734410": 0
  },
  "users": {
   "672629750": {
