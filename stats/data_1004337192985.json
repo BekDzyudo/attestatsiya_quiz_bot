@@ -1,5 +1,5 @@
 {
- "offset": 33181548,
+ "offset": 33181550,
  "polls": {
   "5470169922707397248": {
    "q": "PQ-316-sonli Qarorga koʻra, Kasbiy taʼlimni rivojlantirish institutida direktorning taʼlim mazmunini taʼminlash boʻyicha",
@@ -2864,6 +2864,10 @@
   "5208767909446293641": {
    "q": "Taʼlim toʻgʻrisidagi Qonunga muvofiq Taʼlim tashkilotining ustavida quyidagilardan qaysi biri KOʻRSATILMAYDI?",
    "correct": 2
+  },
+  "5208767909446293651": {
+   "q": "Taʼlim toʻgʻrisidagi Qonunga koʻra, dual taʼlimda amaliy qism qayerda amalga oshiriladi?",
+   "correct": 1
   }
  },
  "answers": {
@@ -37097,7 +37101,8 @@
   "5208767909446293641:1338396740": 2,
   "5208767909446293641:6564730738": 2,
   "5208767909446293607:5945557949": 3,
-  "5208767909446293609:5945557949": 3
+  "5208767909446293609:5945557949": 3,
+  "5208767909446293641:5945557949": 2
  },
  "users": {
   "672629750": {
