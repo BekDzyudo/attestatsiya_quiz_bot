@@ -1258,5 +1258,9 @@
  "5211019709259978855": {
   "q": "PF-190-sonli Farmonga koʻra, mulkchilik shaklidan qatʼiy nazar barcha kasbiy taʼlim tashkilotlari uchun majburiy boʻlgan",
   "correct": 1
+ },
+ "5211019709259978859": {
+  "q": "PF-190-son Farmonga koʻra, «Vaucher» tizimi va buyurtma asosida fuqarolarni oʻqitish xarajatlari qaysi jamgʻarma hisobid",
+  "correct": 0
  }
 }
