@@ -2868,6 +2868,10 @@
   "5208767909446293651": {
    "q": "Taʼlim toʻgʻrisidagi Qonunga koʻra, dual taʼlimda amaliy qism qayerda amalga oshiriladi?",
    "correct": 1
+  },
+  "5208767909446293660": {
+   "q": "VMsining 106-son qarori bilan tasdiqlangan Nizomga koʻra, ikki akademik oʻquv soati davomiyligi uzluksiz necha daqiqani ",
+   "correct": 0
   }
  },
  "answers": {
