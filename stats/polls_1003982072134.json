@@ -1354,5 +1354,9 @@
  "5210773474489932112": {
   "q": "Yakuniy davlat attestatsiyasida test topshiriqlari toʻgʻri bajarilganligining necha foizidan past koʻrsatkichi uchun «2»",
   "correct": 1
+ },
+ "5210773474489932119": {
+  "q": "Elektron pochta (email) xizmatining asosiy maqsadi nima?",
+  "correct": 3
  }
 }
