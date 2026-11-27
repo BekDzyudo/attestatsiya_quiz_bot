@@ -2888,6 +2888,10 @@
   "5211019709259978719": {
    "q": "PQ-316-sonli Qarorga koʻra, texnikumga yoʻnaltirish 9-sinf yakuni boʻyicha imtihon natijasiga koʻra qaysi yildan boshlab",
    "correct": 1
+  },
+  "5211019709259978725": {
+   "q": "PQ-316-sonli Qarorga koʻra, maktabning qaysi sinf oʻquvchilariga oʻqishini texnikumlarga koʻchirishga ruxsat beriladi?",
+   "correct": 1
   }
  },
  "answers": {
