@@ -1,5 +1,5 @@
 {
- "offset": 33183737,
+ "offset": 33183741,
  "polls": {
   "5470169922707397248": {
    "q": "PQ-316-sonli Qarorga koʻra, Kasbiy taʼlimni rivojlantirish institutida direktorning taʼlim mazmunini taʼminlash boʻyicha",
@@ -2988,6 +2988,10 @@
   "5211019709259978932": {
    "q": "PQ-316-sonli Qarorga koʻra, dual taʼlim rejasidagi oʻquvchining kasbiy koʻnikmalar hamda intizomi qoniqarsiz baholangand",
    "correct": 1
+  },
+  "5211019709259978941": {
+   "q": "PQ-316-sonli Qarorga koʻra, ragʻbatlantirish toʻlovining necha foizi moddiy-texnika bazasini mustahkamlashga yoʻnaltiril",
+   "correct": 3
   }
  },
  "answers": {
@@ -38495,7 +38499,9 @@
   "5208767909446293195:796085987": 3,
   "5208767909446293198:796085987": 2,
   "5208767909446293210:796085987": 2,
-  "5208767909446293221:796085987": 0
+  "5208767909446293221:796085987": 0,
+  "5211019709259978831:536329044": 2,
+  "5208767909446293234:796085987": 2
  },
  "users": {
   "672629750": {
