@@ -1238,5 +1238,9 @@
  "5211019709259978791": {
   "q": "Yakuniy davlat attestatsiyasida oʻrta va oʻrta maxsus kasbiy taʼlim boʻyicha davlat imtihoni qaysi fanlardan test shakli",
   "correct": 0
+ },
+ "5211019709259978808": {
+  "q": "PQ-316-sonli Qarorga koʻra, qaror ijrosini nazorat qilish boʻyicha Hisob palatasi qaysi organ bilan birgalikda ish olib ",
+  "correct": 2
  }
 }
