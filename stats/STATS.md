@@ -1,6 +1,6 @@
 # Quiz statistikasi (2026-11-27 15:50, Toshkent)
 
-Hisobga olingan quizlar: 1508, ishtirokchilar: 13
+Hisobga olingan quizlar: 1509, ishtirokchilar: 13
 
 | # | Ishtirokchi | To'g'ri | Noto'g'ri | Jami | Natija |
 |---|---|---|---|---|---|
