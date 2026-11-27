@@ -1334,5 +1334,9 @@
  "5211019709259979040": {
   "q": "PF-190-son Farmonga koʻra, Migratsiya agentligi buyurtmalari qaysi jamgʻarma hisobidan moliyalashtiriladi?",
   "correct": 3
+ },
+ "5211019709259979050": {
+  "q": "Kasbiy taʼlim tashkilotining oʻquv dasturlarini toʻliq tugatgan, lekin attestatsiyada qatnashmagan bitiruvchilar komissi",
+  "correct": 1
  }
 }
