@@ -1,5 +1,5 @@
 {
- "offset": 33181154,
+ "offset": 33181158,
  "polls": {
   "5470169922707397248": {
    "q": "PQ-316-sonli Qarorga koʻra, Kasbiy taʼlimni rivojlantirish institutida direktorning taʼlim mazmunini taʼminlash boʻyicha",
@@ -2843,6 +2843,10 @@
   },
   "5208767909446293597": {
    "q": "Taʼlim toʻgʻrisidagi Qonunga koʻra, falsafa doktori (PhD) ilmiy darajasiga daʼvogar izlanuvchilar uchun ishlab chiqarish",
+   "correct": 1
+  },
+  "5208767909446293603": {
+   "q": "Taʼlim toʻgʻrisidagi Qonunga koʻra, professional taʼlim egallanadigan kasb va mutaxassislik boʻyicha qanday darajalarni ",
    "correct": 1
   }
  },
@@ -36847,7 +36851,10 @@
   "5208767909446293221:5945557949": 0,
   "5208767909446293586:1767314278": 0,
   "5208767909446293234:5945557949": 2,
-  "5208767909446293588:1767314278": 1
+  "5208767909446293588:1767314278": 1,
+  "5208767909446293245:5945557949": 1,
+  "5208767909446293597:1767314278": 1,
+  "5208767909446293580:6801874549": 2
  },
  "users": {
   "672629750": {
