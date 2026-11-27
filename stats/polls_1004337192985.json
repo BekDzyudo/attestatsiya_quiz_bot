@@ -1310,5 +1310,9 @@
  "5211019709259978995": {
   "q": "PF-190-sonli Farmon qaysi sohaga oid?",
   "correct": 1
+ },
+ "5211019709259979007": {
+  "q": "PQ-316-sonli Qarorga koʻra, texnikum umumtaʼlim fani oʻqituvchilari ish haqi fondiga nisbatan necha foiz miqdorida ragʻb",
+  "correct": 0
  }
 }
