@@ -1326,5 +1326,9 @@
  "5211019709259979023": {
   "q": "Yakuniy davlat attestatsiyasida Oʻzbekiston tarixi fanidan davlat imtihonini qaysi oʻqituvchilar oʻtkaza oladi?",
   "correct": 0
+ },
+ "5211019709259979034": {
+  "q": "PQ-316-sonli Qarorga koʻra, texnikumlarni saqlash xarajatlari qachondan boshlab Davlat byudjeti va toʻlov-kontrakt hisob",
+  "correct": 2
  }
 }
