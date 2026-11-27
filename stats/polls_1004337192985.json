@@ -1266,5 +1266,9 @@
  "5211019709259978878": {
   "q": "PF-190-sonli Farmonga koʻra, diplom (malaka sertifikati)ga ega xodimlarni ishga qabul qilish tizimi qaysi klassifikator ",
   "correct": 3
+ },
+ "5211019709259978881": {
+  "q": "PF-190-son Farmonga koʻra, Davlat texnikumlari taʼlim xizmatlari narxini nimaga asoslanib belgilaydi?",
+  "correct": 1
  }
 }
