@@ -1,5 +1,5 @@
 {
- "offset": 33180639,
+ "offset": 33180640,
  "polls": {
   "5470169922707397248": {
    "q": "PQ-316-sonli Qarorga koʻra, Kasbiy taʼlimni rivojlantirish institutida direktorning taʼlim mazmunini taʼminlash boʻyicha",
@@ -2808,6 +2808,10 @@
   "5208767909446293528": {
    "q": "VMsining 106-son qarori bilan tasdiqlangan Nizomga koʻra, qayta tayyorlashning davomiyligi kamida qancha etib belgilanga",
    "correct": 3
+  },
+  "5208767909446293530": {
+   "q": "Yakuniy davlat attestatsiyasida test topshiriqlari jami necha savoldan iborat boʻladi hamda ularni bajarish uchun necha ",
+   "correct": 1
   }
  },
  "answers": {
@@ -36502,7 +36506,8 @@
   "5208767909446293521:989514053": 0,
   "5203945082079680135:796085987": 3,
   "5208767909446293091:1484885038": 0,
-  "5208767909446293082:1484885038": 2
+  "5208767909446293082:1484885038": 2,
+  "5208767909446293080:1484885038": 0
  },
  "users": {
   "672629750": {
