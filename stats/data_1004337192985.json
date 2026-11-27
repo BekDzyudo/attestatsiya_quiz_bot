@@ -1,5 +1,5 @@
 {
- "offset": 33181332,
+ "offset": 33181334,
  "polls": {
   "5470169922707397248": {
    "q": "PQ-316-sonli Qarorga koʻra, Kasbiy taʼlimni rivojlantirish institutida direktorning taʼlim mazmunini taʼminlash boʻyicha",
@@ -2852,6 +2852,10 @@
   "5208767909446293604": {
    "q": "PF-190-sonli Farmonga koʻra, 2026 yildan boshlab har yili Kasbiy taʼlimni rivojlantirish jamgʻarmasiga respublika byudje",
    "correct": 1
+  },
+  "5208767909446293607": {
+   "q": "Yakuniy davlat attestatsiyasidagi koʻrgazmali-amaliy imtihon orqali bitiruvchining qanday xususiyati aniqlanadi?",
+   "correct": 2
   }
  },
  "answers": {
@@ -36963,7 +36967,8 @@
   "5208767909446293604:5945557949": 1,
   "5206516109632608096:236301709": 0,
   "5208767909446293586:536329044": 0,
-  "5206516109632608120:236301709": 0
+  "5206516109632608120:236301709": 0,
+  "5208767909446293588:536329044": 1
  },
  "users": {
   "672629750": {
