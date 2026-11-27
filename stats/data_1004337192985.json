@@ -1,5 +1,5 @@
 {
- "offset": 33181771,
+ "offset": 33181773,
  "polls": {
   "5470169922707397248": {
    "q": "PQ-316-sonli Qarorga koʻra, Kasbiy taʼlimni rivojlantirish institutida direktorning taʼlim mazmunini taʼminlash boʻyicha",
@@ -2892,6 +2892,10 @@
   "5211019709259978725": {
    "q": "PQ-316-sonli Qarorga koʻra, maktabning qaysi sinf oʻquvchilariga oʻqishini texnikumlarga koʻchirishga ruxsat beriladi?",
    "correct": 1
+  },
+  "5211019709259978733": {
+   "q": "Yakuniy davlat attestatsiyasida dual taʼlim shaklida taʼlim olgan bitiruvchilarning koʻrgazmali-amaliy imtihon jarayonla",
+   "correct": 3
   }
  },
  "answers": {
@@ -37278,7 +37282,8 @@
   "5211019709259978719:155464216": 1,
   "5211019709259978725:155464216": 1,
   "5206516109632608030:1864535284": 0,
-  "5211019709259978704:5945557949": 1
+  "5211019709259978704:5945557949": 1,
+  "5211019709259978719:5945557949": 2
  },
  "users": {
   "672629750": {
