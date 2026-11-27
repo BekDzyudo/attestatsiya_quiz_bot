@@ -1362,5 +1362,9 @@
  "5210773474489932123": {
   "q": "Yakuniy davlat attestatsiyasida koʻrgazmali-amaliy imtihon natijalari boʻyicha komissiya tomonidan qanday hujjat rasmiyl",
   "correct": 2
+ },
+ "5210773474489932129": {
+  "q": "Skaner qanday vazifani bajaradi?",
+  "correct": 1
  }
 }
