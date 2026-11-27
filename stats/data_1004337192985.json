@@ -1,5 +1,5 @@
 {
- "offset": 33185942,
+ "offset": 33185944,
  "polls": {
   "5470169922707397248": {
    "q": "PQ-316-sonli Qarorga koʻra, Kasbiy taʼlimni rivojlantirish institutida direktorning taʼlim mazmunini taʼminlash boʻyicha",
@@ -3076,6 +3076,10 @@
   "5211019709259979154": {
    "q": "Taʼlim toʻgʻrisidagi Qonunga muvofiq Oʻzbekiston Respublikasida taʼlim turlari soni va roʻyxatdagi birinchi taʼlim turi ",
    "correct": 1
+  },
+  "5211019709259979165": {
+   "q": "Yakuniy davlat attestatsiyasi boʻyicha tuzilgan hisobotlar va materiallar kasbiy taʼlim tashkiloti arxivida necha yil da",
+   "correct": 0
   }
  },
  "answers": {
@@ -39823,7 +39827,8 @@
   "5199880282081074334:74505796": 0,
   "5199880282081074327:74505796": 3,
   "5199880282081074326:74505796": 2,
-  "5199880282081074323:74505796": 0
+  "5199880282081074323:74505796": 0,
+  "5199880282081074320:74505796": 3
  },
  "users": {
   "672629750": {
