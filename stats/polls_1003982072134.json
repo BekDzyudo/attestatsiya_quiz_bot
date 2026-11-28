@@ -1490,5 +1490,9 @@
  "5210702062068701032": {
   "q": "PF-190-son Farmonga koʻra, Davlat texnikumlari mutaxassislarni qanday asosda jalb qiladi?",
   "correct": 1
+ },
+ "5210702062068701034": {
+  "q": "PQ-316-sonli Qarorga koʻra, 9-sinf bitiruvchilarining kasbiy taʼlim bilan qamrovini necha foizga etkazish maqsad qilinga",
+  "correct": 3
  }
 }
