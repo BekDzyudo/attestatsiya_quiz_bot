@@ -6316,6 +6316,10 @@
   "5210702062068701044": {
    "q": "PF-190-sonli Farmon qaysi sohaga oid?",
    "correct": 3
+  },
+  "5210702062068701045": {
+   "q": "Taʼlim toʻgʻrisidagi Qonunga koʻra, Taʼlim tashkilotini boshqarishni quyidagilardan qaysilari amalga oshiradi?",
+   "correct": 1
   }
  },
  "answers": {
