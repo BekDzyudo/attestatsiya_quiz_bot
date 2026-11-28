@@ -1,5 +1,5 @@
 {
- "offset": 33193244,
+ "offset": 33193245,
  "polls": {
   "5470169922707397248": {
    "q": "PQ-316-sonli Qarorga koʻra, Kasbiy taʼlimni rivojlantirish institutida direktorning taʼlim mazmunini taʼminlash boʻyicha",
@@ -3388,6 +3388,10 @@
   "5213272780383982577": {
    "q": "Taʼlim toʻgʻrisidagi Qonunga koʻra, Quyidagilardan qaysi biri «Taʼlim sohasidagi asosiy prinsiplar» jumlasiga kirmaydi?",
    "correct": 0
+  },
+  "5213272780383982582": {
+   "q": "PQ-316-sonli Qarorga koʻra, Oliy taʼlim, fan va innovatsiyalar vazirligi qaror ijrosini har yili qaysi sanaga qadar moni",
+   "correct": 3
   }
  },
  "answers": {
@@ -44008,7 +44012,8 @@
   "5211020980570297768:640024586": 1,
   "5213272780383982533:418731158": 0,
   "5213272780383982577:640024586": 0,
-  "5211020980570298028:418731158": 2
+  "5211020980570298028:418731158": 2,
+  "5211020980570298022:418731158": 2
  },
  "users": {
   "672629750": {
