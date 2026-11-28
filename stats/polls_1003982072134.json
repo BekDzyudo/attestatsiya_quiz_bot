@@ -1542,5 +1542,9 @@
  "5210702062068701079": {
   "q": "Yakuniy davlat attestatsiyasidagi koʻrgazmali-amaliy imtihonlar shartlari va baholash mezonlarini kim ishlab chiqadi va ",
   "correct": 0
+ },
+ "5210702062068701083": {
+  "q": "Yakuniy davlat attestatsiyasi boʻyicha har yili 1 yanvarga qadar kasbiy taʼlim tashkiloti tomonidan qanday hujjat imzola",
+  "correct": 1
  }
 }
