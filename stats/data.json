@@ -6424,6 +6424,10 @@
   "5210702062068701130": {
    "q": "PQ-316 Qaroriga koʻra, «Atrofimizdagi kasblar» dasturi qaysi yoshdan boshlab bolalarda kasblar haqida ilk tasavvurlar sh",
    "correct": 3
+  },
+  "5210702062068701135": {
+   "q": "PQ-316-sonli Qarorga koʻra, «yoʻl xaritasi» qaysi yillar uchun ishlab chiqilgan?",
+   "correct": 1
   }
  },
  "answers": {
@@ -16736,7 +16740,8 @@
   "5202107643530845959:6009117194": 3,
   "5202107643530845967:6009117194": 2,
   "5202107643530845974:6009117194": 1,
-  "5202107643530845980:6009117194": 1
+  "5202107643530845980:6009117194": 1,
+  "5202107643530845981:6009117194": 3
  },
  "users": {
   "1007925524": {

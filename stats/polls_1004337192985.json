@@ -1614,5 +1614,9 @@
  "5211020980570297991": {
   "q": "Yakuniy davlat attestatsiyasida «2» (qoniqarsiz) baho olgan bitiruvchining qayta topshirish jarayoni asosiy attestatsiya",
   "correct": 0
+ },
+ "5211020980570297996": {
+  "q": "VMsining 106-son qarori bilan tasdiqlangan Nizomga koʻra, attestatsiya komissiyasi necha kishidan iborat tarkibda tuzila",
+  "correct": 1
  }
 }
