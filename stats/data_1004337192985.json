@@ -1,5 +1,5 @@
 {
- "offset": 33190121,
+ "offset": 33190123,
  "polls": {
   "5470169922707397248": {
    "q": "PQ-316-sonli Qarorga koʻra, Kasbiy taʼlimni rivojlantirish institutida direktorning taʼlim mazmunini taʼminlash boʻyicha",
@@ -3236,6 +3236,10 @@
   "5211020980570297913": {
    "q": "PQ-316-sonli Qarorga koʻra, Hisob palatasi har yili qaysi sanaga qadar Prezident Administratsiyasiga axborot kiritib bor",
    "correct": 0
+  },
+  "5211020980570297921": {
+   "q": "Taʼlim toʻgʻrisidagi Qonunga muvofiq Quyidagilardan qaysi biri taʼlim oluvchilarning majburiyatlari jumlasiga KIRMAYDI?",
+   "correct": 3
   }
  },
  "answers": {
@@ -42283,7 +42287,8 @@
   "5197628482267387404:361217538": 0,
   "5211019709259979128:6062520260": 1,
   "5197628482267387402:361217538": 1,
-  "5197628482267387400:361217538": 1
+  "5197628482267387400:361217538": 1,
+  "5197628482267387392:361217538": 3
  },
  "users": {
   "672629750": {
