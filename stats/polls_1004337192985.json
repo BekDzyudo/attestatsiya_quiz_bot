@@ -1498,5 +1498,9 @@
  "5211020980570297849": {
   "q": "VMsining 106-son qarori bilan tasdiqlangan Nizomga koʻra, professional taʼlim muassasalari boshqaruv va pedagog kadrlari",
   "correct": 2
+ },
+ "5211020980570297850": {
+  "q": "Taʼlim toʻgʻrisidagi Qonunga koʻra, taʼlim tashkilotlari talabgorlarni va (yoki) ularning ota-onasini quyidagilardan qay",
+  "correct": 1
  }
 }

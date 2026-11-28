@@ -1,5 +1,5 @@
 {
- "offset": 33188462,
+ "offset": 33188463,
  "polls": {
   "5470169922707397248": {
    "q": "PQ-316-sonli Qarorga koʻra, Kasbiy taʼlimni rivojlantirish institutida direktorning taʼlim mazmunini taʼminlash boʻyicha",
@@ -3196,6 +3196,10 @@
   "5211020980570297849": {
    "q": "VMsining 106-son qarori bilan tasdiqlangan Nizomga koʻra, professional taʼlim muassasalari boshqaruv va pedagog kadrlari",
    "correct": 2
+  },
+  "5211020980570297850": {
+   "q": "Taʼlim toʻgʻrisidagi Qonunga koʻra, taʼlim tashkilotlari talabgorlarni va (yoki) ularning ota-onasini quyidagilardan qay",
+   "correct": 1
   }
  },
  "answers": {
@@ -41340,7 +41344,8 @@
   "5211020980570297768:1484885038": 1,
   "5211020980570297769:1484885038": 3,
   "5211020980570297770:1484885038": 0,
-  "5211020980570297772:1484885038": 1
+  "5211020980570297772:1484885038": 1,
+  "5211020980570297827:1338396740": 3
  },
  "users": {
   "672629750": {
