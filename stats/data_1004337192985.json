@@ -1,5 +1,5 @@
 {
- "offset": 33187673,
+ "offset": 33187675,
  "polls": {
   "5470169922707397248": {
    "q": "PQ-316-sonli Qarorga koʻra, Kasbiy taʼlimni rivojlantirish institutida direktorning taʼlim mazmunini taʼminlash boʻyicha",
@@ -3140,6 +3140,10 @@
   "5211020980570297783": {
    "q": "PQ-316-sonli Qarorga koʻra, 9-sinf bitiruvchilarining kasbiy taʼlim bilan qamrovini necha foizga etkazish maqsad qilinga",
    "correct": 1
+  },
+  "5211020980570297785": {
+   "q": "VMsining 106-son qarori bilan tasdiqlangan Nizomga koʻra, «masofaviy qayta tayyorlash va malaka oshirish» atamasi nimani",
+   "correct": 3
   }
  },
  "answers": {
@@ -40820,7 +40824,8 @@
   "5211020980570297776:1475464952": 1,
   "5211020980570297778:1475464952": 2,
   "5211020980570297780:1475464952": 0,
-  "5211020980570297781:1475464952": 2
+  "5211020980570297781:1475464952": 2,
+  "5211020980570297783:1475464952": 1
  },
  "users": {
   "672629750": {
