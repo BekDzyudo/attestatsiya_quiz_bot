@@ -1446,5 +1446,9 @@
  "5210702062068701012": {
   "q": "Zoom qanday dastur hisoblanadi?",
   "correct": 1
+ },
+ "5210702062068701014": {
+  "q": "PQ-316-sonli Qarorga koʻra, 2030 yilga qadar kasbiy sertifikatga ega ishlab chiqarish taʼlimi ustalari ulushi qancha foi",
+  "correct": 3
  }
 }
