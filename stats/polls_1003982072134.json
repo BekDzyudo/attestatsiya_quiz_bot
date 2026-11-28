@@ -1442,5 +1442,9 @@
  "5210702062068701009": {
   "q": "Taʼlim toʻgʻrisidagi Qonunga koʻra, Quyidagilardan qaysi biri «Taʼlim sohasidagi asosiy prinsiplar» jumlasiga kirmaydi?",
   "correct": 0
+ },
+ "5210702062068701012": {
+  "q": "Zoom qanday dastur hisoblanadi?",
+  "correct": 1
  }
 }
