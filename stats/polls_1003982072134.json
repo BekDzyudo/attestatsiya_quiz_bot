@@ -1498,5 +1498,9 @@
  "5210702062068701036": {
   "q": "PF-190-sonli Farmonga koʻra, kasbiy taʼlim faoliyatini davlat taʼlim standartlari asosida tashkil qilgan texnikumlar va ",
   "correct": 1
+ },
+ "5210702062068701044": {
+  "q": "PF-190-sonli Farmon qaysi sohaga oid?",
+  "correct": 3
  }
 }
