@@ -6380,6 +6380,10 @@
   "5210702062068701090": {
    "q": "Taʼlim toʻgʻrisidagi Qonunga koʻra «kadrlarni qayta tayyorlash» va «malaka oshirish» tushunchalari oʻrtasidagi farqni to",
    "correct": 0
+  },
+  "5210702062068701097": {
+   "q": "\"Taʼlim toʻgʻrisidagi Qonunga koʻra, Rasmiy, norasmiy va informal taʼlimlar oʻrtasidagi farqni toʻgʻri ifodalagan varian",
+   "correct": 3
   }
  },
  "answers": {
