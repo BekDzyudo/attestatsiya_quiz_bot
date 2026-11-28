@@ -3308,6 +3308,10 @@
   "5211020980570297989": {
    "q": "PQ-316-sonli Qarorga koʻra, texnikumlarda bir nafar ishlab chiqarish taʼlimi ustasiga eng koʻpi bilan necha nafar oʻquvc",
    "correct": 1
+  },
+  "5211020980570297991": {
+   "q": "Yakuniy davlat attestatsiyasida «2» (qoniqarsiz) baho olgan bitiruvchining qayta topshirish jarayoni asosiy attestatsiya",
+   "correct": 0
   }
  },
  "answers": {
