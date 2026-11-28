@@ -6288,6 +6288,10 @@
   "5210702062068701026": {
    "q": "PQ-316-sonli Qarorga koʻra, 2026/2027 oʻquv yilidan boshlab texnikum direktoriga menejerlik sertifikati asosida lavozim ",
    "correct": 0
+  },
+  "5210702062068701027": {
+   "q": "Kasbiy taʼlim tashkilotining oʻquv dasturlarini toʻliq tugatgan, lekin attestatsiyada qatnashmagan bitiruvchilar komissi",
+   "correct": 1
   }
  },
  "answers": {
