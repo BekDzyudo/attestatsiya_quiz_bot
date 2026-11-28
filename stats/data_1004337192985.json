@@ -1,5 +1,5 @@
 {
- "offset": 33190187,
+ "offset": 33190189,
  "polls": {
   "5470169922707397248": {
    "q": "PQ-316-sonli Qarorga koʻra, Kasbiy taʼlimni rivojlantirish institutida direktorning taʼlim mazmunini taʼminlash boʻyicha",
@@ -3240,6 +3240,10 @@
   "5211020980570297921": {
    "q": "Taʼlim toʻgʻrisidagi Qonunga muvofiq Quyidagilardan qaysi biri taʼlim oluvchilarning majburiyatlari jumlasiga KIRMAYDI?",
    "correct": 3
+  },
+  "5211020980570297927": {
+   "q": "Kasbiy taʼlim tashkilotlaridagi yakuniy davlat attestatsiyasida boshlangʻich kasbiy taʼlim boʻyicha davlat imtihoni qays",
+   "correct": 2
   }
  },
  "answers": {
@@ -42320,7 +42324,8 @@
   "5197628482267387325:361217538": 3,
   "5197628482267387312:361217538": 1,
   "5197628482267387305:361217538": 0,
-  "5211020980570297913:6801874549": 0
+  "5211020980570297913:6801874549": 0,
+  "5211020980570297921:6801874549": 3
  },
  "users": {
   "672629750": {

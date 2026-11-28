@@ -1542,5 +1542,9 @@
  "5211020980570297921": {
   "q": "Taʼlim toʻgʻrisidagi Qonunga muvofiq Quyidagilardan qaysi biri taʼlim oluvchilarning majburiyatlari jumlasiga KIRMAYDI?",
   "correct": 3
+ },
+ "5211020980570297927": {
+  "q": "Kasbiy taʼlim tashkilotlaridagi yakuniy davlat attestatsiyasida boshlangʻich kasbiy taʼlim boʻyicha davlat imtihoni qays",
+  "correct": 2
  }
 }
