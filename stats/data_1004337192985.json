@@ -1,5 +1,5 @@
 {
- "offset": 33189195,
+ "offset": 33189197,
  "polls": {
   "5470169922707397248": {
    "q": "PQ-316-sonli Qarorga koʻra, Kasbiy taʼlimni rivojlantirish institutida direktorning taʼlim mazmunini taʼminlash boʻyicha",
@@ -3215,6 +3215,10 @@
   },
   "5211020980570297866": {
    "q": "PQ-316-sonli Qarorga koʻra, texnikumlar milliy reytingini kim yuritadi?",
+   "correct": 2
+  },
+  "5211020980570297870": {
+   "q": "PF-190-son Farmonga nechta ilova mavjud?",
    "correct": 2
   }
  },
@@ -41769,7 +41773,8 @@
   "5197628482267387390:817651592": 3,
   "5201693282265994978:361217538": 1,
   "5197628482267387380:817651592": 2,
-  "5201693282265994975:361217538": 3
+  "5201693282265994975:361217538": 3,
+  "5206516109632608018:249850940": 0
  },
  "users": {
   "672629750": {
