@@ -1670,5 +1670,9 @@
  "5212953861882388529": {
   "q": "Yakuniy davlat attestatsiyasi jarayonlari ota-onalar va kuzatuvchilar uchun qanday tartibda tashkil etiladi?",
   "correct": 0
+ },
+ "5212953861882388534": {
+  "q": "VMsining 106-son qarori bilan tasdiqlangan Nizomga koʻra, tinglovchilar belgilangan modullar boʻyicha qancha foizdan yuq",
+  "correct": 1
  }
 }
