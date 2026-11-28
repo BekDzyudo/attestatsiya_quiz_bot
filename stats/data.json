@@ -6504,6 +6504,10 @@
   "5212953861882388567": {
    "q": "Yakuniy davlat attestatsiyasida Oʻzbekiston tarixi fanidan davlat imtihoni qaysi guruhlarda oʻtkaziladi?",
    "correct": 2
+  },
+  "5212953861882388574": {
+   "q": "MS Excelda berilgan A2;C12 diapazonda nechta katak mavjud?",
+   "correct": 0
   }
  },
  "answers": {
