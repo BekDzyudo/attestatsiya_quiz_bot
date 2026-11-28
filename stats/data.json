@@ -6292,6 +6292,10 @@
   "5210702062068701027": {
    "q": "Kasbiy taʼlim tashkilotining oʻquv dasturlarini toʻliq tugatgan, lekin attestatsiyada qatnashmagan bitiruvchilar komissi",
    "correct": 1
+  },
+  "5210702062068701029": {
+   "q": "PF-190-son Farmonga koʻra, «Vaucher» tizimi bilan qamrab olinmagan shaxslarni kasbga oʻqitish boʻyicha buyurtmalarni kim",
+   "correct": 3
   }
  },
  "answers": {
