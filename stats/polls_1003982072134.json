@@ -1510,5 +1510,9 @@
  "5210702062068701047": {
   "q": "PQ-316-sonli Qarorga koʻra, 7-sinfdan boshlab oʻquvchilarning kasbiy qiziqishi kimlar bilan birgalikda aniqlanadi?",
   "correct": 2
+ },
+ "5210702062068701053": {
+  "q": "PF-190-sonli Farmonda nechta ilova bor?",
+  "correct": 0
  }
 }
