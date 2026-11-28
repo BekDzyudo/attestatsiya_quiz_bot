@@ -1,5 +1,5 @@
 {
- "offset": 33190384,
+ "offset": 33190385,
  "polls": {
   "5470169922707397248": {
    "q": "PQ-316-sonli Qarorga koʻra, Kasbiy taʼlimni rivojlantirish institutida direktorning taʼlim mazmunini taʼminlash boʻyicha",
@@ -3256,6 +3256,10 @@
   "5211020980570297942": {
    "q": "PQ-316-sonli Qarorga koʻra, menejerlik oʻquv kursining oʻquv rejasi va dasturlari A. Avloniy nomidagi Pedagogik mahorat ",
    "correct": 3
+  },
+  "5211020980570297945": {
+   "q": "PF-190-sonli Farmonga koʻra, majburiy kasbiy taʼlim dasturlari boʻyicha beriladigan malaka darajalarini kim belgilaydi?",
+   "correct": 0
   }
  },
  "answers": {
@@ -42442,7 +42446,8 @@
   "5211020980570297780:771869214": 0,
   "5211020980570297781:771869214": 2,
   "5211020980570297932:817651592": 2,
-  "5211020980570297783:771869214": 1
+  "5211020980570297783:771869214": 1,
+  "5211020980570297938:817651592": 2
  },
  "users": {
   "672629750": {
