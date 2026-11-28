@@ -6416,6 +6416,10 @@
   "5210702062068701116": {
    "q": "Taʼlim toʻgʻrisidagi Qonunga muvofiq Taʼlim tashkilotining ustavida quyidagilardan qaysi biri KOʻRSATILMAYDI?",
    "correct": 2
+  },
+  "5210702062068701123": {
+   "q": "Yakuniy davlat attestatsiyasidagi koʻrgazmali-amaliy imtihon orqali bitiruvchining qanday xususiyati aniqlanadi?",
+   "correct": 0
   }
  },
  "answers": {
