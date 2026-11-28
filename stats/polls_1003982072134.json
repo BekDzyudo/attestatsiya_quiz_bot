@@ -1450,5 +1450,9 @@
  "5210702062068701014": {
   "q": "PQ-316-sonli Qarorga koʻra, 2030 yilga qadar kasbiy sertifikatga ega ishlab chiqarish taʼlimi ustalari ulushi qancha foi",
   "correct": 3
+ },
+ "5210702062068701017": {
+  "q": "PQ-316-sonli Qarorga koʻra, texnikumlarni saqlash xarajatlari qachondan boshlab Davlat byudjeti va toʻlov-kontrakt hisob",
+  "correct": 2
  }
 }
