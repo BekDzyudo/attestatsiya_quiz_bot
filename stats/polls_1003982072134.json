@@ -1526,5 +1526,9 @@
  "5210702062068701070": {
   "q": "Taʼlim toʻgʻrisidagi Qonunga koʻra, taʼlim sifati ustidan nazorat qilish vakolatiga ega boʻlmagan organlar tomonidan taʼ",
   "correct": 3
+ },
+ "5210702062068701074": {
+  "q": "VMsining 106-son qarori bilan tasdiqlangan Nizomga koʻra, ikki akademik oʻquv soati davomiyligi uzluksiz necha daqiqani ",
+  "correct": 3
  }
 }
