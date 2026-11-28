@@ -1630,5 +1630,9 @@
  "5211020980570298008": {
   "q": "PQ-316-sonli Qarorga koʻra, imtiyozli kredit har bir milliard soʻm mablagʻ uchun kamida necha nafar oʻquvchini jalb etis",
   "correct": 1
+ },
+ "5211020980570298010": {
+  "q": "Taʼlim toʻgʻrisidagi Qonunga muvofiq Taʼlim tashkilotlari oʻz faoliyati tashqi baholashdan oʻtkazilishidan qancha vaqt o",
+  "correct": 3
  }
 }
