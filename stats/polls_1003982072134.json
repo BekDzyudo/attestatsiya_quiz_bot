@@ -1578,5 +1578,9 @@
  "5210702062068701102": {
   "q": "Taʼlim toʻgʻrisidagi Qonunga koʻra, Bakalavriat va magistratura bosqichlari uchun qonunda belgilangan minimal oʻqish dav",
   "correct": 2
+ },
+ "5210702062068701107": {
+  "q": "Taʼlim toʻgʻrisidagi Qonunga koʻra, professional taʼlim egallanadigan kasb va mutaxassislik boʻyicha qanday darajalarni ",
+  "correct": 1
  }
 }
