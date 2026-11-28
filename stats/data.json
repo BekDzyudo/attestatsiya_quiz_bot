@@ -6240,6 +6240,10 @@
   "5210702062068701004": {
    "q": "Yakuniy davlat attestatsiyasida oʻrta va oʻrta maxsus kasbiy taʼlim boʻyicha davlat imtihoni qaysi fanlardan test shakli",
    "correct": 3
+  },
+  "5210702062068701006": {
+   "q": "Operativ xotira (RAM) qanday vazifani bajaradi?",
+   "correct": 0
   }
  },
  "answers": {

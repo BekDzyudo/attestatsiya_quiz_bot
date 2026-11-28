@@ -1430,5 +1430,9 @@
  "5211020980570297778": {
   "q": "Yakuniy davlat attestatsiyasida bitiruvchi «2» (qoniqarsiz) baho olgan taqdirda, u shu oʻquv yilida tegishli imtihonni n",
   "correct": 2
+ },
+ "5211020980570297780": {
+  "q": "PQ-316 sonli Qarorga koʻra, texnikumlar umumtaʼlim fanlari oʻqituvchilarining malakasi qayerda oshiriladi?",
+  "correct": 0
  }
 }
