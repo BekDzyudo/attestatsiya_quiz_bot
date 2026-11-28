@@ -6268,6 +6268,10 @@
   "5210702062068701017": {
    "q": "PQ-316-sonli Qarorga koʻra, texnikumlarni saqlash xarajatlari qachondan boshlab Davlat byudjeti va toʻlov-kontrakt hisob",
    "correct": 2
+  },
+  "5210702062068701020": {
+   "q": "PQ-316-sonli Qarorga koʻra, ilgʻor kasbiy mahorat texnikumida amaliy mashgʻulot oʻtaydigan boshqa texnikum oʻquvchilarin",
+   "correct": 1
   }
  },
  "answers": {
