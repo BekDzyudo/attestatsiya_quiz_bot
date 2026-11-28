@@ -6508,6 +6508,10 @@
   "5212953861882388574": {
    "q": "MS Excelda berilgan A2;C12 diapazonda nechta katak mavjud?",
    "correct": 0
+  },
+  "5212953861882388577": {
+   "q": ".doc ushbu fayl kengaytmasi qaysi dasturga tegishli?",
+   "correct": 1
   }
  },
  "answers": {
