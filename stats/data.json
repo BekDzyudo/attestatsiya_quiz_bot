@@ -6272,6 +6272,10 @@
   "5210702062068701020": {
    "q": "PQ-316-sonli Qarorga koʻra, ilgʻor kasbiy mahorat texnikumida amaliy mashgʻulot oʻtaydigan boshqa texnikum oʻquvchilarin",
    "correct": 1
+  },
+  "5210702062068701022": {
+   "q": "PQ-316-sonli Qarorga koʻra, dual taʼlim rejasidagi oʻquvchining kasbiy koʻnikmalar hamda intizomi qoniqarsiz baholangand",
+   "correct": 0
   }
  },
  "answers": {

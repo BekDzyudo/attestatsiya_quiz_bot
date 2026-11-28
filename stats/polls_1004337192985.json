@@ -1462,5 +1462,9 @@
  "5211020980570297811": {
   "q": "PQ-316-sonli Qarorga koʻra, dual taʼlim dasturlarini tashkil etgan ish beruvchilarga beriladigan imtiyozli kreditning en",
   "correct": 0
+ },
+ "5211020980570297817": {
+  "q": "PQ-316-sonli Qarorga koʻra, ilgʻor kasbiy mahorat texnikumlari boshqa texnikumlar uchun nima vazifasini bajaradi?",
+  "correct": 1
  }
 }
