@@ -1,5 +1,5 @@
 {
- "offset": 33189697,
+ "offset": 33189699,
  "polls": {
   "5470169922707397248": {
    "q": "PQ-316-sonli Qarorga koʻra, Kasbiy taʼlimni rivojlantirish institutida direktorning taʼlim mazmunini taʼminlash boʻyicha",
@@ -3224,6 +3224,10 @@
   "5211020980570297883": {
    "q": "Yakuniy davlat attestatsiyasida koʻrgazmali-amaliy imtihon natijalari boʻyicha komissiya tomonidan qanday hujjat rasmiyl",
    "correct": 0
+  },
+  "5211020980570297904": {
+   "q": "PQ-316-sonli Qarorga koʻra, ragʻbatlantirish toʻlovining necha foizi rahbar va xodimlarni moddiy ragʻbatlantirishga yoʻn",
+   "correct": 3
   }
  },
  "answers": {
@@ -42036,7 +42040,8 @@
   "5211019709259978808:249850940": 2,
   "5211019709259978814:249850940": 1,
   "5211019709259978831:249850940": 2,
-  "5211019709259978843:249850940": 0
+  "5211019709259978843:249850940": 0,
+  "5211019709259978855:249850940": 1
  },
  "users": {
   "672629750": {
