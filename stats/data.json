@@ -6492,6 +6492,10 @@
   "5212953861882388539": {
    "q": "VMsining 106-son qarori bilan tasdiqlangan Nizomga koʻra, qayta tayyorlashda oʻquv yuklamasining eng koʻp hajmi har haft",
    "correct": 1
+  },
+  "5212953861882388543": {
+   "q": "Excel dasturining fayl kengaytmasi qaysi qatorda koʻrsatilgan?",
+   "correct": 1
   }
  },
  "answers": {
@@ -16952,7 +16956,8 @@
   "5206269874862562695:6009117194": 0,
   "5206269874862562700:6009117194": 2,
   "5206269874862562706:6009117194": 3,
-  "5206269874862562771:6009117194": 2
+  "5206269874862562771:6009117194": 2,
+  "5206269874862562775:6009117194": 1
  },
  "users": {
   "1007925524": {

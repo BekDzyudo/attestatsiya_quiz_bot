@@ -1,5 +1,5 @@
 {
- "offset": 33192986,
+ "offset": 33192992,
  "polls": {
   "5470169922707397248": {
    "q": "PQ-316-sonli Qarorga koʻra, Kasbiy taʼlimni rivojlantirish institutida direktorning taʼlim mazmunini taʼminlash boʻyicha",
@@ -3380,6 +3380,10 @@
   "5213272780383982564": {
    "q": "Taʼlim toʻgʻrisidagi Qonunga muvofiq Attestatsiya va kompleks davlat akkreditatsiyasi necha bosqichda va qanday nomlar b",
    "correct": 0
+  },
+  "5213272780383982573": {
+   "q": "PQ-316-sonli Qarorga koʻra, imtiyozli kreditning muddati qancha yil?",
+   "correct": 1
   }
  },
  "answers": {
@@ -43853,7 +43857,9 @@
   "5211020980570297945:951585221": 1,
   "5211020980570297932:640024586": 2,
   "5211020980570297942:951585221": 3,
-  "5213272780383982564:1612104094": 2
+  "5213272780383982564:1612104094": 2,
+  "5211020980570297938:951585221": 2,
+  "5211020980570297927:640024586": 2
  },
  "users": {
   "672629750": {
