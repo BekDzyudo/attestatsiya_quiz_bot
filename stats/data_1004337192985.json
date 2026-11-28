@@ -1,5 +1,5 @@
 {
- "offset": 33189466,
+ "offset": 33189476,
  "polls": {
   "5470169922707397248": {
    "q": "PQ-316-sonli Qarorga koʻra, Kasbiy taʼlimni rivojlantirish institutida direktorning taʼlim mazmunini taʼminlash boʻyicha",
@@ -3220,6 +3220,10 @@
   "5211020980570297870": {
    "q": "PF-190-son Farmonga nechta ilova mavjud?",
    "correct": 2
+  },
+  "5211020980570297883": {
+   "q": "Yakuniy davlat attestatsiyasida koʻrgazmali-amaliy imtihon natijalari boʻyicha komissiya tomonidan qanday hujjat rasmiyl",
+   "correct": 0
   }
  },
  "answers": {
@@ -41914,7 +41918,12 @@
   "5190855744043358900:817651592": 0,
   "5192956193504499617:989514053": 1,
   "5190855744043358860:817651592": 1,
-  "5190855744043358842:817651592": 1
+  "5190855744043358842:817651592": 1,
+  "5190855744043358829:817651592": 0,
+  "5190855744043358820:817651592": 0,
+  "5190855744043358816:817651592": 0,
+  "5208767909446293509:249850940": 1,
+  "5190855744043358917:817651592": 0
  },
  "users": {
   "672629750": {
