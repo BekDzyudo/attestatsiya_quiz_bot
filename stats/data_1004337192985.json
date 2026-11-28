@@ -3124,6 +3124,10 @@
   "5211020980570297776": {
    "q": "Yakuniy davlat attestatsiyasi boʻyicha apellyatsiya komissiyasi tarkibiga qanday shaxslar kiritilmaydi?",
    "correct": 1
+  },
+  "5211020980570297778": {
+   "q": "Yakuniy davlat attestatsiyasida bitiruvchi «2» (qoniqarsiz) baho olgan taqdirda, u shu oʻquv yilida tegishli imtihonni n",
+   "correct": 2
   }
  },
  "answers": {
