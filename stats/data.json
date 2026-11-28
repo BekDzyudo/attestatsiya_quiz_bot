@@ -6428,6 +6428,10 @@
   "5210702062068701135": {
    "q": "PQ-316-sonli Qarorga koʻra, «yoʻl xaritasi» qaysi yillar uchun ishlab chiqilgan?",
    "correct": 1
+  },
+  "5210702062068701136": {
+   "q": "PQ-316-sonli Qarorga koʻra, kasbiy taʼlim tizimidagi dual taʼlimning amaldagi ulushi necha foizga teng?",
+   "correct": 0
   }
  },
  "answers": {
@@ -16773,7 +16777,8 @@
   "5201859527565123469:6009117194": 3,
   "5201859527565123484:6009117194": 1,
   "5201859527565123552:6009117194": 1,
-  "5201859527565123556:6009117194": 3
+  "5201859527565123556:6009117194": 3,
+  "5201859527565123557:6009117194": 1
  },
  "users": {
   "1007925524": {
