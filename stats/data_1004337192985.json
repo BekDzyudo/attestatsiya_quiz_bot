@@ -1,5 +1,5 @@
 {
- "offset": 33189983,
+ "offset": 33189987,
  "polls": {
   "5470169922707397248": {
    "q": "PQ-316-sonli Qarorga koʻra, Kasbiy taʼlimni rivojlantirish institutida direktorning taʼlim mazmunini taʼminlash boʻyicha",
@@ -3232,6 +3232,10 @@
   "5211020980570297907": {
    "q": "PF-190-son Farmonga koʻra, «Vaucher» tizimi bilan qamrab olinmagan shaxslarni kasbga oʻqitish boʻyicha buyurtmalarni kim",
    "correct": 1
+  },
+  "5211020980570297913": {
+   "q": "PQ-316-sonli Qarorga koʻra, Hisob palatasi har yili qaysi sanaga qadar Prezident Administratsiyasiga axborot kiritib bor",
+   "correct": 0
   }
  },
  "answers": {
@@ -42207,7 +42211,9 @@
   "5199880282081074338:361217538": 0,
   "5199880282081074337:361217538": 1,
   "5211020980570297833:48354397": 1,
-  "5199880282081074334:361217538": 0
+  "5199880282081074334:361217538": 0,
+  "5211019709259978697:6062520260": 3,
+  "5199880282081074327:361217538": 3
  },
  "users": {
   "672629750": {
