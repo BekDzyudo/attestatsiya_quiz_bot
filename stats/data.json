@@ -6320,6 +6320,10 @@
   "5210702062068701045": {
    "q": "Taʼlim toʻgʻrisidagi Qonunga koʻra, Taʼlim tashkilotini boshqarishni quyidagilardan qaysilari amalga oshiradi?",
    "correct": 1
+  },
+  "5210702062068701047": {
+   "q": "PQ-316-sonli Qarorga koʻra, 7-sinfdan boshlab oʻquvchilarning kasbiy qiziqishi kimlar bilan birgalikda aniqlanadi?",
+   "correct": 2
   }
  },
  "answers": {
