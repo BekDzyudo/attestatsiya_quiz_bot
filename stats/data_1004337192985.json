@@ -1,5 +1,5 @@
 {
- "offset": 33190243,
+ "offset": 33190246,
  "polls": {
   "5470169922707397248": {
    "q": "PQ-316-sonli Qarorga koʻra, Kasbiy taʼlimni rivojlantirish institutida direktorning taʼlim mazmunini taʼminlash boʻyicha",
@@ -3247,6 +3247,10 @@
   },
   "5211020980570297932": {
    "q": "PQ-316-sonli Qarorga koʻra, 2026 yil 1 yanvardan boshlab ishlab chiqarish taʼlimi ustasining bazaviy tarif stavkasi kimn",
+   "correct": 2
+  },
+  "5211020980570297938": {
+   "q": "PQ-316-sonli Qarorga koʻra, ilgʻor kasbiy mahorat texnikumlaridagi malaka oshirish kurslarini qaysi tashkilot tashkil et",
    "correct": 2
   }
  },
@@ -42359,7 +42363,9 @@
   "5211020980570297788:6062520260": 3,
   "5211020980570297795:6062520260": 1,
   "5195207993318185376:361217538": 3,
-  "5211020980570297804:6062520260": 0
+  "5211020980570297804:6062520260": 0,
+  "5211020980570297811:6062520260": 2,
+  "5211020980570297932:1475464952": 2
  },
  "users": {
   "672629750": {

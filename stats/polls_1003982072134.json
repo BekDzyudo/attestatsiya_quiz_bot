@@ -1546,5 +1546,9 @@
  "5210702062068701083": {
   "q": "Yakuniy davlat attestatsiyasi boʻyicha har yili 1 yanvarga qadar kasbiy taʼlim tashkiloti tomonidan qanday hujjat imzola",
   "correct": 1
+ },
+ "5210702062068701085": {
+  "q": "MS Excel dasturida qaysi element jadvalni tartibga solish uchun ishlatiladi?",
+  "correct": 0
  }
 }
