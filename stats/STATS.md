@@ -1,4 +1,4 @@
-# Quiz statistikasi (2026-11-28 12:00, Toshkent)
+# Quiz statistikasi (2026-11-28 12:10, Toshkent)
 
 Hisobga olingan quizlar: 1570, ishtirokchilar: 13
 
