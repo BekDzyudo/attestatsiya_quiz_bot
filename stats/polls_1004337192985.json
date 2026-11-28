@@ -1590,5 +1590,9 @@
  "5211020980570297975": {
   "q": "PQ-316-sonli Qarorga koʻra, 9-sinf bitiruvchilarining kasbiy taʼlim bilan amaldagi qamrov ulushi necha foizni tashkil qi",
   "correct": 1
+ },
+ "5211020980570297978": {
+  "q": "PQ-316-sonli Qarorga koʻra, har yili malaka oshirish jarayonida ishlab chiqarish taʼlimi ustalari, umumtaʼlim fanlari va",
+  "correct": 0
  }
 }
