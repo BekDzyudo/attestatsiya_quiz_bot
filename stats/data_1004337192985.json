@@ -1,5 +1,5 @@
 {
- "offset": 33193825,
+ "offset": 33193826,
  "polls": {
   "5470169922707397248": {
    "q": "PQ-316-sonli Qarorga koʻra, Kasbiy taʼlimni rivojlantirish institutida direktorning taʼlim mazmunini taʼminlash boʻyicha",
@@ -3400,6 +3400,10 @@
   "5213272780383982592": {
    "q": "Yakuniy davlat attestatsiyasi komissiyasining tarkibi kamida necha nafardan iborat boʻladi?",
    "correct": 2
+  },
+  "5213272780383982604": {
+   "q": "PQ-316-sonli Qarorga koʻra, xorijga pedagoglarni yuborish xarajatlari qaysi jamgʻarma hisobidan qoplanadi?",
+   "correct": 3
   }
  },
  "answers": {
@@ -44284,7 +44288,8 @@
   "5211019709259978719:418731158": 1,
   "5211019709259978725:418731158": 1,
   "5211020980570297904:108193844": 3,
-  "5213272780383982582:236301709": 3
+  "5213272780383982582:236301709": 3,
+  "5213272780383982592:6801874549": 2
  },
  "users": {
   "672629750": {
