@@ -1558,5 +1558,9 @@
  "5210702062068701087": {
   "q": "PF-190-son Farmonga koʻra, Davlat texnikumlari taʼlim xizmatlari narxini nimaga asoslanib belgilaydi?",
   "correct": 1
+ },
+ "5210702062068701089": {
+  "q": "MS Excelda berilgan B21: C24 diapazonda nechta katak mavjud?",
+  "correct": 2
  }
 }
